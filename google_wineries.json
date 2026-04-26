@@ -1,0 +1,3681 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יקב אמפורה, כרם מהר\"ל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6390128,
+        "lng": 34.9939391
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.64049562989272,
+          "lng": 34.99524862989271
+        },
+        "southwest": {
+          "lat": 32.63779597010728,
+          "lng": 34.99254897010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אמפורה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113183225325144971631\">Kobi Rozenblum</a>"
+        ],
+        "photo_reference": "AZLasHqz9Q5p4QZ9h0Eg-FrIdXOnsGE2ypbeA4J0PB2-5oonWFKQ29oi5uWs9K2T_vNkDvPmAZv6qul0YnRZqiKfDdkvzsGMBXqz1NVRhjiPCCET3GbEJ5EEmHQ1fjVz5boELthx23WZNRjIT6VEYQz4tpEVje15z6Pek3hbb-h3XHxbyPbaImAGzR70KgliGCb1RRj8P4gQ1LO5YhIR3GWVLe2YB70Q2jpKQqr1fHSXahxuvrWFm7c4WspSw-iLEyhnjzQGPKPmn9HQTV6GOKNiar3Q2D2wM0p8F84wCyRWv5NCCIV09OfQSSnrTwX9U6pK0aVaULPRdRK33-nnExCoJfko0Lu9jJO9Lfv-8rXlGCw2tQ2Rnib1aFdnGRa1TvY-NJXuZFZpuo0jyBcz_WS-Iw7Afn4nObehgfl0cuiO5VP3ecM-3gWRzzHDoso7BQDWxXWOqRtHYW0wmEJ2RUI-FctBf3h2mYFITDTnp8cXYLdHAqScn2_pg7K4k-Y_uifaTF4Qyi-ITjzGRuj2Iidap9KXTikFvh4MLGA486s_TDqmdQyf_yVXlg8pgQ4Ae9ZNRSk81B2A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJc-kE5f6mHRUREBoLu09IwqQ",
+    "rating": 4.5,
+    "reference": "ChIJc-kE5f6mHRUREBoLu09IwqQ",
+    "types": [
+      "tourist_attraction",
+      "cafe",
+      "liquor_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2187
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "לוטם, 2012400, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8793891,
+        "lng": 35.3574812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.88084217989272,
+          "lng": 35.35873067989273
+        },
+        "southwest": {
+          "lat": 32.87814252010728,
+          "lng": 35.35603102010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב לטם",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2226,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118406455877900924791\">Marat Rozbash</a>"
+        ],
+        "photo_reference": "AZLasHo3dnsh94BUFq3TvmPwGNh_kzwrfrOjgrDCWCXnejl-JHmWGu585-OxxhX_lorvAbJjylpof49JG3bxhXfOgABL5WsxiJyhkFJYu68ATonTn91xw4auWgzonOLjCKkmjHK9ZGJ74tgb1o9xXe7_0aA5fAdUOnVjfLeSvJyWCvB9-VOoZInlC-EPeBIRHPkDFSAiKpdqJIDBC-8lUu523WVCeoeVJx4GPGLMOsNvVBfkq901qciDmBway_uRtSY_c1xj42k959kq5CPGlHWy6c9WHZ1ATpOEO9vPY-0RcK7EXGh-RBPM4yW1cH2b9K-Hg-puSJHCWpiu8SA_FB6PUW2DESn-P8WxPyKFlmq4ajI1kCZoPYt2JeddXKBAoHaiQXls75uLKw_AxI3FUxTiAX0VWjF-Oa_YQM7PZLQ5WRtwrbJNZ2z7M-YeHF-B9ygH6BgXR-1lpnGJgpD58zwQikgTPUhI_ly4ua9xjtZN7KeDcllrxt8GPOjIpMvces6oOPsA_dVIZdjnKnSzrFu6naU0riouUC9xm2aYnzhMxV5lvmH7bKRnlFoRQqolWIfEDAgqWJCj",
+        "width": 3958
+      }
+    ],
+    "place_id": "ChIJQeGLqtIwHBURpsLBD6-n9co",
+    "rating": 4.5,
+    "reference": "ChIJQeGLqtIwHBURpsLBD6-n9co",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1034
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מנזר דיר רפאת דיר ראפאת, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7757948,
+        "lng": 34.9469636
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.77712212989272,
+          "lng": 34.94831792989271
+        },
+        "southwest": {
+          "lat": 31.77442247010728,
+          "lng": 34.94561827010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב מוני",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112399098168314393332\">Arden Rubens</a>"
+        ],
+        "photo_reference": "AZLasHrHDUzE_PdoyC0gU7ifyLV0-SfygH1WDdc7ibcP9_tBacAxsG_QMO-wso_UVY-8Ox9SVDf2384kw484Cs65h4mZxtzOBDxvwBjskTnSVq-qGzpXFVPZd64CH95eFak0_1XUdCKWvoe6TIt7a9DRfdQRWJ6otyvR-0t7df8w6LzVLvqgBqg2rpS1HUl7ACP6Nsh3Vrkhg_83meb9grpsiOHvpHjKmKjjF_mx1CAGUwRuxB8jQ7k_tXuyKUyUVkV7khPUzA3CPTlondXcfFb-wvcKOGH4WX3IsOaN9WDNtkhELEmFZJfaGyJl0bHal49OCVqi4k5Bt_2tWS7-eph3VGdysKSmaH7SyPDwgD_vcJOj8Q5-ABBcfIn5B7aTBOXtDKmKssMBLSt0LFr05iD9_rmCy5pjsZhKjMYvSXz8dVUn2nBCQulFbqBSuJJVrRQin_Mh7jExT9fbXZjw2T1xQhBssINHIDabwpNe3-EWJN2LNTTwiEYZo98C8kWEfyJ8bLLt64rvoW_wB8o50DmXjtZFmm4Bf4K0kOyOcdZsZnkqnDvpsSWLvM-FuPi0Ue9AXx1eaYh_3EDh0g",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ3_279V3EAhURjaB3heGWpEY",
+    "rating": 4.5,
+    "reference": "ChIJ3_279V3EAhURjaB3heGWpEY",
+    "types": [
+      "amusement_park",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2771
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "HaGefen Street 2, כרם בן זמרה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0392067,
+        "lng": 35.4714669
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.04065087989272,
+          "lng": 35.47277682989272
+        },
+        "southwest": {
+          "lat": 33.03795122010728,
+          "lng": 35.47007717010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב מילס",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112599210497376321297\">miles winery</a>"
+        ],
+        "photo_reference": "AZLasHpPs8RLn9Hsg9cEAkyvFasluPlkioRE4H3uNszGu_B07K1zfX_yordkwbHOAG8GAVIxB9oU6hZ23taF8RvwUESYiNw93A1n7p9Hmo950aG3IkDeW6_bvobAFaRjeUWlzbJOOrmEZ-ntqf_zFQZwHKOTlwkgQkxSrjwlq6VIIdZR34C9RHNB1hs1AU091M5msKyas5m4YzXmIgcoc9bOF4iCZNQqdclrg3RBNEOQBbOZqCWYFrtbd7QnJ08nUgU1QtEdkwD3cIUpVkUVYzxO2s4SbPp1t5h7wVNndiBD_b3kyWWd-Zc",
+        "width": 5464
+      }
+    ],
+    "place_id": "ChIJ643UJygnHBURgKVQw0vJvSI",
+    "rating": 4.9,
+    "reference": "ChIJ643UJygnHBURgKVQw0vJvSI",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 426
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "20, מצפה נטופה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8034594,
+        "lng": 35.3834196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80460662989272,
+          "lng": 35.38482322989272
+        },
+        "southwest": {
+          "lat": 32.80190697010728,
+          "lng": 35.38212357010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב נטופה Netofa Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111772385042362160629\">יקב נטופה Netofa Winery</a>"
+        ],
+        "photo_reference": "AZLasHqsXlsaM6F-HHJ5iktdBTwoyucaz5CMrGx6EcBR8VuQHiAq4YsWz0bpRYlJ_kczcBvlZoaX2BlXmC2rDDLZjKRh3i2Z8pkST8iWTGxIfWbNBj1ieGfzoaXIDj-YQha0I8YOPW9W57KhG6-dH9Gc9OTMJpjT4efuNfkbsVNA8lRaaY7ymh4fEe15Y4if7niB51OSeMIDAyVbCUeAWo0fEygT6MLtV8TKNx7_ON6_bexYMlBjd8vdy4cO2QlLGZQdcdagTJJL5MrjsLo4xW9mVs9MpCv0B7jSCbtI_pzBDqm44rqFDd8",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJJ39Pcfo3HBURV6_V_-oIdLU",
+    "rating": 4.8,
+    "reference": "ChIJJ39Pcfo3HBURV6_V_-oIdLU",
+    "types": [
+      "tourist_attraction",
+      "cafe",
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 230
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אופקים 23, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7943185,
+        "lng": 34.9823219
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79568332989273,
+          "lng": 34.98370467989272
+        },
+        "southwest": {
+          "lat": 32.79298367010728,
+          "lng": 34.98100502010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב וורטמן",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114733805641866760611\">Semion Bondarenko</a>"
+        ],
+        "photo_reference": "AZLasHrf4ES2p1gJq6aBq9dx5qHuFI3NKhpeZQtURf0fDZQpu-w8z9bqb0HqXAujdi5khvORnBiIHthghQpcGtPpsSJynTyZ0CXApZJ3o1qZZ0YYqsKGjG16ZtN1svuKW_7ypXNcoKsnF0ATo2TnhpHI7K5BlPJoeSup0BPeKW2wCDG1KSnGyb-S49YXs7HPej1Pbo0-uf7J3uFSgXriu9Koc8U72UlMLBPfQVQBYjrQggLvCos0WdYHGTvCf63N8rGid5l_nvasuidTi4uCpVnjHY07lTB0U6CUP72yM6Q7ABLqHrCKUwTmjXVgomjltZjTqL03ihKhwlQZ-Cp_TX7jHTHgV_hR_IgYYnhmSlCmHUw_MOo3qvH9sYqST-cENh8qiGESmWFNki7owHF1C3c2S1q7p1QWgmVRke7FJq-ZSAeMrmNSraqiq7CHxmlfDem98BEVBOUkCg6EXG55aBoOW7rqgCIP6ZONjhlsW8NdaDzUDj3n_c_3LYN1gBXOxKN7-1lKchGoDCPTpEe_4B-wJpoCjlTaw7svLhotcO-RwstuTDFVx4VVrqjsOYRot3ZvMISSoA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5XRnvQ-7HRURD6VW9fMUAdg",
+    "rating": 4.6,
+    "reference": "ChIJ5XRnvQ-7HRURD6VW9fMUAdg",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יד השמונה, שביל ישראל, 9089500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.807807,
+        "lng": 35.091355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.80905272989272,
+          "lng": 35.09258312989272
+        },
+        "southwest": {
+          "lat": 31.80635307010727,
+          "lng": 35.08988347010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב קסטל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1062,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103142917692534067466\">יקב קסטל</a>"
+        ],
+        "photo_reference": "AZLasHpO7qQI6vSOsyPWOWWIYcS1Yu3z89oliGsZ9N2PqNHfKYiYinwH_2aK46k6lro6BuZeSwh5E7RnnpuQwznABSARsDv5zZ_qTiaLHXqoeklBtNWHxFFmsp5kXWo3M2xEYplddh2aRem3SXXFmvU5At2CpitF6r2vRZppmfvXdwTqj5Km3gI4fNzct2fNvLb22JvXby2oMSpmWLaF-qy5mPadC8gclxAbOrJvqF9fZ00LaGkH5CNtGKtDLnNvOwxhjl8RE-2gRu0wU97A3_xjKQvEWeRG4KABqOrc6GMzlNozqqkgs_E",
+        "width": 1401
+      }
+    ],
+    "place_id": "ChIJv5bDC_vQAhURL2PAUrT70CI",
+    "rating": 4.7,
+    "reference": "ChIJv5bDC_vQAhURL2PAUrT70CI",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 404
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "ללא, יראון, 1385500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0782818,
+        "lng": 35.4484867
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.07964372989272,
+          "lng": 35.44971987989272
+        },
+        "southwest": {
+          "lat": 33.07694407010728,
+          "lng": 35.44702022010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Galil Mountain Winery. יקב הרי גליל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100295505858065661357\">Sergey Polyakov</a>"
+        ],
+        "photo_reference": "AZLasHpEImXVH1MRM5rMjymcabhtldtg7LQS8V_voUb6ZWH1lwwnpblCYAUPuWO7Qy9vYcUJsuulhVOq-7uIORRTXbFHgUypeLBivwPi-7rihOtCQJIth7aAvY3of8bNEviPjoQIt9B1CpaHFpr17yxdpgGFNwxLZKJZIkObIbpizHL1IZixBt_MfK6-anV1tG0QQ_aFg_rwgUxod1rnb-eHFyjIjxz7qeQ-9nlfO3x3EPJiRXIuTOmQeJNCzKfSWK34dfgu929J_paD5jrWIIysPYDW7du-c7IBodjLTXU02pxJslqzRsOTEOs2tbjuG3DQ-Xd9JoAsI5XIaF2_-FN-oobrV5bdcMVO9vUIIPgUP8ydiv5_SqM-fJfXO6C8XHy_Z4UagOW88z3pUYeXkFzBZXbhQ_Dx2D8PgTRPxzWKIMbv7sTTbrzTvs3uoY1XYEBXSe_Lwd23NEfyQWUsoOjX3pauc3DpzjYCWytFLDGyOCXU9ON6Mx_AM0UPiE1jVsK67LcqHBGQmiMFIviXlw5j92PcBn4kiE9L92Ocg2uLkThJFswHYsTo2RuT6KM4mc5ITVdEEtctn-rfMA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ7TGUCGcnHBUROwGhsLGRkE0",
+    "rating": 4.8,
+    "reference": "ChIJ7TGUCGcnHBUROwGhsLGRkE0",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 400
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך היין 4, קצרין",
+    "geometry": {
+      "location": {
+        "lat": 32.9885449,
+        "lng": 35.7085946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.98964917989272,
+          "lng": 35.71005587989272
+        },
+        "southwest": {
+          "lat": 32.98694952010728,
+          "lng": 35.70735622010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב רמת הגולן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104217983123175460104\">‫טטיאנה ברייטמן (‪Tatiana Breytman‬‏)‬‎</a>"
+        ],
+        "photo_reference": "AZLasHrArI5un8R4D6sDYlRb_TsejhcrDUBVAnO9k3GQun9ekVCjuRFYdjaOaxUG0Iua-uc2t_aHf22ZcJOA_TxYpRSmIqF1aNYAdvHxQg9IMBFXMfrTXH037_7vypSqd4w8e7iyLqCoZvRqKczMxcsiUextFLl1QqPx_7BP66psvMwpoGmzYiZ-TLABofHgOjV9BoOp8_hi2F6j-Ao5b2DNKN4XPObp09I1o03wqdm6i-hwI-nrB8R_5kgLI8WpCOE7yIF01U25eyywTJdeT5ygM8okVoUnVBeLHcttbst9YhUEgxNrBDTr4DxnG9jMzLg3z_Iar3FQ8gZZ8jGT4X1d7Dj-Riac_rFuZhxb2vGZmKwnPh1uJm8u50tb-ztpEyw7nwhMZ8SXPVVtg29QvXMGNDL8KOI4OyqD1oiMSjvWoEcB4VQd_o2VHJRLe-HiPEQZaDEgM2M9-fhwILdbZg6gKWT4r8s3FEt_7mv1GNPFYa5uvYqxVEI56ZwDPtsdC-KAyYqStl8Yx_m7sIXkMlknYwznNZWiK8NTdGc7sJfGJeGpdk8ajqzzAE8vISgBRyu_a81m0w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGSGML24dHBURU4UeazTqHFo",
+    "rating": 4.7,
+    "reference": "ChIJGSGML24dHBURU4UeazTqHFo",
+    "types": [
+      "travel_agency",
+      "liquor_store",
+      "bar",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1356
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "היקב 2, בנימינה גבעת עדה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5216701,
+        "lng": 34.9457529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.52292197989273,
+          "lng": 34.94719092989272
+        },
+        "southwest": {
+          "lat": 32.52022232010729,
+          "lng": 34.94449127010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב בנימינה - אירועים וכנסים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105802538902207170191\">Yacov Rosenblum</a>"
+        ],
+        "photo_reference": "AZLasHqlBtM8ai49lwx2ox0EPv53XBcZYODPql75ZX0R7lP_BKVppQVO205IzyE_2Wgt_NsF2OVDJvtdQP5L8IoGWH6datgpwnJt2Cy6gC4bmuuj9u4yUHeRvizont2pDx_ywoZK5DUFbaGL6jVHatuXR3n4hgfm0Zd2y0_pNgfBT-TZ6KVA-Fnu9zW5AFgOaObw_YIYLZmFzRaf2-ATMBhJ3f6NSrVAc0qLz_jWlqUfRnkuHW6ASCMVwxMlOaoTYW4kZzvUn4ZNSJp_pOpvPk_K_x7va2PZ-zzuV-WeIIT6ZxtwGDeX4JSzVw1MOOWxU453gGPYV9fnOaVzJBOEKmVFYTqn3fJCL4Yeqi71ZdIdJBzepH-4zDFzeuqqrrppfbH0D7LAXhgUbHcUyPwawPzTXFC-MQGQTzcbV-UB-ttxBiPLnUcvDZSsfmy3HblKTcEahkj4nKiC68ccsi8r7qn1Pd8CVdDLdu3PT5qWc-hqRi43uUbgaDRyW7k_Sk3bGj5b69_hWT5deUql5JYQ_0Yr1IU-43KvIAdEEG5A2dHrQSaEAFP86TbGBQCDTEqde1eb3uqJUClp9dYGvQ",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJaXUTVhkMHRURUCIdTca2OpM",
+    "rating": 4.3,
+    "reference": "ChIJaXUTVhkMHRURUCIdTca2OpM",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 662
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כפר תקווה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7017686,
+        "lng": 35.1168432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.70304787989272,
+          "lng": 35.11828917989272
+        },
+        "southwest": {
+          "lat": 32.70034822010728,
+          "lng": 35.11558952010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב טוליפ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117748185110821897193\">Libi ליבי David דוד</a>"
+        ],
+        "photo_reference": "AZLasHryahwb5n_I0vjfGx1uEnQWdLy0_0GmD_coGng4WpfTve2SQTrTcctbZuuEfg_o49jQ_v0No0h59NDBnvy7N5_rAccAHUwXlexXtQoxLKYuX_h0DUVLS3fiNyCeM6jXGfPWL7GLuJpMLJrbUnJ4yt4_11XuKiwWa2c-I-7ihNEJeCT_sYM9CzeF6wYa7JZ__6H9_JAUEBmLnxFclO2rKm-LA56KAKujqosLwLrUxipzuQkHdLRv5AnB1qFgBLbiVTcULNV8Wp1qBXb7jlM40kDKHwQXTjeez7qF059Jyuj400DlHO1AIqiV6KOCNZIEtgD87iiOT9jsjJ-07XG1ppWtW5W37KjaioZdys7ktaFM8ZdjTWckJNfdNpMOMTbnPbS9L7uQzsKphKpYPJdMZ3etVmZHvSM2RTrcXlRrpCpRjaI5T4nenT92TqwBGuKZQ5pW5nAuCnxQVoNPIWKNvvkdEittX7k7ykoWMwbbB67D8evVSmBaffN1cIsoWlkdUmirue-vZchS44LK-RJ8bplDuyxLH602ncaGAcDtMZaLFQgK8zLO0hP0wzogecm1KHEYAHLq",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJh_mBuhKuHRURreFoy447JtI",
+    "rating": 4.6,
+    "reference": "ChIJh_mBuhKuHRURreFoy447JtI",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 645
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הושעיה, 1791500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.755248,
+        "lng": 35.300009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.75657127989273,
+          "lng": 35.30143802989273
+        },
+        "southwest": {
+          "lat": 32.75387162010728,
+          "lng": 35.29873837010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב קטרון",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101575895031087324550\">Anna Liflyand</a>"
+        ],
+        "photo_reference": "AZLasHpM5lierbedGTyh4LLMJJ_jJXoIymIosAdJwrUnVVa3Hp4ypRbi1S2FLIpiBFfEzv2IgID7br3kKVSPcDkqD7wmAau105gU3dUnmf-DGztqxl9-mtJisAOjLJDbWJm5_bmG60xAqA9zIW27JAQl5Wxqpn8cw37JwmV9cIOHCgO740E37GMlsoWhb9oU2wWbdWGUNqirEe7KpDY6lAFmnUnfpQWCiMpuBDeWpguCXjAhMBi8YfAyoDOutFgEloz-4U-2Mg2dxC7PjiK2DGHG5O5onvxriRF9WA7qPkJYzrH4mVDpOD4e8wK6-ijdxmStTZNjpFGJL6je7EVJAJgpXI7Xvl1uMGkB_bezH3_7iST3bIrT8GJX-lYOQLqKWaLqlT6s65vIlcoupc_XuWwkc-2QXV9bW4_OaCXARtOs0fqCCy661oYAT6VkUbfyUb0TBuWdtD7YzKkpq0jDhtlLeL4Nh3IBx-bXpVdlWV46Ecz7hSZpqxPHfP4UMH-SZEaxBqgi5cYkok1ggCrCOi0ooyw7X5KCB5SdYGltIooLGHNnb85XOT2O57bnJ7G68GYgDOIeDtRm",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJV5_2KuJLHBURBQ8YGYANtmw",
+    "rating": 4.7,
+    "reference": "ChIJV5_2KuJLHBURBQ8YGYANtmw",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 342
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "פארק תעשיות, 18, דלתון, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0279415,
+        "lng": 35.4759346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02928842989272,
+          "lng": 35.47726237989273
+        },
+        "southwest": {
+          "lat": 33.02658877010728,
+          "lng": 35.47456272010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אדיר ADIR WINERY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103796535568328956452\">יקב אדיר ADIR WINERY</a>"
+        ],
+        "photo_reference": "AZLasHoN2xOu8n8WVrnGMAUbtvaXkuQ3C6RubswmT6IBt9bL_KQ75xAlgomJW9pmmoXiQuM1h-XY79ZGX7IywOT3EoHq2wPGZNnpv3i0vwt-Z2wc1cGCJG9q45N2cYzMyaDiAura1gcrkUEffHSG4aiO11Ewn2OJGy18-7CpRhpGo2XjbVZUhmUQA4gVpq-Co0Lv_a0yXzvltqqth964eKj8m1YwyNoyuvsdoK6Cm98jpCtKlCCNmOywEt-aeLWfS6nt-QrKMnS8B0qsiKtDhfsMjyD5JQP6dO_agh_MGalu_n0iNF9VEnA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ8fGABs0mHBURknJ45eUKO9Q",
+    "rating": 4.7,
+    "reference": "ChIJ8fGABs0mHBURknJ45eUKO9Q",
+    "types": [
+      "travel_agency",
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 912
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יקב, צרעה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7616359,
+        "lng": 34.9696025
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.76292797989272,
+          "lng": 34.97093907989272
+        },
+        "southwest": {
+          "lat": 31.76022832010728,
+          "lng": 34.96823942010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב צרעה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1332,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108227843217806026945\">Tzora Vineyards</a>"
+        ],
+        "photo_reference": "AZLasHqTE-wX3FhF7u-ZM1xSyN1M9kFXAE7YDO3P3GsH6aFDJnQZmTBXaWjrvkBtAa4NJObyRBAVoLxaALuSm--4uI4Q6asdvHVPOxdqGimqp9UWzFR5OserChPwDDB9fgff7e43IWn3rnjKo8dNRjhPbhS6PNLva6S4LfRBhKKR3M55VC9WxVI177NtxZvg0C2ewdjGeHHpffsRB6RAp6pmgPAfJnhIoq93DGnc7pbY7mZY4tOalVcp63Z2BsRRBRHFdxvAiESu4t8T4lRxhbrAh8oevAqkP9azhS5WyrzuVuC6KXG5tmU",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJ34k3MzjEAhURdWimhYgdGm8",
+    "rating": 4.8,
+    "reference": "ChIJ34k3MzjEAhURdWimhYgdGm8",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 327
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הקטיף, שדה יעקב, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6939419,
+        "lng": 35.1410213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.69529177989272,
+          "lng": 35.14243067989272
+        },
+        "southwest": {
+          "lat": 32.69259212010728,
+          "lng": 35.13973102010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב שדות Sadot Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105964284540271821102\">זרח בשן</a>"
+        ],
+        "photo_reference": "AZLasHqGSrvrdhlLvzE03Dku0XiXpb8pBnJJmreW6UTc_XeEsnwFBjzhOOqQk-Gx2j2-msx2fIHVOc7xDSSOxwA144kLzBfNw6rDw1c8QSjcjIcfiMfFekvH_o8MbIEjz6oAXWKronteg1SJ7DwacGqzOLulCii2Y0CQdY_xuGo_QkwclkeLFaXnPXbvkJkyijAhm2ZRGiysZqwekhAg6n3KZEMzsAUAmb7KAOXj9rb8iaK2Bm9wcXERQTFUJBIyxO9AWCYpb2a0waCIVbhdz0ZoKl7JiaGLkWrqrrRd-0k0fEZ_uofiKmhswEzfuX9HfxST3dKCQzLQerSJL5TmwYvAVUWED9M8eY4ITBcjiMLfHsToQkdYpxEPXYXCfUu0ZKZtSWPJu41C_Tvxt1ZiB007TxqqL9An3JPWBarAsuL-XmTMJytHVYDWnupuxhVkAgRTnBpNzVz2Irdil_Y4GSPrDlfsK7WRg9Cp7eDxKBotXrT8id04mZJ9NKDJ-bjnQonm_ioDtVk4jD7HUC55I50LW47y5TWBLLHe5xp-dBmOBqiUkh_tZHzFPGjeHu9mJxYONNW8IRv7",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJI6oAqemtHRUR9aQf5K4a0r8",
+    "rating": 4.6,
+    "reference": "ChIJI6oAqemtHRUR9aQf5K4a0r8",
+    "types": [
+      "cafe",
+      "liquor_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 904
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות קק\"ל, כפר תבור, 15241, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6865184,
+        "lng": 35.428668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.68780027989272,
+          "lng": 35.43012012989273
+        },
+        "southwest": {
+          "lat": 32.68510062010727,
+          "lng": 35.42742047010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב תבור",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107700036815640051833\">Justin Kohn</a>"
+        ],
+        "photo_reference": "AZLasHroeqJj7qFhcKjE6zUXnNQqAIJRDLZo3Ky6iQ1mWOzky3boBtc6zfEg-EpMYDg5FPhnheWE1WGsscKQ_ASds-XZfWea4SZPGM3u_Js_2W3_-kZg4NcyiTdXAcMwTe8MLYL3-nwUqSKTOwOMLbe-8XAOP99rbv-PgXs23cz-lSZxs7HKXrr4Y9KBLJM6TzOJKjHE7PQq45TS19NQZyWgE5ewnoY8x2efd83-KhQ5rnZLfL_noa0ivMgnQs2_xXQIZPhxTtGUb4tmMfL8AMDFFsy5W3EN3cUK7pFLDxcuIUuRDmwRJnnwYzDF5YYK2JzZ_PATy5wWDMgQE-SigfKcL-BXIG1CudL2-qP6T6WLCWnE57QvA13xAoPKmFk4kKU6FDarL_5JGcvcOZUiuTs0ykehqa3C4xocQRwODVwvoQisis7_Blcp_Lxf42HOBeklg5DD590hSFd7U1vTG0SBaRVtvpz4g0oHft_nzZiRbrkvHpfDYet6pM0cuPy-JGrUw1g-m-mmOGUzvBv4T0F7VmxlO-C1t2idSHkgDloSkfDRxVUn2PgYBt2F4iJj0BVpUYcaGUAF",
+        "width": 904
+      }
+    ],
+    "place_id": "ChIJDTpDHcdFHBUR6ONtiITIQIM",
+    "rating": 4.4,
+    "reference": "ChIJDTpDHcdFHBUR6ONtiITIQIM",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 223
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "חנתון, 1796000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7858357,
+        "lng": 35.2424534
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78716252989273,
+          "lng": 35.24378567989273
+        },
+        "southwest": {
+          "lat": 32.78446287010728,
+          "lng": 35.24108602010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב עמק יזרעאל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108186968207538151354\">Alex Drukpa.</a>"
+        ],
+        "photo_reference": "AZLasHq4k0h0Tc5FCH7DX8_Rpu3MaGDZqo7Qf73U9ccXn9oOBY5E3PkLrluO7hdvD5u5rJwDJBp-DWOLVba8ILtiLafVrL-q3K3f1kMpDZiA0JKfx0PDwSff4TUMCgPTpY0XHrqBvwQEMi9aWMKBOQXO8Bq7BH6HHUaKS-ntMVAhfCaigsmGwRZZzXv--_IKq4gNRI7Hrv_9W1gRNzGHOzf2KUNz35a2LezJPoEDIlYNkjMa18Saw7MEtwYmCYhV62YKx6HEp1s--MZaT-SN2qpYGLH2EsKSd4yJW9VdJF9gsqewbKaAjvG2f-SYVwQ9J8QZmr6vaTSKvZEY9R4ht4uujgmRAvalYDRoBq13vTL1Va1NCht7sPtNZa26Fc_xWmyZjJ6hEs364TtNVNvVdUQMFvLqLyMNjTYBET587mdXlkhqa2voQmA6nRPzVXOapJ5SUmmSE5Mq_HjJOcig2oejSxI6OxNQ8X8otnLVvTnZXo0ipL0BwGmYbF1L6eL3tRKMIj9Q_9noYsk77o3NSr9KNgGwN5IkpeF4fxLtLnL82gPmFh2yqQfKzcqvRTTLOJxk9zYKl-x3kF3zgg",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJsTKrKRFLHBURtpbfwLhRJqI",
+    "rating": 4.5,
+    "reference": "ChIJsTKrKRFLHBURtpbfwLhRJqI",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 255
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "فلسطين Sha’ar Binyamin industrial Zone",
+    "geometry": {
+      "location": {
+        "lat": 31.8645639,
+        "lng": 35.2663701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.86588462989272,
+          "lng": 35.26749862989272
+        },
+        "southwest": {
+          "lat": 31.86318497010728,
+          "lng": 35.26479897010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Psagot Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104979223527668153900\">Adam Sragovicz</a>"
+        ],
+        "photo_reference": "AZLasHo22kSAe56AzgnMHMOVVe-V1CU9gccjM7eamyDQk_f9Afr9fLjYWZz6wjl1Z2pEnynh3CP0kB1p_FjplL92Z9h-3Zv1EvwPd-uBytQqE4jZQk_C5UeSUSERhXDNyB-g__fl1SozsLy_FCMhaQ3UL9fSJRqtfIkEB9hoCdQnrkNi7mB0k1_I22OpIMXzO1089wyOUGlvGJM70eaiv1inkLQIFfWNaI6mAwkDeMfXSAwN-4NWmVXpXESOkLYrA2BqnTeua6I57MCx4UL4OxP2rin_ZGii6Tm8sXl9Ycwit-w8rRiyN_ARp4FRtRgjhMp9H9-kJ2vBHsFkKFR5d7M97aHJPHxBXo2XA8CTGk71Jemma6t5TtIYc0B7rwj8MEayT5PA_wNqSZRspobG_T402g-6uBiwwMFJUlwH9iPSUyMcOaWENtn08bOsm3uIA40iMQBWgUA5LmnU2G14TZu4DMdyZbm1YNnuKiEYlYb4bh6F_IBCkNnvuSVUOP_Ps3XjMQqkL_WvZ_SXy4aMQTK7Pp9WTMV0Rk5r1HUx3oJz_BxLfSYHhZ-xWOt3NTxKb56SQbp4WfwC",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfRRd-ykrAxURdA5P-5FypUI",
+    "rating": 4.7,
+    "reference": "ChIJfRRd-ykrAxURdA5P-5FypUI",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 948
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "17, עגור, 9984000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6941958,
+        "lng": 34.9124687
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.69569197989272,
+          "lng": 34.91382327989272
+        },
+        "southwest": {
+          "lat": 31.69299232010728,
+          "lng": 34.91112362010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב עגור Agur Vineyards",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108101004020516593416\">Sahar Karat</a>"
+        ],
+        "photo_reference": "AZLasHohhxsoDJp8cLT2FSYolCr4FwkQ6dXrA9tKRzOGBvUzK5fmgMa5YNkGNAc_pTLB3f3iT9QO5tZV6OKIFTRLoLKveKh_SdbzZKgaW-PAB40LwcpTGVD81A2_KmkigJUQYqa9_nF8rl1jTAVPPZuq5A3S7Ammn3vv1X1sXnfjCPfXBaBV8RMuC6Jdo7fv8VFMmMisuQjjVd5aS9sKW0XVPBUcVon-fbOb0o1oXEdwGEsa4TmR38oUHuMfry0ojkkdz1OQkJIub2UoAwWMRinboKbcwrnWu91nhGcoCklxTvTcvtaEgH3JKAaO89qNRjNevBWYsKLKxlWcpiUE2JBa9reLgTPFJlHKKOH-2Jyq0KvypJdzLivevqq4G4dNcp9BuHxm_rS70M70SQBVCroErWvqKYUqTB-jH9p_KKDkCc4xbn_HqWybWv1enApe0dHKaszfTypQUMc0GVsVoj_GsswAn-HFtFj-Znx4BCSlSu58lqIitDOqPiW0-UOLXLYLQm-8vG3bfm5af8Xiz2n1akZE5PaHyxMummkAYwbWMYwG8L_QlK8aTrCsbTtxrl3iBEyo7kQ1YSOzMQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJc5ma2LPBAhURrgYCiX-sCkI",
+    "rating": 4.4,
+    "reference": "ChIJc5ma2LPBAhURrgYCiX-sCkI",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 550
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "פארק תעשיה, דלתון, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0294758,
+        "lng": 35.4768886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.03070872989272,
+          "lng": 35.47808987989272
+        },
+        "southwest": {
+          "lat": 33.02800907010728,
+          "lng": 35.47539022010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב דלתון",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118235109826382917049\">Sh Moshe Rozenfeld</a>"
+        ],
+        "photo_reference": "AZLasHqkvDrsrk1p_oJSShtEHHf8UkbYwC69P8KQfD3IsIJHhZQkQnvXAJvrQ2xOjxMdPSNLsfWu3rFg3iG9lC0_lu4SN11GBWOwm_w4G1HRg2qBqksAfXfL-6xSVwGcSW7LwEo9ZOslntdssT51ghdRwo_cM2qmPteTimHLmIlNDsiy4sRA2Q--FoJvQT4PYdYUQZJdO6B0bh1u6Fzx7lAjDpiVQwUGmcJN584q9kRw_nqTKtpZoqY-By4iQIBK3ImLOu-Kxpm1bb0mWVDz859Z5fTnpcJ6BMsRAisCroYwgwCK_WlugzEf8dy9l10yvnx7dMJ_5jQuZwoihsmpxxHeNlOxpLzyXq0wtWkxXTMA7Jya8to2EQ_SjBb5wibTWVfnHIU2UCydw7QUTilAbvFCRxBaTqtZzW0zHHg0hIbkT9fgWnG9ql_7S9aITnwKBhHrCZcz_BXavv83dyvUC8buueHvBF8tlvs4jd4CZ3FPQAnpS2-MJWRuMg2-nWnr8q68S1L0HhoJ2jnFK5F9PmsgHRZg23rue0fhEZ47sn5XqIXqVh0Lyg9IuXjldAM0Z38l8fjM5DrlH5RL_A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ__8PwtImHBURwITB-zjMV38",
+    "rating": 4.6,
+    "reference": "ChIJ__8PwtImHBURwITB-zjMV38",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 464
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יער הקדושים, יער, הקדושים, אשתאול, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.777321,
+        "lng": 35.015273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.77889732989272,
+          "lng": 35.01688907989273
+        },
+        "southwest": {
+          "lat": 31.77619767010728,
+          "lng": 35.01418942010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב פלם",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110631858605751838329\">Lior Medina</a>"
+        ],
+        "photo_reference": "AZLasHoD5j8ShB7EEJd0DcOUlgofOM6aS3elU1qwVG87TsixQteJ1AXiOJxHy0bz7TJaKPZGfL5sonYgcnTv2SV5ZZcnsEDHch1t7ArP7R0KKiU_KoZ86KCxM0lj7wRHqccj0BXyixclMuQUXsz6LljcCE1K5RYX2vReZCxz8le4i10nC1tAy9THkaxU912SCwKq6LR9n1Hop1UppZg7R5d4vaZ2mcLuf5ulXWq9rhRhh1j7g2B8gzpJu9SOzKmdKpdzI1eyPnY84IG59Ej2gNtjLXfoAUbcNnRvl2vtqSeT8pFZAmLhQSDp8DDtAQsvuro_2P_7xsg-MEZJ8Uf6epLuwKb1FNwocPVrCDkFafGLejaYjOHFYO2c-PK96c9HISSuUpWFLLgtofZHLmbi6nnZ7XyWx1KxmcTeM5RJM6hIALlDC6DvSl8avJ1z0SnSVj9vOwULEcebS0xi2Egkb3UdfjsT-sZyZ4UzL5h-_zUFA76sHWJkSEEj-mtFNWz8IDoG1nPn7GZH3yHGEzIbr6GMyLG5TYw1MT2w8HFip9_tnGVP-qkkrqXR6Ce-oyNL8P7vNEfrZ7ow",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJacShsLfQAhURK4M0FbZe38I",
+    "rating": 4.6,
+    "reference": "ChIJacShsLfQAhURK4M0FbZe38I",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 462
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "652, בנימינה גבעת עדה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5488428,
+        "lng": 34.957428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.55040367989272,
+          "lng": 34.95898337989272
+        },
+        "southwest": {
+          "lat": 32.54770402010728,
+          "lng": 34.95628372010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקבי תשבי",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106331744220247985933\">Yuri A</a>"
+        ],
+        "photo_reference": "AZLasHoX1-2RkE7z8hQydeglfxCuBpro-VdkJit3apKpJ990URMw2QwvKCLXHNvGaoiuROL3Gjv40DBgdP1E7VpboFIJrScTJW3hmZ-FSAeen4fNokvZlv7BvwCs5SbxGzo_eMA50DXAgPux8J1P7qsTz_eVH3E9ckyeYEu5Ga9uOPngTJzN10uUapOS-hTM__3w-qqYbBch-F-9ZVqF7CMXi7YuCS4GpvejaZx7ZQsejWIxbdfiJT7k5EIOCv9-KPXW2s5bC3cbWdjPG4g34b5ml1xW0xAZ1NHLKZg0kiVZV-LpZqfW5eNB7Ft6mpH55Ehicv_QN4jbiZPaVWcIgTc0vCOvXDoZteDFUH-ACctf20LEWaLzFkB0kB6qwA22lbBwWQT3WSaLWyZAmgo4mteMuOc-Eg4s_7sTItPwJ834K8EOR5v9rJ-I7W-3dtGWNHpz-zdKWU5cow0_5ybUuwfOHYahYv6xD9ViAuEQkmi6DdD2qBPyxE7cIQ7mTGxjjoRiVGYOZlPOObOlKBA3nZRID_b2t-P48X3dPHLcGOBfCzR0XuwsqzY15kDLruD_FffIt5RebA",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ4di7alwJHRURgpS83shZhDQ",
+    "rating": 4.1,
+    "reference": "ChIJ4di7alwJHRURgpS83shZhDQ",
+    "types": [
+      "liquor_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1930
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "רחלים",
+    "geometry": {
+      "location": {
+        "lat": 32.1029242,
+        "lng": 35.2568106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.10438812989273,
+          "lng": 35.25823772989272
+        },
+        "southwest": {
+          "lat": 32.10168847010728,
+          "lng": 35.25553807010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב טורא",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115872241571812945485\">שריה תנעמי</a>"
+        ],
+        "photo_reference": "AZLasHofICkqBo-DY4QO3mXtSr_6po2grC9XyawiBlRV1rb_aOh7AC2dkpBmOSGqtltuL8TLtxNR4lo54kWO4gemCM2f5N-2Iw2hzR9kVV-ITLqKoNLDDifNHbsNbP6a7ZsXzhA4F9YHielF6KYOicXHO-YMkzbY4oEL4YoFnJD8Mu7RH7eVE1XBYHhpXHa8b9E15QhneKA_zs73Ke5cU0oPz6_csX0sJjppwt8lzL0djToOXFgwtD6P7pbYz1_hTblWI2ERVofR47hFfq8yypMxYOlos0hw1diICsvoUKj8TtKljoKGBpkGzWbRlZQUIftJKGyJll94JYCWWNcRH5SYo9pf9sSQIaU6lmOcKEPpwfk09xrpezzU74M2327kP-_VuhfcbEirwWKiQ1NTqqf2OZGEj0ACeXfwncrl0L51h5lnSMvNNHnqJse-nzqb5ukzRzrZBwPqNeSXvTzZI9KJCjVIPcX02W7a6AUt6p4jBbWTKTnv3T3iiwvYTz1gVyiHS-agTVf8wjPF-VsAiVW_rbXVnYTSWN_zGuNTemCvnWL3hAQ28uWM94D5GvAHJXzX4exUo0RD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeSknot_YHBURgzLnKPQBlgs",
+    "rating": 4.8,
+    "reference": "ChIJeSknot_YHBURgzLnKPQBlgs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 746
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "המייסדים, בת שלמה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5964122,
+        "lng": 35.0040604
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.59777107989272,
+          "lng": 35.00549557989272
+        },
+        "southwest": {
+          "lat": 32.59507142010728,
+          "lng": 35.00279592010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "כרמי בת שלמה",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117135370928600932698\">Elie Wurtman</a>"
+        ],
+        "photo_reference": "AZLasHo8oQC41vcuranGf4TOXeAEgOz9q9dltC-Hs3i4O7ITuUw-Lvm0jYcxcjkj4TEkLxEj8bYxAjYbrhgUH4cjymDOHZm2T4y3S4FQl_DEbJxsz8grpZvRqePFqCOUoEE0nFd-9CpMKCB9WbEuHKegB3WnRvVm5CWl1bW_WLc5X7QoBOPKROLIkcnPbUVZMj0svZKyg_YVY-xJPnkMSj0CNJXh4fF_2vmaQdRxAWyXB8rY1Mj8ccPykkIMmdiR1SdsHz6SezaVg7bI55YOm52sCbxFEmY4cfBfRNyG0lORMEa5o_6ZvuQYdVZSum8Rhjbdpwv38qHu2T6r2IsObKxEE4QxOke1sz0tf3j4zTxOVxdnu3gpgKDLDK5yA_l2ejWxCQmNCf_6j4dtH6kwtYQEyX28pYldV4pzf2GFMq3823HAu9U1HzskPa1wmd6lSFzBAeafaTTKiQuSB8B1zu910uHfIpwo1NcB3N8zA5gx18lIH92CxpzDAWYI-eFwufhU1cly-wsWiRKDZxReRkC84nxoyzNkwGe_uw782yFUfxIsC7laSuiT-ORLhgExJHaWAYCW6XiH",
+        "width": 7360
+      }
+    ],
+    "place_id": "ChIJL_3zBuoJHRURr01Z3-e0qfs",
+    "rating": 4.8,
+    "reference": "ChIJL_3zBuoJHRURr01Z3-e0qfs",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 171
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אורטל, 1243000",
+    "geometry": {
+      "location": {
+        "lat": 33.0844651,
+        "lng": 35.7612252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.08576802989272,
+          "lng": 35.76202605
+        },
+        "southwest": {
+          "lat": 33.08306837010727,
+          "lng": 35.75915065
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב תל שיפון – יקב ברמת הגולן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100971986875437934211\">Artem Zharkov</a>"
+        ],
+        "photo_reference": "AZLasHqNGZAfFTFncn-Gd7EbO7EjSAVvetHCly9Y4O2NLEpLPvLvJlAXMs1zrDM4lypW4CxLlWqSsQcGom1eqZHnA2Ibgbutd--yidG6HKSELBO-OYv9XWROgHbeAK0L2TUJjnSmZ25D3BzusoaXx1mrAqn9BbUWCZlFJK-zxWSHgTlt1Bk8v-kvxSkVVSIvMKvbrlQ1jWHVyFvycNtuNHWsmC6FmekPWogbdQRP85OKiQK7PBOEZE2ylFv3vS0-h1bpnY9aEIp5KIpT221m0lb6ADH6XASDrdFlfv1qYUHDn5Sf0Y3I66R0F0pct-ad2pW0YKWTXx9p_zhC8UQH_cLju6ZMy7ZgsLh1TkG4MeLKsnx2_mLV3LLahFW3m-uB-isoU6Dxet8K_Efh5hlL7bstFqI-Y9hF2i9md2BhBowGP2V0wUxiNoRnaGMjDLn9PGSponFwnz24sZsRL_SB2nImWYBRbAD8C1Y73QnTUL68-NAQah072lWmAY0rEPrLrnY80LoRzl707RGfJBn1xY1vUIg0cd_Hr2-DbCLA_Fu506-vZFiWwlxEjlRhlH7_ThLJUbvQz4jZJulo_w",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJVVXk4GqvHhURQAAO-OX53Zw",
+    "rating": 4.9,
+    "reference": "ChIJVVXk4GqvHhURQAAO-OX53Zw",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1745
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "צובה, 9087000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7852517,
+        "lng": 35.1156821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.78669727989272,
+          "lng": 35.11706877989272
+        },
+        "southwest": {
+          "lat": 31.78399762010728,
+          "lng": 35.11436912010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב צובה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116641391787039650017\">Tzuba Winery</a>"
+        ],
+        "photo_reference": "AZLasHqYHak8aB4cihbIUI-Z7fjxKEp0Jt3CgDMP0LBOfAvozEqs3S_OppN44fTtxZy0lJxl-LtAVs8s-PeATYuWsyMMFVeEITW_Ri0ZjWbB7132PLegI1Lm-g5-d3wSu7Dkm0o-Nysn5XmYHN4rFgMs6rx2r6t9SXWrdU31Hwd3S6OYXCzxEE-7ZfmyXrffDIcJ_I-ReFFyFtXqZcTD0pMi2THoFbPiIBqNxszerTrtIaB8nMmlyZX8PUcw_bxe6fy8ZYq7Em4MgK69qQns4WqRiUYbZD2uajALUMf7gSrin3Dke9x2ML0",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJHzCTt7fQAhURRASLGhBSzqE",
+    "rating": 4.6,
+    "reference": "ChIJHzCTt7fQAhURRASLGhBSzqE",
+    "types": [
+      "tourist_attraction",
+      "liquor_store",
+      "travel_agency",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 319
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מדרשת בן-גוריון, 84990, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 30.825831,
+        "lng": 34.739241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.82719742989272,
+          "lng": 34.74059047989272
+        },
+        "southwest": {
+          "lat": 30.82449777010727,
+          "lng": 34.73789082010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "חוות כרמי עבדת - יקב, בית קפה מונה וצימרים לאירוח",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113124190818072385110\">Anna Tubul</a>"
+        ],
+        "photo_reference": "AZLasHrR76k8FOek-AU9lUOtShgwJAFQHUyWBj6FxyyQOQzLiNwrRwN24XhMbNMSp7jhgDUhKzm3nuDKRIGUOOFPAFEmqI5RDVC_Xo6WfKJuTQbukWr2aMicAx_G0qHrBUQTxQ6EkyMp9QW5EbEi0a__MF8QNlh1jd1eJsyeySDUhnktdY8UuAuSoYbE6-2f3D5O7rTGY2p0FPS8gxcrbQywfOhbFlQwpY7gDFqDROhRb7chnO0-DxfKB4kOjOawfJAaZdAubg4uA7xgaCQYUM5tBGwgzviqcQIjpP3pPAc2Rf2N_HnnrcH5TK6bpYNEMg7twxE12gUE-qg4Py6FL08gaXm3_slE481NMsegRFaCYXkhrxvFxB0BlNpPU1PIh6jUcVsahwpy-ILNaV61xhHYVjaC2Lj_zvkbMa9gKBWA3xcjttJdpZoYy4n7GgY23Dfqp6HCq10oRGiNzIjRS9tijkGqoJG45OHFwN5HTUwoOAyUuO-0kS_j1G2CCMN2x0mqzj5BBDWZtoPBz31dULZ0dGo-cpbCKq_Zk04JwfRYHIE2edYINnoYVrydfaidtlWrao55TrWM",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJCdXdD2YcAhURkDca2wctCFg",
+    "rating": 4.7,
+    "reference": "ChIJCdXdD2YcAhURkDca2wctCFg",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 710
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כנף",
+    "geometry": {
+      "location": {
+        "lat": 32.8687617,
+        "lng": 35.703627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.87009072989272,
+          "lng": 35.70497007989272
+        },
+        "southwest": {
+          "lat": 32.86739107010727,
+          "lng": 35.70227042010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב טרה נובה | TERRANOVA WINERY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100411139592063786008\">Inуshka Nun</a>"
+        ],
+        "photo_reference": "AZLasHr83AOOTYVg0tIuEoNfaCPf1Id0Lm0KLjwG2bMmI9wAaqsaoFKTbw7j3lAffWCAYcH5teC-O6K4iPJrghv9Eee3QpHwvDTaCgDAl-hlZB2JNaup8N8Lyw-PDGPAVQ-amxW2j2Ip0nnanhxHosP7MNq64HTSa0xfDfBESnKL51prmgqAwGLd26TICSaGYOlCjoXZXSpblC0776Ypg3sCSgVlojTWHyY22XMFedWXoAZ8s7yZH1Bk41wtHXx14ueGudk-hI0RlWkiHn4DPCMFfGJnWL4IXwVlJC8Ii0RTCEvY9aS3JnkyYLINQgxZfwuaWXIUxsZuggITlpGjdslqIGwaTfpQpULokmozeOUshT34I-wej4DFOLSvo9KemTPhC_HBw1QJsSRxLe1Qd4PMkLVW4s3oHt-hz27mrBFeUD0Sq90YpIL-71vFBDMzk2whwg-_c8l-LLWgXlX_AYjUqsQPKWNCwBp1iCVV_hwV2mV03ojrmIzpNAqVtYv69hPggmiwbvgu0hRgc_HJdtACTyUFmHhOgzeJIOxern036HBSNFA0w6tAGbVnNsTP7ZAyhvrYlRlb",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJuYhUkPUaHBUR07y4WGUqC90",
+    "rating": 4.8,
+    "reference": "ChIJuYhUkPUaHBUR07y4WGUqC90",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 321
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "נתיב הל\"ה, 9985500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6876091,
+        "lng": 34.9786976
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.68885902989272,
+          "lng": 34.98018832989271
+        },
+        "southwest": {
+          "lat": 31.68615937010728,
+          "lng": 34.97748867010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקבי עמק האלה Ella Valley Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111381792576817033944\">Gavriel Fitoussi</a>"
+        ],
+        "photo_reference": "AZLasHpp3qA3ROkb6mhXY5sErcI9xSupZAIyBkD9secuGg803H1QaRvpK5tSifcwA5GxkUq6_BbNOA3B2BTeFDvyjbDaZEkLgE3l21mf2tx7uVMkYb54ot59eU-72FRBw89xQF0UCazQoHXtdgnd_US08Y1N-h8ySW1vePVmgj8YULAraB6VnG0XBSZBg4zSka4cen-eILs1TSwjiTJ9AosSeZRat98z0EG-EGyvDTC5WJgHoNjNSAefTZE8wIHA5Yvsygkm-0qym2XRaGrGxlQSGZlFGOlX3PE3Wo7gny3Dp3zLIDGE_Yr2hfSVb17djvlmfbBBCCfKaCZE2b1WhRDOqteyQ7V2T4jjC-1loV9n2agvXCpQirECxRZlCCtOuoReTDNVEhxrgE7g_5MPp68zyQ1zPSsa8miIvl2co8a90vYG-qmrRi5qQfV40UsWQjLMNJa0V-RXcRjS139fSDwrG0FT7yrLLIrB23yhsv3IvUUSojdlHXGTJGNXLm6rQTuxJd-noPaw2K9dOgQwMu7cKExrCo-Ki8NSTyU6tWU-Jwa0j9QliP1_94wTMC__BEXO-9DJU22k",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJdbWN81LCAhUR8RSfjZlRf6k",
+    "rating": 4.4,
+    "reference": "ChIJdbWN81LCAhUR8RSfjZlRf6k",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 291
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "תירוש 52, כרם בן זמרה, 1381500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.03804,
+        "lng": 35.4676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.03946272989272,
+          "lng": 35.46894787989272
+        },
+        "southwest": {
+          "lat": 33.03676307010728,
+          "lng": 35.46624822010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ya winery / יקב Ya",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115740191367969920194\">Ya winery / יקב Ya</a>"
+        ],
+        "photo_reference": "AZLasHqfW0J68gR6LCFJ049hWq69CjIU-W7BhCDFz_6f0ajrsiIbQ54um4viSDf1USEHsmd2NYUNfrY5KnMb5gVZmnOJJFK-hcsZUZkHLjXYZjmX6YN48RonX3-LgWFJ0BNB3MVPg-Bsb2d74ysNcFneGy7R5dBLCDDVcNy8nB4b84FhxhqNbHgp2FHxA61sYB4gBWSSiFcdpqKFSrbdAkCnnndlXbqcJ8xFkwH5XHkd9hQTjJhOqkPeTEv4KbTSep0S3Lzpx96hJ3UBX0wVjePjocHWWBrpw6TzDGOo40TefMHOY0Ts14U",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJYVOjo48nHBUR08m6wrQRlg4",
+    "rating": 4.9,
+    "reference": "ChIJYVOjo48nHBUR08m6wrQRlg4",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 61
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כנף, 1293000",
+    "geometry": {
+      "location": {
+        "lat": 32.8690048,
+        "lng": 35.701328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.87043142989272,
+          "lng": 35.70270342989271
+        },
+        "southwest": {
+          "lat": 32.86773177010728,
+          "lng": 35.70000377010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב סקוריה - SCORIA WINERY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3551,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111000176372951456428\">יקב סקוריה - SCORIA WINERY</a>"
+        ],
+        "photo_reference": "AZLasHq4ibr7ljfRJAJ9AEcgKT2N2qmgPdS-4L0kx0ssAoBya0FOaIWI1ktdDU9ATp2tbnYOBr8wdFf3-7Uh-M8yRXYW8u8M25FiFF_L0hzOu2k2BFfRp5DeR_VkOfQ0AcbrafqOvVTjaE6LfF7Vt9frpwqGQMNA_qy0-7mMA2k_Adql-Ox0ivkRnBjxUfIparTg3s--zudfkkDtd6AVezutZ3GuQ1zu_Sn7p7YEtPtXfhCf3VYOouuD-6r5dtl2Z7WYVPi-yqSKW8UDMGyEZanPN7ZY6CmbdsaAOf9EXC0OO4Aw9HwAHFA",
+        "width": 5447
+      }
+    ],
+    "place_id": "ChIJZxha_NYbHBUR_9LLtvcbe-Y",
+    "rating": 4.8,
+    "reference": "ChIJZxha_NYbHBUR_9LLtvcbe-Y",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 238
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אליעד",
+    "geometry": {
+      "location": {
+        "lat": 32.8066061,
+        "lng": 35.7412642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80833952989272,
+          "lng": 35.74248142989273
+        },
+        "southwest": {
+          "lat": 32.80563987010728,
+          "lng": 35.73978177010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "שאטו גולן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102471599973512024762\">Neriya Greenshtein</a>"
+        ],
+        "photo_reference": "AZLasHo4iZFVkBb4QtyCP2fW5pplmdzDafLPWMVyXRXq6KTrsOVnmnec0q8VE_IeT8j-Yfbb1yIsjR0fYxGFVwyest0MV9o3DvGVkoFtsENgKUsi9ydZipm0aAAp_o73CLzPWLDyDOMw135fsYykHiPKDUH3vUC1TZb-MNnd0-0xJBoqw6byWkFMi8IU8wT3v-AliX9rVcdAWxOxjKGbDhFVx00TJ4IL5P9ieN5ND5umy2_nSrHoe-vIRZ-hhBqby23P8yEBaJI24G3BWazuH9QG5bC4xJgwyCsjLKLWehuZU9tUGhSzQsYgo1IP63Gv9bmGCKuxESeUppL4Mq-sDFY3OVulztAVBuUJo0T3HGVPGL0IDwii0HeA8X_VUyp7WVY69QWKEnjyfZaNSV7q00b5pXfrdyeVrBA0SV7P5Zm7J-lvtI8h3psV_wiffarq3PabO5U0JLX9W7Sy0xUimDv74zNtBGweBZ5VY798wNZ1Lc73ZJ8YJbzDKS56i4zwC0QSJOqqzEOcVrDSNjtnvkOos-XZSmojLVFOrWayVjuzA9jadiDcq8AthwUNLEOsPAk7wHp4YQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVVVlmFbKAhURFFRnnWYO79A",
+    "rating": 4.5,
+    "reference": "ChIJVVVlmFbKAhURFFRnnWYO79A",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 715
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "קדמת צבי, כביש 91, כקילומטר צפונה מצומת נשוט, רמת הגולן",
+    "geometry": {
+      "location": {
+        "lat": 33.028382,
+        "lng": 35.687005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02972907989272,
+          "lng": 35.68841727989272
+        },
+        "southwest": {
+          "lat": 33.02702942010728,
+          "lng": 35.68571762010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "קדם כפר יין l יקב אסף",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115459797558958495357\">igal Feuerstein</a>"
+        ],
+        "photo_reference": "AZLasHrSNDbmmutOzqmiKe9wGlhhsTfPpxDWaSfB6X2lFXBZfURePCpeCInjADzvoCI-Dx4MjeKgmdWicc9n9WRrgItdudUDQHlu_lmNmVk1PCFq2GXKwyg6p6qvMveRGPJXTzWiuyWCT9czYzLrd34Nkcguo_OhoGjhidnScfJjk74E0QeAKVcJJ5J89QMbo98KNxqmhUgAChEOgnrsJbx7AV8zONul02--x9BrgFOdxqUUTtZ9TL_xSrTmqx8L0bp0xkuMp3CfjwzEmEAMGN7NcVzIEczpCg9dGXunhLmm5s60o_XRVjitmUF6U3sbiFoq2jgxuQjI2nRNHyoJbvjAdutMana6IIFc8tmoEV8pxfT8GeoEzB_HWff_za6K13LcUn-KYjRuh8xH6VklceC6oA0LEJMMUeMpB1W1jkJxgGuIkH535zUtP0dyuAt3uQelBfmHRi4wDtUoifmxJbxCm4NSDolQwtdDqNczhNtbB3P7JY38kJ6iJUNc1zF2TalYAyITpOLC2U03SmYZWkI7Qni48yWEAEgIGrXXJQ0asE-CeGO29hh6zYn5o6dC9sspe9Z0Dg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZzdzTA2nHhURnpKtcnXDE-M",
+    "rating": 4.6,
+    "reference": "ChIJZzdzTA2nHhURnpKtcnXDE-M",
+    "types": [
+      "travel_agency",
+      "lodging",
+      "cafe",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 956
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מעיליא, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0275119,
+        "lng": 35.2564703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02889682989272,
+          "lng": 35.25783067989273
+        },
+        "southwest": {
+          "lat": 33.02619717010727,
+          "lng": 35.25513102010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ג'וליה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105342127664149537968\">Anan Araf</a>"
+        ],
+        "photo_reference": "AZLasHr0bpvDtlqI7euIuUSesmu2iY24_YIzU2qtUjztWpgYhMaFiGNUnekjkGP0ZG6-7i-AKjOeuuggkAEFJqEdZn10mwtq9Eg40Rqgq_vESwPCapRKr1caJzKraLD6y0aWoBBprxC3AdJWKgwAwc0tvgBcRH9si-23OgOvG1WP1Id_CqFaFnh-QHqD4VlR9VF0FuO6JgHXA2Gf_k-RyJbzotTFP81mgJW_f15NR3nR6Zji9tpsMo8VblXsoYrXaWRMTxTXiyB9W7SJXKIMawcIFR5LEf0IQZx6rzF07adDl68_XGM_wdwb71h8MahwLEaF3mT34cgDDX6-XnEpsmEgEdVlbFXMhdHO3Ftmm0aUnF7jgJC-ei0GMYn79kvsPDcncBdOlHuuQ5U_NQY4c41QW8E5EUooR09FQr3SXSkNGK5n_517tzjckVCw8_V1kkLJfTxjI0OOZ1GLboRD7eIzMM0I8YfLOtbxUgF3H1_ta4orGt-PUIFshLORUzxiSkfwSf3NyliMOvBKdd6UHvJXRmQz4HrfDtR4o-wR2yCsL5OqTj8HPEFi9BQTLdLY80TVZil0PKcpge37BA",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJf0Mn9T4tHBURuAR7lw1DRrI",
+    "rating": 4.9,
+    "reference": "ChIJf0Mn9T4tHBURuAR7lw1DRrI",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 141
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גן תעשייה, דלתון, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0228807,
+        "lng": 35.4771014
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02462577989272,
+          "lng": 35.47829837989271
+        },
+        "southwest": {
+          "lat": 33.02192612010728,
+          "lng": 35.47559872010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב לוריא - Lueria Winery - Vineyards of Yosef Sayada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103795786373696165278\">יקב לוריא - Lueria Winery - Vineyards of Yosef Sayada</a>"
+        ],
+        "photo_reference": "AZLasHph7W0lL0ZHLICSTnP5NB8crqNK54IcpFa2e2SwXx9_SanF0Ng0IksdokDg8n3vAYdDfjtqHclaVw12K2KQ0p7YnidqMMVzmjijPJKgxbjG4BZTJ1FUrvX0U6WC1RP5l5ryYQAWnhH0z-YzMuVvNawbxa8KDrrnpvYNZy0k9__uwrmHsPZ7YDR7UC_U4IzrgttpXambDEcsMcMxXBsmcvjwNIpcTg62b8fgYKA06UW6ci6TuuJX1Zm0F6AhlNwb8s5YsBdtSufIjmqoQqAFol73cHzyB-yUmo1nhDTyUpdRpPaAZKI",
+        "width": 2816
+      }
+    ],
+    "place_id": "ChIJO1B-74QmHBUR7oyQcbkU9ns",
+    "rating": 4.7,
+    "reference": "ChIJO1B-74QmHBUR7oyQcbkU9ns",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 203
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בני יהודה 21, בני יהודה, 1294400",
+    "geometry": {
+      "location": {
+        "lat": 32.8032269,
+        "lng": 35.7145535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80465487989272,
+          "lng": 35.71629097989272
+        },
+        "southwest": {
+          "lat": 32.80195522010728,
+          "lng": 35.71359132010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב מיקה | Mika Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3627,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102402716679962446897\">יקב מיקה | Mika Winery</a>"
+        ],
+        "photo_reference": "AZLasHqdsRMA2QfJT7LdaEXH7fr0U3kgz7JFguBRqZEffLOAkxIIyN6d5nv5nZE3THdlkZEtD8dWVZEArVG0-cHL8SAC5IQGUisTo90dHYUFZuaRCyQR4rftAqvE5FiBMaWWkdax04qG582jKKhwbVNOS2O7dNX8nX3-0_gvfEXApqXTp__yHMeHlc_oZyE7vs2afNIuhmqRd4nhDVYOOZup9hngns_HlXGgjEVnK5AwLgmRqnbq0TZWu8nJKfPJVrqwZOLjCDJMP0Nz7lU47zzpFVWhwAZ1KjHUJn4l166wG1rNh3oqudc",
+        "width": 5441
+      }
+    ],
+    "place_id": "ChIJZ53vskwFHBURkM6jP0AquSc",
+    "rating": 4.9,
+    "reference": "ChIJZ53vskwFHBURkM6jP0AquSc",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 130
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "עמיעד, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9259954,
+        "lng": 35.5433105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.92760832989272,
+          "lng": 35.54463217989272
+        },
+        "southwest": {
+          "lat": 32.92490867010728,
+          "lng": 35.54193252010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Amiad Winery-יקב עמיעד",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3647,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116197248854161238749\">David Barkan</a>"
+        ],
+        "photo_reference": "AZLasHo98FfxFznrWjCNoaV5OS7oQJfQOqzFwi-r27n1s37-YKP12DIR9x3jzH6GelkrKaFC6PbbsTVnSUfxojKNV8NlcGNt0C-nu2EaNJ001LI7ILwJXhMgEs4rZxobwR1yRaK3HUrSLFOB-zTmzdoRLpA2kyX-Wqx_hyW04XRqWpO0fC1ARIWdGRuZEVdzsQBlJqtLE7AnTC4vWMeObL2hkHS8ncTVoTsW1QYSHRggve5d2rOAKoqdOnqMnyV18nQx_Di9nKxQKubQW1KhsQUHXFgOie3DsH-CrgDA7T8LMdF1-xTOf2hkt2L2b7M7PV-01i0Gjw5sx4NVPi5H3vPHrhWenWRmRafvnJlw-yovRkX6PPg5ZGbIIW7C0fWWMwkEkDLAS0OX7dJZbueSmo0GPMkkWzxseNTvas_PXY2tv-92k9KCsgvCJZTqaD6DC9LB6ZIVeJ6yFszRJFfYBJETwnWz5RY5lZ5RPjzAgOu6Wb_IaGvv0aORvyu7BKfxy1vavW6f59rwbr0Z-r9JjTeFvh23AhCeC2v51CloXdw1R8HaZtsg9I1nrR70AxyC1jL6di3ZCm7f",
+        "width": 4387
+      }
+    ],
+    "place_id": "ChIJJ26nR-0iHBUR-c0C3A4ot4I",
+    "rating": 4.8,
+    "reference": "ChIJJ26nR-0iHBUR-c0C3A4ot4I",
+    "types": [
+      "liquor_store",
+      "bar",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 464
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יקב קדמא (וויז, כפר אוריה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7947803,
+        "lng": 34.9457755
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.79600637989272,
+          "lng": 34.94695767989272
+        },
+        "southwest": {
+          "lat": 31.79330672010728,
+          "lng": 34.94425802010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב קדמא",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106546519966988320974\">מיכל רייך</a>"
+        ],
+        "photo_reference": "AZLasHo_opM92znUrIIEb4X_bH59kCOwMikr8QetDwiRH_gJgJLmhN4jPZLaHGup1D--1vyemy-zCqO64OLL7ryNbP1TsmCZzqfXm6dNhizIE1bSwJdxMwfVqBlstsROWetWCOzX4dZk5anEQNlFuvdOAkiD2vjF8Wn7SCKr0Gnnzp7s0pVxVJ-_mYA_Ik8pQus4GpySzbUoJ-dyQbr6Wzv-amkrorm2-IR9tpjaJMPLno29PjGhc3gSHTCOt9Bf6g7qcSC_mY6aTxfg245fB5EV7aa1w2C8VsH08tK8MDE0pGHojkWcNW4g-trXncXOoVPPI3vptrzrCnk1HxZGZ0BhL-uwzvXvivHsTMThz9fA027kH6sxcpv7qTOaRzwbrYr1jUT1c2yMrBXvFhjAn4Vo3PVwoa3lMgxjPolu82qrypHdT0hSnlGx91tNz3EfwJ5fmCjUMaQofzkDTYzPg-uyw33-kSfnrDUFB_w36yhTXAs6mrKAqu71Pu9OyKZ5vdrtdCAzDSu9ygaHuEYA2G4k96hmBP8hP-jy7LE5kSBAwfH_vdQpGIsI6VWZAcPm_KPkahlij7UA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJq-pRr3bGAhURAej_MphEz9Q",
+    "rating": 4.3,
+    "reference": "ChIJq-pRr3bGAhURAej_MphEz9Q",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1728
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "צומת",
+    "geometry": {
+      "location": {
+        "lat": 31.648386,
+        "lng": 35.129825
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.64929252989272,
+          "lng": 35.13105132989272
+        },
+        "southwest": {
+          "lat": 31.64659287010728,
+          "lng": 35.12835167010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקבי גוש עציון",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2832,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104159964833700448817\">יקבי גוש עציון</a>"
+        ],
+        "photo_reference": "AZLasHpayoC2dACmiYPordFx7IvN7E5d7uF5K-bwoiZVKKLBYJUmxgP7xt2uqaB6OA5IdnF_G4TNg8sE1NWlOjzOzKo8yecWOeUakuIohx8TrM_JFm1HHWy1zI141FUfUTufYVbx-aTsl7Zc-60kyK-qVgYF_LaALPht94tgQsC_IKH9gAMwJV_vrF7n2ZgNf_aQwePKiAfUUtUAf4gDeiTKgPViLEEJUjOOdnKyOicwMIaThT2CCvQK1HSHcOCZB5aM6AdTYRYD-n40LrfiqkNKtfakkuOdlwzghoRzIlP7yoLd5FJg7yc",
+        "width": 4256
+      }
+    ],
+    "place_id": "ChIJAQAAbOnbAhURdIgrm0wyGJA",
+    "rating": 4.5,
+    "reference": "ChIJAQAAbOnbAhURdIgrm0wyGJA",
+    "types": [
+      "tourist_attraction",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 907
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משק 18, עגור, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.694955,
+        "lng": 34.91254869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.69633192989272,
+          "lng": 34.91395377989272
+        },
+        "southwest": {
+          "lat": 31.69363227010728,
+          "lng": 34.91125412010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב מטלר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104681653189214703338\">David Belkin</a>"
+        ],
+        "photo_reference": "AZLasHqwtAmdCKvpZNyN9JdeRUXMIusif4C6zM94GsGfuYDupeMxfqtCZumVCYlKnD-lwyB7ifD8JBwMqt_yw_VQQtro6PGA7jyVAiikbpOzViYEimpSNeHB6YIcCEn8CTI_bRZmPADIHAKqZdDeVpVEVcFa9pbdTu6w3zmWHrX0J5t9yUs9gQQxN1rPPvnACbfDBkEzawcLYMtNXhIq45oea0sLOA18j_1m5pbQbHlrWd3r5znmxZ2bSdScOgD1QPF8K3jXUUyCvvwICQmV-AsL4omM2eZTPOaRjY4YIbPnT02kLfM91Md9qJ8Gn1K_e5hWoS6iyH07--dj13W_Ia4Y-ifK2l0KbDRYvQBSTTAZu-lmJ5ZCpku0vESMWIIXuP-i2wJYRTJvjOc6awNTupR37KlRpqlEkJz5twpPc8DHov3Kyzln3ZkC60IUxtXYhD9qIBDT7PMyyu6R5Cdl27rG60xCnKpXSDGEPSv4wZhFeTXH1jfhK-sXCEk7TnBcnTXf7Es-aC5784yoYtISSwRJymqL7kjA6H9ns0V_WMedePndFT8bN3hiljaajqaPibGPb2HmtYW-",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJm7idpbbBAhURxLYFedOoIHk",
+    "rating": 4.3,
+    "reference": "ChIJm7idpbbBAhURxLYFedOoIHk",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 514
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך חפר 15, בית יצחק שער חפר, 4292000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.3431655,
+        "lng": 34.8903493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.34448622989272,
+          "lng": 34.89152157989272
+        },
+        "southwest": {
+          "lat": 32.34178657010727,
+          "lng": 34.88882192010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אלכסנדר יקב בוטיק במרכז",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110680203220100552194\">Reut Shalem</a>"
+        ],
+        "photo_reference": "AZLasHpOjDXVI8GqrC1lFzGKQLTJ8wJhwT8mz0dtkTvr8W0wz2YacNKDbElluDL96i9l84OAe5vBk7vHNPlzyOMzG8W2_OLOBltM18jWT5srbBrNMzMsx4i_zf7WkrFZMAZvDdbZvBp_CdtdNinsiRT_6D5FzV85hM0QfMxrG8B8VRJzlE633dzPtDSA8Q9eXxLEOU5FO86-PmWmEM4LjAge_-BEXKitbtlJtdG4jvLquxufUapTVo8LrkWVJmCrxsf9bhtKBQ3HP2fpVObf1ydV7rQaUbo6k-xTiDqr_DI6JaawhWAiAVco4D90qplX9o05DevjZFJlTFco-AGZGM-2l3A5UIT80yuQbKLg3CLT6uNasLDOsQ1dYBRzOIdm9BbFVW_MR9zI-t2I8ILQqQEx0R4Vg8Q7ovOBcgXV8-7KsxPV6AC6IPARQXjeOWgx3DeQ3G2s4mSUw0GVnOeR4RBZRnLaSDkppTLi1WlpH5GGg3Zg9FD_mR6Dtl3jw1YePAs2bGAPOA5DApEMlr98GLyg7DS8HL4-2u5f69IeNuzS9FVpsUFjQQ1aSQnDL0jSr0m8mAU_LpSg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpW4UCg8VHRURh0LmP40xW0k",
+    "rating": 4.3,
+    "reference": "ChIJpW4UCg8VHRURh0LmP40xW0k",
+    "types": [
+      "tourist_attraction",
+      "liquor_store",
+      "travel_agency",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1301
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך היקב 2, זכרון יעקב, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5733905,
+        "lng": 34.9583878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.57478662989272,
+          "lng": 34.95982407989272
+        },
+        "southwest": {
+          "lat": 32.57208697010728,
+          "lng": 34.95712442010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Carmel Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109159313634872161412\">Amir Yashfe</a>"
+        ],
+        "photo_reference": "AZLasHoD9BlijMppqPfElCGRkNeKzv0BYJbupvQBLr6Q-sx4RP-ZaL36--UWDsyLWfTmDbRLENVVEo0aIOAZdOCPoirKGB83R-c6GiFYsbKWaFKqLzvky6kwutcmX6gtr_4uWQ--LMuo6xzYGYiQ_JckCryMn27cIPgI4bkyv7hTaGQHHO67djkoWrtUaA6qH8mc1KDxX5kldhI6CWxWCiNYmgpwX-FuBIXmHEhFE7_4gqOLZNLUE1NYKvR0GbY8EBMBzeK05IePi65-ONfUY0Pi3JCvvY9K992ubNL5aCWCHk3GLP321z4qbsO953CugZK3XVCpPusFzIP6yK8IVU2iXAnXb3BdpCBHcgPdibC38_X7gmmABqVMeea5CtJ1lwFvVje8UmTdenLz5M5i5l2e2RKFlscpoZ4BYXY5NFbfI_qjwbCZLbQC1VhVJY8wtJLVkLNp5YQ8BWzW3o3M-cqrz_akf5OyQE_q7YhInXLCKB1HNqdr4DfwanULpoPf4GkYDhy6so1ARQLIhJ-GpvLFNSqoykuM5kPNYuliDeL5I5ypFYlkfeiVShsDXXUDErvDuufLc7Ut7M3YxA",
+        "width": 5333
+      }
+    ],
+    "place_id": "ChIJSxm0wGYJHRURWBtpl290j4Y",
+    "rating": 4.5,
+    "reference": "ChIJSxm0wGYJHRURWBtpl290j4Y",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 142
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "חוות מקורה, כרם מהר\"ל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6358189,
+        "lng": 35.0038956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.63756092989272,
+          "lng": 35.00503757989272
+        },
+        "southwest": {
+          "lat": 32.63486127010728,
+          "lng": 35.00233792010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dadah Winery",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101810258560988660427\">יהלי חזן</a>"
+        ],
+        "photo_reference": "AZLasHp12QKqd7YCqs_yYa1gQjXG7Z2pOwOsIyDPUNmqj4n_TT3HdplW7VzsF0AHAdnMHBP7pUDwmCPO5rbEyq61dMTqmkagOBn-KWFz2uXRWNarn1X36UXjXmUV9Afx0UxgLKPQSsh7sp8BNGESCJk5N0N5TRnpaj8-u9yEQo6T2En7eFRS2HMHzaHBrP6SC4b8VYMBOSlCjhQ46-td8yg5fqJyZUmYm5eeNJen93wmbeLFKYqsfE0ZMB3ucBTHFs12FlkGFkEvnoTkQhkfbw4j4n_MVs1j_UD9VxnRe8BLfn4hKmgfHsXrNzQ15RkveCBPNG-NsyZfcAnktJc8VkH4DJB7ndH1H3xnqqzwU-R_cq0j9VIl_bADolBdf_CXVvi5qJ9TkQ5RjDvOYxe63W6IGoc4DTIdnyR1XNq08xAorQ4NUqMLOGAxAoh5NbkIPcJdwtdLbemxUjUwLtU09rJFVDhxLDPvBypsViziRQbJRbGMVCC7AXAYKt4xVWr_k0qTWFcnH389R8YLsWP5FFET_RWp8mC4CAlcyLtShaMqiQu1hgOhJtJxn7wTmFgzdKq14UWvq8Vm5AP5Bg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJLbLDZ02mHRURaCv-pOFruWk",
+    "rating": 4.9,
+    "reference": "ChIJLbLDZ02mHRURaCv-pOFruWk",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 81
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "51, צופר, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 30.560644,
+        "lng": 35.178994
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.56215672989272,
+          "lng": 35.18024022989272
+        },
+        "southwest": {
+          "lat": 30.55945707010728,
+          "lng": 35.17754057010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב מואה- Moa winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115220555852353009729\">Moa Winery - יקב מואה</a>"
+        ],
+        "photo_reference": "AZLasHqhE7wPOTlnw1mpbGE_fWAWHKj7dbFhwSVfvmhZodRXgg4xdsI4zWIzB9Le7Geb3ynUO5rpxicMz9QDoU9NfLYERWFKbr96zs8dhaGVW1CplMG95Qno04GN5wDXANm04_Fh8-Ugwz7hicVAJY18Fb9lPXa1UWi4ImwRPQhTXKdbsL8QeoMwCkjM3fslgNba2oteqs2wVU-yks9YfpQbkbKim7Hq1L9GJ8UMoi3r3Oi68XuLJf3FBwHqaIhNileKOq97pLV8QLaEgTSEIRjdc-Ih-aJ0h3njzK56Oq8IGHgNG7_OrF8",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJj_ehd5mBARURhWXbYtVs_TE",
+    "rating": 4.8,
+    "reference": "ChIJj_ehd5mBARURhWXbYtVs_TE",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 254
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בכניסה למושב יש לבצע פרסה בכיכר ולפנות ימינה לפני תחנת האוטובוס, שורש, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.79661279999999,
+        "lng": 35.0648531
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.79793872989272,
+          "lng": 35.06620372989272
+        },
+        "southwest": {
+          "lat": 31.79523907010728,
+          "lng": 35.06350407010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Yehuda Winery",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103408092725717632159\">Anna Asraf</a>"
+        ],
+        "photo_reference": "AZLasHpnK0qSavGo41-bzf7lCqWbkPPGgxXe_S2N5oJogjlHTgZtux2bhAiJFFRyRyruKdylUijlCrzhriJk-oXQLeYIGtmTq3dpKRLr6Adnnn8BlUQVkRT86W386M_T0buHhs8qZwQ6p8_AGhkcie03zkGzJ-mmrDDVCXpWoiphBf1nreKLhl4RUtd23nBeG7Cf4ktT4KGyTzW6jSoPkDrjSfboMTbksU0JONsDAy6Vcq2rRb5KjzMZyPkqSxnz4iW3bo2tuDHr-LjCsEQ9_tYmjWLtcLEb3rVYC9zbCUqMMfOX6VEBtFkk-BEjNGuPak8GOsFAI512bxI7EFsD9DcuzCHs85YB76kZDFdnZkhw0EHYSQSv1sCSv5njINEA2pPuzfOk-mwT6uvlkC840w8A0Np3JfHL4bsbJ0TizfEQGMSKSIDEdUh32tF3nApkmFd-FeFTuiyo9ST7Bm5KWtDa_Sd7ff1enk-5IWvlJH0bKje_vX2mykGMj9K90MLCzl-m1I-v7xFtvPOoj1HJLog2xW4ILKURB2Bjn1hmVqUN11drQ5jDc786lC5V65WZLO7gIbndyv-5_Q7_wg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJSWQfCmzQAhURFuyh_TTbUFk",
+    "rating": 4.8,
+    "reference": "ChIJSWQfCmzQAhURFuyh_TTbUFk",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משק 57, מטע, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.71457809999999,
+        "lng": 35.0636373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.71592557989272,
+          "lng": 35.06497792989272
+        },
+        "southwest": {
+          "lat": 31.71322592010728,
+          "lng": 35.06227827010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב נבו",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105778307444273303462\">Nachum</a>"
+        ],
+        "photo_reference": "AZLasHpBXK6o8fsmv8yxnUMuYB_znqYLKdpTG1AMTDCbdzoVhHhSCgCt09cmOCiM3KY24jOQGKUxgr6XyhUrfTOhHpD1zJl3AtaTTS-EtP-3T06gYZPOCeySreGsKggobXDBGVhXRXcJrTRhT8z50Qxnblijhd49TXuccS0bi4rt7JOx2QoIG6d_ybrq7to9vwcRX23hqTxYctFWonjfliq7OKdeaL6By3VcTpOrz8kLyTVC8rflX16eNqVvHbShxqsiLhNAoBRxo2XHcLn7CQbDo17ARMNDn8CCr3rnR1nbfZDy3KhtZZjYU4LfU5ELho9ZQE4zJ45bLVJ-YKGuE1S1O6ve2XQBeorWA3423aWATEYGiPLrjZ_bNG0zyPaD0so8Zi8JQu1GvR4aHa25fO8Kh5ZuZqqbgj_ZeDVBxgyABSIktvGb5CevFgMlXlhSnUqlmslbPIF7cQV4o8yYaBj_XI2WLHYdhGWtC6hlAd75PSrZMMTXOilKNSKS4Exy_NmPCoWDPlER8RE5uEya9ZVjZF6V-98-tNYNgd8qS0VD1d8yKFs1av29cShrCKVVihJfRkkqndDP",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ-7VE9WjbAhURLsF4xHx0mJ8",
+    "rating": 4.8,
+    "reference": "ChIJ-7VE9WjbAhURLsF4xHx0mJ8",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 193
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גבעת ישעיהו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6734121,
+        "lng": 34.9412246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.67476282989272,
+          "lng": 34.94256587989272
+        },
+        "southwest": {
+          "lat": 31.67206317010728,
+          "lng": 34.93986622010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ספרה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4395,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115007133229608847775\">יקב ספרה</a>"
+        ],
+        "photo_reference": "AZLasHrw5GMLVjZGFNsQSg1sxqKfFmPBh-nmn68UmSBRCyG4HmzmR8TaN1gIzaBDP57FBv_uXEVpOWSL6ZIoC3KEuZmffrNxd6Ck9hCBl6BJ4TliVM5CXd6VsBr_Nj9PUxF4E7PF_Ej-axV2lhUP-UbZesQMZhNQD14Mpa3AbTpgByCJm6xA6C4qjUcliPs8L8i9CZZiV4KA4n7mr8GMcn1ZOr9vR1oWlh1OlqXNSsAryNKg8lg-DtvArNMP72K03poEfnxzJ9bPoisuz7vS1Oqiz3j7FuDIm6HFtsdXt-IVqAS09_PWIm0",
+        "width": 6592
+      }
+    ],
+    "place_id": "ChIJVfh1avDBAhURw7-jiAPuRgU",
+    "rating": 4.8,
+    "reference": "ChIJVfh1avDBAhURw7-jiAPuRgU",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 637
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הרצל 16, זכרון יעקב, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5714817,
+        "lng": 34.9525197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.57281642989272,
+          "lng": 34.95371392989271
+        },
+        "southwest": {
+          "lat": 32.57011677010728,
+          "lng": 34.95101427010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב סומק",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 601,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112910971331053897604\">יקב סומק</a>"
+        ],
+        "photo_reference": "AZLasHoBdYErpIrEn78siISkbuZYjq4h-LRgyKksAhC9uRpmynEZJZto2tnaA38-QaugcGMnVPM02P3WWyp64frVag5hfa_DW0es41ANWFdTUnE5r63bzmqJ-ZW16xa8dPYiwqwVHxsWMHu60XG1d41Ck3-M6IfyCVaPci7KdbZ0DlfcNj_fYnWVmu54y7O10KAnmd6xvB1J7J-zHZHEdBJ4ckHVGwb2_tXzP3VuZaahkgwkRWlLvWx-O5ajKzQTFekbFiuXSLph0KbeTH5c4BvBZTBxcuDWHcfgBhHZ5YHj1_m-zCQMrX0",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJ-QlxSX4JHRURRpZOn7fIepM",
+    "rating": 4.8,
+    "reference": "ChIJ-QlxSX4JHRURRpZOn7fIepM",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 318
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "איזור תעשיה דלתון פארק תעשיות, דלתון, 1381100, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0292512,
+        "lng": 35.4776477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.03065992989272,
+          "lng": 35.47897742989272
+        },
+        "southwest": {
+          "lat": 33.02796027010728,
+          "lng": 35.47627777010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב כמיסה KAMISA WINERY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112162427383063831616\">Etienne F</a>"
+        ],
+        "photo_reference": "AZLasHpCRfjWWjqOWdD60VQiI3qfVkgIap3w1jMqN6UIXhAnbzgRIFJaqStV_7zvZ9MwFnruEuEusZ6lnfthvYQbkJdOizeQiG-r_2KhfbrqhfmfHbZtGG6wF8vFJCeLwr0qWbHgynGpyfGVkHVmMUwsxobomQeEHDurH29BOwcsrmV5tWvSVBXyAt6bQT5JZCAdohMa05Rk4PA0c3vVkFombO-kScbt5Cia_fMtVJFdVdWLcZQS-7EDUQ_GCM_Lgd8wpF4qDsSXivEbMxjHPj4rInFmmuDoDq9o1jzt_D2dabTsHBqNuZ3xSKOm2ghu9obOWOp16AsNjj6gixaotoDzvRP74-J561amXG0MJieGy9pLXqDi5gfnkpNH8UJZfVGAB93l1XqI1-8Flfummzdid4fWh-pE5EYN26Y1vPuGNnzC1XO6MCVbkSKmC7Z_HbV6FBmdhQmoMd37MMLaVh4lOmRGleU8OeB0UKzuHD_4Mw0NSBE3_Q-ppbJK7aEtHguWao-DIZ7lDeSF5ARDfI_AH7hiJ6qvUxnbeF2OsroLmUYjKwV146fWRY7TB4ZwYFyRVIBcnykX",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJlS4oQa8hHBURMbRnshlyNxw",
+    "rating": 4.8,
+    "reference": "ChIJlS4oQa8hHBURMbRnshlyNxw",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 117
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הגפן 33, מרחביה-מושב, 1910500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.600957,
+        "lng": 35.316265
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.60234837989272,
+          "lng": 35.31750442989273
+        },
+        "southwest": {
+          "lat": 32.59964872010728,
+          "lng": 35.31480477010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב סריג Sarig Winery",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117627346010011014265\">יקב סריג Sarig Winery</a>"
+        ],
+        "photo_reference": "AZLasHrJOf9f229SeUqrrMrapD8fXS-VjRtM1pC6sAFyozOMS5Pp5cMdAQc6c8o2zlcgUOXIUpzdvfkXvVRahAfGaEAAGOtHmUKFMjdw7nhcHqB-bzXP7QT7iokqPXWwMu1_6H2lW6KZslx5cjmyajnkES3lsCFBq_10E4tQi6t_lFbOmaBv6KcAA7HfScSRLt8niJBerAkIcewP0V5vlpR9a4vPuzN_ra84CJoRhWay2nE0sgiaHUKRkSrLDIWb6dK55KLjgbKLSE3uN0-BUvULacy3Thp2XVNsKh0XsqwQePUc0AZ2aSw",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJGw7V2WhRHBURmJQEw1wJiZ0",
+    "rating": 4.9,
+    "reference": "ChIJGw7V2WhRHBURmJQEw1wJiZ0",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 90
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "תובל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9295846,
+        "lng": 35.2471288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.93095102989272,
+          "lng": 35.24841937989272
+        },
+        "southwest": {
+          "lat": 32.92825137010728,
+          "lng": 35.24571972010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב שטרן",
+    "photos": [
+      {
+        "height": 765,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100430100288056431430\">יקב שטרן</a>"
+        ],
+        "photo_reference": "AZLasHqv9EN-qISc1z2ytWh-3YaXaY5aTA43-dq3JQIznlBWtgU79xg-WgS1ugzBjYMwExTciEFB7zKpEU0AX9uRRyv7QsqiN4omJMGmotga0CJ4pkuV4tjSFPax0k3xIlxEsIud6KjRmqPPuTWcbfIHLuL346pnD6EWRjDqVUu1DIGZOgjr8fGMuREL5TI4tygCKUTr6XJ0OpCNvgftCVB14SdiWKnPVLKqiKOHCzTmuy5MQAq1iFI42MsZrCu0AnjkYYCot_iR8Ezz4HHchdKvbWUHwYRRIw6zeNbHngImTFbQWyXirzc",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJ5cs_UG4zHBUR-kvVJm2cTOs",
+    "rating": 4.5,
+    "reference": "ChIJ5cs_UG4zHBUR-kvVJm2cTOs",
+    "types": [
+      "tourist_attraction",
+      "liquor_store",
+      "travel_agency",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 153
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "החקלאים 80, תלמי יחיאל, 7981000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7554928,
+        "lng": 34.7554511
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.75688647989272,
+          "lng": 34.75683812989273
+        },
+        "southwest": {
+          "lat": 31.75418682010728,
+          "lng": 34.75413847010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב שורר - Shorer winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108859724974039080076\">יקב שורר - Shorer winery</a>"
+        ],
+        "photo_reference": "AZLasHon47Jy6h61faM7DQK3en4SiovHNzTV3sFFesW4OQy46xyhlqYJJ9hA8s-AuDX9CqDnqPhIHx8wzp4p_ev4kWlQSc6-dmPLlZYyc18q6khCUcyNQNtWpZT1vVyvb4FG9p-aRZ2ih8OeFVeiL2prPzglBDa2E98-wY1X9R-BFxGHhN2DXwaR8UqYT96G5kp5Kvr6Y3QaZkwhuUzUFoAHmlpvYbIg9iXysFYSG6HwhEtyI1e3w1ypEEk5Jgs2J1JwWDiYy-ZGFElRImWcCasNWF8Iq4wPNlMbtZOVfxPWeAYNsZ8IbkI",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJ89QSUyy9AhURfgAvjY3juJo",
+    "rating": 4.9,
+    "reference": "ChIJ89QSUyy9AhURfgAvjY3juJo",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "קדמת צבי רמת הגולן, 1242100",
+    "geometry": {
+      "location": {
+        "lat": 33.0263352,
+        "lng": 35.6984502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02889225,
+          "lng": 35.69958637989272
+        },
+        "southwest": {
+          "lat": 33.02548285,
+          "lng": 35.69688672010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב בזלת הגולן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3269,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110114347737899839495\">יקב בזלת הגולן</a>"
+        ],
+        "photo_reference": "AZLasHoJ4lfkqiOULRjCt5GLGRE7RsyBHFNcCA2d1VBpPAFfA4Fs72T5V9iTfK_fZLbfxR3RFg5F4LWMQ23lMY4HSFXXD4nBmDRQtXq4h_GzaADZs1j_U1_WF82p7Pb3-8tg3YI4IsrHrX2y8K6P33cxK2mbtgfAswP5o2z8YG7DZSqBic6d-oTHF-lE2zD77E8y3Ii-7eZd4SviH3FxmJM6-XGRptXA-9X1ATVmxdk7NA5zHbt-eiwmoHFlwMuchSoJ0xPEctX0SRbEUFiHgTIF4neStgOGyXthUGUvTI_kEtHIWrD99l3yEkxszUzr8Mwg6yBxxGfjdMjms3rw6FA5GwAHFRwcoDq-vIh_ylFhdYiqFU63o8khNS2BZpR7jkkkZhcMBXDEIhWNUWm0ejOIkU7BatM2w-RHqC61-EkYn_uLfZG1oAVmnTbHu5HlF0a_jbO8fYrikArNBdBfU_AuHMqbvJ8_ybsKvmXdmYJcl09d9xPqmPOs6oxFKOSYuSGbydAVlJB9O5OeVHFHlDpeHyoUQfihapZS7ISaxWi4zHEns_JFARUbONBnCra3-avcYDxbHZ6h",
+        "width": 4904
+      }
+    ],
+    "place_id": "ChIJiSh0TaenHhURDIlOyhbsgUE",
+    "rating": 4.5,
+    "reference": "ChIJiSh0TaenHhURDIlOyhbsgUE",
+    "types": [
+      "liquor_store",
+      "travel_agency",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 307
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יקב, צפרירים, 99830, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6613714,
+        "lng": 34.9443904
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.66282517989273,
+          "lng": 34.94569737989272
+        },
+        "southwest": {
+          "lat": 31.66012552010729,
+          "lng": 34.94299772010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב צפרירים | Zafririm Winery",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118201392664498916929\">יקב צפרירים | Zafririm Winery</a>"
+        ],
+        "photo_reference": "AZLasHpV5sfZodplf7Gs3EcTaBPWgpu56aYF4FsNpYq6aofNmJO0sddW3Iixuci24aRuTwTDqI2k7vSPpX3dJU0iqQPOvRgMypUlv1NCu1u_TuUjlBlkdbMMkAh_XHb6gTrVX1dq4MIK5vojJYsHAcVS6E-dKIH1TEuyyFD-w4IfoiXvAeUBDo-oulS5XREboXcHeuLgWW4RH4Ww65E5i0qGcNw85IRNxJRXx5__7l28gRTrSCbMV-rtrgIQHSR2w4U1PnIOkD_IiC4pvIm4OYfdda8wvujF7InsrQoVKVz9gL1Dcugd7sU",
+        "width": 5168
+      }
+    ],
+    "place_id": "ChIJhWoe9v3BAhURIeA2m2S9EOo",
+    "rating": 4.4,
+    "reference": "ChIJhWoe9v3BAhURIeA2m2S9EOo",
+    "types": [
+      "tourist_attraction",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 204
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Barkan Winery, חולדה, 76842, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.8276276,
+        "lng": 34.8838242
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.82888377989272,
+          "lng": 34.88512032989272
+        },
+        "southwest": {
+          "lat": 31.82618412010728,
+          "lng": 34.88242067010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקבי ברקן- מרכז המבקרים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104713386035511354869\">יקבי ברקן- מרכז המבקרים</a>"
+        ],
+        "photo_reference": "AZLasHoDXfr0sR0RnbyZ9x-BpQox0Fu0ANJHYglLzSNho5i871lKWYejAvkqMSKM60l32ytYDcKZjfb-kX9Xg6LfMeHGWiCa0eEQ8fsqQ2oiFtwG9ZyDcauXVDk8dqMEWB7rJEjt9dWq4Ckw9lo2vC544eyjbATHUNPSllvVvnKskp0gytqHkYXQWNi-0vOLFPaLX6dcBdDxo2IRrFhqEsCQ96BzYdPFOOP2nvJ5dAQWPsxk40OxkrxP5EfTXeyK9TrCHJ_K6sbG3WfyH7wmntlMS2EcefifQCDyM-Z6kOqOS07udOMwVM8",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJz3tnUubHAhUR4EbskibwQdI",
+    "rating": 4.4,
+    "reference": "ChIJz3tnUubHAhUR4EbskibwQdI",
+    "types": [
+      "tourist_attraction",
+      "liquor_store",
+      "storage",
+      "travel_agency",
+      "bar",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 676
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pnini Farm, Itamar",
+    "geometry": {
+      "location": {
+        "lat": 32.151174,
+        "lng": 35.367837
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.15302467989272,
+          "lng": 35.36882707989272
+        },
+        "southwest": {
+          "lat": 32.15032502010728,
+          "lng": 35.36612742010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tom Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113675886768260923410\">Tom Winery</a>"
+        ],
+        "photo_reference": "AZLasHr_864zvnTWHYQS6KmldPO-mXTnn1Qkq9RGImabFKylf_2tiQ4d8vCB117jBL-1vQq6wjlpTMot3iqjmV4q1dJ7bBd4YTtWN_3Lt2u0g7tOmPpgw3dTKBWktyWSz-RIxqD_TWTGNjh0Sktm4Hd2zz5gn67PB2pv2c8lNkR8UO6Pf1N0tNvW8Y2mlHw8W-0PS_H9Q9PoRjJT8AtXn9B4NgXf6xr5lMBr5ifeDLsr-MHe5uJgvXMH8kGNmSRKUqvIQW-UPfuXS2ysTWSrBQlovOMKPG_uYwrp2gEku9jv5QMJlJJY",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJJQPwz2ndHBURNJ_Fy3xMC-E",
+    "rating": 4.9,
+    "reference": "ChIJJQPwz2ndHBURNJ_Fy3xMC-E",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 87
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משק 37, חוסן, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9963521,
+        "lng": 35.302674
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.99771012989272,
+          "lng": 35.30401542989272
+        },
+        "southwest": {
+          "lat": 32.99501047010728,
+          "lng": 35.30131577010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב שאטו רמו chateau-remo winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 571,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114227542266257879484\">יקב שאטו רמו chateau-remo winery</a>"
+        ],
+        "photo_reference": "AZLasHrIEck3L3dWKBVnXQk5yvRL9SP4h77A8B_hfX_HLx1exN2t2ycyCMYyve8bGm_yxiGRa3H-CeNg19p-2CFJFT0nEWuJHeQXkWL_SvP2j5tLR4--TRSivf3TNFosy0xcnu_BebBCGa88e84npNaAZCzJWYXHbr0JwrHy5cuNt7eKQFier7nyYO7oieQi5b1eAjAWhrIRvY0B1DSR_KXRzXugEkoOc5kVIavAH0Z_u-w0mgGObdBuVWWajsWuKTg2dIqUti9yjzPrTC92GOHS3Wvf2iddeDWQNIltOEtgx9vIa9pQ78w",
+        "width": 975
+      }
+    ],
+    "place_id": "ChIJZVzyKJAtHBURRW1-1O8SKL0",
+    "rating": 4.9,
+    "reference": "ChIJZVzyKJAtHBURRW1-1O8SKL0",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בזל 16, פתח תקווה, 4951008, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.096867,
+        "lng": 34.8676712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.09824262989272,
+          "lng": 34.86879312989272
+        },
+        "southwest": {
+          "lat": 32.09554297010728,
+          "lng": 34.86609347010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב לוינסון",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101101450388041804892\">Ophir Ziflinger</a>"
+        ],
+        "photo_reference": "AZLasHoOvAElsALQT4WWHkpbGUS-heRV2gDMpLzY8yeSDc14ftToNoaFlPgwNQIq_gf-9i8t3w1JulO2fx3GfjIVmPZu8HBqBqEHuIrIbNTwHWNyTOhiJL84Za0zk6ywDG4Vuglq44VJQVKFHspPTW3Qn0RaSWYCgLWZ4oeu6YgTkC8DjZc_-hqwbBvspBhmUwpxQI6BuIlZ7-qULpTtKAMew3g8556GClOBF8t2ruvRoZlqU6akvnsdzxz7jJ2WlvpqjVX43Lr8yW1Q0X35rePFC6B94mrnLGRm_oK0E7c9RsJglLcBjqvnhoO5uXwXCZrWDvl39ohxv2tsUS19bs0EryQNFRBApmk5lf-DC_r5yxXQAGwTTfBu5tgrA3HGQJ1Fe7QszwC2vmkjzVYkey_iIv0jaHJ7S6aSa9tM1Dyt5RovtD6d-4VO-GpaR9Xb1ddHmtXgP03oy7-5A-_rHMy3Wx7-ZPS0K0btJzCoposxV7MveNbV6vaxScio61CLIFd12XsUWqUv1Edn_rF5dUe_9dz7ZtViMD5cnuvwuoCNACkdQd9BL6uE0InuwVDQCnnBr7ZJIw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJMy226_03HRURkF3207kUn_w",
+    "rating": 4.7,
+    "reference": "ChIJMy226_03HRURkF3207kUn_w",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "עוללות 100, כרם בן זמרה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.036366,
+        "lng": 35.463078
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.03765127989272,
+          "lng": 35.46441822989272
+        },
+        "southwest": {
+          "lat": 33.03495162010728,
+          "lng": 35.46171857010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב בן זמרה",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106057270311457738802\">יקב בן זמרה</a>"
+        ],
+        "photo_reference": "AZLasHpNGV8Dn6KQDiK8CdodynqUczrWGeFIRUrUF6WyvclYKlr1r4022Kvkf6oIH3nmEocBx85qJQWDGqff_-ffpxnEmVaC8F1q_yEVmT0nex0vmhI4dTMULr2JuOWDovKDO1HMlX_sJKGzyzmH_TXe7Z2j5fuA1aCstlJTt6Ak7RiuSNazKa2YUCz7P3L_pIyflF9CMOOZur7XOLkfDqQtEdKnoN3C4vKR7y5D_dPDwt5U4mDkf-0Uk2hikJVlwJNzXd8Y3cpbMXLA0Qf9fNwplGtPdwf_gf5-EFeiHCUGeo6SdHmOCG8",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJA3UvfdcmHBURodpoioJ-d-Y",
+    "rating": 4.7,
+    "reference": "ChIJA3UvfdcmHBURodpoioJ-d-Y",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 224
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משק 74, גבעת ישעיהו, 9982500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6704684,
+        "lng": 34.9506443
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.67173967989272,
+          "lng": 34.95204387989273
+        },
+        "southwest": {
+          "lat": 31.66904002010728,
+          "lng": 34.94934422010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אולו",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105654027444621998334\">sharon hakak</a>"
+        ],
+        "photo_reference": "AZLasHpwa4E7pAE-mzuDQM7hnrunO1yQ0KblsDRuV4P96jJa2PX5Fx1hxn0_QT21IGd5vrfR2wiRL_WBMDWQnK_iOkTAP61RWTglYZlnb12Hy_Xx7XkZ36xi0CLKm90ENPcumyMjrkVRKFOITfy0_I5BJ3_ZxZ0RbbThea67ja6geNA8GCD1GCSdlG99ImN5gYmX3Axr0DC469tVyTS1qzibkt6IfIbxbrTBzkl4_sK7pQYiWSXofKbe6CD8AhlMvPuyDFSmm86MapK9pFJSqGGHDdlA0OHAescHPwRb6TB6jiRlFeu18xEUssU1wUKkOOrA3HbeVpLAMw2_KKBhouUOa8f7tLgqcKBVdcW4bwK4pAVRgKW8LZOMZXZiDs8E7ChjEbvuDovNtwxAOgws-D9cQibC9R2R-CX5TMYgkd8nHu3xz-rUw7tT4PnFSnD1-nJDLa3Q7iS-VZiMr-f6GxFj7RSCJ0_ZXvGFebQylSMWSCkvNqxlHh_BDlrkDbkDYOq_EYFiYK78UkN7Oc-dJyxbNmlT3p2WgE3zYEmc-zmNwiJxiboClaVZp11MzRXUV3lh_usC8Lk1",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJjTYt8SfDAhURXT_mq8dsMRE",
+    "rating": 4.2,
+    "reference": "ChIJjTYt8SfDAhURXT_mq8dsMRE",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 342
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "החורש 46 ב, היוגב, 1923200, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.608386,
+        "lng": 35.196914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.60981262989273,
+          "lng": 35.19817752989272
+        },
+        "southwest": {
+          "lat": 32.60711297010729,
+          "lng": 35.19547787010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב היוגב 8",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106465322170215176872\">Lea Sagman</a>"
+        ],
+        "photo_reference": "AZLasHp0oxRH9YcnAKTZ1e4l5iJZalb-vKgSIA1vKAisR3SyoYvKS23ZcM2cqlNYtHwM4g5kmQgtnqNO27QQBoylvUbxtFJY1vvHWBaQS_HW5HChOaQF2uyFc7sAqchqVwvbZ4EZN5MtCRLC71Tzj--rki-xrctlnsxWmxuPhh8TzPxZSLnV2aY4bp6onMWQeeVW_uiBX_gdeb56squlA28k1_qGgC9YFQ6OZ9zl_Sbsh-xbJZfV3uUelphkfHU0FOUpcuvrtWDAb5P-Wa4-0DkgU3gx-oxNGnVT_JMzyMQtM18phGKNavPqPvHL58vvILMlDebkK2YqYrY75eDW-kikxMIv1vVKlpEpZlgKie-cyW_OGjjL5VE34cixTJXULg-RKOBmPM4kGVYtulSyPdtwkq_-dZ0yvbSSk_7-Sbd5CPfNZZMnzHdqYU3HvMyOxqc2YAVGiUJLT0denJspDvSWaylWz8NZFmnc2Yn8ZmciKL4SN7cRcpP4puPF974tQQ4Q4N4DCIBK0VLj6wQEC47kpKJnKaRJ1z-Gt6GjI-whvkZQcNywwQAnds9kky9VzmtkuMA03GeTUnz-2Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJTS4HahCrHRURnpDbkw29Wbw",
+    "rating": 4.5,
+    "reference": "ChIJTS4HahCrHRURnpDbkw29Wbw",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 165
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך בית יתיר, מצדות יהודה",
+    "geometry": {
+      "location": {
+        "lat": 31.3612667,
+        "lng": 35.1112431
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.36263602989272,
+          "lng": 35.11260577989272
+        },
+        "southwest": {
+          "lat": 31.35993637010727,
+          "lng": 35.10990612010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב לה פורה בלאנש - La Forêt Blanche Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 7629,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106318661262367395319\">יקב לה פורה בלאנש - La Forêt Blanche Winery</a>"
+        ],
+        "photo_reference": "AZLasHowWbvXW8cQkPpKFUEnU-ow8fgf3Ui-fVZ4R2OIhNih-S6mhPjxj-IXzhOPjxSutr6ALHElIdA4PExWZAoXpCdzZyl2rbAVI2vN7maXKDokC9mma0UQHL_Wz0yO9_b5mDLRrdXjERYqAHynKmS_IcICXYMjt73ReQN7arn8k5oe8exZW9IWCZQ1kpt6f5cWx_Vk_MTLoaBpfXEBeAl6ub_A3L1era5XZfdLehomVfpEGNc99lmc-tq6MwmGRu9INh1csMTC4DPTYy24fG7-i5b8BRMWKw1a7S9X0s-rqpoPTQPDtqc",
+        "width": 3400
+      }
+    ],
+    "place_id": "ChIJuy-yuRnjAhUR9oqO_Labam0",
+    "rating": 4.8,
+    "reference": "ChIJuy-yuRnjAhUR9oqO_Labam0",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 219
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך גשר הצבים, כפר ויתקין, 4020000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.3842856,
+        "lng": 34.8918734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.38561572989273,
+          "lng": 34.89337337989272
+        },
+        "southwest": {
+          "lat": 32.38291607010728,
+          "lng": 34.89067372010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ויתקין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101938213492426583943\">etty l</a>"
+        ],
+        "photo_reference": "AZLasHqNpvpkuc78pZ4aQgMdTDEJJTosb-SKwDTX5tQ5apl1axqz-4kdZGhZZIESNakCl3ezhaNpEM_tfkE7yrNMN6wT9XfIcWuyePAvATQLPWwDx_38gsSTK3yKwrd-r90lJzDmucpdZdAUillgNOvq6sDyIrq7VGfJDP2gsO1nTA_uCo7GAf7k5jOtQYeg28EzvG_zVPzBAzxr174v5pFIPHZiAmuidGCnTYqtwVEDa-GejI70N1YbunZkVSb56KP6ZEgccWAi6Jvt49nWfONB3OqUicVt1PphhBGGqxUhEDJnbCJjR1pO5BSnXv7xrvPwi9dj1QjOaWz5SYSlfTfmUhK9Q_U2P8UOCwXR31x5o-8w9ax_e2XI2Jy2ylj6vvIXgQw1DHxMPtW_Yf8NWdw3k7NrMJPhMGhumxFxh0Rvr2b8QBPg8k9gJKZsKEBRZ9BFOz_vsoPsYTAld477Ceo7W95Z0S_X-F0fGSjbiuBHbcL6WXwIgfSDqp-mTrjFleLHUvgfglt6iKp7kgHQHy6G2wr4oesEcSvOgPQb5wLLAJO94PZWnPejTYaBdrRoy8TQFmm1lEkk29dy2Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVVVVVZAUHRURAD2YPm_DWZ8",
+    "rating": 4.2,
+    "reference": "ChIJVVVVVZAUHRURAD2YPm_DWZ8",
+    "types": [
+      "liquor_store",
+      "travel_agency",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 414
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כרמי יוסף כרמי יוסף, פדיה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.8507601,
+        "lng": 34.8900074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.85207677989273,
+          "lng": 34.89152402989272
+        },
+        "southwest": {
+          "lat": 31.84937712010728,
+          "lng": 34.88882437010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ברבדו",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106682280191846030848\">Anva Shoshani</a>"
+        ],
+        "photo_reference": "AZLasHpuPx13DMbyJig86OpqDlzRruNfZqlBPLhmQhdGZUfSW9SO2OeA66wncyFsV0qDyExLaBEh0IS-NUMXu5fvyC3S1SQr0MSq-cal_17a4tBeuH8pfPJy1n2TRifAAQCpc6OlgurRNrsewT7vLbqlGfNIVsp5l5BE9nwQpmgHf8_EwBYmhWmlNNKSnVzH636kDS2pMZdxg24ZX_txwcZRUGSvi6k4wyrs0Be8INLFUmt8H3C4U4Be8U-sObZwcUEAB15NVl-GksyOdvC0z-NKIsTflFeHPJyBn0s9HUaPMfaEnSyVmguw4RSXJYLHDJ5v_XnV_rC1JRbpM4WSnwX4eOr5kYNMlhRrJx_XYGh_qLPu8ZvXymP-RtKcd3DleBcxmiI31l3FivWb5fdIo4peYP6HLWeCStDM81Ti0OhMCi3lYDWiQ5-yJS1LANqRCla7Y4FOQ5B1a6xIPiYp8NW6OV2Z3HjWMfbM9wicbsEX4BrS-HGYV3fieoM_IA25dV8d7l3QoAlsNSoCEhQGgowiFtH31MOAGCY6jEBb30R6Jt0GIytu4Ey87umosPgHQ3ztGIhmpB_O",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYXmpzuzIAhUR3OVtoN9wOdg",
+    "rating": 4.5,
+    "reference": "ChIJYXmpzuzIAhUR3OVtoN9wOdg",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 438
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "סמטת אבוהב 1, צפת, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.969135,
+        "lng": 35.4913303
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.97056677989272,
+          "lng": 35.49232197989272
+        },
+        "southwest": {
+          "lat": 32.96786712010728,
+          "lng": 35.48962232010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Abouhav Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106780980777577593192\">ghibif ghib</a>"
+        ],
+        "photo_reference": "AZLasHpfgXLzwrWTGLL0iOqCVqdhUyrWlbnt-WVsLBc9fCkeQNFpflDB5yhZDzqaDLeSj0Y1poNHJ2_zoU2eA5dPgDbZQQSMKYOxOKK_r77HFfLsxBUSAimjGdGRy0_l2-XwG_p2T2qoau9OP7MMzPTtvMkdD9UbQ-EURrbYnti8jui_FxcZhOO6kjjLpjbMXEQNFRx4xZICrSrvBUSUOljfO6xfVBd-HOrVF9JKIPTG0SHjXEpC7BOxsmFEaTCQ2J-cnICsjLh5jfxXH9ZG0pyCyAZm8Yyplx7JThTncszwXr29o3WnV1Y-PpOeVQitFGSqVdlVXvxbKRYIrv-aBAvoOOv4XNeu5wkuTsLiuoZLhY5ziZpns5Bxhm8YJCPu6QAT1s4oLbjWMNMk8yMDm-hkXMbECDg7d1v5-yXjPoE4hrE2eEhVw28bXlnmQTSBG4XKmUjJJMUdNTaoqnW3QQlgrJE3gK55d10xxRDr1FOcV_fOt8v3fkTroYp03_cBn_sUZsYWsoL_ECQqS5AwSp1kXVsDGZXlnD1dleyTPzFZvKRFZmIbIENZxOIsE85a_sUvXJ71tO_m",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJb0ejKZIjHBURQO6-nfYwDbU",
+    "rating": 4.8,
+    "reference": "ChIJb0ejKZIjHBURQO6-nfYwDbU",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 56
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "וילה וילהלמה, דרך הראשונים 47, בני עטרות, 6099100, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0258928,
+        "lng": 34.9148998
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.02720912989273,
+          "lng": 34.91628687989272
+        },
+        "southwest": {
+          "lat": 32.02450947010728,
+          "lng": 34.91358722010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב וילה וילהלמה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117285106939273202874\">Daria Fudim</a>"
+        ],
+        "photo_reference": "AZLasHprC3-WJJzMUNRKozRhH7qxS5Ct1PNvVnHtE9FfhbNzZHEcQt3UHcHK5GVWPRFrfJQg5VSA2_JoS3-rbLxtHITHx7KnvfNdOENrSS8r8CzUm9j8ByJXa0xpAZ1PKRqiQQ8BXBKf9ovHGBtfp7AWBGu64RKpHSGoxsZqbVKZkQk55VTNmiOirbkZoW7YIBU368Lrh2Yv_LItWP_-K5kj7HoiHa3-kJNmcynBOMnZHrwUpc7_o5wVGj7mFpe4DYnf0PnwYggf-f8O2zIR7QLVdkhFOVU3nEYRVVk412Hh_DYmiEwJsRSloTvQeXN0n5qBm2qhL2rcNMWnfZO33ZNl7rnhE_gXtYAY98tviZTmV6YFvy4B7UKgQvAx_7XHWyCzICcQMq_TzXy6Vf4rTuFndM-YCj_pvd0FsLDP4Lm7p4eoaBKgI-9ixVUdS2Giffr0K8gkGlJ3mlZDCkYq45jX6FskX9nTV4bzpXcylJ4PR9H4eVhcYzobLnyCs9ozkv7dsIeUQbExoxA4e0zHndpKnTaZssxZT9zA6-jEXA0kv95gOokEwURdZvnyQ2O154hD44CuOU_NqBS5CA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6qaOPg0HRUR-IZZvbvfyBI",
+    "rating": 4.5,
+    "reference": "ChIJq6qaOPg0HRUR-IZZvbvfyBI",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 441
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גפנים 36, שריגים-לי און, 9983500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.6796904,
+        "lng": 34.9321833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.68102782989272,
+          "lng": 34.93359002989271
+        },
+        "southwest": {
+          "lat": 31.67832817010727,
+          "lng": 34.93089037010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב שריגים",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2041,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104184121511241363186\">Victor Kviat</a>"
+        ],
+        "photo_reference": "AZLasHoA9GVYUnuxTgzlNsXJdmqZ8VoUvMms4eYXqj43B-WL-BmjG98_A8awsSlI-ttiJjkAqnIhRlHryLOULmalbaiQaF84GhtrNAK9Qro48T-3JTfFyyM8fGZbZUOPBJroJVl2WVLAo62s0BSQI9TezekscbRNc2p3qyDQU0fBZp4P9ph9CjFzdnJPjx3vHPqfuVsIU_39RggTLIfi0fFIwZEEPjXIbT1fCrtDp0reBfP7gk0SouqVSg3lHgnSxEAWDhIAhbiECQvnlsUSv5QeTOvK0x_6ySrZ4SI5gaNc7xUUPdnhoprs1u6hu7Yqkm8d4A0L35m9UPYVShsIzdFoELz0ErvuCXwNsaTsxy0TGT30HDOwkT4YbWaAHspsBjXRiCtvAypr9oxKTeq39R_Qn-D6M6KVVjQ9JWkzh7fQnE9GhFdACK0ifftFvxUnSK3cmErSCijjbZ5qae7TJ-DoCWki85uyMu4aF459jHa25_Xo4vMEb9jxwO-0jujC4I2gkDxNjdy_rq9n-ytUhiXx13ltn-EHNYp5JcYlNzLwHLRSbXpSsV0-OxdJoeaK7JryzzH786KBYAK2_g",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJw1tDp-7BAhURT9VDK27GXAc",
+    "rating": 4.7,
+    "reference": "ChIJw1tDp-7BAhURT9VDK27GXAc",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 163
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משק 46, בקוע, 9975500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.826091,
+        "lng": 34.921677
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.82739517989272,
+          "lng": 34.92307167989271
+        },
+        "southwest": {
+          "lat": 31.82469552010728,
+          "lng": 34.92037202010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב כרם ברק",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112007595412357273263\">Karni Bandet</a>"
+        ],
+        "photo_reference": "AZLasHooEtyBIIIHtkiPvLJDULKpLoVrBkbmVn86Orj4Zdv8iNWQckO9VJde7L6nNL4R2jSKRQo5RZC-J_MfwVZobykgMFkCorDh44b_ssLUH2hUkOdUG8gbQoYSoSehpxg2seSm_iplHlmTtj36BSYBhFzY11P_6whDb7L_VKzluQFFlH8fEFBGLBpVluQPz1HHqSFTYvwD1FrDoFrjxjM2hFHCUnD5ZW1wOE8gB1OhLP_Eru9rwFBZ0z6KOeu0_DvcmaPIsT1eRZk8u3DzJ31oyU47qufg_gaxRHxkNCL5S4JAfNG8f2RaZ9kmwTgul_WF2Y9c1xD7Wk0hF9QdzmzE_hgdII9Zj2a7ebIoRift7E0DTnCx5T55YtOUTv56BexZFn8CtbJu1L3rV8eYbnrzxft0fzuhAgK6qDbmkcpuFMbE8K7svAvNkNEmcowdhRJkn919mZ2TEe31MG4xX0iBgVZfcGb-rNxHjth26WQZG3SPBl7vwhXTv0FBVlQ3SzV3IIh8ZI9iBZVRmDkhz78cs5ijspQ3k5LQ99ITt5ztbJ2N0HOTPV5StjS6xLyrJkj91E330w",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJp6X8FSfGAhURjOk-KXoGkiY",
+    "rating": 4.6,
+    "reference": "ChIJp6X8FSfGAhURjOk-KXoGkiY",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 551
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יקב, גיזו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.8048975,
+        "lng": 34.9393281
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.80628847989273,
+          "lng": 34.94068152989271
+        },
+        "southwest": {
+          "lat": 31.80358882010729,
+          "lng": 34.93798187010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב גיזו",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109716530768574744261\">SHARLICOHEN</a>"
+        ],
+        "photo_reference": "AZLasHrmPEIVg-3XTBSsF2d_wUMa8NTUhftfeaNIoa6cuK_b4EPWdd4zzrKL05CAqoPpAn8b7NdNVL0TPFtpNxTZE1OGf731zNrgCE_WGc3FRtjl244trXSZ9LsJ9aXqv43jQA4ey6786MSVC7ctF5HvDw9_j5HrGHmT27OAmv90HGLDps6c-iEP_CGwQjWBW5Ba9Qryg-UX3Mgu-ZoKlGmhyLMEJSB1XmlqWswkC0WKezR4qYUPLlf10UAUnytoGdj3QvbD8ACIPAqBDN6gTTzbjTlJ6nPABwOSohOCCd4JqO5k8VXYjkJDGFgc3dug0VThpV4xJQ3yqE2U1aB5heFmZR9hqN5qHx_c0goVTANBPAdwQONuhflbimdIE_7JgbSOYKt2GsqHW_zf-QaQShJASa_qlF0YnLTnL7tZozehm6tklRBu6nKa-Y9GhAn7JZbWMwRMBFzc80l9VAg9RWcyT4YyGMGcq_DjsKS-fqAVoD8M85ZHe9RNCC9nVGfmwkfbNUhtHrXrKV7VmLXeAldEarcwsXTnjkIaQl39Hci4NTHurUDr3_rBCQMV-j20myBGuveJZFav",
+        "width": 1908
+      }
+    ],
+    "place_id": "ChIJ6fq_fhLGAhURAdjsSCWL16w",
+    "rating": 4.9,
+    "reference": "ChIJ6fq_fhLGAhURAdjsSCWL16w",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 81
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יוחנן בן זכאי, טבריה, 1424219, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7893256,
+        "lng": 35.5380679
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79068997989272,
+          "lng": 35.53943322989272
+        },
+        "southwest": {
+          "lat": 32.78799032010728,
+          "lng": 35.53673357010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ברניקי",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110641263333196423253\">Berenice Winery &amp; Hotel</a>"
+        ],
+        "photo_reference": "AZLasHrAHJkeht-NWGNYUqiIACB1QSgwvpRVvu0xAvADldfsWOzN9ucRXM0NZYaz9sfZoGpyp-IJje6BsYbUSrb7D4LH65bbLe9DU-x2LAYd6Fmc17jdkjfHlPNPp-RyXjS4ioYD2DCa6XlwCplNtCPm2rQBGK1HNI5Dku36dre2H4FbVese_l7SvKV03plv0DMtlZVve6c7zAEu2GYdgtVDyyLqqIFET2lkiRGki9HLAM24z9aWfkc0oAOkPA3iPUBkSi8c9f7l2RbwO6lU-OqTQWasRGyNAyyeWew-G4BUg8KQJv4do_g",
+        "width": 4898
+      }
+    ],
+    "place_id": "ChIJj9iWMk8-HBURX56iOvlGlec",
+    "rating": 4.9,
+    "reference": "ChIJj9iWMk8-HBURX56iOvlGlec",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 111
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בוסתן עברי, ראש פינה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0093516,
+        "lng": 35.5800238
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.01073792989272,
+          "lng": 35.58137502989272
+        },
+        "southwest": {
+          "lat": 33.00803827010728,
+          "lng": 35.57867537010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אלבר Alber WInery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104664835108904417798\">צאלה ארז</a>"
+        ],
+        "photo_reference": "AZLasHpg5XvnvX7mj6Fggo_8QHJcbOMEd_xOAEaJDZbkRZnV_Q01v5IZYOJAwVoACc5ZFq78Ue3MzkERKuXqw9VsJufPSFzZpnf6RxOCVKWJyN-zh18X3VaJj6HdQnpOjiIX4gz06UGqI_qp0L0Sdfoe1qX-waxaTLKHXZ2StpZCtCSaBLRZDKglSXCJOIGXn3rYmFxj0rF6HmxcsvTAcw_B01-RGobeJa5EKrwllFIj6Aavfs3b5W1f6LZ7HaOdv5KseEyYnWf3v06fas6QdXofud_fagCr-M8hbkl3wIAQg1YFXtxCT9QMtKduv1Fh49JxmnXZw7Ch_8FR6h7p29adqkksOJz5Glq690a85ybWHPdwWK3nfYzRqR-JXAs-irWcawwCjHutaC71hpBblJDuQ3p3T6ctsOTkdlsXNANy0YJcLGClrmLJtcsS9nXjMQKkhVVMeRi7nRNHJXfK5vStq2HoLbwT1L_On9L5zsu8tlqSQhOhGEpThwcayXS2FZOh9gQ4OgZAyDtslIuu-9PJGEV_SL5su9zipgooERndT55v5pyWKgAZ3QDNdNfp8WuVrDUclebRisdP3w",
+        "width": 1816
+      }
+    ],
+    "place_id": "ChIJ9zs15nYfHBURHG19WM5rjQA",
+    "rating": 4.9,
+    "reference": "ChIJ9zs15nYfHBURHG19WM5rjQA",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 156
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כישור, 2012300, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9442105,
+        "lng": 35.2511348
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.94573127989273,
+          "lng": 35.25237907989272
+        },
+        "southwest": {
+          "lat": 32.94303162010728,
+          "lng": 35.24967942010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב כישור",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106418128719130584870\">Shuki Vigodney</a>"
+        ],
+        "photo_reference": "AZLasHqRYU6WjTrdnM7yV7kK4Q0KcEBr0AX13T8Jf5yWHq-VAnFESDzd31E6J9GK7qpKgWDKMluGNQQ7EOrg9EkeexdbTrs2sfi9kMTWff3-NlKA3Hg34fLBLIux1XE0t52cH11qZcJP4pvnbaiJvDTQM4GY_H16Lqk_5hbwUG6TcHnqUjMh9FvpIfTb0VY9czVkyxQw0frpkNWogpTkN57qJKooxJiFPNJ2U-aRwSp8TYsR7UYKNybRFQB9F4furcs1QkLUrdVjEYSQ6YGaE7_Mq14d6GrkJx-O78CfxXCEkMCEeEQAa8LNL1QUg3bKvyDyejHqxkb1PhtVbZn27-rLeyD0vQTMftp9bRi4FnjBBG1EXkKGQ79zSt3UBmtvbmZSuQxhTWEJzeTQZ1suWH9uqp7YNa206Z2LRsSPhKl67xTPJvtP-1RzQlSLgpt_ak1ywZ7nDbYFCByK1_yTMOfuH2XCmriPMH-EdgjU9NVDsAUraAJkymPJE2WqcT-Zpr2FUGDT1OcHeUHrVLOdaOGk2yGepcnAOna563h-lQDGBvMPl-KaXY_Vu3inE1YVHIS6HF1rDEE1",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJbyxYpvozHBUR0O3Q4k57obA",
+    "rating": 4.7,
+    "reference": "ChIJbyxYpvozHBUR0O3Q4k57obA",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 110
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כפר יאסיף, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9520318,
+        "lng": 35.1599957
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.95335502989273,
+          "lng": 35.16111487989272
+        },
+        "southwest": {
+          "lat": 32.95065537010728,
+          "lng": 35.15841522010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אשקר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112198120712891529280\">Nimrod Lanir</a>"
+        ],
+        "photo_reference": "AZLasHoOG27QAfyg9VzmSaohjRqp9PTN5RxVnfzNkk8vKOPWoCLqPTQTUuRZJcpUKLXn-K9wjF-CkI4N7mUYonlQEQoKR4ah5kQp0BNoNYjo-Oc6IPopO28GbMYsBG7vleJdf7bo6VhJK84cN6F-p73d-eC7SGEWIGUeuW9OOK4YsDt830Thj-fYnh6YYqdoCl_tGEQ3vz23aMAfhdm76lRlT5JcNXAuweTtG3jCLrkxpHNZxNwqWg5x5gB80CgweD_DonlmKVP4DishL8MczzeIY28mlh7DDq8GzcshRZaIIvZOGbdlL_P-Pe2Yv02M9jyvYwYxFioBMfkzdrfz_1IOXQUriSRdtKv6G3zJXNWuAzEYPjQsGpyB3vGP7ErPo8cV513erYUEsE1icdyCQFe_HiwBWRKjCHshAJOzt7iyxNFZJ15s8FiT3oGzNCq1MDQG-qeAfStwBRyajk2yFtbTA5C8k_3-iXxOZMbhjYj7PkYCXN9AsCwTAMnJKie2HXQUVEbxK2YZglQA80ec_bCTpugJ9whMKcSxRYlevdmEOPpIaw7mmha5pv52BjEnL0pcTxsBLXbJ",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJxbcTmerNHRUR8ynQCPNMR8Y",
+    "rating": 4.7,
+    "reference": "ChIJxbcTmerNHRUR8ynQCPNMR8Y",
+    "types": [
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 58
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כביש 171 צומת הרוחות, מצפה רמון, 80600, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 30.6148198,
+        "lng": 34.7478676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 30.61632687989272,
+          "lng": 34.74901497989272
+        },
+        "southwest": {
+          "lat": 30.61362722010727,
+          "lng": 34.74631532010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב ננה",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1067,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100981623623537270772\">Ilia Stolov</a>"
+        ],
+        "photo_reference": "AZLasHo0FWlQkhyXBPmbXo8FWh9TgwxXcxaa9KfpNfeXpVBCfHednw-kH1t_OXuMTFj53ZsG4YocXoaCuP4g--E7KP2zNWpO3FWLGBbmV2PMZDP-2pwBZqqhDaWoln_V0tqsBha-zyqdk5cM242V7OggJ1SVqK0NovQ26rMsw8Fga5plh3N1Q1cs5UuoKrs7tPZfJpBPG4Sz0V9kP0txxZ_ug3kMQO-sgpb0qfQNryvfAECmFFa3QHbgaPoJCSBeTm49XfUhqXUQcHthsLXDVUaUr4VraXPb4TIAfRbZSqmwrHv7MUzmxCKDEeVYQvpZ2y4GjSTZUiRy5FB3P9HjIIFJoMN0r8BeAAs-TEW4pGNQ0EPQXWVj7I89n3LJyBSf7kzs_5bBbuVf1NSgpZOZszckGObBaIDhED72kmnH2K8DxoM9NW9R-YKMlZn58w8UPjClFWMNZ7uvJQtK05bpE4Zj9PEX0YsvrQOuanJ5N7_I0FPvLUYlXcchxlOoWZ3y8PoHicAr2WzXmu-MMZISmlxRnIIcDrpDLgQ4GDKsakMzhgekprkroJ37S3cjTEltb734Q0E6DoNIYV3kLw",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJhcgt3D3zARURrkN73JdgKHc",
+    "rating": 4.5,
+    "reference": "ChIJhcgt3D3zARURrkN73JdgKHc",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 168
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "ההדר, נווה ימין, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.1648678,
+        "lng": 34.9355896
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.16620852989272,
+          "lng": 34.93692707989272
+        },
+        "southwest": {
+          "lat": 32.16350887010728,
+          "lng": 34.93422742010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב בן-חיים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107466428978075918852\">מיכאל עמר נכסים</a>"
+        ],
+        "photo_reference": "AZLasHrIujn86KlJr6ivA93YME98pCsTXyJ0eygg4EhdGX-RaLQ3JntMeocDTD1XJ5ywjXM9AYVH8Iacg6A2BBqDies9p4ytb2DpOpknJ2LkFj4uwwLVRYG_RCcNznzitjOfoYHByRdcqI8haHy3HmnkgVdAq_1xsEKzM5yM7ZxGMyhPUrGtR69ljoRvh9ne5YAgKg6vr9I9X7yDj0CH-fiEJp3TK8-SvjI5SkIkucKO_ABxpj3cqYPPm2mDLJz5e7DQ_zr5KSKTfVPhieIs-Qi3joFqLePxD5mDlLYTJh4d1EWdCl9clqJQvCxZOknZ-wT3yjtjHYVjgs4X9r0i1hrKQhTIDzUXjxLgmlXv8dW4NIPZRiM_Kv90WLeaQyG7aO2wTD3-1K0eSDUJvjSSrsXrnnQQmpoTrdjXH6ruDpDX4Wpjkvm7eOQebvNzkpXd2nsvtCGPiIVM1cXCvrIOlJ8wK7SCYGQLZnwjp7kgomVT2Vt4yuo-tHFIN7skNoECV66SlvzqL8rq3AO1JOtRAQvbdL31U0QEuhB1-zO9yjiHwksmww3SL5-pW1h6MhKUJGUQjj55KFRi",
+        "width": 1960
+      }
+    ],
+    "place_id": "ChIJXzsIEWdKHRURThvJiMk4i8M",
+    "rating": 4.5,
+    "reference": "ChIJXzsIEWdKHRURThvJiMk4i8M",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 116
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "עין זיוון",
+    "geometry": {
+      "location": {
+        "lat": 33.0970342,
+        "lng": 35.799596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.09844757989272,
+          "lng": 35.80096367989272
+        },
+        "southwest": {
+          "lat": 33.09574792010727,
+          "lng": 35.79826402010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב פלטר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4023,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106817753458659098298\">Omri Samson</a>"
+        ],
+        "photo_reference": "AZLasHr_FDAabTcI1ypMMFrN_0zQs3eTjMz7wV0prmBbt5Z6P5nU6KXw3d3ItFNEoyCLnQuVEw9NjAe4qT2I8ec-Aj4w9UrdWGbRMsEU8FssUj934xpTQSKcnJFtWfUt4NLjRDGmwK9xPFc_0NzwURSzSIwP0cBmVyXD9K2k_T1tToQ0JXBJpjFS-e6iLVE5lKN1A12_2ETAk7B7Q8-I3QwHcd0wwC325TdThCM35UkJco2hmNFZuvI-EB8Ij-oYMgPBvG1WE_YRW_ZCqM5oZEfK4EmCAaSOLzTMxxVjRt0NwKeJHdyfKhT-zPpW9IHZe6oHJaTfCCQ9pr0YrLDJkAloIKcp1ewYlwoJRoHcuelgMRUjb9TO3e7g_CBFj8dHBrsLO36vB-Pa6QO4EYIn4L8qM0rkv7TolAWek9zNxmR1O7cZn9QnzwWFEBHNBmBPRVGL27Qd9Lkmf7dRF5S-mzUbohnt0gqFYUsW55uDmURSUFM5gApoI770YTRmggIoxZSdQdMPM6c80kGxZJEbOD2glFrI1SD6EZqpybYBXcaeQhL_lJUcWRsiBCGB6bbMO_cp2uQH5w",
+        "width": 4023
+      }
+    ],
+    "place_id": "ChIJ88ZuD1uuHhURbjzgaQ1Qifs",
+    "rating": 4.6,
+    "reference": "ChIJ88ZuD1uuHhURbjzgaQ1Qifs",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1121
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הקידמה, יוקנעם עילית, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6648599,
+        "lng": 35.1057707
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.66622587989272,
+          "lng": 35.10708842989273
+        },
+        "southwest": {
+          "lat": 32.66352622010727,
+          "lng": 35.10438877010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Morad Winery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116853512603378861173\">Morad Winery</a>"
+        ],
+        "photo_reference": "AZLasHo2nSubk9lg1BgqxvB1FnVx8PsFcNfaCGRl__CxlceBQ1r_B9t1fKZj4HTz7tJEcLjM1iy-2onaBootg_bjU9KCnywab7Zd2_mSvlXj32tNRzV4lm4jnILWNKGI9QGByOrP7c5euGPsU2MAAyGsqghcf8_QQxBWzvi_fAk9WeeU7h-hCUYDL0cIFYVH9nW0JDLKG_bgoZ6_iOAVQ7UVSFH9wO9oxY2uzcQ4wkk8THV9cMjTx0ZQuwSnbplcPX3qG1gRkFTIOnTxro2BlbfHmu65Iuw5hogP5L8aSpjgROwoAgsLL0o",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJn6P9uuquHRURn_OmN_04ytM",
+    "rating": 4.5,
+    "reference": "ChIJn6P9uuquHRURn_OmN_04ytM",
+    "types": [
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 118
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "סדנאות אמנים קיבוץ גשר הזיו, נהריה, 2281500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.041953,
+        "lng": 35.1147258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.04329742989272,
+          "lng": 35.11609167989272
+        },
+        "southwest": {
+          "lat": 33.04059777010728,
+          "lng": 35.11339202010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "יקב אכזיב",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2471,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109679024519715424363\">יקב אכזיב</a>"
+        ],
+        "photo_reference": "AZLasHr5yQ83kMq7CMN6G5lsVx2Ydmb-SdGf1yEWe-NJs887EYHTYafUznoVpHmDQyOlD1IbiPhp9-mHKzzpFP8N6lhrabx_D0iteQop4J8DqIyHpC7i_zmVsZ7zAeZKNfGcEs4gqU8LSShycJ5vBMMRPt6rX19im9ybHBYQzP-h35bdmjptlHRA-dyl9LI29TutYqv04YCOB94W0ul9-kXpNy9hOhiG0DSPcFkOpMKHBi_TO9B2b2smrVScGMQ4CwE_mAgidCZFQ2aKIcJ-_zfD77aTgiS87s8psOCxIqdRxNTJnpCHyDgUZVti-0_yavbvX-JdNOrGRDHBfWZhvH1gEBj3IqWDLYfofEG94JZGFQHuAHtL1CZKBTiGsTyDXj-SgBlZmVNtK_gKYH5xHgOXq9IRnPOEtCO7E2TC2nRKOJLqB4zDJ3DAGAQrsCuUXYze9PpKmczvpgRnECH-NZ95nrDXQjdrb7NQ8Blg8rcxdfEClr3Gb7ea-lS-K9IIC-RAPYDEnYwA_-GWMKFFZQ8VGG87OdsH6pVplbH2UQXqNMWl3HkkBdQub7bOUE-kefNCWLedVw",
+        "width": 3425
+      }
+    ],
+    "place_id": "ChIJhU_sv-HRHRURmaRezOrDdPQ",
+    "rating": 4.6,
+    "reference": "ChIJhU_sv-HRHRURmaRezOrDdPQ",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 100
+  }
+]

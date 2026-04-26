@@ -1,0 +1,4218 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גן הקונגרסים, קדושי יאסי 2, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7907999,
+        "lng": 34.9654891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79210717989272,
+          "lng": 34.96675427989272
+        },
+        "southwest": {
+          "lat": 32.78940752010728,
+          "lng": 34.96405462010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הרמיטאז'",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112366953379781862306\">Давидович</a>"
+        ],
+        "photo_reference": "AZLasHq2x2_m0TZ7-mbainJzCQwuOllh6EAixLfqro0wc_a6xAK_gbExFzdm_sVdVBjBCIaS8KP3tkxLXp2fvoWiXqjNSxEfCjoXUZKT89mBnPK_UICB8-v7ndU8xnUCwcK2ZgjNjQyFYLhCyDbyPbnATeq5FYvOzMxEnfEDiLMV5j1BJhq1IGY8rSGItuKcLeavx0eYFJHZyNxa3-emPjTl7CmHMB6UFiNYTew_uX7i6ejzEW-OXkVecq6Q9lUAZz48L2j5HOqWytPcm74XUbCcSBo0kliU5oaKCsdmVJlnb1FOUOkNac8TqAJhhdARBHbJ8wfCKt87KXMyZC_AEZB_a6nI8ZJB3EEtP4h2tBvKEsn4QHgGuIyiNk5ZVgh6r8GBNbQpbuEzNYP-Ui2FWx_b6i4EHpUBeP6rZEPFTCF-F1S07ticpggZ791wPvnLgkC36Q7JJiMzWNEkDVgMT30NpslN3WNrqmTL7xraP-4olddLCqnGBNR8pIa8rOCly6NWRb9T2yugAa0RtUOv1vwh6G3bz2P7eisA8lqwXgmdbYVBN2Rqu942ShJyPHNAOCCeBqU1a555uC6rKQ",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJJ_WuAWm7HRUR9bPKu5mtIIg",
+    "rating": 4.6,
+    "reference": "ChIJJ_WuAWm7HRUR9bPKu5mtIIg",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2355
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "חורב 14, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7854064,
+        "lng": 34.9856964
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78677817989271,
+          "lng": 34.98714527989272
+        },
+        "southwest": {
+          "lat": 32.78407852010727,
+          "lng": 34.98444562010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Special Reserve",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101575895031087324550\">Anna Liflyand</a>"
+        ],
+        "photo_reference": "AZLasHp1BDumtR6K5zqUgpqqz1tvK3GEEBGPo0lzEM0xeZpSQvJMo_q0_Oj2vHiikkyB2DuQuTfF6bix3LspRhCkaAFmwknzKPBMzZC8LrwElapJKVxiFnJTzK2UdxaJU79ZdGO1OPshneLzneQteVuaye38o4G4qmj5nYQiN_m5t2e33lu7K7CJWqrR0xGIwdBgVvXh40nrP9aYzpSftQsiBrYhpL3AQpzgvl92xFfrRhkAUV75Nz3-3C8kBYq0ocXSWjJrfVYkaFksZmkoejnZ4T5GGlGEC_I2aFCsWLz7-ah1hZqPjlb1qHkdXm4kUClzBUuRg707op9Fx0SiBaOo9yfEtNX8t9dX68JuRMd5EcxL3RX3n3FCXbIlQX0RO9i6I1Rp3xTrKmqZt2CRIBHmS_0iqBQS4sgCieCrdKcE8ovP8gGOxFJT7UUQly1KqUNJn1puUPcQaF8_O6M3GzjKVrUZhMuNRXNzSqHrfSpJCdnFQmO_-vwkrrcplJsU-0MvFPCWLlLAFDC3xvPYthXjZX6OBaqYe5PInXOC3_lniuWmXjLvXVfaAfdnmwqIn0JEehy6ejB68QsvUg",
+        "width": 722
+      }
+    ],
+    "place_id": "ChIJv6AVDwW7HRURFPkAnOucTAk",
+    "rating": 4.7,
+    "reference": "ChIJv6AVDwW7HRURFPkAnOucTAk",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 37
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות הנשיא 134, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.803239,
+        "lng": 34.9858017
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80448182989272,
+          "lng": 34.98717687989272
+        },
+        "southwest": {
+          "lat": 32.80178217010727,
+          "lng": 34.98447722010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "היין והסיגר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111304609993026922007\">Roy Ludan</a>"
+        ],
+        "photo_reference": "AZLasHqWnIaBLf4yn1MrruYsaogvXKF4KFE3LXicrAVyOJ47S-NmrWLyhDOxFQ5o6_sSjMmPg2RzakIyniQZRFUr2F3VQ-xJpfxWGTq2lFemhp80iaxkKIdHsgQWvWY0eYgypyLuruah5ocEg78ufy1DS89pFpyQG4b7S8c03H8rDBCI0o4seAW2H3OPzE2YBCVKB1rYLRJHyMnbnuq8EUT7etEd5OjU5QqnqhTAR_mpDbynbi-bAwiiKhTis-2BFgvbzoyBZmn4AI9FmKou-hVBqb535j3wAFzSAa8Ji3EIn2GajCsOaMApNtE0L5s6u4d4odyMaZ51q7f7vn2jwUB_gSkkaEIAJbis4zCWUflLtLcQ4IXi4TuYjOtqTNn6c6trc6BuZFYuxDZjUbAs3EVLZrhZ2MGYbJUvAbGOh-JIT0BYydLoVkP1OqM8lkUTF3TYs2FIZihqEnQe5POo2zBDtHWeivfKzD69_S_XUj98j8JDSxI5R_iDO-asYbF2QSe5zI3DE4_A2EbJMmdsmBl1aqcRV_pr57MUFvayzXX3KB5JB9Takz_XzwdZyPneXyDFPWXr4SXc",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwTYOUqi7HRUR_VeOlBKslH8",
+    "rating": 4.6,
+    "reference": "ChIJwTYOUqi7HRUR_VeOlBKslH8",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 227
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "רות הכהן 2, חיפה, 16000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.78429870000001,
+        "lng": 35.015753
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78567362989273,
+          "lng": 35.01712542989272
+        },
+        "southwest": {
+          "lat": 32.78297397010729,
+          "lng": 35.01442577010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר , חיפה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106035855740053645913\">יין בעיר , חיפה</a>"
+        ],
+        "photo_reference": "AZLasHqBsWjblZtywPPOFxOrR2DTly5qCdoQXGnLCN1GxXTb4UiqKE3NDi_mtKgBIkBMHyqbGaEr5Rj14U8rH1JLL6dBGCFNMcdDryxUloyiJIaNrgCK3QvtUcpU3sNwqjz5xsmiAGV-kZ195J4ZQ-58dm-sxUtISwt7YU2KWchkPigHX0g8tsNqFLLKpwIyQXIB6pfmBECbByJRK2qZ9I8dYoDj6MkvaXUz-o9lLrvmRGnkwcvS47wbu-_qXhlOXEhvl9jvvalgi10xIss-GLkKll8dtRFKQ2RCc30sxAamY2-DNpCuh1o",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpfEO-GG7HRURFql2ivj-ofM",
+    "rating": 4.9,
+    "reference": "ChIJpfEO-GG7HRURFql2ivj-ofM",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 57
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "פארן 7, ירושלים",
+    "geometry": {
+      "location": {
+        "lat": 31.8006054,
+        "lng": 35.228641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.80205027989272,
+          "lng": 35.22991447989272
+        },
+        "southwest": {
+          "lat": 31.79935062010728,
+          "lng": 35.22721482010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "פיופ יין ואלכוהול בע”מ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114907033727182927394\">Howie S.</a>"
+        ],
+        "photo_reference": "AZLasHrMKBkWqyHlZOQBo-yq0HZNypvTtEpC0V-BJ4f4oNZa3MsMJOwgkTDPiVh5sNKrrEFo-b_LrNUfw4xIRpJKbYYvX7OlFhq1VfUiyDI59_o3Wo2nBgRnVBOnuory_XMPLHx3lukfMjanqvj-gFHVU17mEQHkx3s4bbcUxBKri1jVIfKoQSnqOz4ndI7qJ2uyG1Rzn_MwAMn1u4T0F8_NqERUTU8kBL9QWjV3Foj4-pDEM60pMUx-M1SokJ1bguqWJXUCYzV_x5RUUirajNhAqhCbFGTpcc0ZJq-1cHZC8ErvOOYtqwTylVsWP1FWryYkyVp-DSI_NHjTaPuAXZVVZE-YYICwSNUHNKwgEOZwGIWsrMf7Gs9X-gAh2PMEiiD_p9zCzqfO7VKJOtHTtGabuRYGT6EEq-HTm0LevvuHlNmgT_C0i3W5zWxv85TeWCvbUGwDuI0l_8oKpWQYANOaNM_8l-sqpfsD-F8CcCjyvvzU-7aKaHuFC1GH_DiZSCEbTv0lh4aoIqoyemkMbyuegiKjDYolGBSTS8pbsIMEazwsaf-ZES-VZQLinGRmGUFqUKWc4evQ",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJAflTHuEpAxURsGsQCtLIfuQ",
+    "rating": 4.7,
+    "reference": "ChIJAflTHuEpAxURsGsQCtLIfuQ",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1918
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הרצל 33, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8104394,
+        "lng": 34.9985296
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81177272989272,
+          "lng": 34.99983862989271
+        },
+        "southwest": {
+          "lat": 32.80907307010727,
+          "lng": 34.99713897010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בוטיק יין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110151042989764844200\">видео реклама ניסנוב</a>"
+        ],
+        "photo_reference": "AZLasHr0yk9Wukw4VkNoZETHtbJbZcpP4ppz4bizEp05nBbzhdOkrztODhpNO19CIBBataCAxlcJC1IHxd6jx0_LxjBvpwxFwtL6ggBFgd2dpPkiWxOU84UKJVamdj2KXpGXKxdkxlfEV32JRBQ_9bt_Jfk1QQQOCRrXurDxr5xEKx9Zx2NwZYJkNmOcUtJ0cjfCqtqwou5Z2a7WFAYBP5rheUvw9SMsmm7P1PnXywvMGEhA82nJ1PifgAY3auXkpx-kqkSmA17940HmAad1opdQFCcpHvR4B_t6LoZdApGOs8fxm1WWXu-ytTRFUkrYORDW0ydszsWpX7jvcDVoXojGAIREvPx7yNOkSVBwcMZPZjtkIqV6ElaQ_jkhjjqFAY2yDOc_YwdGmspwQct0rboMB6S0TcUbcThaCBt9OWO_kkxJqQq9uhpk8FCgjBeAzYGOEegjy3FHuvutr2_6pvTULnrikWNXyiJQ-clvKGxnN0TrCHddZdaaBoMOaimJz0JiFIjyi6aRIuQPY4ss70zSEHw05BH8yfhyuyr9Aw814z_md2Z1CxafEFyABgENtc4uXnCRIuUt",
+        "width": 2250
+      }
+    ],
+    "place_id": "ChIJxQTen4y7HRURCXc6HinoMzg",
+    "rating": 4.6,
+    "reference": "ChIJxQTen4y7HRURCXc6HinoMzg",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 31
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות המגינים 81, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.82102649999999,
+        "lng": 34.991802
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82239007989272,
+          "lng": 34.99316062989272
+        },
+        "southwest": {
+          "lat": 32.81969042010728,
+          "lng": 34.99046097010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Red Store 81",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2967,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104808814744758569633\">Red Store 81.</a>"
+        ],
+        "photo_reference": "AZLasHoUqzUJggJFms8fTfuNB34-GOqKnznL6whhRR5WLeM0gsAlXmJQYCYkPsj9DUP14V3J_W_JKpFnwNhLGiKf52iLyMuPFh4TNd9lWj2-Ee_GGfgNaHYSBrYSuMfSIPMYirQ-hgfmreu2Zm82sZ-ZFY8qu2QkDFPAIQphhYh3Mz6hfZqJXdxHAV0l7uR27bDNXe2s7WWrpRHr37_SY3qTtQ-z_tzKDwYguyrhRAVC78Iwk0Csnrv2Uhol4MdFKwk1shIF-cXVGjbSav2qwPgQFrwGLdC7njiEW71XiLXT4uiCsiNd",
+        "width": 3408
+      }
+    ],
+    "place_id": "ChIJfRJAWcq7HRURxn_l5nrsNAQ",
+    "rating": 4.7,
+    "reference": "ChIJfRJAWcq7HRURxn_l5nrsNAQ",
+    "types": [
+      "liquor_store",
+      "grocery_or_supermarket",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 201
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יהודה הלוי 75, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0641273,
+        "lng": 34.7766084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.06551557989272,
+          "lng": 34.77802327989272
+        },
+        "southwest": {
+          "lat": 32.06281592010728,
+          "lng": 34.77532362010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ELIASI DRINKS אליאסי משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116261846788346469881\">Yehuda Mozes</a>"
+        ],
+        "photo_reference": "AZLasHoyLbC2kKXISEQthtxshaUSdTC-LfFYEMIysuHouA0qO3onD0S9h9BWJ0IooYxPdvWY3BNt5ruMgzBGw_KWPsrGOozSnTJoy_zGsj1731YnICf_1m_KcgdDuC5TMpUIawtofzD30uqSDaWoepefscrzOW8eQEn08vTngwghALtNHTz4ystNqAw8dVzMRwYINuHpIHLvelQXS-mEgAfZE94iZHXL56ox8fnALA6aGjxfNJyLRE8mPmZczB5HyGAtnIXJlUB4l9rfLKxH4nWcmnQfml2XRqg04wBxWClaKsM7N68MvMf3-pw9Qk8y5H5aTeJW2qr-meNWynFW6bFm_P9rPVAxCZ5jgkJv1_Hr753z_8WqUqCsFtQZra81q1HWmOelJfvjY0iObNvcT6oJkwvoggOtGUZ6WnuXNG9OGYfsoz_-vEHm1MuKOI07naOw2iejg-HkuFGnoxYu8hGaeLLcre6f334IeqUSO7sJZOVQCIRtjsjkrDm-tNf2h3l9GhSFD7ftURbnjQU0axVAKbzBZfjFA-_Nl4foaVMw7v-xRRcEb31ttpMRagFqvVsokI4EKw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJF96-HX1LHRURIz_JkMvF-hs",
+    "rating": 4.6,
+    "reference": "ChIJF96-HX1LHRURIz_JkMvF-hs",
+    "types": [
+      "liquor_store",
+      "bar",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 159
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מוצקין 13, טירת כרמל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7686478,
+        "lng": 34.9723765
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.76996797989271,
+          "lng": 34.97381117989272
+        },
+        "southwest": {
+          "lat": 32.76726832010727,
+          "lng": 34.97111152010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "נתיב היין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 871,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115278139986583458479\">גולן חגג</a>"
+        ],
+        "photo_reference": "AZLasHoVpluurTlwdZKlO6NMJzdwnaLAs3beVGhGPuo_0HfngZN69N7NfySZU7jFyl4bFfkIeQMHjw3oBIA9CDOCb4puAdMkx4Kn-Vlr07uF9nM2C9dinf4vEagPlGOZyPeMC-iZH0GelMmiDchV3E06CXG40LGZfpyZg5HAooaNwJbpVDaWZRV9veNbKCOQB8mik9ZdasT6zF1q-voxhuhIA8Y-yGIqAaW2DJptlJ7TgvK4UAGCeifIB8rma2GrCdViwebbB3ZvReDr1vk2dZjyI8H5MRGhyOdi7Kr72BvevoyV2Nb3HBoU7fyazzC5Cj1GW4HUlEO4T1me2PPHthwiu-36OUlI_Pl9xIGZU9--g7Kq84Px0XtI5hjTuUszE5PHfr0-aZElX-_UQRTRcR6jnb8E6XIHO1yjQ8b6JLnpKhd_gJX2fYN-5ihQrQ9PBInr5pBCec_f9Q5KHkK10Bu1wPF-A9s26umCzUe3OfVt64bsNqyZOsBjjp5MCsaCYnkbcgtCRt-me6BphlGi4nFY2EqQ7eHKniGHC9A_9VqT6Pf9uQyya0IWoobeprMBx76BXpKJbQ",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJk4G2L2-7HRUR97Yq_YNz2Ic",
+    "rating": 4.9,
+    "reference": "ChIJk4G2L2-7HRUR97Yq_YNz2Ic",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "ואדי סאליב 10, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8120117,
+        "lng": 35.0029716
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81337422989272,
+          "lng": 35.00435927989272
+        },
+        "southwest": {
+          "lat": 32.81067457010727,
+          "lng": 35.00165962010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Andre Suidan Fine Wine Shops",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113387693135808388671\">Carlos Hof</a>"
+        ],
+        "photo_reference": "AZLasHpnVQ_kZYkAsDiD8L603kv4pMDvessCQKCFuaBlyeuAIeY25eJsuklWgVOAjGgyDMF8CSioZqLibEZmJxOPErlC-YbboobV_N6Ooni92of562rGbn2vnU4eLjOvbFvH_9WyhcOpfYLKdWzAs9TNjdWiI-h0todu39DKQuOhcn3LAXcU37cZV9bTIOw8oYAMokBGs274OsP6TYy8p6pkZFL8WSSE4Fe05VCn6OM2ftoddE0xCcUVygeTgvtjC4Dt_PTBxmpHbzi4GdapkUAU1cYU0JBt_nI_Nm44qmTBjZBiUUbkb6y4ClkbSJxpIOiO0yFWXXHA1xqPM_v5An_o3fUXPNiUaFUTduFDxq2lYi6Xd3Jrg4pcO8CBaUPohUYB8aPLXwcRH08B7p_XulLicXo_T06VZFap1ZPv-iFJvNCIFC2H-wTT56gUQ0vKFEisKO_6WB6v0E2jfdyyYggJikKY0Z2EWa8ZAnMX5ZPfCJC3zO1edY1atEs1hQBtKSW8nietp4TMcRCg1TvgQ7B15Do3r4brK-MGwsqt-0ThN-mhaTfgsgVp4sQKaNseIcDWTT6ae61QwNydmw",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJS8C-Rca7HRURrwzpIcTiBqE",
+    "rating": 4.8,
+    "reference": "ChIJS8C-Rca7HRURrwzpIcTiBqE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בת חן 52, חיפה, 34345, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7858411,
+        "lng": 35.0076564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78714692989272,
+          "lng": 35.00911267989272
+        },
+        "southwest": {
+          "lat": 32.78444727010727,
+          "lng": 35.00641302010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Wine Knot ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102962416797951594254\">Wine Knot ltd</a>"
+        ],
+        "photo_reference": "AZLasHoHxXI8NhDfosqyZGDh_bdsSihygu_1W66xYS8peDnvIfvH8zfwQAl3ErhS2tIWwKMe2vQ1xdcNmAs7nG54Wz53doKznSXHJ0c-a4W7jj1xjDI98gz-0Izz1ugxngAXQdsh0gNQjiLRATC_BeT3wB7kYuuSoScSPRfPHTD39jkekz9WpioM0ae3csq8Rz9Y2J7P23-Eb-FGDU-Kv8sO21GPJWBs5ZQA5suRUgBdrPVgkU7FwbJvk9lYPtApT4DJabJl-_Sgwz5pf_1Xq1HsCQ1lEqK0tsDIw3puwNHGHWNSoEYq1F8",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJ7ytyPVG7HRURIgBiNGgov8U",
+    "rating": 5,
+    "reference": "ChIJ7ytyPVG7HRURIgBiNGgov8U",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יורדי הסירה 1, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0962415,
+        "lng": 34.7734156
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.09765072989272,
+          "lng": 34.77476867989272
+        },
+        "southwest": {
+          "lat": 32.09495107010728,
+          "lng": 34.77206902010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Portovino",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113648574721573002530\">Flavio Krutman</a>"
+        ],
+        "photo_reference": "AZLasHroT_8N6idcJjN-afSTTKx7QUg7X3ZWmF4htun3MId-oONe_3ggIUVKnUdRAn6XcqcL83zI62yHcn9Mx_uc0c3SZk5WIEsPs-BYb9Hc0m4kcYGHmmHJHDE0HcMmqzHpy3H9roKa3Csc6YOPfM7ryR_psHzjrffL9vuLcTJ0-cv1GJA8UHorIuWxjJM7h-EzsvXg55SbZslDlLdx9r1vxeTcBlHdC3iqqzSjkty7lAvYoOq143px_mnztfC8MYsOxaE35poHiot-bJpeoxpOC_ZVMQAkYDtMq2heUiWpH9054u2BoZJHJHNRzCTuh23Vv8hoDU1fNQdv5FY18G1Uh30jZM_iHszzqyl_IiFkjalXSUSYrfxJDzycq-nGAXSTQQZTtJhSc_o9uLs4xFWPxHKNhb_jTYxN8I2pLMramNrfOFdAjl7NJXR_Yf1qE039-zNbmhWSopxYMaA5p8IABYtQG_MC09KznDQCU4YSjm250d76NPiv-1B_W11HtEJPpGeog51qu3pLTAiD7VgKy0NiF_Bs1lJMAuo46_IVsac0MlkcnJDiGKsl4sn8vtdzka4EFDDrzIGDog",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ745PeApMHRUR5JCxeL5JnzU",
+    "rating": 4.7,
+    "reference": "ChIJ745PeApMHRUR5JCxeL5JnzU",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דיזנגוף 93, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0789087,
+        "lng": 34.7738745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.08026457989272,
+          "lng": 34.77526917989272
+        },
+        "southwest": {
+          "lat": 32.07756492010728,
+          "lng": 34.77256952010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "‎אפריטיף חנויות יין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100110401024262393356\">Aperitif Wine Shop</a>"
+        ],
+        "photo_reference": "AZLasHptGc2tFygaq22FtzG13KmhRi5bhEETVE7t5VwotWq_l9tSmqSrnqVPH_tLkn-MUmMBha0kYMFD6A4PF5fNLOeQrkJO9o-iCib36hcM6tw1GPtNF0gf93PEhBdc7K5DXCtGUJ0FLVAgbyEjXhQQXEy0uN3vLq5xpXwQaqlrbkOFscS1woSKVxoBsbD8SEGlmNvZa9VZE8sEWSkdLrqvVkIUiuf2q0uS703aVJLAhc_PHteLbtPj16uCTUD-zMQm0ySaRG2dJlfwSdR_uZuP4grn3NmJHSaZittwrMMnoKYh5I5SOFQ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ-Q1QqHhMHRURl9aquLwnfWU",
+    "rating": 4.4,
+    "reference": "ChIJ-Q1QqHhMHRURl9aquLwnfWU",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הנמל 35, חיפה, 3303133, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8189745,
+        "lng": 35.0002204
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82032357989272,
+          "lng": 35.00156937989272
+        },
+        "southwest": {
+          "lat": 32.81762392010728,
+          "lng": 34.99886972010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "טרואר",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106799788293119582221\">Ifat Cohen (IfatTravel)</a>"
+        ],
+        "photo_reference": "AZLasHoZDnKrZq5MOTAx1gjuGvlXmsXthK7ljN4Vz3AKs6bOY9imlK-VxulIN3r9-gG9C0k_TqUToocFAoILZjdP01kqYf-43axzZ2H_D-KBrWpL9OZJ_7zSfk2c0LjMFkdcXz95mR42GX8UdAiMvZVbnW3GKhLtLXc5m50VPXE0S-2kv0P_c4kMZ8znYnJqTGVghcICxklk-KhmZ3j_J9c1hdOcUoUhb8nBmD3SHpOBhpBHwK47DgZjZTdKNRltes-x5Weexag6N4t1bMbneXxC9LuKXsLBvGnYyeAxbL0iYRRus-ZQGuehMT9Ib3q1NO5YYNkweR8Q8lyrjkilhQPa69UI15_0ge05DUfrHP2tS_diVlIkvifip7T-NGDo3AgcLRyZzB-0YriAAGe8AKXsEFYHNMLynfmN48EEvNe77cnMeMhdB1uupzkHZudqThlOjI_FzXiJ2wJEha2y0ZrYlFCp79TzWp1PgZBw5F5SuVGd6rGoR4WqXFnWjxvppc4TtXohMv6qwb59mZOkYuVUrfTv6uo-GjkEBemR6ayqBDG3_BSIS-Vl1bRGy-7VK_VBkD96dz-GLAXOEA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVbXpqI67HRURqmTZPsuICPY",
+    "rating": 4.8,
+    "reference": "ChIJVbXpqI67HRURqmTZPsuICPY",
+    "types": [
+      "liquor_store",
+      "bar",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 217
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שלמה אבן גבירול 97, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0858256,
+        "lng": 34.7817204
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.08711702989272,
+          "lng": 34.78304892989272
+        },
+        "southwest": {
+          "lat": 32.08441737010727,
+          "lng": 34.78034927010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "מבחר המשקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101646580882811775852\">Elhanan Perlshtein</a>"
+        ],
+        "photo_reference": "AZLasHpUM1fP6K94nUpNdkly2HB4rGTR6wOq6jk983P04gN2LZ7wG6x6XWm0vgRDcBSy46u7QVil47-ql7NPLuOiThLrcrMZpmcncscbngjS6eBExH1UJlmTw8oTTUVFis4mjedXbt9ioukgV2mhJl6UFX20kAButCWnBOttZfnKNmM0ZoBKZOp1EF6s4TX9FuOeRFuZ8soukWsflD-7uz2HU-Jev0_lCPHD2lMzi3DsPp-FFmr7Lasx7LZAHxtM1qz2DkTOHfTPZ7qf5BX2aayWzJWEZf4d9OaAZQ4tmf_Ka30kQnNQrza9kwGRR5kaf8jHz81PbZ4SI5QbYObIbSr6eFAUMydLhXmDevTWjf0wRpj2a0mieNTWv8nizxyR6e3aAZ-y_H_zBSpGpuNpBie9HxhqahPvN7Dv0M1oWVsouv0aCcha3_gnWCKaTy_n0GC5d4i9SfLYOR4JhYxgbLZziFF_xh5mprl0ykMOpSbyI7KEtoRwr4vPYILUxN5SzV-692Ow1luc7IpK1yXmerMTjT6zrKwikAengnb0bNILB4LyYwftY3XJx10VLHLU9CgWgvu7Eg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJcePhgo5LHRUR3lGxqZujsq0",
+    "rating": 4.8,
+    "reference": "ChIJcePhgo5LHRUR3lGxqZujsq0",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 388
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יוסי בן יועזר 55, ירושלים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7529283,
+        "lng": 35.2063024
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.75430937989272,
+          "lng": 35.20758597989272
+        },
+        "southwest": {
+          "lat": 31.75160972010728,
+          "lng": 35.20488632010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "חנות יין - בר 55 (כשר)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115872241571812945485\">שריה תנעמי</a>"
+        ],
+        "photo_reference": "AZLasHrHPBuFCDacUO4mwJfJj2wPA7mtkvsJKOKx7g6zPNt4GiYTdhOOd7chOMOkeXgEW8SzjutsNPGexEAxcWiyPL61YRTI9Pp857kV5105mx1kV2Qeb2pySe_W_3tWYMnDnuunsRgr_-L5UHek5mwJLRRlV2kxrCA5IokwxihpfmeNQWaZXtctrWhdw080KO1j2UO1wEePDXd3mC2M_C443QDQH3vYKsgmkntZ0MqTFbKSk1i-sgHitEP6633kd6WCOkWvyt2pHQpRuGPEx96IhCOkbXkplX9B7-1krTMmiFyUtwUM_vX4451LjLxPpAuftwyFZzz98ozBY8O9dXHx0eG9QtIFOlb7MLBPtbZJ55ZAqDeEw3WgTsGaSK3-mq5qItDtBHnkha5OaHkDPCeBYXl9A6lzuwQa3qgcklWzr864vlGllIqPaGJ-u7u6iB9xt8vDLqV2DUAVi6R4aZHq0TjUgMRtkuvF6oLdhgI-IWosP0dDE1gSpOhVHx_M01ol_deYytFkQYHz2TiWaW-jFh-JQrXizQ8w-_nF7ExvotUtQzTXBqudYT2DYnQUIemLo2aFZZuA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJj96N1uXXAhUR-CuwYoO2D5s",
+    "rating": 4.5,
+    "reference": "ChIJj96N1uXXAhUR-CuwYoO2D5s",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 328
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך בר יהודה 111, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7858034,
+        "lng": 35.0311038
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78719872989272,
+          "lng": 35.03239667989272
+        },
+        "southwest": {
+          "lat": 32.78449907010728,
+          "lng": 35.02969702010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בוז'ולה חיפה / Bujule",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115941503293424879936\">בוז&#39;ולה חיפה / Bujule</a>"
+        ],
+        "photo_reference": "AZLasHojHE2VxojTBoy9OtabS0DHiHKZGqulqGvb3a1ojNoMk34VUUWSYJryqeoIT0o5UmZ3gB7Ckvw0qBFPo7uJX60JbaepkTVs0SqalBWctkdKgkKRPtDVLOsg3hPNg3MLJtemGX9eyJxhFHo1tMtUe5qLcW8qNTgJ-C_Qt66Lit_FJ4Qy-DzTB8rRcgHlWgM8oEbUzdkyVbVuWmn-Ty5iDefRSSHziRB480EbhWyTfy2PBGTXdM91WwOL76dE3-GD6Gp5xILLtqe4tVQoa9_yN6UDl8dZ4fjlF71vJaL_bBBQOMokVr4",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJb2E0wSCxHRURLTcqVgak21Q",
+    "rating": 4.9,
+    "reference": "ChIJb2E0wSCxHRURLTcqVgak21Q",
+    "types": [
+      "liquor_store",
+      "cafe",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 230
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שמריהו לוין 10, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8127083,
+        "lng": 34.9972636
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81406637989272,
+          "lng": 34.99859712989272
+        },
+        "southwest": {
+          "lat": 32.81136672010727,
+          "lng": 34.99589747010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "לוי משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108331123283447236732\">לוי משקאות</a>"
+        ],
+        "photo_reference": "AZLasHp0wYbk2YrSXp6WcSWABibg-aMI17uWyF7FapoOt4l1Li9NWwXEPu06Qc1ET9Nw1xaxwc816ggZ1DBlilRgtUuFrgHNeDzoONUxCNvuq___P-6p-0gp4s826ZhlU3nldre2p-heUygndK1rkPqnMXwM2CIbbwhCzC5Xoax3XdLbH0-zmvktfIs8ufph1uJQ_Dkx_q-jnJe9X_PIdIUsiSTAXhpKWd-LxuknNmfJJbA17b935jdzSx9tsQT9do1YOtRPR5c4vWDy8mInOyoar3zxGwkqk5QL5zT8AqtB_wn1CYlwcAw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJHXC5xBy7HRURN6GqlOZbfw0",
+    "rating": 4.9,
+    "reference": "ChIJHXC5xBy7HRURN6GqlOZbfw0",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 53
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות הנשיא 134, קומה 1, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.803239,
+        "lng": 34.9858017
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80448182989272,
+          "lng": 34.98717687989272
+        },
+        "southwest": {
+          "lat": 32.80178217010727,
+          "lng": 34.98447722010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר מרכז הכרמל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1088,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106418335523835210710\">יין בעיר מרכז הכרמל</a>"
+        ],
+        "photo_reference": "AZLasHpSgyY69JfNCgn-pKxcS7ESOWzX_q--zJhrdS04E64mdbKh0T2JX8bsw4h67MtwPwZzi_HCpS6GuSMrGh94OZRNxDGoLE8Iw4xjCs2QXI5GsB8X7ohJZtsRynbYgJKODothLuKFOdmljsSYHEeqSwPtv04mjMWrl7EbQahl8WFGPAGbY-CZBQQZ_WafEq9xaxLFSoSyNzehSs0s_JBF6VeZrmm7CkZ8320zT5yRce7uyJS1LVpnNzGiw0EgEPaBIDDW8X2y8Im47U1Ce1XKVNiyA5W9vslOzstYylsmxiMy8tl3",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJF_-Brdu7HRURbph8QsgG1xo",
+    "rating": 4.6,
+    "reference": "ChIJF_-Brdu7HRURbph8QsgG1xo",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "משה שרת 7 קירת ים שדרות דגניה 30 חיפה, קרית ים, 2902159, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8303,
+        "lng": 35.0578216
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.83158967989272,
+          "lng": 35.05924912989272
+        },
+        "southwest": {
+          "lat": 32.82889002010727,
+          "lng": 35.05654947010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "לחיים בוטיק יין ואלכוהול",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111390573703411242210\">לחיים בוטיק יין ואלכוהול</a>"
+        ],
+        "photo_reference": "AZLasHrUf5G3MdQ5BhQUWiUVOaXjn54Xxg-cKwdq6HhGqTqKWfI-tvYOCUoPoXziOqPjRjwHeFBQfXO09wzLaZRE1iRiizOHanubigEi8uKN715gmH5V5sx0tgeu0O3O1Wv1TGWGKK9CmH5BfRWTDHvkITOKw-41dcxf81faGKkLnSOEblWNtjwQQYQlsUqOHaY4OArtkIy2aIiRr1V_FTuhiUCB6Lh7DTt4CNwYJS420Mst9cWr3smEucu25wMgnWvjfm9Cy939OM-9BPLt56DoZz0NIzzOHUvAc_a2jkXjU6aoW9cPRJ8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJr7U77yC3HRURr1DLS0xqRr0",
+    "rating": 4.7,
+    "reference": "ChIJr7U77yC3HRURr1DLS0xqRr0",
+    "types": [
+      "store",
+      "liquor_store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "נתנזון 6, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8182619,
+        "lng": 34.9988255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81963582989272,
+          "lng": 35.00020787989272
+        },
+        "southwest": {
+          "lat": 32.81693617010728,
+          "lng": 34.99750822010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vinoteca וינוטקה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101348341557750050043\">Vinoteca וינוטקה</a>"
+        ],
+        "photo_reference": "AZLasHoZ4JY2xO51QAwXseWdFfd0Y2qxAVRU_gZ8Z_YHDSg5LToriv4Kvcg8MyqZkPCTEiI_HhvY_bUww4-9dQUJt51p58BbZCj-XD51ppd_Ejt9iooG7_GRTyLLDWmLCSHtyIqvE1Oujmto4ntkE7fp-28qWjmGz-NjyrOGWg0EIiyPJ5_ahj99O3YRJutnHUVRtafsK-RWLGL2ZQgYQgyYAtmVVlXJAFeg9owT5I2sXesiZE5YzFhGVC23U1UQ4VwhFuyF48FIUaeYq0zgtFLgrbdTNYmPWtXGzjOVMF_cBirV2pHSd2U",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJQW7OGNK7HRURE1EQ6LwmgIk",
+    "rating": 4.8,
+    "reference": "ChIJQW7OGNK7HRURE1EQ6LwmgIk",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך אלנבי 39, חיפה, 3326673, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.81878,
+        "lng": 34.993344
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82018377989272,
+          "lng": 34.99469347989272
+        },
+        "southwest": {
+          "lat": 32.81748412010728,
+          "lng": 34.99199382010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "א. סוידאן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1612,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104452981086031850098\">Suidan deli</a>"
+        ],
+        "photo_reference": "AZLasHrmthXsQ4jghR5iZH9uQatZe4B679cYuTl69hT54zJCYcyAGaab-JnSBlO459L0Kvd1v8Wk_mzbdiT8WBUhcHRHt_geOZMWRxgXLf2ahuC3A_AZkaemJvtuSja3p0nEWw50OaznCKPF4LUv3TjhK4TvFOReRXAv4Ch6H8GuXKskFoUbOaIHoPCjoRO6bG93VUQPdqr5ayZzoI3QxIe8xDuo5NAtdaIlql_NRJSiMt0rTLBd6B0Nph-sZzZWQdxQJTcIHwvRqvjsR9m6QaQlUS-fIceyfQz3aVqyPJ1RRKX6IC2hkf4",
+        "width": 2415
+      }
+    ],
+    "place_id": "ChIJUerincq7HRURaHX1TI-dIQ0",
+    "rating": 4.7,
+    "reference": "ChIJUerincq7HRURaHX1TI-dIQ0",
+    "types": [
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 130
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות מוריה 98, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7914382,
+        "lng": 34.9862319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79279307989272,
+          "lng": 34.98765547989272
+        },
+        "southwest": {
+          "lat": 32.79009342010728,
+          "lng": 34.98495582010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "לולו עיצוב בית",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103901260819294949920\">לולו עיצוב בית</a>"
+        ],
+        "photo_reference": "AZLasHq-xc27zKGSJWYmjv31n34HOScpzL7Fm8C5sZ5um2AsEmEBcBlTRPZlHtoD24hioTmM07MOArZ9sUOh37wwwHzOVbhNqfaZfhn8a4hJ1KjZvyFyOM4DpOcU1bD9bwEa2tXxFXo9RvWajSYAUgyXHLLHP1mQzKp2pjcxvqJSZzSqCOBkSs-d6BwUzb9EDy0vaHXILmKjzzqCW76FOL-X1AsBCmvtj5820PGfupYzC3jZ3EvSbOIuZqwkjexcVd43U3wbIAGtGp7NlVjRR53W4whLlkrvWxHRtrqwbHRx322YzMQYywo",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJS9m4xAe7HRURmYC_Ci6-VAY",
+    "rating": 4.7,
+    "reference": "ChIJS9m4xAe7HRURmYC_Ci6-VAY",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות הנשיא 98, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8082441,
+        "lng": 34.9857568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80962047989272,
+          "lng": 34.98714692989272
+        },
+        "southwest": {
+          "lat": 32.80692082010727,
+          "lng": 34.98444727010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Wine Bar by Andre Suidan",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101575895031087324550\">Anna Liflyand</a>"
+        ],
+        "photo_reference": "AZLasHrQ_TXwLFAasD4zxbwEwhTITfIN9U8-uH4a7zG8DB8hdEZ8z0Q-XUdzimTf_Uzg5bk8FqfkihnTyCUd4r_br3zAwSTYL9vdQnT1-RHxwoiwKoIXdjsqcVOk9uazn3VFFKxAuuYAeSNGLczU4WtRzWu2-g6GmoJvXtTlfno3SzCGJp28FY2RTIxRD0C-N6OsxTD1DwoczOGL8pJXBfYlPmTOmpYlobU_t2SuSKvHeeHc3r7dUlzPxdU9kFJ6OGgGKLb43U2oa3CrOwnH3tCxHG6UjLv3LouzYC4zaMC8aD-NAzTqzWVhh9gr0hdBypyNYscg-8aK42EL4eRkViArBAXvWhTPj3mXW3ylcQRfG78qqqXAJDAnSZLDDExg_jD9w4d-n6tGUKrZrMxUFZ-oIGcYOAud9GCuPpktGMJrYqJbFL6rPypmfoEZkdG3L6fjpZG-ABkmFJkJJc-jhQRyAOat42tE_USmaIA0iZlT9croxk6B34qp6IUBH3zWO5Z-Z7eyPlGAxJwwm7XkCzrm5tGE4RLfcM76aMAE8A6JMuHLuuNpzlDark8T9srAV99ZpJffLnrt_PHC0Q",
+        "width": 1089
+      }
+    ],
+    "place_id": "ChIJ2fyND6-7HRURxsjKIA6gMVo",
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJ2fyND6-7HRURxsjKIA6gMVo",
+    "types": [
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 430
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך בר יהודה 147, נשר, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7784955,
+        "lng": 35.0392735
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.77978287989272,
+          "lng": 35.04071757989272
+        },
+        "southwest": {
+          "lat": 32.77708322010728,
+          "lng": 35.03801792010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בנא משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105701026803957479639\">בנא משקאות - נשר</a>"
+        ],
+        "photo_reference": "AZLasHoSGyjpMRRzZqk5Q4b5t9jDjDirK7TwWtgZSrxOrDYqCnhqobLYRVEDPzhQIOzd2zEpHNtx71f1ALKOGdvIN1OpNcABjQa1q5c_5LlnTggcH-s99XfKs-xmMXYxGwrER0BPAaMtv_1x0PF7bf5nXTtTpu7uVKPVeDP8zgu5XdyOYKscEB8I4LFRCVoj7dA7b8EY4ImzSEBXmAGfs2ypQq8wihv5A-zMKrQsBgWcw5fESSQ6krynkpun0q58knvBDKh3MywZuzdyTMYs1a5SgVDEvYs0WzG3NO21Hatnk0G10Z8QVm0",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJK-tDpHiwHRURjVQdpbaz0-w",
+    "rating": 4.4,
+    "reference": "ChIJK-tDpHiwHRURjVQdpbaz0-w",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 290
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מונטיפיורי 24, תל אביב-יפו, 6516408, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0650578,
+        "lng": 34.7717621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.06647552989273,
+          "lng": 34.77307897989272
+        },
+        "southwest": {
+          "lat": 32.06377587010729,
+          "lng": 34.77037932010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "WINE SHOP",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 724,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110188537230661502468\">WINE SHOP</a>"
+        ],
+        "photo_reference": "AZLasHpnPUxYxzEO5NDclkyECuoDd1YJMWp2jk90aH7EbchooyQZy2WSHXhhXehFn6pXU9xDKSDpGPmrDHV7HAdxYWeNiwCEcnjihSUpyAvlPrK2j8C_2CEXn8m0YxN2MDJvdPIOPcR0MVgNINgiYV0_g9e0DTX50J1Oj0OygYfctemICT7zcicLTXj3310cmlxQShWyKRQKiz1P0N1hHMTB3d-WSSEYS00EJpudg5DDYtAUDNsNnLGH91C-zPLAEjcjtrhKVERghkc8GFvMWvr5VTmstNN4iLxM2oWhScK3hEQ_mM8nQ8M",
+        "width": 1086
+      }
+    ],
+    "place_id": "ChIJuWVJxA5NHRUR5UaHwZju0xo",
+    "rating": 4.2,
+    "reference": "ChIJuWVJxA5NHRUR5UaHwZju0xo",
+    "types": [
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הברזל 33, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.1105261,
+        "lng": 34.8417047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.11185757989272,
+          "lng": 34.84307427989272
+        },
+        "southwest": {
+          "lat": 32.10915792010728,
+          "lng": 34.84037462010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "וויין דיפו",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 959,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108234945553235892653\">Wine Depot</a>"
+        ],
+        "photo_reference": "AZLasHoHQ2Rd_2SFHaG3VWTomVvdnaHl2B8nuSsN0Ynz9WmLRM0zyVeRJOeUPm0jPyEVPJi5gVb98gFsvNcEqh1mutwSNtQK6hJBsY7R-rvvIjrdJy4XP3bV7VOaWCfJTIxuEVvhKdJvwOm75ZgyxH9Q_wNoT84149wHV9QONVoMKQGGYJcUIzlVy43__DXm0hEdHHNIhL2dTeRiHDvcDdoDZgTy4SYA8GWrtA5c8D_XmiyH9pIg0bleJV9RVL1O-hyg3bjn3f0Fceigwm8ZgusdFv8CjjLTMiRUmqr4JUpGgbp3YonS_vo",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJpWICw-pJHRURjYImj3xqRL0",
+    "rating": 4.2,
+    "reference": "ChIJpWICw-pJHRURjYImj3xqRL0",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דואר כפר המכבי, רמת יוחנן, 3003500, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.792519,
+        "lng": 35.1229383
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79386337989272,
+          "lng": 35.12431527989273
+        },
+        "southwest": {
+          "lat": 32.79116372010728,
+          "lng": 35.12161562010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בוקטה דל וינו - מארזי יין וסדנאות טעימה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114970812664428139633\">Bar Gutharts</a>"
+        ],
+        "photo_reference": "AZLasHpxBYrnMa1JOkCa3MwjA6WUB4wn2t_uuOJhlOOursQCn3Ln7cAJanABwjO5spcpj5vK6jedulqF-bOtW81tyBEKW7GDgQT0V3JbXnUmMpbDrUKvWWWI0lL3sB47pCucujRdYfCrbJGodIpwTlahWaE4MoULc1NpibRGeUKMVMXxN9uxuUqvHJtcn_73X1sQiNvqGKN0vvMzn1HDknXVQwNX8vKb2LkAJhR8JIkG0o3-aqmNjXCBy9wQeXJpjs7C1vIXs5OmEJ5GAhaXbDgv2EFNHZ0s7qVNtpkbatkPrcq15oSw_puZmBbQkyRuQUXNcgOkKoXWckaCyqXBJPIlmhsNELFCztnUYY9kA3EboEylsYANCympC9gSXYhGyQDQcxAC1HViJINI6c9UZGRA9CFeFSmR52pdKlIWiYHLh4Htd4_EsAC-rm5XYBZU1Ya6wce1nb_u7932QjetluqiRPpAgZ_UgvID32PciXHN-uvJRBHRUP5boXDjeSfInrtSzsusFxCuPMY3orNzIxsT2_blm7GA1K4h6MJUoF7PeSl_URE7UCRpZQSkPUm3PmbhA21TWHi_",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJuXu1zvCxHRURUHwKreIzyxY",
+    "rating": 5,
+    "reference": "ChIJuXu1zvCxHRURUHwKreIzyxY",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "קהילת סלוניקי 12, חיפה, 3216814, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8183537,
+        "lng": 34.9992958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81969722989272,
+          "lng": 35.00063997989272
+        },
+        "southwest": {
+          "lat": 32.81699757010728,
+          "lng": 34.99794032010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Wine and Sushi / Wine Bar & Restaurant / Haifa, Downtown",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116386190659026229498\">Wine and Sushi / Wine Bar &amp; Restaurant / Haifa, Downtown</a>"
+        ],
+        "photo_reference": "AZLasHq5dz-ynEYE8lS-43eT23KRUFu9MFByUY3yiGTMtSJBjuB6FsOTRP_zVrT0TzvL9q6nk_KgAqZfPt_HXDOY67-13xAyUZjswZ-ALnVlE9C9tG6lMMP0Ff1Qa2MJUIflcayvRo9F0SebY7LoyAPK8n4wwe-DNpLsl65SYHNdqBteOBhKTsX5U_4qu3PFIp2H7XE8cjkk5_a7X-_aHXvm0PwWdHdo5aolAVa-Qq_MQy2dzbM_fSTPM9-a4FqNpiu1aW5r3VU3auMFpmkJEYEuUNZcw17wg7FbBmnVcOT2xP5Fb5HZSYs",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ6UNwuWm7HRURy7yxBaKcq5U",
+    "rating": 4.2,
+    "reference": "ChIJ6UNwuWm7HRURy7yxBaKcq5U",
+    "types": [
+      "meal_delivery",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "restaurant",
+      "food",
+      "store",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 280
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בן יהודה 136, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0854795,
+        "lng": 34.7727528
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.08684167989272,
+          "lng": 34.77404652989272
+        },
+        "southwest": {
+          "lat": 32.08414202010727,
+          "lng": 34.77134687010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Better Wine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100050164143975660450\">Swetlana M.</a>"
+        ],
+        "photo_reference": "AZLasHrUrAtdZpDdYhG-45h6KGyVZFURQPujetZcr-jYAWw4Ci8Y2e2F31aIUMWiGG9dROWYXtLvixjcW5LWEvmF5CaZ5wvDbWNorZG59mG8HQE9_UQPRqKITyakEVi_xYG1thLlVDCB7zWvDUUJBYdJXNVGwoqK68SUqdXn0yyoX5qlXzgFcbIPijNbUGHWxnJusNCRgvcPd5jcnwqvhG9qZRftWPIMfhmDkKFb70kxcB1r2wBa655LPmW4Y-4-fZxY1tWL7ATQxRud3ObmlqNe2LQGf8U-HmzSrfLIVY7fbrFHGmF9GHD3EpQfwOsW4OjDPj7UZcp6W633iZ1vgXMKkZB-9MkJNtEYhWFts13Ok7rx0YqrPZ8YYwnHdNq-eYoZkSIyQ8M9aT4VDbopEmsqHfXfwKq6wxMuDv_6HQxog6ZGzSU5nsgax9PMtzWBe6OkvLTUewtfFAh2mZHXrBngniHE7TLnIOcwr0eBBQmzQzOloZG_aYWbMp9xA56t8I0nDDW-N0jgNf84RwZXf8fmKSbF_oqVAhrkrR40f1kXnmB-OjUOlfOYD6GVIhP96QnD0dwglA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJR_ALuHdMHRUR2YONgYLJdrA",
+    "rating": 4.7,
+    "reference": "ChIJR_ALuHdMHRUR2YONgYLJdrA",
+    "types": [
+      "liquor_store",
+      "clothing_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "ביג קריות 26292, BIG Krayot Building A, שדרות ההסתדרות 248, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8112803,
+        "lng": 35.0708595
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81250802989273,
+          "lng": 35.07195457989272
+        },
+        "southwest": {
+          "lat": 32.80980837010728,
+          "lng": 35.06925492010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ליקר מרקט XO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105356102648207510118\">Wine with Noga</a>"
+        ],
+        "photo_reference": "AZLasHq8oAPh-PvAL85z3O1xxmQVgR3uoqV4ET74VwelummtfQbiIkVc4OgpydCKwXOiLnLfVsQGD4V8sQfW-i5tE0AtDwmbiofpYNnRb3fdWwx36q-Uit9dogSJb-3aZt8QJPYk-DOPjyVs6WWw0j9rJdh1jtVLBteTRW_vM6ji24ZWbUK8XiG8HF3nsszOGpzamw-fFlmZOqbNhkC0W9TFBmmP_5LeU4mjdqwLJeIaU6q1F-CMUhP7olKEo6orDxz-5kgYNFtke1WfJV_Ia97jnXr7D_nYAPXle5o0Ej0kynFZJz01xFamfH-SiB6VGVXfkaViJbQ2fRb31Xhy9L1xnp8Xgm0pLN2iMe7-TatL4hxNJB-qoCQ5k_c_p5wtWcuVYlYTBucgWW6JHDlB2TLEB-2nXSwXOGrKhk3-HkWAmxaoqA5K0vBk1IcX8wKDZTFvZsBQwGIgKTKvpPvUZ0Jb0zUnIiecI3Hr323_V8K4ui_yQgYgzxu2ZYk5rTc5JIP4lalslZtoki1jJJdQ7dp7Q6Hyy2zoKIL9G7pc4BmAu9RshSJ3sG19NYw7fzqQ7M3sVLJCVSuO",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJT6xAos2wHRURFTaqH4L_WSI",
+    "rating": 4.6,
+    "reference": "ChIJT6xAos2wHRURFTaqH4L_WSI",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 517
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "פרישמן 73, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0797212,
+        "lng": 34.7789095
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.08100532989272,
+          "lng": 34.78031392989272
+        },
+        "southwest": {
+          "lat": 32.07830567010727,
+          "lng": 34.77761427010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "ג'יאקונדה בר יין וחנות יין",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 937,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118350081762206999780\">Anat Sela</a>"
+        ],
+        "photo_reference": "AZLasHrgKjSRswTxgjV6oJbGyZYzYnt4RgZGAhnCY8I4fR5kzsTsjRyRYVgbTwvO_SLUdKXoxK9zjnRemyaVFX5XKgc08j34fgW-ft9jSuXFmiT54qRtdLZ1IbeAUrkasUjVWvRgLPpMIkMqyg_i5CXWFTFHb2ITP4wQZZ7aaLfMM7MJZdV7f4bUdnhgjDPEt-qr5jqJ1Y5X67XYGBCOw3TNN-ndn0pOckPfNJgtk0XUFkAE23IfOSF2YHEqt6MyePYaB-qODOIAdlnrbyIrrtK0-f9e3yVkhoX5M1watINuUqG1DHIkWOi3e5fOHvsp4GdaX82k163nmq5r4DZllJhmXc2BwtB_jNKDUpCTPHid2v6Ta4KDomPG-NHKCTN_v0ZKbAXI5patQASvx6JVD-dBdUasm1iffwoUhQhlvpSgvVKiy-nRirVk1C5uIGvUwK9WSax73OSg1bCBYbIs-pHEmgOv0wkif4edg3I75j-KJgtVedQzGWHaV69oo_MeOP2U4wjs4zKm27Mbime2FFNH7tKRr1OxJaH2EScr56ol0wDrvvJZ4OUHhmZ6n62Xue26ZhHJjq0B",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJYfhte4ZLHRURcU3tEPoVWcc",
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJYfhte4ZLHRURcU3tEPoVWcc",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 241
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הרב זוננפלד 5, ירושלים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.787918,
+        "lng": 35.2231146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.78924867989272,
+          "lng": 35.22443502989272
+        },
+        "southwest": {
+          "lat": 31.78654902010727,
+          "lng": 35.22173537010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ליקר סטור - סניף בית ישראל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112096431017763745611\">ליקר סטור - סניף בית ישראל</a>"
+        ],
+        "photo_reference": "AZLasHqHt_yolRYblJ7W8dwqTw84xJAXOe5mlsenl1_5VSL9niCXgsCQB4RBsuM8-Zcx-tP-YcbLbt0aHLAoYMU2RGpGCvBLj8mpw7RLQIvvFnFgqlLBlh0gn2N57c4FAZQuwj-VIcLe3N6o6clPu4B6eZsWyE03iBvREY8-Es9d2efAWeI38_JTkr0OUJCKSvJMT4HYWwkpUakl3nk_NCtQjedkFqk7AvocjSH3W9xiakgIiu8oLdQsTGyD5YPkRXOWeSITWbVwdg_1TT9_b0VdkVZET4yna1LkX_1i4Q_8MId1Hcpq9so",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJgWnNCOkpAxUR1l2fOnx8L10",
+    "rating": 4.3,
+    "reference": "ChIJgWnNCOkpAxUR1l2fOnx8L10",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "צפרירים 1, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7968968,
+        "lng": 34.9837461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79830257989273,
+          "lng": 34.98511822989273
+        },
+        "southwest": {
+          "lat": 32.79560292010729,
+          "lng": 34.98241857010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "מנדרין צפרירים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 492,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116399842030009928200\">Erez</a>"
+        ],
+        "photo_reference": "AZLasHoNTKlzGHnBBq2OlTUqnnGdMdJHK2jr6bAEhfeM2SKqHrtw0sbSCXkNWBGPrkgDbWL_UiVpoRXlTlATVfKNCSIoRIMOukv6BOGqlIoIKC_M-0z-IiYWUd6f0PoF_5UPLDz7g1yRbO9P6fPo5g9c6gPUoZQ0EE3L90qPx4bp8v7VQoTjZnCXEfictah_aIRbKjojSf6TZmPY2xaag0R8Vduf9bQykEenKahPyUQ89D2y0q5Jw_wa76gz1ajU_6C-L5fku7U4KT72fEp3s7emdygvaDcD0SddKuojz9kJnWzP6dgPauJKXSbbSlp2fnsCiQNXwYRGtoN2kwYLBuRP7kBm9Yi-gbBmw-B2Q8OdStrV1APntf07GXjvixoPsX0VWYvZOQby6VpEPnnUp7dOo7eXSQVQwTzPjvcvac8t_2B9-0Xoy1-xPylJAv6j-CqjjU06ldv2ql3jYWY1z7go0tW0JCxtwYJUUgDMEQolXe60V25os0YQNFFBCNFkd6yuSRVwEZpvGtRly_ia-nzoQx1OLw8KE7fMBNfBqm5g5HvlD601U3eCCe_ls8Me73OlEViGdPhA",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJN6d0_wW7HRURWJD-27JKNBo",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJN6d0_wW7HRURWJD-27JKNBo",
+    "types": [
+      "cafe",
+      "bakery",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 173
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך העצמאות 9, חיפה, 3303305, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8174885,
+        "lng": 35.0020999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81879127989272,
+          "lng": 35.00340082989272
+        },
+        "southwest": {
+          "lat": 32.81609162010728,
+          "lng": 35.00070117010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "123 אלכוהול | Alcohol אחת שתיים שלוש אלכוהול חיפה בע\"מ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 738,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109229442747561708511\">123 אלכוהול | Alcohol אחת שתיים שלוש אלכוהול חיפה</a>"
+        ],
+        "photo_reference": "AZLasHo2CNvfmA7uoaKrYc28k5C_SljbeGHAH3CgHwwXydu7i9JTduhRN7vybnmi1zfXM0CIzdo58fZgrm7RQQAl4VpOL1FyM59ntR0PGxXwljXUFIpJGGzBP1oZrXXso1bNgholqz4ueOl_JzOdhuHmoZJebsWhouNTLlpolLzNsX_7WGo_GEFuu76_KozOpqY6rijq-NUhc6VgxbZFOie3ZC3Qqy_98gfkZehR2ovciXOKjSpMZHK9B86vOFbCrFEyy1KkHzoqaQeO2jcovAGf9Nz0FRRzRgmg5zAz1os7xSC6aZr2wKY",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ4_y0YDK7HRURKWoT1cmReBI",
+    "rating": 5,
+    "reference": "ChIJ4_y0YDK7HRURKWoT1cmReBI",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הנמל 47, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8199217,
+        "lng": 34.9993455
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82129082989272,
+          "lng": 35.00071612989272
+        },
+        "southwest": {
+          "lat": 32.81859117010728,
+          "lng": 34.99801647010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "אקרמן משקאות חריפים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105356102648207510118\">Wine with Noga</a>"
+        ],
+        "photo_reference": "AZLasHqa8JMeG4pM7alnHLa5dJW1oP9_3nrquBWP5poJuf7jzpjTmYjScjDxhnDdnfPl8IwJ0s3WsWX49xRiAutSSLJ9kL1J2M3yG8ynbKJThi_nbNs5yPMz7ep1tggHRFllzxfuywneusCV7pydlbvVDBhNaND6FTIfdEPiFFHcvkk9HWP70ok3gZgu1xlpjdDmRTZcTT-oLSGSS_v0zRRHDp1qdGkEgerUaU__Yu4NZT9aHqQpeakw27NVOrq4h1wjPXR7U9GH5p6UOoEZssqDCITox1XDytIftP7gGDXy-vbRrynTgqEs9cqXI26NNU7qlmOIOChVjPdR0pMUAlEERTK0Pyjr_susTqQ5CsqDb6V7fH1JKo8HrpCsFX_UXUMTgz5vyqXPozkarmHYttxDUyUjlyE8DtTzPP-KRUjiEmhR0dQ11yMo-CxOHkgToxOQcvy9MaDbkWvKexEg6aB8Hp7HLnSFmn_Zlp7FzXtubuH45j_OBNuXfkmD5KZUCBQLW3Rwy8h3wpzwM6CpG4AmR2tR7MULR1C5vBI-okH4I45RIaAyiLS12Q83Xz5pqTU6OnpDBW4G",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJh2ivOjS6HRURr1fwY2jHi8w",
+    "rating": 4.2,
+    "reference": "ChIJh2ivOjS6HRURr1fwY2jHi8w",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אגריפס 63, ירושלים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7836989,
+        "lng": 35.2138524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.78504957989272,
+          "lng": 35.21520332989272
+        },
+        "southwest": {
+          "lat": 31.78234992010728,
+          "lng": 35.21250367010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בשוק",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4708,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113043879694071737553\">יין בשוק</a>"
+        ],
+        "photo_reference": "AZLasHrgHxCSLvaxze9ZFaeJTi0KGE-P0PPow5TwiS1kvGtJj3q10Evhv0ipQXfLlEF9cjAT-xbJK7_E7eW3Ca2LEIioeyP85bdcIhM3t8VnLGOIeR8H6rgbTEh79fxJ5k_IQIVDahppr8mh8RILTlCPa7AX-7HX0h-pIZbGIk0NG3wDd-_2MwIbE7zAB1gArzv_7WgaWsPloQHVrLyaACcULgGSaBsaksdFgcrQhLH0Yvoa_6td70hTHPC5b8HTchLGPaeJxUJRJINNnL2_lYqnQQg02L-6gYlkREz6JZgk5klVF_tEYJQ",
+        "width": 7054
+      }
+    ],
+    "place_id": "ChIJf05e8CDXAhURHrt2fIo4LJ0",
+    "rating": 4.9,
+    "reference": "ChIJf05e8CDXAhURHrt2fIo4LJ0",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יותם 1, חיפה, 3461633, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7905452,
+        "lng": 34.9868846
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79187922989272,
+          "lng": 34.98826842989271
+        },
+        "southwest": {
+          "lat": 32.78917957010728,
+          "lng": 34.98556877010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "אביבה פרחים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112539300993886557307\">אביבה פרחים</a>"
+        ],
+        "photo_reference": "AZLasHpbISgzb6ouoZblYU849UQfBpKlFvKrGBPnDDvFx5fVTTyvESs43tryuv6-kfg4hWzbhtQG6UuW5TCP2A_g2wGEuGwp6nq4STNwHSt3WX6urOV0RyjNmQl35IH_VpPTpE7MX3--dVQB-UqRpZi6v26w7DUlDA8o3v8eDyIljdfDBrRX1c1Zr3BeLbP1AWFiTbPm7ZFZTpBBqED53yXljfsKR68WUECIgUQRr9vtbp8zJK6DwEEWMqFGvvQgM7h5KcKUyZEuHhJjqnC1j2XUUaOkKt89D8gx04R6X9XGLuiWAkhfTV8",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJQTmc9AO7HRURedR1pluLqmA",
+    "rating": 4.5,
+    "reference": "ChIJQTmc9AO7HRURedR1pluLqmA",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 116
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "סירקין 28, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8093105,
+        "lng": 35.0011662
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81063772989272,
+          "lng": 35.00248992989273
+        },
+        "southwest": {
+          "lat": 32.80793807010728,
+          "lng": 34.99979027010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Piquette",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105391331642724815330\">Piquette</a>"
+        ],
+        "photo_reference": "AZLasHpKGttlAqzuKd8phYaqyc1ku5HYIWpxeCAiMQvsmxpfL84aXVuqxUwBBVZPqNuZmPW8H3qdeezdU0vRIrXjie2VkXA-S4e5pOP0qj6SK4Z7uzQJRJGUmYm_wMpkYDwBJthsipuBumPBeZ3MGPulFsMlGfR46tzA9Zq-FFDQxiea0OSbwIpoBiu2acxVdrUB5RY9U3y4z8b6luymLPn9hYt7vZzNDMiarjat5eE86BfToRB2b1I-hrmgLhxi7L7iRWpRMyaeLDw_0Rj6DqC6UIMPAXSzuGy80Y1RkhOuVTYQPkxQHVQ",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJN-c-v-K7HRURPSm7pF97yH0",
+    "rating": 4.3,
+    "reference": "ChIJN-c-v-K7HRURPSm7pF97yH0",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אגריפס 64, ירושלים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7841485,
+        "lng": 35.2120956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.78549892989273,
+          "lng": 35.21344587989272
+        },
+        "southwest": {
+          "lat": 31.78279927010728,
+          "lng": 35.21074622010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "המשמח משקאות - חנות יינות ואלכוהול",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117604786550176710141\">Nachum Applbaum</a>"
+        ],
+        "photo_reference": "AZLasHpGAnEzJ32_OwNZy5O8KbhQDuJ69dwURC5LHacyLvlUOj8KiU27tJevjCsDH2oal-91XoMSIDDF72f6J6RumxCw1pMaRDGEwfBOQ98I3SlwWIh5lLqBsvfrL9WTaWBMnjbNOlkS5axclK9q37zL7xRr4S8lHEEH2TzRs5ESY1w_kP9yIcN7ivHmr-ZibD014jTJyQaiG_b4VGla7ye1YWafOd3fC6w9bqMg4dPr2D9SPvq-mT4eXUy0swyyHmqKCAB_HqeFqlZmKavnbymG_2vXX9tm0dsvD1JKzFvccPaT6ch-rKvUA_5x0O_dEAwCkD3xz1f4dxZPoGVuC0SWQid6xkui-rMgveSf6Fpu5QeuvA6jyMaKeft2G9de-Zpxf-QIIey4rPKd55-G8A7ZZqWbRp-BzmJ0nH6PJzW1aoay8HwE3jetSW_3D3x1ux9DSKt-sLQfvT9-SyMwG-ts1flJcki_ZvxUPYiHiGsB-IYfeNjOZ3_BaKdOy46CzyO50N1szqqUaBUUt0f7AXXCGaGpsZtX0GRH7P5uNCJOcIvzIiTz2TSgmJ2wI7UJyUc2zLHiDg",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJWcuN-CjWAhURqhM4mwOKbVs",
+    "rating": 4.7,
+    "reference": "ChIJWcuN-CjWAhURqhM4mwOKbVs",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות מוריה 13, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8017431,
+        "lng": 34.9840361
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80311372989271,
+          "lng": 34.98532977989272
+        },
+        "southwest": {
+          "lat": 32.80041407010727,
+          "lng": 34.98263012010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Oliphant Wine Bar - אוליפאנט בר יין",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 885,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111860870049511763437\">Oliphant Wine Bar - אוליפאנט בר יין</a>"
+        ],
+        "photo_reference": "AZLasHosWit8ZP18-hT1WvidE2fszXSXu0-obigcySZ2ij6fk0RpG8UF1kvypbySqhGN5f8rIzAu_7JKRJ5I4QpWYTUp4SSTGb6XDZY9rOhancOsw5jGQAru3-cHaG601rpdzzUEseWCznBOiscWQHvV7Hq8hNfzHMnT7aLCRyZslZgOQgaji4LEG_oot8gWTi1ZzIs_w2eDosGf5zkiYH-j8FDAvZUusxxZAJ-16N7hDSRfIbCUXweMwdzdQFV3enPn_o_zyua4R-ezWk9w2oUNUK2aIT2v0kmvUvI19P1gax3jTCzCyGQ",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJcX7v1xi7HRURIXqdur0xwoc",
+    "rating": 3.8,
+    "reference": "ChIJcX7v1xi7HRURIXqdur0xwoc",
+    "types": [
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות המגינים 90, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8212419,
+        "lng": 34.99202
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82252542989272,
+          "lng": 34.99333002989272
+        },
+        "southwest": {
+          "lat": 32.81982577010727,
+          "lng": 34.99063037010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Martha Deli",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103220832972527878483\">Michael Ns</a>"
+        ],
+        "photo_reference": "AZLasHr40gap5NnkM-K2UevAeca3kzxGRMsIEPuV-YB7Xfjlia6sAt8HywGExM43bIACLeZPqr15XNej3zzKEVW1hNseL9lTFm1OuPaGgil2dZjPRAp3P6kgBsEWPM8XdTdGrMCMXKZH9nI9ecAZw97FsBkZyhGy-fV50fklrHqdFV-eohR_eX1z2eU-Z0-LqyDB52naIYzPr4NJ6sTXqAcqer0sTmZQrle3TR3Is3jxmHHD4db2akRVFEd5_yBOSKDea35tFA2DgpUMqK0kZgXvNBHoYZTPZKL9I0Dw0rARkHHrSagattgNy2muk1zQ_KGfuT_icE0f9C2XU6t8rbFobMUZD__HS4ZfeT6MSLc5yE4bdOqVNj9PHUmeFbcXgGesM2XVrX-TkYxIZg5tmPSgMzvYDFHt_EepFw6mPEv_203ubSGrMJyDz581DiFK80tizUoAyacsNHCNYLQ3yKid0TSh_odcINgY074NUafnQ1b9QuXhe9it51ujqsV2sOCMuyr6wtyvzpZQfrQv0KouXt8YcADuSLb5Akg4I6gJ7KkTzX0Uf_ezNJ8D1YmlmUhDWn2gCQi5",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJg67GAxu7HRURL-fuGXE3f_8",
+    "price_level": 2,
+    "rating": 4.8,
+    "reference": "ChIJg67GAxu7HRURL-fuGXE3f_8",
+    "types": [
+      "grocery_or_supermarket",
+      "liquor_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 291
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גדוד ברק 1, טבריה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7887524,
+        "lng": 35.5423074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79004637989272,
+          "lng": 35.54332907989272
+        },
+        "southwest": {
+          "lat": 32.78734672010728,
+          "lng": 35.54062942010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Israel wine shop",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 466,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103312545003921425850\">Israel wine shop</a>"
+        ],
+        "photo_reference": "AZLasHqzEkNB6ltXUUV0EThKX7-OF5J0NXsLrujW-xu-ekgVhecO7blCq5F7ML8RdUbAokmxH2EItmk0zIoTxaQZ5FNLyMFtMuYNcOuJGFe7GxGbTnlrwIvXxubDj4pVF-jYRqMQoQcXt0UFC3JZ7vRqs8nkxiy2_102oTO8LgtGwV1nQXdMWbgbJXQ48CfbBSNyCE7rZDjhl_e6nJelN5VNr28IH6m19kwuP1bPykZqXMNv28D0c2ZjfZBHSIN6gefGB6NgGWym3iduZNPvNMfKSqru7PeDqbiM8VuiznC5srJEJjA_x1Y",
+        "width": 1400
+      }
+    ],
+    "place_id": "ChIJS6eh8Mg_HBUReL17GoV-VSQ",
+    "rating": 1,
+    "reference": "ChIJS6eh8Mg_HBUReL17GoV-VSQ",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "גרנד קניון, דרך שמחה גולן 54, חיפה, 3299001, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.789711,
+        "lng": 35.007822
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79077677989272,
+          "lng": 35.00921452989272
+        },
+        "southwest": {
+          "lat": 32.78807712010728,
+          "lng": 35.00651487010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "איצטרובל פרחים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107456755540643837008\">איצטרובל פרחים</a>"
+        ],
+        "photo_reference": "AZLasHrzWRKjMe9mXUnCYcHaH_OnHCKHohPrH2Ro1hQHOvJdnpKFpZIrOesgLHyKQW9dXwH0SZwol_zPMjfKlNsrSfYK139ckA0lVTwm3ReC7K7kuialmKumPiz08eJB5-as4PW1957yvgFrI563bYHBiQ42kQgJPJ9aXAjRCxS731bCbsvin_4d3p_kKCwffC2YKr1vXlBvthZ8jX3c3OiO1rLlOlOE0llo5VPGHoPfAWJKZWpHIokfyJqqVXA0d44MMcvMstT__MM5ppuU_yfI8EWExjA-UdYGe4-G2onIMmbFusVpixY",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJtywSKPe6HRUREfRAovtZek0",
+    "rating": 4.9,
+    "reference": "ChIJtywSKPe6HRUREfRAovtZek0",
+    "types": [
+      "florist",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 951
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "יעקב 7, רחובות, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.896182,
+        "lng": 34.8123818
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.89750732989273,
+          "lng": 34.81385892989272
+        },
+        "southwest": {
+          "lat": 31.89480767010728,
+          "lng": 34.81115927010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ברוידא - חנות יין ביעקב",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112990416528038001080\">Tal Karamani</a>"
+        ],
+        "photo_reference": "AZLasHp_Uev1FwNwdJ2JgD258JKXxf2nKyp6_YDwG1AnXte4cYb47fEH7seUpUwHerQ0CjkEM5-k2qgaIpq08kVKvczeQ_TCoUm0QJNK3QJ8s0Azr3d59xZBGLM6fHogH7JPdWm4u4qHhk-csGrIGTdBZkpO-YalepU1TcA9AASkG_bh29NRcEdyIScMnuXOpbn_KX6w8RbNC-7878jK9YTIg21G6NFnbiwi8Q_qUnH6S4W1W56GWCwqHK5XI3CQpQR_MRlOIjQMRvDXTGKx0DHVMJTcdDHV5CuHB4n3Xf4Bx0K4j0m_S2m06QkBu1koKbd3EcxSfGEMndKGNmSqux_P9W5sKrEu_YldFhEYU2RSqrswySon8s_jOWHAsuMY8GUytArnaEbxWxZoC0mOVEdRInyHp19P8vleIdDS49m3n24uykKYWgsalTbWTBBVh_toskurYg4Dc8SmcBKd8ovKxtG2Bz5OT0pR5zmbTKIXitdHQsMP0zY5Rzdt-ONzEHz1YFcA1D7_Q6r8u68DlKL2VB2_F47G0Ti3ka8537WXbfgBQKQooRuGGi-PDt8HXbacFFNGCepg",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ2wefBAS3AhURuLBaxnxwuqE",
+    "rating": 4.8,
+    "reference": "ChIJ2wefBAS3AhURuLBaxnxwuqE",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך משה פלימן 8, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7880209,
+        "lng": 34.9681521
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78921987989272,
+          "lng": 34.96937677989272
+        },
+        "southwest": {
+          "lat": 32.78652022010727,
+          "lng": 34.96667712010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "סטופ מרקט",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114733805641866760611\">Semion Bondarenko</a>"
+        ],
+        "photo_reference": "AZLasHpSv2FSHqqNOh1eXRA3r_RRZAb-OPXhJ_3WSyuJX69bcbN_S7M2YKy2gh1KnN7sEB2QQx2NPxBLC4IOYnB2l5Hdovv3R35DFvLxfZN4sOu1BIed-nNiSEWG8Ey1lxanGSh_LCjFWajZEiw8p0f8rFdoWx4q5wBSr46Fb4zaGWLaRv9bk4VWs2ONDy1fg6MFDiWXlBU_qqTnCStEKYdUvtdACtZTPYV04B8y3k-SLiCxUAFOq3RTK5ZcbFjy59L_NKjdaFeXQlIfjhRcNkPaZm00xQwNPDOvWLKN6Jmt87Hl8sfSA7LNP6-SoNN12a7vKnjVYe6BuW66gPjhmRiVC4PWBgzZdWVxQ16B51nOpoo6bg0rA7lAtSKUaHTljkXRwUjyt5w2HZor_JJQ_Qpos_bJB5fsUBvOFnWE5LdRWBR0BoWdCMREhtn82ucMjSTnKuQCdWH42fWMBVaG4FF84cMdSwP8d-87Pv3b57quQd2mC3mkBQoRIRaTT7hBzqhfQ1uk9t27bWzD08-wN3CGBzcxSZ4_TecLR6j_A9R4prx3osIgZ3uYoSxhkmK3eh94h8fUfhz53AxKzw",
+        "width": 1078
+      }
+    ],
+    "place_id": "ChIJy93ZDmq7HRURku7YuJgtS_4",
+    "rating": 4.2,
+    "reference": "ChIJy93ZDmq7HRURku7YuJgtS_4",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2173
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "האומן 27, ירושלים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.7494437,
+        "lng": 35.2065721
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.75082617989272,
+          "lng": 35.20786962989272
+        },
+        "southwest": {
+          "lat": 31.74812652010728,
+          "lng": 35.20516997010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בנא משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108645181870011123924\">שיעה שטארק</a>"
+        ],
+        "photo_reference": "AZLasHoPGQdHxEZyPHBjQGh49mBYj_tDh4JTj7Nl2nwjeW_kB5hmXyhHZSYZGFgovTnDJDuU6tn95bSFr_f_l-sl38JaZTmagAWlz5ymbG4oTq4d6-Bbp8S8cZE0q3TlCsMGDhtciR2E7dO7VrXOq37l9OAYI_4_zz_9WdBf_K3f5C3L14R--V264ipGbj2JM8DHM-Xi4Z39g7-HESlqG35n8cNNZKuGM2cX6GcxwbNU_0LO-sTv6i3qJm3hF7x_-iCfifj9U_i8ko2Vl1K70RObMIQI-Hnwm2aEctZEZgZkoO3yf0Bq36kdzYwEVC9RwyxXEUc755zsrcEJ5m24HBOHAYLCjds8tl8Vo0ln5dRnrph5v8MCcBFPpFruUgAFkAxzMeqnlcd-zu5NrjHmzc9QmHmTuQxm0dXoIGRGAA2LI_T-gHcRFpoMcEibGuAWUuCqjjyRS52jEx7C5sD_T_9dFLj5zCN-q6qLGCFi1KlKpepqFK6Lq0RsUCSxV8uPNsumxxobIfP87IEBDzl99PSFKbVjV8x0ua1lQ7pp8_Fx-ir9gHdhz6Ohvqp7QVCx0IdostAwm_NGYraMug",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJiSzYI-XXAhURUm3RqCUElnk",
+    "rating": 4.3,
+    "reference": "ChIJiSzYI-XXAhURUm3RqCUElnk",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1050
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אריה דיסנצ׳יק 7, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.1171709,
+        "lng": 34.8268766
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.11852447989272,
+          "lng": 34.82831202989271
+        },
+        "southwest": {
+          "lat": 32.11582482010728,
+          "lng": 34.82561237010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Wine O’clock",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111062446975744983620\">Wine O’clock</a>"
+        ],
+        "photo_reference": "AZLasHoO0EkP1qd0bfddd1PsH-4cE3d8MtcID-TLGF8JDbpgWfzKDgp7UiWGcwMnXzrVilwnXmDqAxwcnDAg_D38OIFFlOub-nBkg6ZtRzudz54F_93Aqh_xWNwzCyoQXrWusYDg1G8yAVSIZ-aeuSeZdAz_a81OEHvgJeVXA0Xz9HRhGeDoIE2w72BarvNTFzA5_4fZXSNtcte2r4H2bKUUSonHsicl3IFDuCWmHGeqSuTOMyPClSh19vot_E-uJbtXYDJu4uzny-Se65W59a1R_p7POfHsCWSckbWz3wmSgdcs3sXgDfk",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJy2Ba7GZJHRURjmo21PyBDV8",
+    "rating": 4.9,
+    "reference": "ChIJy2Ba7GZJHRURjmo21PyBDV8",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "ליבריה 2, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.76863820000001,
+        "lng": 35.0033892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.76988377989272,
+          "lng": 35.00447367989273
+        },
+        "southwest": {
+          "lat": 32.76718412010727,
+          "lng": 35.00177402010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "קופי מרקט דניה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107231902808004782735\">CB Ben</a>"
+        ],
+        "photo_reference": "AZLasHr1TXM06CNKThv8Vn4hjJhKHWOIMMK8GzIOtSyrOPdF9JsOt1PD1IM0yT4y-Alp-2aiXjv1iCosvhy31FXkvlZ3eS30qMhYtK5auaXoXxvvTsSkJmYX84FDjd1EXSMsahMPmHC-q9kDPj44upF33SjLgrWsCQvOLkyeznCr5P4rxMLyRTb3vJmPwQ9Ubeu_aH6UBfpjQG-sAL3cLYYMzOnzHkoc61oF79G43eRrjRLR-pTJRWiNAxMdvO1brZ72wq0DldFOR-UEUSm6o4g8nQaOWusdXZ6iFJVCC4k5aN4a2o14kXPnCEGgVaUwL6gdxZ2fLeAVh80TqDG8eZCpU9jM2YWsdONsVd47l6bJ4yLmlFfWN0MkodfYOUpPHssbjHGwWmki7dflHCxBxpRwhGtgZ-RVvb6bukiyYYsR9o2jFLpRefnPGX1LoIl6I1qL-7kFRmfnE-vqapCyncI0S2ZcSg3yES8xxOgxRL5v3cNBPhUdHFVl_YAjQWWi_WmuVVcaoCMNvKrweLnCsuQavZIiD4wFqE1vut6kOo0Xo_hbHr9uR_H7GjT8ItxLaNZ8i4ofj5Kip5xhGQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJvzTiZwa7HRUR-Nj0cXRppNU",
+    "rating": 4.2,
+    "reference": "ChIJvzTiZwa7HRUR-Nj0cXRppNU",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות מוריה 117, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.788401,
+        "lng": 34.986775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78980457989272,
+          "lng": 34.98807017989272
+        },
+        "southwest": {
+          "lat": 32.78710492010728,
+          "lng": 34.98537052010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "מנדרין מוריה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107468101894861767820\">Adele Shapiro</a>"
+        ],
+        "photo_reference": "AZLasHoTbcdXdwrONCrGlP4Pkoqo-eKD6Odh4QE4w1BWt-KPZ1iFwZV-yfG-ykXR5fDyWYGLfAnwZw1kOJPWdk2o8fTprMJ0BgZgJ-3I0O0OGdVeNyuusfeiNU6RERnQkEEGzLevVlxGyu9rV_8HjqJm83fuW_5hc6SgcpROGfxbXIWiyE2xLwQQeB6oNRkXy226qL28s3XEvssdwNNOq7gobFhwyFqr_HZAH1AuIdVhMTd5n5xMIaPK8h3MDEN-ohe1Mf8GsMRl0U0kt6jgl-Uba8WS1yPhkcfgFUrclGHEu7VFQkDWsr4UA8xpPcyQ7VP3HnvKOPnhJ-8SrZXGDK8p9pc2USjH6tP2c_w5VLQn5O3vIL02fvluuSGvnSKgu1CKzv6UqPlLIMk3HhNy6CheWlCHrAUYF9n_PI1l5LQjEkLH52ftIF2FpqnbEIpp7f34rn-o-Y0fEx8dtgPBMwAVPdljm_f4joaWRqeGo40jHLK8uswygJaL1uJzusteATd8akaET2Z9J9JXXGLOuHys4xdOIXMJESHeCsp-srHSOt6gdtsCi83Jj42LafR7jFj_OcWN-0y_",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJZa-tqxu7HRUR056rPTj27lE",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJZa-tqxu7HRUR056rPTj27lE",
+    "types": [
+      "cafe",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1433
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הצלפים 2, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7889175,
+        "lng": 34.9937401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79029732989272,
+          "lng": 34.99515272989272
+        },
+        "southwest": {
+          "lat": 32.78759767010728,
+          "lng": 34.99245307010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "היפר דואק",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117792382100646944639\">Andrey Kiseliov</a>"
+        ],
+        "photo_reference": "AZLasHozucCN5nZQ0aon5u3hVgalHmsEuSFjGkfdthLQFxyRXriJmQJpxvvbfhKZnuPP3WNJPXsb-NkDP1-xu5k5WOFY_lS954mNvyfi5wCLjNYDW0jytn93qPIXKFcfoW6dDNagKP_2q72zVAghjldeH94QB27YqvxtbwGlnBrzFLB8nHL9aFXtztJijUoHT0HZVc-li0byk6C6T9HXDM73OIGcV38xD-w4kkufM013aD12wi0u9q6u--Dpo5lOn2d7rLFva5cWZIww7wkRG4XMlgI-nOtngV4InMceTWSo-pZG4uVRmw-PIfJU9eqP7E-bgVztjVEEcQc9TxZZd_KpaM5u5uZlIwmCSf9GKDdr2JtmcWo6JWADRYhax85QKa4lUjN6a0ja34BRxiYBwVSk6a8daM8QamsjMWnCuY7YrGCzX_Xbf-kgyKNSerevHArU7SqNsBdS_arS8N7mZdo29KfN-bQaRgDJDDKSSXCRqXOHIkMzXoByMHmuqBY-OxoQziDS70eg3Hjq2Ff6fa-biXIMi1bU6it1TNJN2XlIFu8PFiRo9fNsVUvUe7GOKS_11KhUUw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJU_PSsgK7HRURIZrGrIORQMU",
+    "rating": 4.4,
+    "reference": "ChIJU_PSsgK7HRURIZrGrIORQMU",
+    "types": [
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 208
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שמשון 37, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7965965,
+        "lng": 34.9898529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79785942989272,
+          "lng": 34.99118262989272
+        },
+        "southwest": {
+          "lat": 32.79515977010728,
+          "lng": 34.98848297010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "שמשון מרקט",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1054,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107005081508113351460\">שמשון מרקט</a>"
+        ],
+        "photo_reference": "AZLasHrW7sBbj9X4a9Hcnwy4gV2xw109chpkGSNprPJIKUNIOl4hYHzSW2MVC5W_6WF6BC01ES6AJjmNCCnC21kyZdZH6DfMljsW5CrlrFzBzsD8ptaTbmqoABN-BbQd2DSGHP6tL9uxbd85eLjDawDe1uuQLt1d1HiTibVb75TrqkDoC8dsMbG7kHiDmVLWziCbtmk0ccVxfixSc7wAtwOkiaFTnPs-hD8C-iHWq8ga2vIeiAzZXyp1Y_lIPTQ1K6s886qHBpFRbxB9W63flN2zAXNSmLDJMYW3qqct_nMbjDh4ku6wffw",
+        "width": 3205
+      }
+    ],
+    "place_id": "ChIJNV3_OAG7HRURSu-YfyE3mgs",
+    "rating": 4.5,
+    "reference": "ChIJNV3_OAG7HRURSu-YfyE3mgs",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "צפרירים 1, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7968544,
+        "lng": 34.983835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.79824982989273,
+          "lng": 34.98523827989272
+        },
+        "southwest": {
+          "lat": 32.79555017010728,
+          "lng": 34.98253862010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "צפרירים 1",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113224811470500301618\">שוקי</a>"
+        ],
+        "photo_reference": "AZLasHrjIn3WVGxOrz7Wdz3Xq7V4IODigEpV1S3GHHtrEoTQZXphupcXuQb6cUdIJopSUqxT-a4YblIEHRESQwCvQzCWc-A7yDtuBQnJfS5la7Gruzr7J3Dd4BKgwGjkRlRFXHMFvMhf3eTWqaeSW2dg1sZlb6mVWMqtr4DweejqqzuyLc_d39ZWwtUIo-x-RNz8rW6UyBMKLzbqysevTVB9VB9ktrwFsZgnB1txKt28qXeNZMZKlfE96SqERY4xoGTmMcvssbtgytHrBqxDh81xFpdCGtd6cY6GgFPZYsHLB8a7hlheElw2WaqLz863PBBFm8W56nV9hvf3K6L7B03kCIiOie1sFh63IyyyrBKz1xrh86BxwP1FUJgXj6OGyZwU9P_do2NQqeYfjsOFbrHOJ4WtB_oyfj7CPF7uRLsM6bBREhw5j7hQiMxcuxwRLwLb-FqQGau6NkwBoT3s1JJq7MEcKlTs4XxJCizNJI6MCnkcc5vAbSpRPdSh7JMad6m69_isSTINh7xemPbpbLdXkT1iJ4CJiE8UVExgo0oIFWuHT_HJowwyeNI9qor8p6NmLaVwGPMXH64vUA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJX5wxVQ-7HRURJLhDG5qS5V4",
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJX5wxVQ-7HRURJLhDG5qS5V4",
+    "types": [
+      "restaurant",
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3576
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מיכאל 2, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8059004,
+        "lng": 35.0010528
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80727507989273,
+          "lng": 35.00244187989271
+        },
+        "southwest": {
+          "lat": 32.80457542010728,
+          "lng": 34.99974222010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ורי נייס Very Nice",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1457,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106229307003633161629\">ורי נייס Very Nice</a>"
+        ],
+        "photo_reference": "AZLasHpWCtlA5Qt1aZM4GI7cTkqvsDn3CkohToP_SD-JW_bKliwYTwCAGRRTWILfsLb_c8ZpHIcw4sU8Ko8ozI497ytRZXJ1ypdK5GnSqhmHOTzq8lQQyKXl5lE7OXtLj1EFfVN6wIeuUzEh_tMZhunvN2mKVxzVXdJGNWeUCq-GJt031seSx6_ZmBtXmylKpxUovFKQD2rKbQTQAvZAwsYrI1t4CzJ-qj-LkbTtxhAUoYhkXqglTBq_h6T0-t5BjGXs5CttYuEuCjleMhatruuwI1tunDv3Cm8jkzmM7L8X16L2UIbNIA0",
+        "width": 1457
+      }
+    ],
+    "place_id": "ChIJ21qr_FG6HRUR4V6zUJTHprM",
+    "rating": 4.9,
+    "reference": "ChIJ21qr_FG6HRUR4V6zUJTHprM",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "קיבוץ גלויות 28, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8108247,
+        "lng": 35.0039671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81217892989272,
+          "lng": 35.00532112989272
+        },
+        "southwest": {
+          "lat": 32.80947927010728,
+          "lng": 35.00262147010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "וינטאג' בון בון",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 899,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112851740654552591644\">וינטאג&#39; בון בון</a>"
+        ],
+        "photo_reference": "AZLasHq_R9S9F8Waaq1MD9D0jRyVJbYZ3D4TiVcduhhqY3gouM9QfQViqZFhYqoTV0mxCIpqAWBipGp_Dz-XV4mWJ8ye5l8L4qAiKg_m9b2ypNQXVQWEZFzZ-zc6maAVTSk6H9uKe4PwP1XiX6E7ttd6hI4Q9RKtZ1SgZRRSoF2qhpLZMalnOxB79w9I46Q3ied9k0JaL4TlyetrtJ-OZ5XGDRexXM7Z3lxX6nIRoNk0-DVLFgaJAXe7Zi0rFtsNodtv68iV5sHERcvSnao9NGdxvB_UZWlWoT0iIpWRoypNHe0eQ1HexYk",
+        "width": 1599
+      }
+    ],
+    "place_id": "ChIJRWYcrum7HRURGyCFtBJ2-1I",
+    "rating": 4.5,
+    "reference": "ChIJRWYcrum7HRURGyCFtBJ2-1I",
+    "types": [
+      "home_goods_store",
+      "store",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "סירקין 21, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8097928,
+        "lng": 35.0005659
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81110072989271,
+          "lng": 35.00188942989273
+        },
+        "southwest": {
+          "lat": 32.80840107010727,
+          "lng": 34.99918977010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Talek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115527885510173445386\">amichai greenberger</a>"
+        ],
+        "photo_reference": "AZLasHqqjVwDbdanWW2m_b9JGgQsetUfTO4_73Xwtp3XbNBggWvzBXQuINj3N8MotlUNF5Nd9DsmS4dd7qrxKA2liUJkeo4thcmsphCLWa1QPub3ZW0aVHyiQyE6u0LyxkkIYNfQz0CQutSvuh0xcZwklTiT-cSrdiicTIom6Xz7mE6A4N2oTXO8R6V47_ziK_F2gr7zRlQDM4CKqiOsxNI2eqDqDOO8tGMvn9S8fFHpAyOqAmWjHCTY5KfrpVeBRCC6f_G2l7KmXjg5EmMyWtgG3VhVYgaGDKOWDrlWAPUstRsuVaOmONWnb3FPHHezaOxZcmpFtacgRAQUoLk4FLciDG_48nQDccQC9Fu74547OdljpEF-_OnsFYTE1T-9SSmgngO7Oxv6xi1AUUZlgmURI1xNY9-PbZILPltNFkv0WpGsp6F6E5i3wtLH6ukZM7KDKja72fLFSB3r0rVMxnLCZHCYiSofz5vuR5tSV__qEi7usK5x20E-4HO_IXn277bCeU2TuKu0I8bdQHm_V4XXxsQW2wWoh3zhHWRmUvV7augYpDeWEbW0H9aTMhCEz916GUNHf6Wn",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJdVW0SdS7HRURpdNiWWmpIPE",
+    "rating": 4.7,
+    "reference": "ChIJdVW0SdS7HRURpdNiWWmpIPE",
+    "types": [
+      "cafe",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 658
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Hillel Street 2, בלפור 26, חיפה, 3307302, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.807852,
+        "lng": 34.99519799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80919937989272,
+          "lng": 34.99655497989272
+        },
+        "southwest": {
+          "lat": 32.80649972010728,
+          "lng": 34.99385532010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "ראי",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108427743220569969667\">natalie alz</a>"
+        ],
+        "photo_reference": "AZLasHqyyqIMI4OshlhRtjEcV5IEib4MZ2taZbttR823VCTbedPE1vGaxL6MAfA3yurG9R6Nq8FmohiAfzGkaugnL9qWsLU3Dl1uB9RXXgrg2N1QRc2Pmck5bVIc3zI4hq7uea6SRuVNhqDnQEhxwiaQj4gzWbmZvsymtBgEBpkK982vVvLztMepNnAiGvrzpIPHFYZBuIelOawPPw738v5LdsMbqHqmpD65HKU8H1UPA0_YTTtoqJR_VS4Y6g3J1lzwhLFZXkMU7ssB3gmifjdn6w6UF4WoY_N7TmiepWLyrhbgkONSHrIGpAxL2forc4OQXXWkQxZsIaNF86VopJXwq1_J0sPKrqBIyyboYKJtbSE3kMMommPO7vMaa_0_3-a406GOAgHWDGu5iWiIkpwXikkP8ddXydcks3OTYf9SJ1aPm8qTI40codlKRY-opCNaqsfoK2P4Os8esoWybkRdZnCH-SXrU9t8wG561i1NazksqvoknWs5iDpp18fsmCzZFoFdzm423ggGgIVS8vB53oL96D-0VFUndyVngeVmBjR6fOHIYQdNGNBo3D6Oh0CtlCt7_HT97b8vIg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJq7v_V_S6HRURQhOSz00nV0s",
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJq7v_V_S6HRURQhOSz00nV0s",
+    "types": [
+      "cafe",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 454
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות ההסתדרות 279, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8127174,
+        "lng": 35.0715599
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81412447989273,
+          "lng": 35.07311192989272
+        },
+        "southwest": {
+          "lat": 32.81142482010728,
+          "lng": 35.07041227010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "מרכז המשקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112960880523254840679\">מתן הררי</a>"
+        ],
+        "photo_reference": "AZLasHq6eF43dqDVo2UMnZi7-0h5AehpWeKeDuvEePfaUCi9PHgbOpSpMxAuZ2wsCSunQmxUYqKbyZD6vq0oUp_kFdUhktHLPMx3orGtidE1xN_u9L_qyBD4Z3DNjk5SiEHxM85R27EjEM20wknmTUzvUYmPJr9608Z0xEpa8BZC4-8k9mFSd8m3xsDq_sVXlNdV7jbQUJy2vU7KSIZfYeyYuQGiAuonGlb-UepKbeorU1J4reWH_QfaX6gUG9ZtTuzkepZdKtZ5WrWBzGHZVLau722Co7U4D9dMwJvj4Z1bXtVVTVdwyHxTwPtC1XPKcEglZqiCFTlj3NpAGPkTjAEfVObH9S9TXY7TMXix3OKI3P9BKnIs079_aunAaJWIKeWKfQi0ImrvnWKdpbg65fIQ9BKaBqNG1TR0T5MIoaJf4465Fj7OdduiDlQ5WYQcg0NoXptAIyMRpEYO32oIvX4ZLqZT-28GqfVMrJTuXYlvtZPhOU6SgiKcG3kf-6zIXlYDDAO-lbr4lE13jQSnP71UtGvMv-_CvIL4KOKpbYpWQeG2wB1HsPop0heYV24nRPXuDazPSg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5eMFn8u75BQRRfqrVjNpUDQ",
+    "rating": 4.7,
+    "reference": "ChIJ5eMFn8u75BQRRfqrVjNpUDQ",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 134
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "חלוצי התעשיה 94, חיפה, 2629494, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8182411,
+        "lng": 35.056696
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81957097989272,
+          "lng": 35.05802702989272
+        },
+        "southwest": {
+          "lat": 32.81687132010727,
+          "lng": 35.05532737010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר, חיפה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113280514152021651893\">יין בעיר, חיפה</a>"
+        ],
+        "photo_reference": "AZLasHptmXuRh7zel8KxvMFdNfip6yiDelzGZnhQwGL-wWrWh0D9rqcLptCNkITjXqxCE-ilxgREhCddq4o7yZ9vChCtrbeC6ZBSh3rcNHM6meXk7awxdCYi6Ta5YmmVzX7QAFoO9kSTmCBHpKMRMYrv_Tzd6uNLqHMrBggM_jKZWRp4FGrm-TWBkMceDPXJfpvxeWH5Tjg5PbpSNCOXTXSDa74gBaEf9AhgupuWQ688eu_RQduHcKDXWnua5ZelK_3_fX69rhNHc0AdVguw96pXgGy9bfRn6fPLx8oXtOiAMleNVR-39_w",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJJ4kC9HqxHRURnbh0RdSnVXc",
+    "rating": 4.4,
+    "reference": "ChIJJ4kC9HqxHRURnbh0RdSnVXc",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הרצל 49, טירת כרמל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7658777,
+        "lng": 34.9694148
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.76720037989271,
+          "lng": 34.97079477989271
+        },
+        "southwest": {
+          "lat": 32.76450072010727,
+          "lng": 34.96809512010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "עולם המשקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109013584032984467242\">הראל אמור</a>"
+        ],
+        "photo_reference": "AZLasHqCT6pdvcRCNIa0VhiaBWFdTj-5ryVjNBbClj-irqdto72CrNlaTlm9vO5xe_AeDex-s0LXemU-ynDn07qWeT5z7h7nOqWWncNqA_59co5YG-nN9z51uVcq3eSMzaW6dzuTKYNy4iiwmcJre6SsbK9Wli7vDS8Y8Pavtzg2BND7b2DfKIzQnnpO_BQq1cATgKTDSFeq9XnITiLf0eGlP_-jaLUxx7ztOUYPno3-BCqhf03Bp7J_64mUj5xTxYBtorIk5r8ZgdsGF85KLBtlA_rzrENPPpv_oQ8XKVqkWQrAZQNHu9y8-dXz0x8X8-fRk50IN0nZsSUGYUW5feZFM2rabPBC8NILozYNFGIuLU6mckC1ZGtenD_-JX_G6C_ncHeMvvGcBkMtgK03tSR4CouN1LFKUdtMuWl5iK0VOZMVSoHz_lPYvi8GIjh4_HRcMnifcaxQn1yoWz4JEPJZdbllv0rE2KRJhxdQzGB2qq77EBN7gx7vhw6V64_kl7cdHpaCTOn_xReT6ABmAe1SYr11alcWmFzNi8R0kHtZvN6osV7_buTKQjWMckn4kDr31IWyqGro40C7tw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJBZq6IImlHRURTMzSSUx9Xdk",
+    "rating": 4.4,
+    "reference": "ChIJBZq6IImlHRURTMzSSUx9Xdk",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "עין המפרץ, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8999893,
+        "lng": 35.0927339
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.90132407989272,
+          "lng": 35.09405312989271
+        },
+        "southwest": {
+          "lat": 32.89862442010728,
+          "lng": 35.09135347010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הרמיטאז' - עין המפרץ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112960880523254840679\">מתן הררי</a>"
+        ],
+        "photo_reference": "AZLasHqUbGg3OsorUGy82edPgUIvN2N-znAVuT8j5QuzivYDWlhJ3rZ60b9T6V_5CZYr3SVM3P89xG-pARYOEp16WLDs9L9tneZPCFEn1QMZcAzSmyBxrdAbOf_yowJQ1RuZ1YFr09Y-RTZf7PlwDN3sMUEvLVdJrdO69e8FSfrNtOW4dED6DaOm1cBoxJXqs68xyIaxliuoSHSw3Z2zsgON1NvF5TjvDIeFYuZMdX6ocxm6jcYv-ujaigTxHs72PpAFVBRTWAf68teB97IFLerYU4k2v5IW7wzdD0gFKrmu2dw8hBasKl0smd2IM-uX3Csvx0RbchnBi99ETm7xPqvyNHMX6b6Vlhv6de6qgDdzrEMLbukPQab2EsNZx1KuF9Hais8DwSqp2JbE3YTr5YzgzRedJPZQdIqKt1YcwSzV4qDRvZ4co-qR6etis-F39g-WEsZiT495dDslkMUy_ezbDOsV5GnruceDl6nxKJm-fKP2rJdLgLE2bDGuW-O757SLHuzysaf9uRDoLnVPASHmmIXzM1J0qeWwoMgT09mN09xj09SJqoxF5BqXhl_XpqMXemhof6UH",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJJVkaj8jJHRURXhPQV96YSgY",
+    "rating": 4.6,
+    "reference": "ChIJJVkaj8jJHRURXhPQV96YSgY",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 756
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך עכו חיפה 12, קריית ביאליק, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.824132,
+        "lng": 35.0798758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.82546602989272,
+          "lng": 35.08122422989273
+        },
+        "southwest": {
+          "lat": 32.82276637010727,
+          "lng": 35.07852457010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הליקריה של ערן",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105356102648207510118\">Wine with Noga</a>"
+        ],
+        "photo_reference": "AZLasHocQRGYQBVmXU9HqKycRsisKre9BiDucdCyBEdDKICHdJqhCwHMkvwezhxv0GHotis94KPkQ9WqbFcX5Tuagoyqs8LpPjnpIjUsYNtgh0ZSzg0oEWdMuZEACfpoSXA22a_GRa4yfODLHuArRsGKk4MSotNOGeLJRGZZdmNBsL2XJwIxi0VtIHSKPhDuEsghCcGO8wk_4uITguCobx8-ab-tbN7ZiVtzW4qYxS6K31Mr89rl2qYk8uVduWeC6TJKSP2pS8_E5zXp9BiXxGd3oyQNF7HqGo1LJjEeu8_5qCBKL38bNc3VKhMG8rvcIWJrmIKuMEtVMtshYs1Sir5gaWiVVvQ5bJHWeHvPkC6X4MI4b25Nc4gahfCb3nuGfOhUQ6Gn4HYLkoPkty_epiCZMf2LsYoxmeYBr1QLIs-XcbeEqANknYnOe3VYWl1B2qqp3UtftokvKCnhLgRDzMAayb5GzZm50eMpoPrd4rDYXoycgHqAslTw7w3cPuFN0tznBoIvZhVUIRE-nnIg0FWq4Hcsff3XGU3noEFJohaqNdoL-N7zsnhHSGT23Zxa-qFteWodGANz",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJYUvI-Ca3HRURC8bnqlnXaeE",
+    "rating": 4.2,
+    "reference": "ChIJYUvI-Ca3HRURC8bnqlnXaeE",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "תחנת דלק פז, דרך אלוף שדה 15, גבעתיים, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.058948,
+        "lng": 34.8152367
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.06030072989272,
+          "lng": 34.81663812989272
+        },
+        "southwest": {
+          "lat": 32.05760107010727,
+          "lng": 34.81393847010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "בית המשקאות של נפתלי",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102943405801973870944\">ita40200</a>"
+        ],
+        "photo_reference": "AZLasHozFfbNlHyCLMvnX622dO_7iIlxGnIloHNbvy3CypTisg1QC6wXHoNE5Vuk-9ZHRLt88_cYatAD2fNQYGsK_stiICU4E--CC9vigOwFk869zyYH-CFCwHZAknCgL1YV8804bgphXtXxREAKgsY4A99GtF29vvuBil9FdI8IjpPDkjkNBLbwTP1hNTKB7cl3dbJiJwmDIwq6SrzWvjxSpU9xfN52M7BNh00_Fw3TBZrGOxnbmOmS2tRTOgfx-kiQy0lt5Bu7BDm2_TiEGedA40YWn34dEfVnutZGEtnLivNIuYgD3Ey-mYxU9L2fhVRGs3lanpw9ZodFi509UhgeZaV0NKXo36Dr1VRJ-PxHm-Ah-p1ik2jJXpux3S2NP-RP2JKCtFU9vExPy82m4FGzlnhAz7XHrEn19SdDzw_25BzVVzXB9kPPoi2bWGUUIoGhaBtr24KuYUOrgCYFyYBRoEIKbABa9J_oE47gaOIUWi305Ydx5nUhNx_Epi-_Ak-xVCv7spKz_PJwik0jrA5KQC2VjXs4bQhBBhzA-hJP_1DB8-WTpAyXSZLyTMZUQHryYPF3Wr7J3bNu0w",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJB5of9ABLHRURRNJM9XZTWRM",
+    "rating": 4.6,
+    "reference": "ChIJB5of9ABLHRURRNJM9XZTWRM",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 287
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות ההסתדרות 251 מתחם V סנטר צומת, קרית אתא, 2620241, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8100357,
+        "lng": 35.0682247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.81128937989273,
+          "lng": 35.06945692989272
+        },
+        "southwest": {
+          "lat": 32.80858972010728,
+          "lng": 35.06675727010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הרמיטאז' אקספרס",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110669591761239832460\">Naum Zolotaryov</a>"
+        ],
+        "photo_reference": "AZLasHrMrKN3ahWdbE_nmxD9gGf3HRDeFTeSu0_N9qpiFlOU5ijx15M4WCZdoKzihnwsGLF6ZC1yB3Lj9dBgZwG_xXQ70uAZI6c6HExEWFV4bh07T_pDwXrYXeWrmp9cPk7uR8TJT8Ghm_ma1azFbgONI79Of93k62ACSWATbZ_a9UB6Zm-v0a2OY6VFTD_j01Axw3VMqP_RwyfqQIGtICEaV-sb5ICjZ0rPUzf8KTxQnruSCplVbso5xr-2psmpIZhMnZONWPKBBismyBooXoEawTgfJOWu_V_bvy_KiasfnbwhNkAYllQrCYpOSRjQrAQ5npkPQU5kFmfLPkbakPtu-rfxzTKct0geQ1cfcrad4MZk8D5Xyvxi-l-NH-fsNYH7N5NVSs3hz5ugZARNmLtwfozxrikSLPZW57pZdB1Va3066unwHK3LSCCFGnCo1QpakEmwtU09GKWClPXJJc0BybCIEjzkZ4MPRb487BOlhdHbf7Fn7tw1aVAvji4zz41OPHhanw1uBM7J3Hn-04N0x-K_RrL9ZYmkdzPjJqa90JRMPi-L0sD3AoQpvWPGweadpEH4Ya04tujXgg",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJlVYdHuSxHRURRervLkUkjL8",
+    "rating": 4.7,
+    "reference": "ChIJlVYdHuSxHRURRervLkUkjL8",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 254
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "העצמאות 1, נהריה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.99004650000001,
+        "lng": 35.0967047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.99151052989272,
+          "lng": 35.09831697989272
+        },
+        "southwest": {
+          "lat": 32.98881087010727,
+          "lng": 35.09561732010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "צליל היין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106418128719130584870\">Shuki Vigodney</a>"
+        ],
+        "photo_reference": "AZLasHpbUvROfA77alNNf7onQAlRTRgjSVe8i9HGjU8YaPFZZYob9jDFS3qbzzX2AyoQz-6y62fIjNmcGHxLDZExuYMYeRQNIfIO3mHMaO4G6eFuYbyaMPcBGQynOwSgQBwz9hz5eMMYLMvj7HU2tO5Ig9tyk14w8Kbl3m0Nh1rvzWuE5vTE08fuWzq8YdE5HkfNQ2hGKpeYMa3AqLcQThMoYK1LrW1iELW4P_oO0IVuyb7PjmqAP2UdXD_34Z1KXs7x08NVzn58XNycE7OtynOVVjJcnFeq44eC-rER01yJrz_QtwRaiDk6NPtbTHKiF7NJyhqmyLvDLpgYCypy9hQhcgPoWPj7eKJiu8aDn5nY8bnCdWf_fnoRhws4hsyndzrPMufjIFNJsS_kjQaur10T7783VEUzxY33YtZ6JtXogExDYPuBSv20-KN_695xKiLMEqf8ntK8hTXf65vfRbOdlT19NNnTWooPaQexH9Dx24eT6nJxOpd-5Vhr6WGzoAW7c6WmxfnGELgQ2endSS2ViCisaEBD2honF6OSW793AKl-ZjU2ecU8xLccIK18dIcJyqTRyJh7",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJXRRQ_e7OHRURjeoFW_-1VcE",
+    "rating": 4.7,
+    "reference": "ChIJXRRQ_e7OHRURjeoFW_-1VcE",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 233
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "כפר יאסיף, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9504878,
+        "lng": 35.1639513
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.95184407989272,
+          "lng": 35.16535557989273
+        },
+        "southwest": {
+          "lat": 32.94914442010728,
+          "lng": 35.16265592010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107102811840425527082\">Maor Haimovicih</a>"
+        ],
+        "photo_reference": "AZLasHpsRcwC0KLM1FZpMMJylBPojRhYrCpBJzIZeoH1ZDRNSThP3uwmb6RTyfxPkz6-GdHQDhXN_aeXgA6KiSgtFXSVzxu8-T44lzLe8__GM8zDpnaLidcydGBpbUO_q4VIapHZkX3lrcR5zs-JWgPX-6dEj4_zIpXn4zrn2-SHXgq6brY8ZtgDODsfIvExTB-WhIMtwdBssS4LZPDSlIDzG9602YwHZwijajQRixOKLMofJQ_YzUnI1ejLeu3krFNIWmpCHy1jcdATwdsd-NmlxHLejaGpJslJEfGg2sSqW2RxFMsjL10ryotwfcJTuKY48KpIfvAthGQc99CmoHvr12TPiP5LwecOZmBnGg9RlraSxXMA--Fj1Zz3XP8c4ZBGLG6jFdojqVFd3xI-ah6hcuAxrMqChEItFh4ESaqSv8txrN8ooPlSnoIearhyQTRsJrYbKHmpLN7ShiAVRw6W6tangcnTB0UHWGjgFDEsvVJbrcAjPD7MweLd_9CthsPE1aIjUiar3wA6Q5iu9RmQUq9NtoChz52kEPYoqe90y7vBe2sQKil5xaEvnEI1m9D4Zbq4GuFLTa3tag",
+        "width": 1020
+      }
+    ],
+    "place_id": "ChIJI084FXvMHRURctf2ddn5lZo",
+    "rating": 4.3,
+    "reference": "ChIJI084FXvMHRURctf2ddn5lZo",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות ירושלים 81, קרית ים, 2905802, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8518882,
+        "lng": 35.0779389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.85322612989272,
+          "lng": 35.07932342989272
+        },
+        "southwest": {
+          "lat": 32.85052647010727,
+          "lng": 35.07662377010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "אין אנד אאוט אלכוהול וכל מה שצריך 24/7",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3008,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106808216931381925929\">אין אנד אאוט אלכוהול וכל מה שצריך 24/7</a>"
+        ],
+        "photo_reference": "AZLasHrB59wQvvr9uT6aR-9mVD6sBNZ5gdeuwLeBWMGo0xQKKPipKL3zMv9M7c6z7YK_lGi36WxKVogT9uS21nHy_E6Vu79omNrBNxlT-NWyx64iAlgKtzYILQ-ioiAREP1NypnFzgawM2sdhpSl6KTodYhagVMLaPRMwnnZSrROkUFkC5_xQz6drdjQOH86qeTP4yrEtsmv-Bj5tO0a0fWVCN2CNVtpo-t9qPelNcqSkqMl7odKo58DFLZJmMsyfn4VD6-wJchwC-SbGVZB0MTn2w7_-K5OTzz63A1aLufPeoaZQ3UfqDY",
+        "width": 4512
+      }
+    ],
+    "place_id": "ChIJI1E6Gqq3HRUR9mG6n7X-LkA",
+    "rating": 4.5,
+    "reference": "ChIJI1E6Gqq3HRUR9mG6n7X-LkA",
+    "types": [
+      "liquor_store",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "נהריים 1, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.799524,
+        "lng": 35.0202486
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80088762989272,
+          "lng": 35.02161577989271
+        },
+        "southwest": {
+          "lat": 32.79818797010728,
+          "lng": 35.01891612010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "קופיקו יבוא שיווק והפצה בע״מ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110894783242481737021\">A Google User</a>"
+        ],
+        "photo_reference": "AZLasHpwtkkB0egJrFrQLfjRhq1QPL2aVNGXzRfaeohPfw54GDsX85gyxs3FiY1qRQKrUGIa5qMuZuLYNGkCfwwn-SKXJ6Cmj3nUHhlrZBzeiev6LDgOCPEkaJaaFrDpthWxoxdjiFp1fJo4TX8PmLbphiIpbAOMa7ZkBhY-1tIHvOJ0-R1IW9t6jO-T0Xq6muu7i_P-WEpbiTDugrAsPiusaJ5gLtgyZAX2chAeyvFRu9n9h9meGcROwzodIrRDaDc7j3OKmb8serOAnr2-mffOtRL1-BWK21DRoY_xJvgcILc-ztREWJs",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJHxQ30CmlHRURZjb247M0vjk",
+    "rating": 4.6,
+    "reference": "ChIJHxQ30CmlHRURZjb247M0vjk",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הנדיב 23, זכרון יעקב, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5742476,
+        "lng": 34.9547809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.57555517989272,
+          "lng": 34.95613097989272
+        },
+        "southwest": {
+          "lat": 32.57285552010728,
+          "lng": 34.95343132010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107951786183438374824\">Eitan Yacobi</a>"
+        ],
+        "photo_reference": "AZLasHqR4LiQ0SOuvEca5GLNrFn-0NxHadv1oxPo5zbeMU1cZkJYdmU4UYBva3zr_RIGQXnN_nC8j9ZHjEwm33DIwkniIYlYP0SBaXHRXkujwPvIPkd0MsLmBsRx6T5xstqwxHbxzNDXota_LZPcn5vPRC2Lj7bcb9xMOw-Jc7u2EETrb1LA11Pqpww0EnQmhHCigyumcDdYL0-DBquomJWoYwfAqHrXJx0HmuzSNZKMlk1-3CEWW4dxUy1V3P8Eto2kS-YrD0XW44Wc8TCrpKSEVZml6d1dUiNXFmllsQjjwjfb1ZjR3ULQQZLpINW7TWeyapHJF2DydCg6AGyQ4zyrNjk1dTgBnuBR3vAnuEuiNdl1yme0mXLvsrkE6OFVXwcwUgfwQZf80QZAG_2034AS74eNG1lRUM56K2cZsYLgnvNZ8QWQfXJQPv3Ohd4Xiu4zUHMlThHlauNJ1oPMKays_-c3JP_wihRbOyB-uOr8NNJiMDJ0gAYa5Ny2UMNr1U7qZVXfMml-Yo_BeNq37uXpwDAnADAVGCRRyxlTY5yKXEUfWCf_avZ8uINRj0rBU0OKMBzCdD4R",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8-9Af9YJHRURrSVmPDMcsg0",
+    "rating": 4.9,
+    "reference": "ChIJ8-9Af9YJHRURrSVmPDMcsg0",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "נתן יונתן 10, נתניה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.2789974,
+        "lng": 34.8414756
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.28032892989273,
+          "lng": 34.84279007989272
+        },
+        "southwest": {
+          "lat": 32.27762927010728,
+          "lng": 34.84009042010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "דלי וינו-Deli Vino חנות ובר יין בנתניה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105169244498495329233\">Arik</a>"
+        ],
+        "photo_reference": "AZLasHq4GN2QEaiZePnl5aJOeoBvN0Gq-XX4icxdWp3FEbKKlqJBpJH4gLfXJVLdRh-c1M_9_TTHc2VHwB1aDzhKYmzEsfL572lnHf8q8S9in9Le9hZv4DkPxvPg2KMP2FZhvL_J8VoWmUTm6kPtfM6_KSxtJxVPr0O91qj0Bfn-tLGrO51nOmq-31Na7L7VzRgL5U4nb5L3CVq7Pifoeo7iMBAPNraQI0n4vUJfCKK4v7kNPpI5Jwp4mcuRY_HmIh-Hhodq1HrkSV-LdeK1aBavEneFwAo51py-ed4NBWUqVNvmkX0Xk4Ln1mobSAXr3vCQIzP_9MR9svgMzkHEgfrdRlCdwIAnIARm_Ylhg2o6B_mer7t9-FnLUBRaeieA8TGrupg5JEzbi2B_EW7r4J2kEGsm-LhNcGBPowBVZ2hEY5Ps5ykiVCqwMbDNyS2478AMMZ7uB91UGMO-Zo54cJZIqb-q4r6yG4-DgOK40oLBpev1L1tNQQxIsxwBh0CT0ZqF8JX_H1IMW2hZp7GFLmFgfzGRFSpjYEHAlprgZw6kdXTCEi0mPmJih_6oj6YGKTqpzf8dvw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJFeAhI2lBHRURmC1HCIAaF-g",
+    "rating": 4.7,
+    "reference": "ChIJFeAhI2lBHRURmC1HCIAaF-g",
+    "types": [
+      "liquor_store",
+      "cafe",
+      "bar",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 207
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות יצחק רבין 2, עפולה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.6129937,
+        "lng": 35.2965842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.61442537989272,
+          "lng": 35.29787142989272
+        },
+        "southwest": {
+          "lat": 32.61172572010727,
+          "lng": 35.29517177010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר בע\"מ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103144164638004074112\">samson touitou</a>"
+        ],
+        "photo_reference": "AZLasHqJLAkF30epY5fiXBvxzXud5lzg3ojWQbbysRwc0XzfIVFO9sDMaXsY7WUuQnPFtWFV9OHnnShi2qnEx1swBByFCbT-Kf_yFggwr-XAoDNAE-a8073Byd6rDovdfAYggJIKbcG15hAIPidYUrwOn09Lk27R-B1tPie9rCH6cXW3xSLC7_kGb25s2AD2xV2g3yxLWCG_ZIxZejEEOwThB9AeAGWneSdys0_rH2Mjvh1XvE-GJdz_nZxAibDdDHFSu0-h8SboTntvNpYZBycFZ0W_J2BfA9u7b4q7iPtC-WM1x0-v-aDjco9Wew14P7dHFSDnXiP9u1EtQZxul4UdOHTrVBAf3GMxSJIhPvclIbIzoP51pXkl9GuCC3IYTDe9jffxPJ8vtgTlqthaHfdSS5W_amRsKpAn_M-38a77hRUBNZC8ZEuFSvb2-HbLks8Gsu7tkNtWtmXRp3ZXn84nPv5XvHadERGXWwz7sxEu9dsgxhO35icKfzzONxnN6Xbz4DZLZEAecsaBPYSUvHQcsWNXKy5VCnAue_cOewgxRsWIGso6EH80-qydBv5w7UvS0Ja4X_oy",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJyTjFi8NTHBURjhSI3Jd0eZk",
+    "rating": 4.6,
+    "reference": "ChIJyTjFi8NTHBURjhSI3Jd0eZk",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 212
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שלבים 4, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.04948,
+        "lng": 34.764298
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.05084392989273,
+          "lng": 34.76561062989273
+        },
+        "southwest": {
+          "lat": 32.04814427010728,
+          "lng": 34.76291097010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "שר המשקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103910585816746695431\">Vladimir Starkov</a>"
+        ],
+        "photo_reference": "AZLasHp4o5Cz_vSdws2IAWqj4TZtU12TPvYRsHC9VCEdweqxqAzOZ_58gWGuA2sWcyoyd_X7b-NnE6Dw8sT4p_h_aPS9tP3hqHtRbRBsIXy3ExOs6XcAzkYRLFI_J1uUSZs-61oo8gwqltmVOCe9MgpPg1BkHsbq4cOGUVgQt89sntM6kzE-v7c5YVBcUYjC0DZiRTkGooAa1EXvohoT0yiZbDDCeH5jKu6NThUHrfF6I_vrTY59lXrPdhC6xIc4cUkD6XncQBV2dFcwGEC1QdMlzL__wAb4GS33iy4B8pNjUuMVJtukm-qlupJxMozipqcFyZYr3MekwABN0KhJE8nOusrqQQR8D9SwcKjiBenqlqQGrLr5ToL5bbEoqQYSk9fsQ7Y42uy06n9NatiOLNUt4i_WueD-dmItvKTE-_Gcd7mgNPKByk1ISKU1pzqvOquBOa65azwVtg5lAc6___Frrbmc-52EWgfStIc2vcJNWPuXy1NLWSP5wqA1t68ab-jNPOIz3TmFZPhI0N9CYEYLRTPC5WVLJQFoT_cvVG6ACDf3ypfW9RFcHYZQ6ZMufclACdY0eAKE",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJafs43KRMHRURw_EYvoBL__M",
+    "rating": 4.3,
+    "reference": "ChIJafs43KRMHRURw_EYvoBL__M",
+    "types": [
+      "liquor_store",
+      "meal_delivery",
+      "bar",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 471
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מול בנק מזרחי, דרך עכו 192, קריית ביאליק, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8445995,
+        "lng": 35.0916564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.84577677989272,
+          "lng": 35.09250162989272
+        },
+        "southwest": {
+          "lat": 32.84307712010727,
+          "lng": 35.08980197010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "בנא משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114889999099184849217\">בנא משקאות - קריון</a>"
+        ],
+        "photo_reference": "AZLasHoDVJyI5SBVffVrMAmvmhZoKHMIstpl_7mPckZwLWqzB_2HsB5viw58yPYX9BE6qRo-uIi30oHHrKOWb8nYpoTG31E7Eb20crC4LdteNSsww0AhP4EJiHNanTjteoDpzrF91TKN9NV2vedahrtcwS6JQj5Fjp-ssxDXW9uaxj3N68XhHNYwBIWpHdESAiaAwWlHXAubmO-k5t8dqWIPpkTOL4yjwsWxqtK8ujQzV79Ek8Gg8jWJFWg_b4_zR06KjSWYN9kjShCjCRSuHFl-xPfuczzv3t0q5xf15UF8ZOsAHBtyD8c",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJsaFIAvm2HRUR4ci69cFGUSA",
+    "rating": 4.1,
+    "reference": "ChIJsaFIAvm2HRUR4ci69cFGUSA",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 134
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "הרברט סמואל 80, חדרה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.4353969,
+        "lng": 34.9227564
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.43681702989272,
+          "lng": 34.92413222989272
+        },
+        "southwest": {
+          "lat": 32.43411737010727,
+          "lng": 34.92143257010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "עולם היין חדרה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105437756801461658522\">עולם היין חדרה</a>"
+        ],
+        "photo_reference": "AZLasHo7IhzZVj4X3DpDsjTbTaFIgkAruyIbKxpnzZxllETMxg-BefbcpvzDSE7wpUOUTYwaQ6DGXlUfVhRi7tj_LLBbRD4knA2-okwfutwgA5ZbVrslqzlJU6qGcVxq7KJJ4vC4JM7vAxX1osXsgcWwg3lL2gvuoIuUlSDMroeRqlZyBGIHHAiiMvkASzlrapF054LOrih_1zrlj_ImUo4Y-U0cKyEyB8EQVDPVo94-3z5pfjhESVIK4UMzNB4giYIWD9v2mbBe-EmL2LtcXVNsHxuAkKF5fQKXg2LbH4I6nvJFcZ6Fwxc",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJH2pM4kUSHRURd0em9NZ89UE",
+    "rating": 4.8,
+    "reference": "ChIJH2pM4kUSHRURd0em9NZ89UE",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 113
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בן יהודה 208, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.0908282,
+        "lng": 34.7743754
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.09212277989272,
+          "lng": 34.77569327989271
+        },
+        "southwest": {
+          "lat": 32.08942312010728,
+          "lng": 34.77299362010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Wine and more",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105356102648207510118\">Wine with Noga</a>"
+        ],
+        "photo_reference": "AZLasHpR5lEBRsz_RRXHMJU1qXKZjgoh4K4Jz0_jRD-DCCrcMR9M5WlXXl8R2o-Drd0JBD7UhTvKHfTZ48IZJym4TCdJxghDYoXmFnh3OHB5t8fzelGaqNLjfCdBBjuH14XSgW28mHXAoP31w6SZrVHSahfyx7dmIDNPbdYmjEDW2cWWlrVvRhLQjcie9mRb2pV1An2E0OzgVJEzhXBXBYRxglsw4auM9CVynofCB7NbtYIS7f94Bmt3FjTwjLXHNhMr2Mlg91InizMf6VITpHy7MZAIh3ctMUsBG1FGijp5eWkCwJM_N5_cLF9wgeMFG9WBLMJMPF0dgNv5Y0wU_HmBHS-nrmohGv8rgV-F0UWPLJbq5XULbsFR7ySNv31N4nuaZZykLLLXtesYgyRxsXoplkuJZ7AgdvupalvLcCAc_rvMBWenbdpnnjkEAORt3mPNEBqDoZImy0tGHCaYMHphXNjjcLyLeZHBZ6D0WWgYqemmAgLi4FMNjpRwaakr5dGD74NOs1RI1CmWueNTm0ZNDdq9VY-wCi4aGYKVELLHDiMVeDO0oYVCJdMrrfpfWXRdMBR_U_1ghyLVrg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJAQAAAItLHRURA1od-3w3hUY",
+    "rating": 4.5,
+    "reference": "ChIJAQAAAItLHRURA1od-3w3hUY",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות ירושלים, קרית מוצקין, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8586463,
+        "lng": 35.0915374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.85994922989272,
+          "lng": 35.09288542989272
+        },
+        "southwest": {
+          "lat": 32.85724957010728,
+          "lng": 35.09018577010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הרמיטאז' סיטי",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102806136675550708892\">Dror Avigdor</a>"
+        ],
+        "photo_reference": "AZLasHpLNE3cq4z86NNZkUxgZfOQrXj11oWSEJA1SLPw39XqWrsYvzz4hhlVzZa95ipZI8OVvFtDW18PxRB9-0Fq7koTwqlnJe99rUnKPfsKOq1baFYGwuk1Afn33uP0Co7W982G7wx8nl6RLhybTkRugNfKsHrIJqwn84PCU920UZQ54GDVtMybLsGT5JXO9mvsvWrsQLYlzIoFPqNZFKHT74azbgMYrQ6BuDX8KiAf7NegT0CppQw2bqzCc8CpKvW7nm54Lw7mzk6N1TZYyYSJw7S3tPIznVEkin-k9PLc8H24NdrHMcdrOyMFDVpJuhf6iyBCRsKDWNqD8FHlYMaHtWoB9QMO6-xPrxhtaJkuVsbRChrAUS_ygUfIaS2NjelnimODrM28vkvU4GZ1eSMQGUliiFEfnuw1_9EO620EfGPLZgQJFgl-vqxw3MviwaTvkV8J2ZcvQrf2ZyFwKv1XXfO23yxg4PicwxF_S1dXiovEN7PSWBfpa6UD_xwF7v5-Zy2BaLYq2sIwmcDr3YccWl0iAUgdfEtg2F2AJLH049gk4_bqqj_jMvrf8LxdaAIb5GkE8g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJwb7akJG3HRURvcay5knYdB8",
+    "rating": 4,
+    "reference": "ChIJwb7akJG3HRURvcay5knYdB8",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מרטין בובר 17, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7831014,
+        "lng": 34.9996357
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78444767989272,
+          "lng": 35.00100407989272
+        },
+        "southwest": {
+          "lat": 32.78174802010727,
+          "lng": 34.99830442010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "פיין וויין",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111428816555155629409\">Артур</a>"
+        ],
+        "photo_reference": "AZLasHqC5PN8v0kPurePDT6uoiZAS27EUnQbWMnKHSXlfW_qzZySiq4meG3CGaMUEWAkmnD2cyV2_oGPOSJwjP1ueQmHzQOxoOu3Vb0M2gdXCkTDqrEw8oFsrtDVvt3my6K2xpuGNKmAsTmKs0b4-uMjUnrB-x5qflD10GR8_6IjH9qLw8qFc_8y4HO69QL_GdDRqbkCZfbWsYDT5RCBZPsgvtLCTXsU1rvyBeB7xNXEClX-dBulBrmTppSdUqWFMJufgz-j7OiJZbdYjYqMFfeOT8JP0n6TpfWAYOlhKCGVncIa-wnvgM69BB4XuHFbUDHJTouYeyjtEwRfBR7ZkZNB8u9RBAHDf_3EsPxBVlkLR2EIxGDDNWj6j7q2WLt0Ox9yP0e8BP9VN8u6oiQx2QFHFR5mLrO7uLOddIAL-0FWmMF6uEdeSpgZ4sXsSxiHpxWpkgExPHr4BIy9XfLxRH4Ye3tSSszSAuGHqsoVtxrL24vJRYjefPV5fEQ5brpP1h0y0CEDTgPa9LCC5yr-iC1HybCgWaH7KGs0tlHAr3UVG2bvJldQLEAXMKjRCXN8BnwUpgdr0IMW",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJYwhs8uO6HRUR-l46y6iURUs",
+    "rating": 4,
+    "reference": "ChIJYwhs8uO6HRUR-l46y6iURUs",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "זבולון 95, קרית אתא, 28000, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8034185,
+        "lng": 35.0911284
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80482267989272,
+          "lng": 35.09247162989272
+        },
+        "southwest": {
+          "lat": 32.80212302010727,
+          "lng": 35.08977197010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "השכונתית של שאול",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112960880523254840679\">מתן הררי</a>"
+        ],
+        "photo_reference": "AZLasHptIfKn6FtPTwaxe_HsuOMF0kKZ0zdRceWPqCnS2jHRNAA2Omhrk9zm40gQzNNjh4Njs4FHE_z_DVPG2Uep_OPg02hn9SKNm8u4DJ2EXE1iDLwHrDh7k2tEzv2FmZV8O_OwtsqLvjlWrT3gMiNTV54TXni0o1hMWv-hfO1kTmkJOHXY2PVZUaD6r1m3Di0eU21kEWELFohy_1aFysnyZ5nlzI9daKZ_o3YUcoq3kMqtoBgK25KL2YlZyFZgYVCxYlevQjMIlFwUI3yAQ8fxT13RryKrLeQ2GMBP4WOhE3RqtK29GIlpffO420JznoDNXTbQuvjGYI90S3XGRRQL_otcAd0VOJ2kNMouAtWGclJ0TY2UgqC_fMfGxG_w1rRmkmm8qHxo53vEgmvFvE_BQe5hL9ZmgJy7QGMw1SnsbCjX1kGzXG4EPu8l-5EynYrdsLw2Ep6l6TXPTibNoZXjO3weKhcKNT3SzfXFVoI2UxZeu7uA0kNMH0tWA8ahlSe1cFC2fx0GGkNezGFJPDJ_DrJFKInBc893CtTY69vx80kC9YS0RuRaBlfjpuD6Vn6nWJgDgG4X",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFT8x6SSxHRURrtbWZN1fstc",
+    "rating": 4.6,
+    "reference": "ChIJFT8x6SSxHRURrtbWZN1fstc",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "אלמרגי, מעיליא, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0218276,
+        "lng": 35.2630043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.02317362989272,
+          "lng": 35.26442072989273
+        },
+        "southwest": {
+          "lat": 33.02047397010728,
+          "lng": 35.26172107010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "משקאות במעיליא, חנות אלכוהול במעלות, יין במעלות, 4 סיזון ליקר, 4 Season Liquor",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106418128719130584870\">Shuki Vigodney</a>"
+        ],
+        "photo_reference": "AZLasHroijxq20GdGE_7Yx_p1GYUTxMAHcFcNH8Rg-QpHHDexOsuDIV8WdlOJECu4eBpYi4LIdCc9hwkEXRIFvUgbS2c2juv8ac-QzR1p5pJSMQbV9s4wCj05w9OMG4bIwavPOA3UClPKKoaFuophnZUMEGDIn3HmucZ7B2VtIoWKS88qH3JRH5swdYQYAOBJeI-BIJ7p6ilJ6Sv9crlQ7idlOf_vzzltoCK4eGbUzadqobBdCPvcCGKCYVq3VpF5MlsftVk9tgRtVneN2Ljner-tBRVSxNo2GRNeJXtN2GXT2Nnngbisi80A-1jqd7UQePFyyI4lQ3OCsqB3SfDINPS9_-7YsgUo1RdkRVOpQyHUMcWmAnb5uYdQyLbWgPU87t1ric2pqlwwgzv2y7RACwMj8LEhutX50SA6LCvRsVpFMimJFRrCBK0a7rdOgcpQWt4XZtkLtCPw_ln9qvgAEyp_3XZYdl17PRbG3twCP34MdHZRwl0NcX1ahN-AB9hz6VXYFft0HGn7PQfxdAYLYrc8ejDXpgi52i36g02Lcgn0oJisAuiMNeAX0y0amNetTY-o7rdekrnH59OHA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJtVvWPKktHBURTY9pGWE5yuI",
+    "rating": 4.7,
+    "reference": "ChIJtVvWPKktHBURTY9pGWE5yuI",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 239
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "רחוב רבינדרנת טאגור 32, תל אביב-יפו, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.1164361,
+        "lng": 34.7970802
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.11771952989272,
+          "lng": 34.79836007989272
+        },
+        "southwest": {
+          "lat": 32.11501987010728,
+          "lng": 34.79566042010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "אלכיולים - חנות יין שכונתית ליינות ומשקאות חריפים",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110631858605751838329\">Lior Medina</a>"
+        ],
+        "photo_reference": "AZLasHqeMkS6atMLcwtk8On-8dwqv1GxL4SWX6Bmdze828Kz3_1jGtGkiFirB8fwXIUX_vIn8TANG7q07F87bmt18SHAwKBMqDw_-ofKQFnlyp4p3VaNRvc4k82SsR9UPZu8uvGuR7yTQNKUWjdJqR_7x2raleMu8V1E9u1kIMWe2tGqJxmtP0UiTUuDnk22RsxWyx8KpvgF9lodOcnXx8m21GBiitllUyGFkv5-PurYt8Y6A7idICKgGcCUWzWCGNhupcoZYq4rctEaIehoK6XaLiNm7AIHwP3X6spvlFTP0E0vGZ2ZoYQbz-AKZ1F6dSqBT8PxHG-ubgROot5CKT9Hn4xWkY7rb0JtX3VnJ0l3UHTdaMf2lkTD8KvdXc2YDDv2dDPFdq4Ecmdbl6saiMwjXT6jPwohWBds63RmsF-ibV2IuFulKxTG3sJdvZjf44Umot8ODTaIKxnV6xmDm0hRQSLqdhTnG7NLqdr14SzbgXCtYL5mwB1u_q7VlE9ix5Cijj6WJfP_yAVnIx4mnhLYIkQmdi1C5-YozwMXLUgPGcnqSUHvHDfJao_U6h1JEbkefWmv0OQs",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_78CGWhJHRURkoSgA9hto18",
+    "rating": 4.7,
+    "reference": "ChIJ_78CGWhJHRURkoSgA9hto18",
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "שדרות יעלים 38, באר שבע, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.2510391,
+        "lng": 34.7797329
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.25227137989272,
+          "lng": 34.78097312989272
+        },
+        "southwest": {
+          "lat": 31.24957172010728,
+          "lng": 34.77827347010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "אימפריה משקאות",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118221382209422229786\">Erik Baruhov</a>"
+        ],
+        "photo_reference": "AZLasHqI6wKlr_DL8iL3lCyWW8gUW2bJYp7sCno_v0fJcFar2v33W0HtMoUzfB3lOA8uxJbGoZ2-s2aTUELkuuc-A90DBIcryyEe_HvmDu8BJ3DRz9mbnnNf5fhdDrFZrmb_J7pmajwFBDRYo2XaGqFS8yCgvJb96NoC4s71DLxv0O8SxlQmu7BCi1Q8Fpy7bIb29QUrPxzS_oA5x8TrZI7AWDV8ZyWnEI_usYuKYKonJ0zhq7WBcgZ0XmtOGs13i7ESiLfGT6Gez5AlYXWoHjR-ZLHKk6LIjF2fGcePyIsDHnifVLfQ-vNyNa-X9ZgTafNk2Khe8EEGRXLMVCaI4uj9jPco1mxiLRB3kqpht6xqFdeSaSZJeKrnN47fWBpMISh2I94IdbByNiTkpRWP1jXqW1b6omByHUHbrxDW7Xqzqiijlmm4yWvn16prcLLNt35vrt0K-8WztyDwsTEgJ64VQ2Dh1hV7xXhx0r4ryhZsnCKHq9SKAWizfja0JUw_wunR4OIg5k-LXWPJrBcFEaYWb4OZO9nN3qqdEe7ekMTcwRaVr5Ejy7rFD7STQTS93WgU1i7F-9cyXNrvXw",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJZecEoRtnAhURpQpoenuVmZY",
+    "rating": 4.7,
+    "reference": "ChIJZecEoRtnAhURpQpoenuVmZY",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 275
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "וייצמן 56, נהריה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 33.0079724,
+        "lng": 35.0928774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.00930697989272,
+          "lng": 35.09431527989272
+        },
+        "southwest": {
+          "lat": 33.00660732010728,
+          "lng": 35.09161562010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hermitage City הרמיטאז׳ סיטי נהריה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105255217874935058418\">שמעי מושכל</a>"
+        ],
+        "photo_reference": "AZLasHqDrsrKcA_OJkVhOrLi9puQJiDqNbFNWpd-1QMcBrrV-C0-w-Oh_ywGo02UlTRpDqbtZYkZGlwKUhwFSfcLvxNzsozqQi3jLuLCG1GqOCCH-jEBcxNMdhTjHVDGwmHJf5mb6-L-POtbcK1po5vQqp3ei_i403Obr_PJgCT-nX-catI43YdK57efPBXSrJvfmcblQLk2lazwKGcSEC2wQ32zTRYuM5Ol-zIEVd6UYpJBLv-hINttJsZHA6a0uyOgS68c7pyTz0tWzIcJ8I0Htvovy8_jYkxp6ydjdUV5DWvsGVUE8C6xeNvl2ASw-vjzY7LMrLDJXzSWxxjrfnrLKOqs7PfJzvavTrCBzBVu4xq4WG2T1-N44QKJCgsrEP8h2HhhFN7Q0Cvuwm8DsAPlneSdg_ksE6R1cE1BTUJwirLQx2e0L-DvjRz61jReyEfZ-WilC2WvgQOARe4Vufmtp3-_YgiyMHkl5m5LYIU3LNd2mkln5dbVQ2lEivvFzIyF0qc61HCzhQThiJrXJb06RCOK_b3GulpJe_nqsnsAUKbQ-4s-5Ok_zRd2o0FunaxEOvQpkUMQgHSATA",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJTZdsTKbPHRURH-hojfM3n_8",
+    "rating": 4.3,
+    "reference": "ChIJTZdsTKbPHRURH-hojfM3n_8",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מרכז מסחרי \"רבמד, שדרות בן גוריון 82, קרית מוצקין, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8404325,
+        "lng": 35.0806372
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.84165937989273,
+          "lng": 35.08189697989272
+        },
+        "southwest": {
+          "lat": 32.83895972010728,
+          "lng": 35.07919732010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "פסאז' הגפן - חנות יין ומוצרי גורמה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6808,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112120508730838268721\">פסאז&#39; הגפן - חנות יין ומוצרי גורמה</a>"
+        ],
+        "photo_reference": "AZLasHpRaMcwMd1Aw_BcwDOeJUT9U2el0k4N1ozB8GpXcsb2K0Ab-za_FYmuOI2rldnPJpjdVxIXuiePMmb8-ZQ5uwr0O-VtJLu1j0PYTnSIe_1cDuhkFHIRkRFGtHPaApeZ3_kv0NDtKu5WirZvje2zOpLSMdks0Lj52zkJVPXdyoNKHym9UIVDt0KzCtbNaeiiqqGw4WAgvldCGCe7b7HYtuCELDHDH8hYJ2TuhDA3ITYdldj6m87-oQIs-cCzGmDtiGMVuUv3FVs_yX1AGYDPsdJFT3dFEKTY5LCjfUq9rvzcEpRlBHI",
+        "width": 4538
+      }
+    ],
+    "place_id": "ChIJo0HGb023HRURKMkpoy8uKd8",
+    "rating": 5,
+    "reference": "ChIJo0HGb023HRURKMkpoy8uKd8",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "דרך פיק\"א 69, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.7874399,
+        "lng": 34.9969985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.78876092989272,
+          "lng": 34.99801977989272
+        },
+        "southwest": {
+          "lat": 32.78606127010728,
+          "lng": 34.99532012010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "DELICAFE by VIVINO - דלי קפה",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117792382100646944639\">Andrey Kiseliov</a>"
+        ],
+        "photo_reference": "AZLasHrIRrRZMEwa9c2bupFD-SRR9gEDyWd5IHkr62DG9fZkp9rZNfiXjt4RNmHui-z-9HPHiRX9XCAb9lkagUiA2CEuVWbcBROd8MfY4fokg8iRfr8sPL7t0101ZGZXHk2Q5XiApVZOEitFp_exh7q8WQswLjDdWYofd3wfzMmbOAfwXdXooTbwu2eRvXq2FBhbV6bQZykzLhF269-5YRLpTqnfX9Z9U4zxahXobAVMYXDyp1Xs41G7NNrjeK8pH_eeFFIiX6uoC-4lvMxZBd28WNEkRhH5ldh8M_6fmujLDXelf732Y-OpvngVX6d4gdv1dNK7E4BeVnbYyrK-frmmGDgu8A5jlD9XwyCtvkkY4g0ZFbQLmTm6OD14_Q0ZlgYEhczI3xlTXYBnNoMjQNda1Zu2clnK6tsK48WGCt5z3HYxuwTn88wUVdxyuZ_YDBmhLw-CbWbSeFeNgzi5hOmJJuhze8kvC7LwSeNNx8lvo-QY31MHqvAtKqg8jtAvX4MYano2HIrKOCqoAr3a3Up07W8ubL6tY6TXT_t6FIuj7pZ8oosOdDzbrZiquLDof9VPAQkGQQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJddJISW67HRURJDSZMSR9J-Q",
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJddJISW67HRURJDSZMSR9J-Q",
+    "types": [
+      "cafe",
+      "meal_takeaway",
+      "bakery",
+      "liquor_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 503
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "קרית בן גוריון איירפורט סיטי, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 31.9861781,
+        "lng": 34.9144368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 31.98750937989273,
+          "lng": 34.91582302989272
+        },
+        "southwest": {
+          "lat": 31.98480972010728,
+          "lng": 34.91312337010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "חינאווי ג'ורג' משקאות - Wine & More",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117478465992072136303\">Ronen Amsalem</a>"
+        ],
+        "photo_reference": "AZLasHqahAiZPnVWvDeaZv9EYkfTlYp2S76qW8x8zcyaZNg7Yr20lL0DmSrIaVjOsphEsClJYB8ShNlPFa28vv8jhJY7DIWEmEGfqBR1rrtv3GnucrlxvuKIme28xjK-82utrmFtPbD6ifJaiwFo8afUs32Ee3fWnmpVIPu6nq_OjS6KaHj5QXqIQ8m1Da7vg7P_k9UOFDWZt9kspnH0X1Md33Lz0DUc7-FFsrKTPgKZX6r54CQk3A4M58LSoEe5jEggVy48wxH-Qfa_HpyjIzEUeY8iYQpSma-4amP0-h7xL2slWgHW1Jp1Mov1h6dQNWBj5dBUZU9YWfvQ2aD1rH7_zO2OXEwgLepXnhdPYzH5HuKi4SPzMyWjxGztYENBSHuFsk7ZEGDcebw31v5jMYaQJnCiTp95j0iLyku2gjDOM3kY7C9pKLm98fZS1Euibuv2i_nqCpCTAcnJO5MbdNFA8rDblGZDAoxcXzTp0nNlLtN73_K9nkTmd0J0ldzzAWTvem2WRDCaMJMEby_XDrqUUkePafEn2s_RSPkI5dcS2aTpLWoz684rD2Se73wyHNGThOKsxzWZb9p_fA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJkQCYTizLAhURHTfOH3duj30",
+    "rating": 4.6,
+    "reference": "ChIJkQCYTizLAhURHTfOH3duj30",
+    "types": [
+      "liquor_store",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 183
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בטי ויוסף קופלוביץ' 4, אור עקיבא, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.5032874,
+        "lng": 34.9261652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.50468172989272,
+          "lng": 34.92752267989273
+        },
+        "southwest": {
+          "lat": 32.50198207010727,
+          "lng": 34.92482302010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "חנות המשקאות של גדי",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115189929114502285082\">Aaron Gal</a>"
+        ],
+        "photo_reference": "AZLasHqEWfUtm2KRFEec2LRM3XXWfyu2qxjfrmfHPW0_q-1efqoiRQs6kzC_RMsfXMc6sFnGuCe2X9n-ELuI26C2gmt2ZQPCX6ohoBsVMHpBSYf7g9cp4z9rwaiJWQAh4OTAab87n2LA8hlS-cJ6iBnOpxnSIssxfY37e1gQ_8aZu-oO_871ec05WCieS47tWLnZ-4wYlYVhYJH_D_CaPdiVHWxz53-dgUjiqGCuy5Sq_rDkJOy5f0ZfbW25yQRh_Xm5rys0tePtfjIEqHmSLTkD4KmU1QWbnC1i6elzzQWQRxUrYC2EyxK1l5h6-YQu2Tee5H2Kt6mmLozWBUE8oEoqNPKHF98ukmkKxMewv4Q0YUEvw921zE8yzI8CsaVs-Xorb2wdN7bwIV1gJfId0BCYFcjo_30OXQ2QXI1l4AqElrKSZ2EU-BRogtpuQFDXYah0Dn0w1NaSlobQn-bayTyrrCWqHX6S6bwe5nBORe-MIEiUFRkHc7Dgcdtsz865-Nma-YQk6li9BMdbHhmsfUSDm4sWnlABmPSbGFp9mV2nWK_OWC5fFJzdLtCYpHZCxhwT_3PEVrJ8O9sOPA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJPct21EoMHRURmxpoUBIDX5A",
+    "rating": 4.7,
+    "reference": "ChIJPct21EoMHRURmxpoUBIDX5A",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 62
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "מעלה כמון 12, כרמיאל, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.9271871,
+        "lng": 35.3242347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.92845102989273,
+          "lng": 35.32555022989271
+        },
+        "southwest": {
+          "lat": 32.92575137010728,
+          "lng": 35.32285057010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "יין בעיר - כרמיאל",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103433250288869016271\">יין בעיר - כרמיאל</a>"
+        ],
+        "photo_reference": "AZLasHoYhxu1DnbWgbQCnx8h1aT9x_aH_Gp8fvHmN8hbgZipcvAuuTXJu74cJ_b2ifI2pF-3XaP2UnASsfdMhsh-Yia-Yxb0lkUdxwlELoqRxFm5igPGR_5qIkV67zitCGlSuf9egoU7dq4ZQNmVqz7hiUu_rfOB_TbTIC65D4vgTGSNBLsWABQUMtGOoQpPAcTrqDzngIn6spl1T3EuKCMx3wRrw4j0iV1hW5azp2r9pU1Mi7HV96M_WBxaDo9iM44GBTAOfqh-8-al26nOPtaRDvsnYrmZHwTP2BEXwkeLDmsxrVpGm5g",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJAU4Kw3QxHBURG0j6dtSmLYo",
+    "rating": 4.5,
+    "reference": "ChIJAU4Kw3QxHBURG0j6dtSmLYo",
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 128
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "בר כוכבא 5, חיפה, ישראל",
+    "geometry": {
+      "location": {
+        "lat": 32.8051329,
+        "lng": 35.0021622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.80650457989272,
+          "lng": 35.00348142989272
+        },
+        "southwest": {
+          "lat": 32.80380492010728,
+          "lng": 35.00078177010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "הגביע שלנו",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114399219772234917091\">שמואל קרויז</a>"
+        ],
+        "photo_reference": "AZLasHpNSbFOMJnwW-biSndDb-aCiSS4hSHv3RftpJyirs2MfDx6JzmDbtZeI0muPitEiSAp5ATRp5ENX2wnSfvKwXySo0s1kvTP91d5VNDXP5NmoJFbACXFnhlhUnOYE0hbiII9lwyFZdiNXMZ2rJEl3Q9lt6KPOmjzqqMrMvST4JRE4QnEejN9OEyAI5-pkE37edZ70bFxQK6bB7W0VTwg678KapusUr-3Zmrlpopwh9MRLI4QqMmKaSAKhGzIO3phlm3BWVBYDYIsjDARxdya7W5mjfbC9jYQ-0ciQt2By7b8OBJA0G-hZx6vGB8_k4VW2_WzlxJLQfbA8ovbGf2Ec2RZQktNFJbHYlHK3G35HBHMt3nU6OMiYkPHhamsASnlfsx9vOJKxesFLn_ECtYqZCJGSNRVGR2R2BJ6mp5J23kLnDSYzXuK-qX5XuvGwdzY5wxrTUhSWyMxdgCeDO1U6hMnf8QiqYa2zlpi7iXEMpNQ873yrjGmYfgT8lw8tFYYU7fzhOR65wZvpDv1qOKf0pkXXwwfE8yTDqNCE6DgCnJ3yl0vGvlCp53I5jsDIESwCGkhzuKcC5G-cg",
+        "width": 2250
+      }
+    ],
+    "place_id": "ChIJY0gb5lG6HRURSKDq6oF_7AQ",
+    "rating": 4.3,
+    "reference": "ChIJY0gb5lG6HRURSKDq6oF_7AQ",
+    "types": [
+      "home_goods_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50
+  }
+]

@@ -1,0 +1,2231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9823219,
+          32.7943185
+        ]
+      },
+      "properties": {
+        "name": "Vortman Winery",
+        "address": "אופקים 23, חיפה, ישראל",
+        "place_id": "ChIJ5XRnvQ-7HRURD6VW9fMUAdg",
+        "phone": "051-267-7607",
+        "website": "http://www.vortmanwinery.com/",
+        "lat": 32.7943185,
+        "lng": 34.9823219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1168432,
+          32.7017686
+        ]
+      },
+      "properties": {
+        "name": "יקב טוליפ",
+        "address": "כפר תקווה, ישראל",
+        "place_id": "ChIJh_mBuhKuHRURreFoy447JtI",
+        "isOpen": false,
+        "phone": "04-983-0573",
+        "website": "https://www.tulip-winery.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 10:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.7017686,
+        "lng": 35.1168432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9938854,
+          32.6388864
+        ]
+      },
+      "properties": {
+        "name": "יקב אמפורה - Amphorae Winery",
+        "address": "אמפורה, כרם מהר\"ל, ישראל",
+        "place_id": "ChIJc-kE5f6mHRUREBoLu09IwqQ",
+        "isOpen": true,
+        "phone": "04-984-0702",
+        "website": "https://amphoraewines.com/",
+        "openingHours": [
+          "יום ראשון: 10:00–18:00",
+          "יום שני: 10:00–18:00",
+          "יום שלישי: 10:00–18:00",
+          "יום רביעי: 10:00–22:00",
+          "יום חמישי: 10:00–22:00",
+          "יום שישי: 10:00–18:00",
+          "יום שבת: 10:00–22:00"
+        ],
+        "lat": 32.6388864,
+        "lng": 34.9938854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2427027,
+          32.7864425
+        ]
+      },
+      "properties": {
+        "name": "Jezreel Valley Winery",
+        "address": "חנתון, 1796000, ישראל",
+        "place_id": "ChIJsTKrKRFLHBURtpbfwLhRJqI",
+        "isOpen": false,
+        "phone": "04-870-8701",
+        "website": "http://www.jezreelwinery.com/",
+        "openingHours": [
+          "יום ראשון: 9:00–15:00",
+          "יום שני: 9:00–15:00",
+          "יום שלישי: 9:00–15:00",
+          "יום רביעי: 9:00–15:00",
+          "יום חמישי: 9:00–15:00, 19:00–0:00",
+          "יום שישי: 10:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.7864425,
+        "lng": 35.2427027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1164917,
+          32.7015269
+        ]
+      },
+      "properties": {
+        "name": "Maia",
+        "address": "כפר תקווה, ישראל",
+        "place_id": "ChIJ9WjiXA2uHRUROu4K2pTDkUA",
+        "isOpen": false,
+        "phone": "04-983-0573",
+        "website": "http://maia-wines.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 10:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.7015269,
+        "lng": 35.1164917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3834196,
+          32.8034594
+        ]
+      },
+      "properties": {
+        "name": "יקב נטופה Netofa Winery",
+        "address": "20, מצפה נטופה, ישראל",
+        "place_id": "ChIJJ39Pcfo3HBURV6_V_-oIdLU",
+        "isOpen": false,
+        "phone": "04-678-6454",
+        "website": "http://www.netofa.com/he/home",
+        "openingHours": [
+          "יום ראשון: 10:00–17:00",
+          "יום שני: 10:00–17:00",
+          "יום שלישי: 10:00–17:00",
+          "יום רביעי: 10:00–17:00",
+          "יום חמישי: 10:00–17:00",
+          "יום שישי: 10:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.8034594,
+        "lng": 35.3834196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.94513690000001,
+          32.6933635
+        ]
+      },
+      "properties": {
+        "name": "יקב מבצר עתלית",
+        "address": "חצרות האיכרים 6, עתלית, ישראל",
+        "place_id": "ChIJt8-heFahHRURqafsWqDQ7eY",
+        "phone": "054-432-3727",
+        "website": "https://www.wine-ramathanadiv.co.il/%D7%99%D7%A7%D7%91-%D7%9E%D7%91%D7%A6%D7%A8-%D7%A2%D7%AA%D7%9C%D7%99%D7%AA.html",
+        "lat": 32.6933635,
+        "lng": 34.94513690000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2471373,
+          32.9295795
+        ]
+      },
+      "properties": {
+        "name": "Stern Winery",
+        "address": "Tuval, ישראל",
+        "place_id": "ChIJIVH0BW4zHBUR_hVZ8e4GUM4",
+        "website": "https://stern-winery.co.il/",
+        "lat": 32.9295795,
+        "lng": 35.2471373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428668,
+          32.6865184
+        ]
+      },
+      "properties": {
+        "name": "יקב תבור",
+        "address": "שדרות קק\"ל, כפר תבור, 15241, ישראל",
+        "place_id": "ChIJDTpDHcdFHBUR6ONtiITIQIM",
+        "isOpen": false,
+        "phone": "04-676-0444",
+        "website": "https://www.twc.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–21:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 9:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.6865184,
+        "lng": 35.428668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.94929,
+          32.51263
+        ]
+      },
+      "properties": {
+        "name": "יקב מרגלית",
+        "address": "הטחנה 60, בנימינה גבעת עדה, ישראל",
+        "place_id": "ChIJU3FyWwoNHRURgLBrboucdrg",
+        "phone": "054-670-0836",
+        "website": "http://www.margalit-winery.com/",
+        "lat": 32.51263,
+        "lng": 34.94929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1304501,
+          32.713102
+        ]
+      },
+      "properties": {
+        "name": "Simon winery - יקב סימון",
+        "address": "בורוכוב 43, קרית טבעון, 3604637, ישראל",
+        "place_id": "ChIJPZaV8_6tHRURrVn4i5T7dxQ",
+        "phone": "054-456-7847",
+        "website": "http://www.simonwinery.com/",
+        "lat": 32.713102,
+        "lng": 35.1304501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4914562,
+          32.9685852
+        ]
+      },
+      "properties": {
+        "name": "Abouhav Winery",
+        "address": "סמטת אבוהב 1, צפת, ישראל",
+        "place_id": "ChIJb0ejKZIjHBURQO6-nfYwDbU",
+        "isOpen": false,
+        "phone": "052-704-1731",
+        "website": "http://www.abouhav-winery.com/",
+        "openingHours": [
+          "יום ראשון: 11:00–18:00",
+          "יום שני: 11:00–18:00",
+          "יום שלישי: 11:00–18:00",
+          "יום רביעי: 11:00–17:00",
+          "יום חמישי: 11:00–17:00",
+          "יום שישי: 11:00–14:30",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.9685852,
+        "lng": 35.4914562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08925869999999,
+          32.8028999
+        ]
+      },
+      "properties": {
+        "name": "הבית ברחוב שפרינצק יין וגורמה",
+        "address": "יוסף שפרינצק 4, קרית אתא, 2806504, ישראל",
+        "place_id": "ChIJ9VsPBtuxHRURZ-uK8W_ZbbE",
+        "isOpen": true,
+        "phone": "054-560-3663",
+        "website": "http://www.robishills.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–0:00",
+          "יום שני: 9:30–0:00",
+          "יום שלישי: 9:30–0:00",
+          "יום רביעי: 9:30–0:00",
+          "יום חמישי: 9:30–0:00",
+          "יום שישי: 9:00–15:00",
+          "יום שבת: 19:30–0:00"
+        ],
+        "lat": 32.8028999,
+        "lng": 35.08925869999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0040604,
+          32.5964122
+        ]
+      },
+      "properties": {
+        "name": "כרמי בת שלמה",
+        "address": "המייסדים, בת שלמה, ישראל",
+        "place_id": "ChIJL_3zBuoJHRURr01Z3-e0qfs",
+        "isOpen": false,
+        "phone": "054-265-1889",
+        "website": "http://www.batshlomo.com/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 8:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.5964122,
+        "lng": 35.0040604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1689143,
+          32.7291601
+        ]
+      },
+      "properties": {
+        "name": "יקבי אלון",
+        "address": "אלוני אבא, ישראל",
+        "place_id": "ChIJVZWWwliyHRURoItU2pnRfT0",
+        "lat": 32.7291601,
+        "lng": 35.1689143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.948037,
+          32.513206
+        ]
+      },
+      "properties": {
+        "name": "Bar-Maor Winery",
+        "address": "המלאכה 12, בנימינה גבעת עדה, ישראל",
+        "place_id": "ChIJUY6A6CAMHRURS7kcqV_cDqM",
+        "phone": "054-438-8894",
+        "website": "http://www.barmaor.com/",
+        "lat": 32.513206,
+        "lng": 34.948037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9538603,
+          32.5753653
+        ]
+      },
+      "properties": {
+        "name": "יקב פויזנר",
+        "address": "המייסדים 71, זכרון יעקב, ישראל",
+        "place_id": "ChIJD4AVsYEJHRURxCq9Dy0bjl4",
+        "phone": "052-320-2323",
+        "website": "http://www.poizner.co.il/",
+        "lat": 32.5753653,
+        "lng": 34.9538603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3578133,
+          32.8795838
+        ]
+      },
+      "properties": {
+        "name": "יקב לטם",
+        "address": "אזור תעשיה, כליל 7, לוטם, 20124, ישראל",
+        "place_id": "ChIJQeGLqtIwHBURpsLBD6-n9co",
+        "isOpen": false,
+        "phone": "073-394-3305",
+        "website": "http://www.lotemwinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 11:00–16:30",
+          "יום שני: 11:00–16:30",
+          "יום שלישי: 11:00–16:30",
+          "יום רביעי: 11:00–16:30",
+          "יום חמישי: 11:00–22:00",
+          "יום שישי: 11:00–16:30",
+          "יום שבת: 11:00–19:00"
+        ],
+        "lat": 32.8795838,
+        "lng": 35.3578133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9525197,
+          32.5714817
+        ]
+      },
+      "properties": {
+        "name": "יקב סומק",
+        "address": "הרצל 16, זכרון יעקב, ישראל",
+        "place_id": "ChIJ-QlxSX4JHRURRpZOn7fIepM",
+        "isOpen": false,
+        "phone": "04-639-7982",
+        "website": "https://somek-winery.co.il/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–17:00",
+          "יום שבת: 10:00–17:00"
+        ],
+        "lat": 32.5714817,
+        "lng": 34.9525197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2255256,
+          31.2677162
+        ]
+      },
+      "properties": {
+        "name": "יקב יעלים",
+        "address": "אודם 72, ערד, ישראל",
+        "place_id": "ChIJR52PARoAAxURqvL4GN3ElMA",
+        "wazeLink": "https://waze.com/ul?ll=31.2677162,35.2255256&navigate=yes",
+        "website": "https://www.travelarad.com/he/activites/%D7%99%D7%A7%D7%91-%D7%99%D7%A2%D7%9C%D7%99%D7%9D/",
+        "lat": 31.2677162,
+        "lng": 35.2255256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1341118,
+          31.2615464
+        ]
+      },
+      "properties": {
+        "name": "יקב יתיר",
+        "address": "ישראל",
+        "place_id": "ChIJC-qoAAIAAxURMP-nxJ5b3U0",
+        "wazeLink": "https://waze.com/ul?ll=31.2615464,35.1341118&navigate=yes",
+        "phone": "08-995-9090",
+        "website": "http://yatirwinery.com/",
+        "openingHours": [
+          "יום ראשון: 9:00–15:00",
+          "יום שני: 9:00–15:00",
+          "יום שלישי: 9:00–15:00",
+          "יום רביעי: 9:00–15:00",
+          "יום חמישי: 9:00–15:00",
+          "יום שישי: סגור",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.2615464,
+        "lng": 35.1341118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1945842,
+          31.2478971
+        ]
+      },
+      "properties": {
+        "name": "יקב מדבר",
+        "address": "סדן 10, ערד, ישראל",
+        "place_id": "ChIJi9KiHEJVAhURYmBjl2Htqxw",
+        "wazeLink": "https://waze.com/ul?ll=31.2478971,35.1945842&navigate=yes",
+        "phone": "08-866-2100",
+        "website": "https://www.midbar-winery.co.il/",
+        "lat": 31.2478971,
+        "lng": 35.1945842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2193786,
+          31.2576971
+        ]
+      },
+      "properties": {
+        "name": "יקב צוף",
+        "address": "סיירים 3, ערד, ישראל",
+        "place_id": "ChIJNaNmJAEAAxUReUVEOrSAyNs",
+        "wazeLink": "https://waze.com/ul?ll=31.2576971,35.2193786&navigate=yes",
+        "phone": "050-422-4777",
+        "website": "http://winery-156.business.site/",
+        "openingHours": [
+          "יום ראשון: 9:00–20:00",
+          "יום שני: 9:00–20:00",
+          "יום שלישי: 9:00–20:00",
+          "יום רביעי: 9:00–20:00",
+          "יום חמישי: 9:00–20:00",
+          "יום שישי: 9:00–20:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.2576971,
+        "lng": 35.2193786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7007796,
+          31.0587909
+        ]
+      },
+      "properties": {
+        "name": "יקב רוטה",
+        "address": "1 חוות רוטה, ישראל",
+        "place_id": "ChIJlbwia2tmAhURjsvtVx6OWFg",
+        "wazeLink": "https://waze.com/ul?ll=31.0587909,34.7007796&navigate=yes",
+        "phone": "054-496-8703",
+        "website": "http://www.rotawinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 9:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.0587909,
+        "lng": 34.7007796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3925162,
+          30.9016973
+        ]
+      },
+      "properties": {
+        "name": "יקב רמת נגב",
+        "address": "ללא רחוב, קדש ברנע, ישראל",
+        "place_id": "ChIJA88UQrX9_RQRcaLg6wqdzkU",
+        "wazeLink": "https://waze.com/ul?ll=30.9016973,34.3925162&navigate=yes",
+        "phone": "08-655-5849",
+        "website": "http://www.rnwinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 9:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 30.9016973,
+        "lng": 34.3925162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23278640000001,
+          32.1702066
+        ]
+      },
+      "properties": {
+        "name": "יקב בן פורת",
+        "address": "הנחלה 1, יצהר",
+        "place_id": "ChIJlcLSduTfHBURR41XY6BN9NI",
+        "wazeLink": "https://waze.com/ul?ll=32.1702066,35.23278640000001&navigate=yes",
+        "phone": "052-905-0809",
+        "website": "https://winery-465.business.site/?utm_source=gmb&utm_medium=referral",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 9:00–12:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.1702066,
+        "lng": 35.23278640000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1005295,
+          32.1738076
+        ]
+      },
+      "properties": {
+        "name": "יקב גת שומרון",
+        "address": "54F2+G6C, קרני שומרון",
+        "place_id": "ChIJ6XJ-jBcjHRUR21hDmXn6sOY",
+        "wazeLink": "https://waze.com/ul?ll=32.1738076,35.1005295&navigate=yes",
+        "website": "https://www.gatshomron.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–23:00",
+          "יום שני: 9:00–23:00",
+          "יום שלישי: 9:00–23:00",
+          "יום רביעי: 9:00–23:00",
+          "יום חמישי: 9:00–23:00",
+          "יום שישי: 9:00–12:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.1738076,
+        "lng": 35.1005295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26926760000001,
+          32.1946082
+        ]
+      },
+      "properties": {
+        "name": "יקב הר ברכה",
+        "address": "הר ברכה",
+        "place_id": "ChIJySit_infHBURJB61RQRBXSs",
+        "wazeLink": "https://waze.com/ul?ll=32.1946082,35.26926760000001&navigate=yes",
+        "phone": "052-807-0798",
+        "website": "http://brachawineries.com/",
+        "openingHours": [
+          "יום ראשון: 11:00–16:00",
+          "יום שני: 11:00–16:00",
+          "יום שלישי: 11:00–16:00",
+          "יום רביעי: 11:00–16:00, 18:00–22:00",
+          "יום חמישי: 11:00–16:00",
+          "יום שישי: 10:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.1946082,
+        "lng": 35.26926760000001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2568106,
+          32.1029242
+        ]
+      },
+      "properties": {
+        "name": "יקב טורא",
+        "address": "רחלים",
+        "place_id": "ChIJeSknot_YHBURgzLnKPQBlgs",
+        "wazeLink": "https://waze.com/ul?ll=32.1029242,35.2568106&navigate=yes",
+        "phone": "052-796-6613",
+        "website": "http://www.turawinery.com/",
+        "openingHours": [
+          "יום ראשון: 8:00–17:00",
+          "יום שני: 8:00–17:00",
+          "יום שלישי: 8:00–17:00",
+          "יום רביעי: 8:00–17:00",
+          "יום חמישי: 8:00–17:00",
+          "יום שישי: 10:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.1029242,
+        "lng": 35.2568106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1592723,
+          32.4820718
+        ]
+      },
+      "properties": {
+        "name": "יקב טל מנשה",
+        "address": "חיננית",
+        "place_id": "ChIJv_Xp21oBHRURbuLjUrejDiw",
+        "wazeLink": "https://waze.com/ul?ll=32.4820718,35.1592723&navigate=yes",
+        "phone": "050-545-3376",
+        "website": "https://elyasafeyal.wixsite.com/yekevtalmash",
+        "openingHours": [
+          "יום ראשון: 8:30–20:30",
+          "יום שני: 8:30–20:30",
+          "יום שלישי: 8:30–20:30",
+          "יום רביעי: 8:30–20:30",
+          "יום חמישי: 8:30–20:30",
+          "יום שישי: 8:30–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.4820718,
+        "lng": 35.1592723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.260187,
+          32.1787224
+        ]
+      },
+      "properties": {
+        "name": "יקב סנה",
+        "address": "גבעת סנה יעקב, ברכה",
+        "place_id": "ChIJ5yOvKmXfHBURMXNg3gGhDE4",
+        "wazeLink": "https://waze.com/ul?ll=32.1787224,35.260187&navigate=yes",
+        "phone": "054-330-9477",
+        "website": "https://senewinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 8:00–17:00",
+          "יום שני: 8:00–17:00",
+          "יום שלישי: 8:00–17:00",
+          "יום רביעי: 8:00–17:00",
+          "יום חמישי: 8:00–17:00",
+          "יום שישי: 8:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.1787224,
+        "lng": 35.260187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.681289,
+          31.74192
+        ]
+      },
+      "properties": {
+        "name": "יקב 70",
+        "address": "הרימון 75, אמונים, 9726500, ישראל",
+        "place_id": "ChIJP3_e1nSZAhURmoPBwkREZa0",
+        "wazeLink": "https://waze.com/ul?ll=31.74192,34.681289&navigate=yes",
+        "phone": "052-224-3578",
+        "website": "https://70winery.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 10:30–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.74192,
+        "lng": 34.681289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1714129,
+          31.8559858
+        ]
+      },
+      "properties": {
+        "name": "יקב אבנר",
+        "address": "הרימון, גבעת זאב",
+        "place_id": "ChIJVTjb7rLVAhURriy_hbfjtCo",
+        "wazeLink": "https://waze.com/ul?ll=31.8559858,35.1714129&navigate=yes",
+        "phone": "02-582-2236",
+        "website": "https://www.avnerwinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 10:00–17:00",
+          "יום שני: 10:00–17:00",
+          "יום שלישי: 10:00–17:00",
+          "יום רביעי: 10:00–17:00",
+          "יום חמישי: 10:00–17:00",
+          "יום שישי: 10:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.8559858,
+        "lng": 35.1714129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3321141,
+          31.7891381
+        ]
+      },
+      "properties": {
+        "name": "יקב ארזה",
+        "address": "חרובית, מעלה אדומים",
+        "place_id": "ChIJxQAaPTssAxURqi8WhsWxr60",
+        "wazeLink": "https://waze.com/ul?ll=31.7891381,35.3321141&navigate=yes",
+        "lat": 31.7891381,
+        "lng": 35.3321141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9136607,
+          31.8458152
+        ]
+      },
+      "properties": {
+        "name": "יקב בזק",
+        "address": "ורד 21, כרמי יוסף, 9979700, ישראל",
+        "place_id": "ChIJD85JXhbJAhUR7d8mnL9pLUY",
+        "wazeLink": "https://waze.com/ul?ll=31.8458152,34.9136607&navigate=yes",
+        "phone": "054-630-6773",
+        "website": "http://www.bazakwinery.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 10:00–3:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.8458152,
+        "lng": 34.9136607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.944065,
+          31.861033
+        ]
+      },
+      "properties": {
+        "name": "יקב בן נון",
+        "address": "הרימון 34, כפר בן-נון, 9978000, ישראל",
+        "place_id": "ChIJK2Vj5inJAhURQhA9T1viuzA",
+        "wazeLink": "https://waze.com/ul?ll=31.861033,34.944065&navigate=yes",
+        "phone": "054-912-2377",
+        "website": "https://www.binnunwinery.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 10:30–13:30",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.861033,
+        "lng": 34.944065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.927285,
+          31.892217
+        ]
+      },
+      "properties": {
+        "name": "יקב בראון",
+        "address": "דרך התירוש 1, כפר שמואל, ישראל",
+        "place_id": "ChIJ6zE7BXPJAhURlpVUgeGu-xU",
+        "wazeLink": "https://waze.com/ul?ll=31.892217,34.927285&navigate=yes",
+        "phone": "054-422-6883",
+        "website": "https://braunwinery.co.il/",
+        "lat": 31.892217,
+        "lng": 34.927285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8923916,
+          31.8507203
+        ]
+      },
+      "properties": {
+        "name": "יקב ברבדו",
+        "address": "כרמי יוסף, ישראל",
+        "place_id": "ChIJYXmpzuzIAhUR3OVtoN9wOdg",
+        "wazeLink": "https://waze.com/ul?ll=31.8507203,34.8923916&navigate=yes",
+        "phone": "077-938-7300",
+        "website": "http://www.bravdo.co.il/",
+        "openingHours": [
+          "יום ראשון: 10:00–15:00",
+          "יום שני: 10:00–19:00",
+          "יום שלישי: 10:00–19:00",
+          "יום רביעי: 10:00–19:00",
+          "יום חמישי: 10:00–19:00",
+          "יום שישי: 10:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.8507203,
+        "lng": 34.8923916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.939328,
+          31.8048567
+        ]
+      },
+      "properties": {
+        "name": "יקב גיזו",
+        "address": "גיזו, ישראל",
+        "place_id": "ChIJ6fq_fhLGAhURAdjsSCWL16w",
+        "wazeLink": "https://waze.com/ul?ll=31.8048567,34.939328&navigate=yes",
+        "phone": "052-534-2228",
+        "openingHours": [
+          "יום ראשון: 11:00–15:00",
+          "יום שני: סגור",
+          "יום שלישי: 11:00–15:00",
+          "יום רביעי: 11:00–15:00",
+          "יום חמישי: 11:00–15:00",
+          "יום שישי: 11:00–15:00",
+          "יום שבת: 11:00–15:00"
+        ],
+        "lat": 31.8048567,
+        "lng": 34.939328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.117559,
+          31.392933
+        ]
+      },
+      "properties": {
+        "name": "יקב דרימיה",
+        "address": "Industrial Area, susya",
+        "place_id": "ChIJS3bwQY77AhURqgviGZv-Nks",
+        "wazeLink": "https://waze.com/ul?ll=31.392933,35.117559&navigate=yes",
+        "phone": "055-882-4369",
+        "website": "http://www.drimia-winery.com/",
+        "openingHours": [
+          "יום ראשון: 8:30–14:00",
+          "יום שני: 8:30–14:00",
+          "יום שלישי: 8:30–14:00",
+          "יום רביעי: 8:30–14:00",
+          "יום חמישי: 8:30–14:00",
+          "יום שישי: 9:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.392933,
+        "lng": 35.117559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9246726,
+          31.8499649
+        ]
+      },
+      "properties": {
+        "name": "יקב יערה",
+        "address": "תאנה 45, כרמי יוסף, ישראל",
+        "place_id": "ChIJ5V28vOvIAhURI-iOSFKBg4E",
+        "wazeLink": "https://waze.com/ul?ll=31.8499649,34.9246726&navigate=yes",
+        "website": "https://alhayain.com/?p=12485",
+        "lat": 31.8499649,
+        "lng": 34.9246726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.001903,
+          31.675861
+        ]
+      },
+      "properties": {
+        "name": "יקב יפו",
+        "address": "נווה מיכאל, ישראל",
+        "place_id": "ChIJxeZtI5RJHRUR_uXi-f-pj6g",
+        "wazeLink": "https://waze.com/ul?ll=31.675861,35.001903&navigate=yes",
+        "phone": "054-452-3201",
+        "website": "http://www.yaffowinery.co.il/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: 11:00–17:00",
+          "יום שישי: 11:00–17:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.675861,
+        "lng": 35.001903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.690114,
+          31.782502
+        ]
+      },
+      "properties": {
+        "name": "יקב כפיר",
+        "address": "אלעזר 4, גן יבנה, 7080000, ישראל",
+        "place_id": "ChIJAZBwNNS8AhURTCeos62qa7k",
+        "wazeLink": "https://waze.com/ul?ll=31.782502,34.690114&navigate=yes",
+        "phone": "08-857-0354",
+        "website": "http://www.kfir-winery.yossef-family.co.il/",
+        "lat": 31.782502,
+        "lng": 34.690114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.921677,
+          31.826091
+        ]
+      },
+      "properties": {
+        "name": "יקב כרם ברק",
+        "address": "משק 46, בקוע, 9975500, ישראל",
+        "place_id": "ChIJp6X8FSfGAhURjOk-KXoGkiY",
+        "wazeLink": "https://waze.com/ul?ll=31.826091,34.921677&navigate=yes",
+        "phone": "052-628-8591",
+        "website": "http://www.kerembarak.com/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 9:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.826091,
+        "lng": 34.921677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7592277,
+          31.8208728
+        ]
+      },
+      "properties": {
+        "name": "יקב כרם מוסקט",
+        "address": "הדוכיפת 9-10, מישר, ישראל",
+        "place_id": "ChIJUxiqtMO7AhUR2L6MTYeb57s",
+        "wazeLink": "https://waze.com/ul?ll=31.8208728,34.7592277&navigate=yes",
+        "phone": "054-422-8451",
+        "website": "https://kerem-muscat.wine/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: סגור",
+          "יום שבת: 11:00–15:00"
+        ],
+        "lat": 31.8208728,
+        "lng": 34.7592277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8846269,
+          31.7550177
+        ]
+      },
+      "properties": {
+        "name": "יקב כרמא",
+        "address": "משק 23, תירוש, 9981500, ישראל",
+        "place_id": "ChIJseRhLbbAAhURDilVLsVdd4Y",
+        "wazeLink": "https://waze.com/ul?ll=31.7550177,34.8846269&navigate=yes",
+        "phone": "054-216-7797",
+        "website": "http://carmawinery.co.il/",
+        "lat": 31.7550177,
+        "lng": 34.8846269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.947566,
+          31.77553399999999
+        ]
+      },
+      "properties": {
+        "name": "יקב מוני",
+        "address": "מנזר דיר רפאת דיר ראפאת, ישראל",
+        "place_id": "ChIJ3_279V3EAhURjaB3heGWpEY",
+        "wazeLink": "https://waze.com/ul?ll=31.77553399999999,34.947566&navigate=yes",
+        "phone": "02-991-6629",
+        "website": "https://mony-vineyard.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: 9:00–17:00",
+          "יום שבת: 9:00–17:00"
+        ],
+        "lat": 31.77553399999999,
+        "lng": 34.947566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8988753,
+          32.3467638
+        ]
+      },
+      "properties": {
+        "name": "יקב מוניץ",
+        "address": "שער הכפר 27, כפר ידידיה, 4294000, ישראל",
+        "place_id": "ChIJZ85Bz4cVHRUR9MvrK8ndlYk",
+        "wazeLink": "https://waze.com/ul?ll=32.3467638,34.8988753&navigate=yes",
+        "phone": "054-815-9930",
+        "website": "http://www.munitz-winery.co.il/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 9:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.3467638,
+        "lng": 34.8988753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9125294,
+          31.69495079999999
+        ]
+      },
+      "properties": {
+        "name": "יקב מטלר",
+        "address": "משק 18, עגור, ישראל",
+        "place_id": "ChIJm7idpbbBAhURxLYFedOoIHk",
+        "wazeLink": "https://waze.com/ul?ll=31.69495079999999,34.9125294&navigate=yes",
+        "phone": "02-630-6611",
+        "website": "https://www.facebook.com/mettlerwinery/",
+        "openingHours": [
+          "יום ראשון: 9:00–14:00",
+          "יום שני: 9:00–14:00",
+          "יום שלישי: 9:00–14:00",
+          "יום רביעי: 9:00–14:00",
+          "יום חמישי: 9:00–14:00",
+          "יום שישי: 9:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.69495079999999,
+        "lng": 34.9125294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0636373,
+          31.71457809999999
+        ]
+      },
+      "properties": {
+        "name": "יקב נבו",
+        "address": "משק 57, מטע, ישראל",
+        "place_id": "ChIJ-7VE9WjbAhURLsF4xHx0mJ8",
+        "wazeLink": "https://waze.com/ul?ll=31.71457809999999,35.0636373&navigate=yes",
+        "phone": "052-607-1780",
+        "website": "http://www.nevowinery.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–15:00",
+          "יום שני: 9:00–15:00",
+          "יום שלישי: 9:00–15:00",
+          "יום רביעי: 9:00–15:00",
+          "יום חמישי: 9:00–15:00",
+          "יום שישי: 9:00–12:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.71457809999999,
+        "lng": 35.0636373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9412978,
+          31.6734049
+        ]
+      },
+      "properties": {
+        "name": "יקב ספרה",
+        "address": "גבעת ישעיהו, ישראל",
+        "place_id": "ChIJVfh1avDBAhURw7-jiAPuRgU",
+        "wazeLink": "https://waze.com/ul?ll=31.6734049,34.9412978&navigate=yes",
+        "phone": "02-993-8577",
+        "website": "http://www.spherawinery.com/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–16:00",
+          "יום שבת: 10:00–16:00"
+        ],
+        "lat": 31.6734049,
+        "lng": 34.9412978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9071695,
+          31.8036988
+        ]
+      },
+      "properties": {
+        "name": "יקב פאר",
+        "address": "משק עיני, נחל שורק 84, טל שחר, ישראל",
+        "place_id": "ChIJryLNujvHAhUR-xqw6TH4Wko",
+        "wazeLink": "https://waze.com/ul?ll=31.8036988,34.9071695&navigate=yes",
+        "phone": "08-375-0054",
+        "website": "https://peerwinery.co.il/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 9:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.8036988,
+        "lng": 34.9071695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.015273,
+          31.777321
+        ]
+      },
+      "properties": {
+        "name": "יקב פלם",
+        "address": "יער הקדושים, יער, הקדושים, אשתאול, ישראל",
+        "place_id": "ChIJacShsLfQAhURK4M0FbZe38I",
+        "wazeLink": "https://waze.com/ul?ll=31.777321,35.015273&navigate=yes",
+        "phone": "02-992-9923",
+        "website": "http://www.flamwinery.com/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.777321,
+        "lng": 35.015273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1156821,
+          31.7852517
+        ]
+      },
+      "properties": {
+        "name": "יקב צובה",
+        "address": "צובה, 9087000, ישראל",
+        "place_id": "ChIJHzCTt7fQAhURRASLGhBSzqE",
+        "wazeLink": "https://waze.com/ul?ll=31.7852517,35.1156821&navigate=yes",
+        "phone": "02-534-7000",
+        "website": "http://tzubawinery.co.il/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–14:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.7852517,
+        "lng": 35.1156821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.091355,
+          31.807807
+        ]
+      },
+      "properties": {
+        "name": "יקב קסטל",
+        "address": "יד השמונה, שביל ישראל, 9089500, ישראל",
+        "place_id": "ChIJv5bDC_vQAhURL2PAUrT70CI",
+        "wazeLink": "https://waze.com/ul?ll=31.807807,35.091355&navigate=yes",
+        "phone": "02-535-8555",
+        "website": "http://www.castel.co.il/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.807807,
+        "lng": 35.091355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0607622,
+          31.7424193
+        ]
+      },
+      "properties": {
+        "name": "יקב רביב",
+        "address": "דרך הכרמים 613 נס הרים, נס הרים, 9988500, ישראל",
+        "place_id": "ChIJS7g1JiDbAhUR0ueuVTLOz5k",
+        "wazeLink": "https://waze.com/ul?ll=31.7424193,35.0607622&navigate=yes",
+        "phone": "054-676-3980",
+        "website": "https://www.facebook.com/ravivwine?pnref=story",
+        "lat": 31.7424193,
+        "lng": 35.0607622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.646547,
+          31.55698499999999
+        ]
+      },
+      "properties": {
+        "name": "יקב בן שושן",
+        "address": "ברור חיל, ישראל",
+        "place_id": "ChIJ59avTgGFAhURxakIxU_8de4",
+        "wazeLink": "https://waze.com/ul?ll=31.55698499999999,34.646547&navigate=yes",
+        "phone": "054-674-4161",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 9:00–18:00",
+          "יום שבת: 9:00–18:00"
+        ],
+        "lat": 31.55698499999999,
+        "lng": 34.646547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0307424,
+          30.0484981
+        ]
+      },
+      "properties": {
+        "name": "יקב נאות סמדר",
+        "address": "Neot semadar, נאות סמדר, 8886000, ישראל",
+        "place_id": "ChIJ_z_C_ZiyARURnIxx9b9mk8A",
+        "wazeLink": "https://waze.com/ul?ll=30.0484981,35.0307424&navigate=yes",
+        "phone": "054-979-8962",
+        "website": "http://neot-semadar.com/?page_id=3530",
+        "openingHours": [
+          "יום ראשון: 10:00–14:00",
+          "יום שני: 10:00–14:00",
+          "יום שלישי: 10:00–14:00",
+          "יום רביעי: 10:00–14:00",
+          "יום חמישי: 10:00–14:00",
+          "יום שישי: 10:00–12:30",
+          "יום שבת: סגור"
+        ],
+        "lat": 30.0484981,
+        "lng": 35.0307424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.178994,
+          30.560644
+        ]
+      },
+      "properties": {
+        "name": "יקב מואה",
+        "address": "51, צופר, ישראל",
+        "place_id": "ChIJj_ehd5mBARURhWXbYtVs_TE",
+        "wazeLink": "https://waze.com/ul?ll=30.560644,35.178994&navigate=yes",
+        "phone": "052-366-6095",
+        "website": "http://moawine.co.il/",
+        "openingHours": [
+          "יום ראשון: 12:00–17:00",
+          "יום שני: 12:00–17:00",
+          "יום שלישי: 12:00–17:00",
+          "יום רביעי: 12:00–17:00",
+          "יום חמישי: 11:00–17:00",
+          "יום שישי: 12:00–16:00",
+          "יום שבת: 12:00–17:00"
+        ],
+        "lat": 30.560644,
+        "lng": 35.178994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8087377,
+          30.6710185
+        ]
+      },
+      "properties": {
+        "name": "יקב קיש דרך ארץ",
+        "address": "ישוב, מצפה רמון, ישראל",
+        "place_id": "ChIJAax7_0XyARURbtaIdcCy_lk",
+        "wazeLink": "https://waze.com/ul?ll=30.6710185,34.8087377&navigate=yes",
+        "phone": "050-526-0768",
+        "lat": 30.6710185,
+        "lng": 34.8087377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9713405,
+          29.5814804
+        ]
+      },
+      "properties": {
+        "name": "יקב הים האדום",
+        "address": "דרך המטעים 6, אילת, ישראל",
+        "place_id": "ChIJIS0HampuABURhw2EVatKn9Q",
+        "wazeLink": "https://waze.com/ul?ll=29.5814804,34.9713405&navigate=yes",
+        "phone": "052-270-4704",
+        "openingHours": [
+          "יום ראשון: 8:00–13:00",
+          "יום שני: 8:00–13:00",
+          "יום שלישי: 8:00–13:00",
+          "יום רביעי: 8:00–13:00",
+          "יום חמישי: 8:00–13:00",
+          "יום שישי: 8:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 29.5814804,
+        "lng": 34.9713405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3386003,
+          31.7888409
+        ]
+      },
+      "properties": {
+        "name": "יקב ציון",
+        "address": "מעלה אדומים",
+        "place_id": "ChIJoQS3AzEsAxURbmrW9jNrUhE",
+        "wazeLink": "https://waze.com/ul?ll=31.7888409,35.3386003&navigate=yes",
+        "phone": "02-535-2540",
+        "website": "https://www.zion-winery.co.il/",
+        "lat": 31.7888409,
+        "lng": 35.3386003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7617842,
+          30.6259177
+        ]
+      },
+      "properties": {
+        "name": "יקב כרם שיזף",
+        "address": "כביש 171, מצפה רמון, ישראל",
+        "place_id": "ChIJ7zd4PpvxARURhsF7ig0dGSk",
+        "wazeLink": "https://waze.com/ul?ll=30.6259177,34.7617842&navigate=yes",
+        "phone": "054-497-5548",
+        "website": "http://shezaf.net/",
+        "openingHours": [
+          "יום ראשון: 12:00–16:00",
+          "יום שני: 12:00–16:00",
+          "יום שלישי: 12:00–16:00",
+          "יום רביעי: 12:00–16:00",
+          "יום חמישי: 12:00–16:00",
+          "יום שישי: 12:00–16:00",
+          "יום שבת: 12:00–16:00"
+        ],
+        "lat": 30.6259177,
+        "lng": 34.7617842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73927,
+          30.82581
+        ]
+      },
+      "properties": {
+        "name": "יקב כרמי עבדת",
+        "address": "מדרשת בן גוריון, ישראל",
+        "place_id": "ChIJCdXdD2YcAhURkDca2wctCFg",
+        "wazeLink": "https://waze.com/ul?ll=30.82581,34.73927&navigate=yes",
+        "phone": "052-270-5328",
+        "website": "http://www.carmey-avdat.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–16:30",
+          "יום שני: 9:00–16:30",
+          "יום שלישי: 9:00–16:30",
+          "יום רביעי: 9:00–16:30",
+          "יום חמישי: 9:00–16:30",
+          "יום שישי: 9:00–16:30",
+          "יום שבת: 9:00–16:30"
+        ],
+        "lat": 30.82581,
+        "lng": 34.73927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3296803,
+          32.2344934
+        ]
+      },
+      "properties": {
+        "name": "יקב כביר",
+        "address": "דרך היין 1, אלון מורה",
+        "place_id": "ChIJVSWE3OnnHBURE9Ow6dOWSwE",
+        "wazeLink": "https://waze.com/ul?ll=32.2344934,35.3296803&navigate=yes",
+        "phone": "052-796-6638",
+        "website": "http://www.kabirwinery.co.il/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: 10:00–17:00",
+          "יום רביעי: 10:00–17:00",
+          "יום חמישי: 10:00–23:00",
+          "יום שישי: 9:00–13:30",
+          "יום שבת: סגור"
+        ],
+        "lat": 32.2344934,
+        "lng": 35.3296803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0648531,
+          31.79661279999999
+        ]
+      },
+      "properties": {
+        "name": "יקב יהודה",
+        "address": "בכניסה למושב יש לבצע פרסה בכיכר ולפנות ימינה לפני תחנת האוטובוס, שורש, ישראל",
+        "place_id": "ChIJSWQfCmzQAhURFuyh_TTbUFk",
+        "wazeLink": "https://waze.com/ul?ll=31.79661279999999,35.0648531&navigate=yes",
+        "phone": "054-463-8544",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 11:00–14:00",
+          "יום שבת: 12:00–16:00"
+        ],
+        "lat": 31.79661279999999,
+        "lng": 35.0648531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7478676,
+          30.6148198
+        ]
+      },
+      "properties": {
+        "name": "יקב ננה",
+        "address": "כביש 171 צומת הרוחות, מצפה רמון, 80600, ישראל",
+        "place_id": "ChIJhcgt3D3zARURrkN73JdgKHc",
+        "wazeLink": "https://waze.com/ul?ll=30.6148198,34.7478676&navigate=yes",
+        "phone": "077-938-6288",
+        "website": "https://nanawine.com/",
+        "openingHours": [
+          "יום ראשון: 12:00–15:00",
+          "יום שני: 12:00–15:00",
+          "יום שלישי: 12:00–15:00",
+          "יום רביעי: 12:00–15:00",
+          "יום חמישי: 12:00–15:00",
+          "יום שישי: 11:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 30.6148198,
+        "lng": 34.7478676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.982523,
+          31.687184
+        ]
+      },
+      "properties": {
+        "name": "יקב עמק האלה",
+        "address": "נתיב הל\"ה, ישראל",
+        "place_id": "ChIJdbWN81LCAhUR8RSfjZlRf6k",
+        "wazeLink": "https://waze.com/ul?ll=31.687184,34.982523&navigate=yes",
+        "phone": "02-999-4885",
+        "website": "http://www.ellavalley.com/",
+        "openingHours": [
+          "יום ראשון: 9:00–19:00",
+          "יום שני: 9:00–19:00",
+          "יום שלישי: 9:00–19:00",
+          "יום רביעי: 9:00–19:00",
+          "יום חמישי: 9:00–19:00",
+          "יום שישי: 9:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.687184,
+        "lng": 34.982523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.816875,
+          31.608656
+        ]
+      },
+      "properties": {
+        "name": "יקב פתורה",
+        "address": "פתורה, שדה משה, ישראל",
+        "place_id": "ChIJK6HUEp2TAhURdqfxuX4N1CA",
+        "wazeLink": "https://waze.com/ul?ll=31.608656,34.816875&navigate=yes",
+        "phone": "054-985-2860",
+        "website": "https://www.ptora.co.il/",
+        "lat": 31.608656,
+        "lng": 34.816875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3053272,
+          31.845774
+        ]
+      },
+      "properties": {
+        "name": "יקב גלעד",
+        "address": "סנה, גבע בנימין",
+        "place_id": "ChIJdTLuIbktAxUReH9Xk6rmKJw",
+        "wazeLink": "https://waze.com/ul?ll=31.845774,35.3053272&navigate=yes",
+        "phone": "052-555-6833",
+        "website": "http://giladwinery.com/",
+        "openingHours": [
+          "יום ראשון: 9:00–17:00",
+          "יום שני: 9:00–17:00",
+          "יום שלישי: 9:00–17:00",
+          "יום רביעי: 9:00–17:00",
+          "יום חמישי: 9:00–17:00",
+          "יום שישי: סגור",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.845774,
+        "lng": 35.3053272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8445887,
+          31.895332
+        ]
+      },
+      "properties": {
+        "name": "יקב הרצברג",
+        "address": "הגפן 42, סתריה, ישראל",
+        "place_id": "ChIJJyDCajS2AhURtNDWpMhJSl4",
+        "wazeLink": "https://waze.com/ul?ll=31.895332,34.8445887&navigate=yes",
+        "phone": "054-425-7381",
+        "website": "https://www.facebook.com/Domaine.Herzberg/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 10:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.895332,
+        "lng": 34.8445887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.746152,
+          31.802418
+        ]
+      },
+      "properties": {
+        "name": "יקב חיטים",
+        "address": "מורג 24, נווה מבטח, ישראל",
+        "place_id": "ChIJCVItvza9AhURaEQUAVm1R3M",
+        "wazeLink": "https://waze.com/ul?ll=31.802418,34.746152&navigate=yes",
+        "phone": "054-445-4646",
+        "website": "http://chitim-winery.co.il/",
+        "openingHours": [
+          "יום ראשון: 9:00–16:00",
+          "יום שני: 9:00–16:00",
+          "יום שלישי: 9:00–16:00",
+          "יום רביעי: 9:00–16:00",
+          "יום חמישי: 9:00–16:00",
+          "יום שישי: 9:00–16:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.802418,
+        "lng": 34.746152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21371,
+          31.768319
+        ]
+      },
+      "properties": {
+        "name": "יקבי ירושלים",
+        "address": "תוצרת 3, ירושלים, ישראל",
+        "place_id": "ChIJtVZS08fXAhURVA25rE-ZGhQ",
+        "wazeLink": "https://waze.com/ul?ll=31.768319,35.21371&navigate=yes",
+        "phone": "02-583-6875",
+        "website": "http://jerusalemwineries.wobily.com/",
+        "openingHours": [
+          "יום ראשון: 8:30–17:30",
+          "יום שני: 8:30–17:30",
+          "יום שלישי: 8:30–17:30",
+          "יום רביעי: 8:30–17:30",
+          "יום חמישי: 8:30–17:30",
+          "יום שישי: סגור",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.768319,
+        "lng": 35.21371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7597464,
+          31.7143359
+        ]
+      },
+      "properties": {
+        "name": "יקב סודות",
+        "address": "תימורים, ישראל",
+        "place_id": "ChIJ1UWnZxyWAhURRTjHd4vfqmU",
+        "wazeLink": "https://waze.com/ul?ll=31.7143359,34.7597464&navigate=yes",
+        "website": "http://www.sodotwine.co.il/",
+        "lat": 31.7143359,
+        "lng": 34.7597464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2274856,
+          31.649393
+        ]
+      },
+      "properties": {
+        "name": "יקב עמוס ||| Amos Wineries - יקבי עמוס",
+        "address": "האישה החכמה",
+        "place_id": "ChIJr9Zq7bIgAxURneja5RfkwsY",
+        "wazeLink": "https://waze.com/ul?ll=31.649393,35.2274856&navigate=yes",
+        "website": "http://amoswineries.com/",
+        "lat": 31.649393,
+        "lng": 35.2274856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7894262,
+          31.8160645
+        ]
+      },
+      "properties": {
+        "name": "יקב נטע",
+        "address": "הגפן 25, קדרון, ישראל",
+        "place_id": "ChIJjX5eR0m5AhURO4A-kjRC2gE",
+        "wazeLink": "https://waze.com/ul?ll=31.8160645,34.7894262&navigate=yes",
+        "phone": "054-304-0817",
+        "website": "https://netawinery.com/",
+        "lat": 31.8160645,
+        "lng": 34.7894262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9120772,
+          32.2853558
+        ]
+      },
+      "properties": {
+        "name": "יקב דיאמנט",
+        "address": "הפלמ\"ח 40, קדימה צורן, ישראל",
+        "place_id": "ChIJAyWHMlU_HRUR_xS_t96dnaQ",
+        "wazeLink": "https://waze.com/ul?ll=32.2853558,34.9120772&navigate=yes",
+        "phone": "053-773-7251",
+        "website": "http://diamant-winery.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: 11:00–16:00",
+          "יום שלישי: סגור",
+          "יום רביעי: 11:00–16:00",
+          "יום חמישי: 11:00–16:00",
+          "יום שישי: 11:00–15:00",
+          "יום שבת: 11:00–16:00"
+        ],
+        "lat": 32.2853558,
+        "lng": 34.9120772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.720584,
+          31.827747
+        ]
+      },
+      "properties": {
+        "name": "יקב קטירה",
+        "address": "המייסדים 24, כפר אביב, 7924100, ישראל",
+        "place_id": "ChIJCyajmyW7AhURz0goz9zEoOk",
+        "wazeLink": "https://waze.com/ul?ll=31.827747,34.720584&navigate=yes",
+        "phone": "050-670-0408",
+        "openingHours": [
+          "יום ראשון: 7:30–17:00",
+          "יום שני: 7:30–17:00",
+          "יום שלישי: 7:30–17:00",
+          "יום רביעי: 7:30–17:00",
+          "יום חמישי: 7:30–17:00",
+          "יום שישי: 7:30–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.827747,
+        "lng": 34.720584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0857844,
+          31.7852564
+        ]
+      },
+      "properties": {
+        "name": "יקב מצודה",
+        "address": "ענבל 288, גבעת יערים, ישראל",
+        "place_id": "ChIJLcCSDYjQAhURqiGqBwd5Vig",
+        "wazeLink": "https://waze.com/ul?ll=31.7852564,35.0857844&navigate=yes",
+        "phone": "058-718-1836",
+        "lat": 31.7852564,
+        "lng": 35.0857844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9125702,
+          31.6946302
+        ]
+      },
+      "properties": {
+        "name": "יקב עגור",
+        "address": "17, עגור, 9984000, ישראל",
+        "place_id": "ChIJc5ma2LPBAhURrgYCiX-sCkI",
+        "wazeLink": "https://waze.com/ul?ll=31.6946302,34.9125702&navigate=yes",
+        "phone": "02-999-5423",
+        "website": "http://www.agurwines.com/",
+        "openingHours": [
+          "יום ראשון: 10:00–16:00",
+          "יום שני: 10:00–16:00",
+          "יום שלישי: 10:00–16:00",
+          "יום רביעי: 10:00–16:00",
+          "יום חמישי: 10:00–16:00",
+          "יום שישי: 10:00–16:00",
+          "יום שבת: 10:00–16:00"
+        ],
+        "lat": 31.6946302,
+        "lng": 34.9125702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77041,
+          31.825347
+        ]
+      },
+      "properties": {
+        "name": "יקב כהנוב",
+        "address": "בלב הכרמים, גדרה, ישראל",
+        "place_id": "ChIJP6GyZde7AhURM4yq-quKQJ8",
+        "wazeLink": "https://waze.com/ul?ll=31.825347,34.77041&navigate=yes",
+        "phone": "052-252-3721",
+        "website": "http://kahanov.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: 10:00–15:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.825347,
+        "lng": 34.77041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1517824,
+          31.642811
+        ]
+      },
+      "properties": {
+        "name": "יקב לביא",
+        "address": "עמק ברכות 14, פארק תעשיות גוש עציון",
+        "place_id": "ChIJKYwwNdPeAhUR-BXzZsRz6qU",
+        "wazeLink": "https://waze.com/ul?ll=31.642811,35.1517824&navigate=yes",
+        "phone": "02-993-1238",
+        "website": "http://lavie.co.il/",
+        "lat": 31.642811,
+        "lng": 35.1517824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2591573,
+          31.8750881
+        ]
+      },
+      "properties": {
+        "name": "יקב פסגות",
+        "address": "פסגות",
+        "place_id": "ChIJfRRd-ykrAxURdA5P-5FypUI",
+        "wazeLink": "https://waze.com/ul?ll=31.8750881,35.2591573&navigate=yes",
+        "phone": "02-997-9333",
+        "website": "http://www.psagotwines.com/",
+        "openingHours": [
+          "יום ראשון: 8:00–17:00",
+          "יום שני: 8:00–17:00",
+          "יום שלישי: 8:00–17:00",
+          "יום רביעי: 8:00–17:00",
+          "יום חמישי: 8:00–17:00",
+          "יום שישי: 8:00–13:00",
+          "יום שבת: סגור"
+        ],
+        "lat": 31.8750881,
+        "lng": 35.2591573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8795588,
+          31.5509814
+        ]
+      },
+      "properties": {
+        "name": "יקב לכיש",
+        "address": "לכיש, ישראל",
+        "place_id": "ChIJK0qzL8OSAhUR76FMG-w9yKY",
+        "wazeLink": "https://waze.com/ul?ll=31.5509814,34.8795588&navigate=yes",
+        "phone": "050-797-2222",
+        "website": "http://kerembelachish.com/",
+        "openingHours": [
+          "יום ראשון: סגור",
+          "יום שני: סגור",
+          "יום שלישי: סגור",
+          "יום רביעי: סגור",
+          "יום חמישי: סגור",
+          "יום שישי: סגור",
+          "יום שבת: 9:30–13:00"
+        ],
+        "lat": 31.5509814,
+        "lng": 34.8795588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7512546,
+          31.8141473
+        ]
+      },
+      "properties": {
+        "name": "יקב מישר",
+        "address": "הדוכיפת 41, מישר, 76850, ישראל",
+        "place_id": "ChIJl2Mt1za7AhURmJIrSUV210E",
+        "wazeLink": "https://waze.com/ul?ll=31.8141473,34.7512546&navigate=yes",
+        "phone": "052-489-1908",
+        "website": "http://www.meishar.co.il/",
+        "openingHours": [
+          "יום ראשון: 10:00–17:00",
+          "יום שני: 10:00–17:00",
+          "יום שלישי: 10:00–17:00",
+          "יום רביעי: 10:00–17:00",
+          "יום חמישי: 10:00–17:00",
+          "יום שישי: 10:00–17:00",
+          "יום שבת: 10:00–17:00"
+        ],
+        "lat": 31.8141473,
+        "lng": 34.7512546
+      }
+    }
+  ],
+  "generated": "2025-04-20T00:07:06.057066Z",
+  "note": "Converted from wineries.json uploaded by user."
+}

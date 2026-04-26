@@ -1,0 +1,14 @@
+{
+  "wineries": {
+    "Example Winery Name": {
+      "name": "מבצע מיוחד!",
+      "description": "20% הנחה על כל היינות עד סוף החודש. בואו לבקר אותנו!"
+    }
+  },
+  "shops": {
+    "Example Wine Shop Name": {
+      "name": "מבצע היום!",
+      "description": "קנייה של 3 בקבוקים ומעלה - הנחה של 15%"
+    }
+  }
+}

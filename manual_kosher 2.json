@@ -1,0 +1,10 @@
+{
+  "wineries": {
+    "Example Winery Name": true,
+    "Another Winery": false
+  },
+  "shops": {
+    "Example Wine Shop Name": true,
+    "Another Shop": false
+  }
+}

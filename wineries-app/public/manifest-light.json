@@ -1,0 +1,40 @@
+{
+  "name": "wineME - Israeli Wineries",
+  "short_name": "wineME",
+  "description": "Find wineries and wine shops across Israel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8B1D24",
+  "theme_color": "#8B1D24",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "display_override": ["standalone", "fullscreen"],
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/app-icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["food", "travel", "lifestyle"],
+  "screenshots": []
+}

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B1D24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6B1519;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bottleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F5F5F5;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="100" cy="100" r="95" fill="url(#bgGradient)"/>
+  
+  <!-- Wine bottle -->
+  <g filter="url(#shadow)">
+    <!-- Bottle body -->
+    <path d="M 75 50 L 75 140 Q 75 150 85 150 L 115 150 Q 125 150 125 140 L 125 50 Q 125 40 115 40 L 85 40 Q 75 40 75 50 Z" 
+          fill="url(#bottleGradient)" stroke="#8B1D24" stroke-width="2"/>
+    
+    <!-- Bottle neck -->
+    <rect x="90" y="40" width="20" height="15" fill="url(#bottleGradient)" stroke="#8B1D24" stroke-width="2"/>
+    
+    <!-- Cork -->
+    <rect x="92" y="35" width="16" height="8" fill="#8B1D24" rx="2"/>
+    
+    <!-- Wine level -->
+    <path d="M 80 100 Q 100 95 120 100 L 120 140 Q 120 150 115 150 L 85 150 Q 80 150 80 140 Z" 
+          fill="#8B1D24" opacity="0.8"/>
+    
+    <!-- Wine label area highlight -->
+    <rect x="85" y="70" width="30" height="25" fill="none" stroke="#8B1D24" stroke-width="1.5" opacity="0.5" rx="2"/>
+  </g>
+  
+  <!-- Grape cluster decoration -->
+  <g opacity="0.7">
+    <circle cx="60" cy="80" r="8" fill="#6B1519"/>
+    <circle cx="70" cy="75" r="7" fill="#6B1519"/>
+    <circle cx="65" cy="90" r="7" fill="#6B1519"/>
+    <circle cx="55" cy="90" r="6" fill="#6B1519"/>
+  </g>
+  
+  <!-- Text "wineME" -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
+        fill="white" text-anchor="middle">wineME</text>
+</svg>

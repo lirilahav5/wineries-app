@@ -1,0 +1,191 @@
+.biometric-auth-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, #f5f5f5 0%, #e9e9e9 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+  padding: 2rem 1rem;
+  touch-action: manipulation;
+}
+
+.biometric-auth-screen {
+  width: 100%;
+  max-width: 420px;
+  text-align: center;
+  color: #333;
+}
+
+.biometric-auth-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.biometric-auth-header h2 {
+  margin: 0;
+  color: #8B1D24;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.biometric-quick-button {
+  background: #8B1D24;
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 6px 14px rgba(139, 29, 36, 0.25);
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.biometric-quick-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(139, 29, 36, 0.35);
+}
+
+.biometric-quick-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.biometric-subtitle {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.biometric-error {
+  background: #fee;
+  color: #c33;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border: 1px solid #fcc;
+  font-size: 0.9rem;
+}
+
+.pin-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+
+.pin-dot {
+  width: 14px;
+  height: 14px;
+  border: 2px solid #8B1D24;
+  border-radius: 50%;
+  background: transparent;
+  transition: background 0.2s ease;
+}
+
+.pin-dot.filled {
+  background: #8B1D24;
+}
+
+.pin-keypad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  justify-items: center;
+}
+
+.pin-key {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  border: 1px solid rgba(139, 29, 36, 0.25);
+  background: rgba(255, 255, 255, 0.85);
+  color: #333;
+  font-size: 1.5rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.pin-key:active {
+  transform: scale(0.96);
+  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+
+.pin-key--ghost {
+  width: auto;
+  min-width: 90px;
+  height: 48px;
+  border-radius: 999px;
+  border: none;
+  background: transparent;
+  color: #8B1D24;
+  font-size: 0.85rem;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.pin-submit {
+  margin-top: 1rem;
+  background: #8B1D24;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 0.65rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.pin-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .biometric-auth-overlay {
+    background: linear-gradient(180deg, #1a1a1a 0%, #121212 100%);
+  }
+
+  .biometric-auth-screen {
+    color: #e0e0e0;
+  }
+
+  .biometric-subtitle {
+    color: #aaa;
+  }
+
+  .pin-dot {
+    border-color: #8B1D24;
+  }
+
+  .pin-key {
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .pin-key--ghost {
+    color: #f5c4c7;
+  }
+
+  .biometric-error {
+    background: #3a1a1a;
+    color: #ff6b6b;
+    border-color: #5a2a2a;
+  }
+}

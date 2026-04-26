@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/app-icon-192.png" media="(prefers-color-scheme: light)" />
+    <link rel="icon" type="image/png" href="/app-icon-192-dark.png" media="(prefers-color-scheme: dark)" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-dark.png" media="(prefers-color-scheme: dark)" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover, shrink-to-fit=no" />
+    <meta name="theme-color" content="#8B1D24" />
+    <meta name="description" content="Find wineries and wine shops across Israel" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="wineME" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="manifest" href="/manifest-light.json" id="app-manifest" />
+    <script>
+      (function () {
+        try {
+          var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var manifest = document.getElementById('app-manifest');
+          if (manifest) {
+            manifest.setAttribute('href', prefersDark ? '/manifest-dark.json' : '/manifest-light.json');
+          }
+        } catch (e) {
+          // ignore
+        }
+      })();
+    </script>
+    <title>wineME - Israeli Wineries</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

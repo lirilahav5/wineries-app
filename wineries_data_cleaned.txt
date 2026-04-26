@@ -1,0 +1,3909 @@
+================================================================================
+WINERIES TABLE - CLEANED ROWS
+Total Rows: 229
+Exported: 2026-01-12T07:19:18.572Z
+================================================================================
+
+INSTRUCTIONS:
+- This file has been cleaned according to the following criteria:
+  a. Duplicates removed
+  b. Non-verified entries removed
+  c. Invalid discounts removed (no explicit percentage or clear specification)
+  d. Information verified and updated
+  e. Wrong category entries removed (wineries in shops, shops in wineries)
+  f. Restaurants removed
+  g. Supermarkets and minimarkets removed
+
+================================================================================
+ROW #1 (ID: 1)
+================================================================================
+id                   : 1
+name                 : Vortman Winery
+address              : אופקים 23, חיפה, ישראל
+place_id             : ChIJ5XRnvQ-7HRURD6VW9fMUAdg
+region               : צפון
+kosher               : true
+phone                : 051-267-7607
+website              : http://www.vortmanwinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.7943185
+lng                  : 34.9823219
+geometry             : SRID=4326;POINT(34.9823219 32.7943185)
+offers               : 10% הנחה בקניה מעל 600 ש"ח. 15% הנחה בקניה מעל 1200 ש"ח. משלוח חינם בחיפה בקנייה מעל 150 ש"ח.
+
+ROW #2 (ID: 2)
+================================================================================
+id                   : 2
+name                 : יקב טוליפ
+address              : כפר תקווה, ישראל
+place_id             : ChIJh_mBuhKuHRURreFoy447JtI
+region               : צפון
+kosher               : [NULL]
+phone                : 04-983-0573
+website              : https://www.tulip-winery.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : false
+lat                  : 32.7017686
+lng                  : 35.1168432
+geometry             : SRID=4326;POINT(35.1168432 32.7017686)
+offers               : מצטרפים למועדון הלקוחות שלנו ומקבלים 10% הנחה להזמנה ראשונה
+
+ROW #3 (ID: 3)
+================================================================================
+id                   : 3
+name                 : יקב אמפורה - Amphorae Winery
+address              : אמפורה, כרם מהר"ל, ישראל
+place_id             : ChIJc-kE5f6mHRUREBoLu09IwqQ
+region               : שרון
+kosher               : true
+phone                : 04-984-0702
+website              : https://amphoraewines.com/
+opening_hours        : ["יום ראשון: 10:00–18:00","יום שני: 10:00–18:00","יום שלישי: 10:00–18:00","יום רביעי: 10:00–22:00","... [truncated]
+is_open              : true
+lat                  : 32.6388864
+lng                  : 34.9938854
+geometry             : SRID=4326;POINT(34.9938854 32.6388864)
+offers               : משלוח חינם מעל 300₪, 20% הנחה למצטרפים לקהילה
+
+ROW #4 (ID: 4)
+================================================================================
+id                   : 4
+name                 : Jezreel Valley Winery
+address              : חנתון, 1796000, ישראל
+place_id             : ChIJsTKrKRFLHBURtpbfwLhRJqI
+region               : גליל
+kosher               : true
+phone                : 04-870-8701
+website              : http://www.jezreelwinery.com/
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : false
+lat                  : 32.7864425
+lng                  : 35.2427027
+geometry             : SRID=4326;POINT(35.2427027 32.7864425)
+offers               : [NULL]
+
+ROW #5 (ID: 5)
+================================================================================
+id                   : 5
+name                 : Maia
+address              : כפר תקווה, ישראל
+place_id             : ChIJ9WjiXA2uHRUROu4K2pTDkUA
+region               : צפון
+kosher               : [NULL]
+phone                : 04-983-0573
+website              : http://maia-wines.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : false
+lat                  : 32.7015269
+lng                  : 35.1164917
+geometry             : SRID=4326;POINT(35.1164917 32.7015269)
+offers               : [NULL]
+
+ROW #6 (ID: 6)
+================================================================================
+id                   : 6
+name                 : יקב נטופה Netofa Winery
+address              : 20, מצפה נטופה, ישראל
+place_id             : ChIJJ39Pcfo3HBURV6_V_-oIdLU
+region               : גליל
+kosher               : true
+phone                : 04-678-6454
+website              : http://www.netofa.com/he/home
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : false
+lat                  : 32.8034594
+lng                  : 35.3834196
+geometry             : SRID=4326;POINT(35.3834196 32.8034594)
+offers               : [NULL]
+
+ROW #7 (ID: 7)
+================================================================================
+id                   : 7
+name                 : יקב מבצר עתלית
+address              : חצרות האיכרים 6, עתלית, ישראל
+place_id             : ChIJt8-heFahHRURqafsWqDQ7eY
+region               : שרון
+kosher               : [NULL]
+phone                : 054-432-3727
+website              : https://www.wine-ramathanadiv.co.il/%D7%99%D7%A7%D7%91-%D7%9E%D7%91%D7%A6%D7%A8-%D7%A2%D7%AA%D7%9C%D... [truncated]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.6933635
+lng                  : 34.94513690000001
+geometry             : SRID=4326;POINT(34.94513690000001 32.6933635)
+offers               : [NULL]
+
+ROW #8 (ID: 8)
+================================================================================
+id                   : 8
+name                 : Stern Winery
+address              : Tuval, ישראל
+place_id             : ChIJIVH0BW4zHBUR_hVZ8e4GUM4
+region               : צפון
+kosher               : false
+phone                : [NULL]
+website              : https://stern-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.9295795
+lng                  : 35.2471373
+geometry             : SRID=4326;POINT(35.2471373 32.9295795)
+offers               : [NULL]
+
+ROW #9 (ID: 9)
+================================================================================
+id                   : 9
+name                 : יקב תבור
+address              : שדרות קק"ל, כפר תבור, 15241, ישראל
+place_id             : ChIJDTpDHcdFHBUR6ONtiITIQIM
+region               : גליל
+kosher               : [NULL]
+phone                : 04-676-0444
+website              : https://www.twc.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–21:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : false
+lat                  : 32.6865184
+lng                  : 35.428668
+geometry             : SRID=4326;POINT(35.428668 32.6865184)
+offers               : [NULL]
+
+ROW #10 (ID: 10)
+================================================================================
+id                   : 10
+name                 : יקב מרגלית
+address              : הטחנה 60, בנימינה גבעת עדה, ישראל
+place_id             : ChIJU3FyWwoNHRURgLBrboucdrg
+region               : שרון
+kosher               : [NULL]
+phone                : 054-670-0836
+website              : http://www.margalit-winery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.51263
+lng                  : 34.94929
+geometry             : SRID=4326;POINT(34.94929 32.51263)
+offers               : [NULL]
+
+ROW #11 (ID: 11)
+================================================================================
+id                   : 11
+name                 : Simon winery - יקב סימון
+address              : בורוכוב 43, קרית טבעון, 3604637, ישראל
+place_id             : ChIJPZaV8_6tHRURrVn4i5T7dxQ
+region               : צפון
+kosher               : [NULL]
+phone                : 054-456-7847
+website              : http://www.simonwinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.713102
+lng                  : 35.1304501
+geometry             : SRID=4326;POINT(35.1304501 32.713102)
+offers               : [NULL]
+
+ROW #12 (ID: 12)
+================================================================================
+id                   : 12
+name                 : Abouhav Winery
+address              : סמטת אבוהב 1, צפת, ישראל
+place_id             : ChIJb0ejKZIjHBURQO6-nfYwDbU
+region               : גליל
+kosher               : true
+phone                : 052-704-1731
+website              : http://www.abouhav-winery.com/
+opening_hours        : ["יום ראשון: 11:00–18:00","יום שני: 11:00–18:00","יום שלישי: 11:00–18:00","יום רביעי: 11:00–17:00","... [truncated]
+is_open              : false
+lat                  : 32.9685852
+lng                  : 35.4914562
+geometry             : SRID=4326;POINT(35.4914562 32.9685852)
+offers               : [NULL]
+
+ROW #13 (ID: 14)
+================================================================================
+id                   : 14
+name                 : כרמי בת שלמה
+address              : המייסדים, בת שלמה, ישראל
+place_id             : ChIJL_3zBuoJHRURr01Z3-e0qfs
+region               : צפון
+kosher               : [NULL]
+phone                : 054-265-1889
+website              : http://www.batshlomo.com/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : false
+lat                  : 32.5964122
+lng                  : 35.0040604
+geometry             : SRID=4326;POINT(35.0040604 32.5964122)
+offers               : [NULL]
+
+ROW #14 (ID: 15)
+================================================================================
+id                   : 15
+name                 : יקבי אלון
+address              : אלוני אבא, ישראל
+place_id             : ChIJVZWWwliyHRURoItU2pnRfT0
+region               : צפון
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.7291601
+lng                  : 35.1689143
+geometry             : SRID=4326;POINT(35.1689143 32.7291601)
+offers               : [NULL]
+
+ROW #15 (ID: 17)
+================================================================================
+id                   : 17
+name                 : יקב פויזנר
+address              : המייסדים 71, זכרון יעקב, ישראל
+place_id             : ChIJD4AVsYEJHRURxCq9Dy0bjl4
+region               : שרון
+kosher               : [NULL]
+phone                : 052-320-2323
+website              : http://www.poizner.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.5753653
+lng                  : 34.9538603
+geometry             : SRID=4326;POINT(34.9538603 32.5753653)
+offers               : [NULL]
+
+ROW #16 (ID: 18)
+================================================================================
+id                   : 18
+name                 : יקב לטם
+address              : אזור תעשיה, כליל 7, לוטם, 20124, ישראל
+place_id             : ChIJQeGLqtIwHBURpsLBD6-n9co
+region               : גליל
+kosher               : [NULL]
+phone                : 073-394-3305
+website              : http://www.lotemwinery.co.il/
+opening_hours        : ["יום ראשון: 11:00–16:30","יום שני: 11:00–16:30","יום שלישי: 11:00–16:30","יום רביעי: 11:00–16:30","... [truncated]
+is_open              : false
+lat                  : 32.8795838
+lng                  : 35.3578133
+geometry             : SRID=4326;POINT(35.3578133 32.8795838)
+offers               : [NULL]
+
+ROW #17 (ID: 19)
+================================================================================
+id                   : 19
+name                 : יקב סומק
+address              : הרצל 16, זכרון יעקב, ישראל
+place_id             : ChIJ-QlxSX4JHRURRpZOn7fIepM
+region               : שרון
+kosher               : [NULL]
+phone                : 04-639-7982
+website              : https://somek-winery.co.il/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : false
+lat                  : 32.5714817
+lng                  : 34.9525197
+geometry             : SRID=4326;POINT(34.9525197 32.5714817)
+offers               : [NULL]
+
+ROW #18 (ID: 20)
+================================================================================
+id                   : 20
+name                 : יקב יעלים
+address              : אודם 72, ערד, ישראל
+place_id             : ChIJR52PARoAAxURqvL4GN3ElMA
+region               : נגב
+kosher               : [NULL]
+phone                : [NULL]
+website              : https://www.travelarad.com/he/activites/%D7%99%D7%A7%D7%91-%D7%99%D7%A2%D7%9C%D7%99%D7%9D/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.2677162
+lng                  : 35.2255256
+geometry             : SRID=4326;POINT(35.2255256 31.2677162)
+offers               : [NULL]
+
+ROW #19 (ID: 21)
+================================================================================
+id                   : 21
+name                 : יקב יתיר
+address              : ישראל
+place_id             : ChIJC-qoAAIAAxURMP-nxJ5b3U0
+region               : נגב
+kosher               : [NULL]
+phone                : 08-995-9090
+website              : http://yatirwinery.com/
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.2615464
+lng                  : 35.1341118
+geometry             : SRID=4326;POINT(35.1341118 31.2615464)
+offers               : [NULL]
+
+ROW #20 (ID: 23)
+================================================================================
+id                   : 23
+name                 : יקב צוף
+address              : סיירים 3, ערד, ישראל
+place_id             : ChIJNaNmJAEAAxUReUVEOrSAyNs
+region               : נגב
+kosher               : [NULL]
+phone                : 050-422-4777
+website              : http://winery-156.business.site/
+opening_hours        : ["יום ראשון: 9:00–20:00","יום שני: 9:00–20:00","יום שלישי: 9:00–20:00","יום רביעי: 9:00–20:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.2576971
+lng                  : 35.2193786
+geometry             : SRID=4326;POINT(35.2193786 31.2576971)
+offers               : [NULL]
+
+ROW #21 (ID: 24)
+================================================================================
+id                   : 24
+name                 : יקב רוטה
+address              : 1 חוות רוטה, ישראל
+place_id             : ChIJlbwia2tmAhURjsvtVx6OWFg
+region               : נגב
+kosher               : true
+phone                : 054-496-8703
+website              : http://www.rotawinery.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.0587909
+lng                  : 34.7007796
+geometry             : SRID=4326;POINT(34.7007796 31.0587909)
+offers               : [NULL]
+
+ROW #22 (ID: 26)
+================================================================================
+id                   : 26
+name                 : יקב בן פורת
+address              : הנחלה 1, יצהר
+place_id             : ChIJlcLSduTfHBURR41XY6BN9NI
+region               : שומרון
+kosher               : true
+phone                : 052-905-0809
+website              : https://winery-465.business.site/?utm_source=gmb&utm_medium=referral
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 32.1702066
+lng                  : 35.23278640000001
+geometry             : SRID=4326;POINT(35.23278640000001 32.1702066)
+offers               : [NULL]
+
+ROW #23 (ID: 27)
+================================================================================
+id                   : 27
+name                 : יקב גת שומרון
+address              : 54F2+G6C, קרני שומרון
+place_id             : ChIJ6XJ-jBcjHRUR21hDmXn6sOY
+region               : שומרון
+kosher               : true
+phone                : [NULL]
+website              : https://www.gatshomron.co.il/
+opening_hours        : ["יום ראשון: 9:00–23:00","יום שני: 9:00–23:00","יום שלישי: 9:00–23:00","יום רביעי: 9:00–23:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 32.1738076
+lng                  : 35.1005295
+geometry             : SRID=4326;POINT(35.1005295 32.1738076)
+offers               : [NULL]
+
+ROW #24 (ID: 29)
+================================================================================
+id                   : 29
+name                 : יקב טורא
+address              : רחלים
+place_id             : ChIJeSknot_YHBURgzLnKPQBlgs
+region               : שומרון
+kosher               : true
+phone                : 052-796-6613
+website              : http://www.turawinery.com/
+opening_hours        : ["יום ראשון: 8:00–17:00","יום שני: 8:00–17:00","יום שלישי: 8:00–17:00","יום רביעי: 8:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 32.1029242
+lng                  : 35.2568106
+geometry             : SRID=4326;POINT(35.2568106 32.1029242)
+offers               : [NULL]
+
+ROW #25 (ID: 30)
+================================================================================
+id                   : 30
+name                 : יקב טל מנשה
+address              : חיננית
+place_id             : ChIJv_Xp21oBHRURbuLjUrejDiw
+region               : שומרון
+kosher               : [NULL]
+phone                : 050-545-3376
+website              : https://elyasafeyal.wixsite.com/yekevtalmash
+opening_hours        : ["יום ראשון: 8:30–20:30","יום שני: 8:30–20:30","יום שלישי: 8:30–20:30","יום רביעי: 8:30–20:30","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 32.4820718
+lng                  : 35.1592723
+geometry             : SRID=4326;POINT(35.1592723 32.4820718)
+offers               : [NULL]
+
+ROW #26 (ID: 32)
+================================================================================
+id                   : 32
+name                 : יקב 70
+address              : הרימון 75, אמונים, 9726500, ישראל
+place_id             : ChIJP3_e1nSZAhURmoPBwkREZa0
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-224-3578
+website              : https://70winery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.74192
+lng                  : 34.681289
+geometry             : SRID=4326;POINT(34.681289 31.74192)
+offers               : [NULL]
+
+ROW #27 (ID: 33)
+================================================================================
+id                   : 33
+name                 : יקב אבנר
+address              : הרימון, גבעת זאב
+place_id             : ChIJVTjb7rLVAhURriy_hbfjtCo
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-582-2236
+website              : https://www.avnerwinery.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.8559858
+lng                  : 35.1714129
+geometry             : SRID=4326;POINT(35.1714129 31.8559858)
+offers               : [NULL]
+
+ROW #28 (ID: 34)
+================================================================================
+id                   : 34
+name                 : יקב ארזה
+address              : חרובית, מעלה אדומים
+place_id             : ChIJxQAaPTssAxURqi8WhsWxr60
+region               : מרכז
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7891381
+lng                  : 35.3321141
+geometry             : SRID=4326;POINT(35.3321141 31.7891381)
+offers               : [NULL]
+
+ROW #29 (ID: 35)
+================================================================================
+id                   : 35
+name                 : יקב בזק
+address              : ורד 21, כרמי יוסף, 9979700, ישראל
+place_id             : ChIJD85JXhbJAhUR7d8mnL9pLUY
+region               : הרי יהודה
+kosher               : true
+phone                : 054-630-6773
+website              : http://www.bazakwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.8458152
+lng                  : 34.9136607
+geometry             : SRID=4326;POINT(34.9136607 31.8458152)
+offers               : [NULL]
+
+ROW #30 (ID: 36)
+================================================================================
+id                   : 36
+name                 : יקב בן נון
+address              : הרימון 34, כפר בן-נון, 9978000, ישראל
+place_id             : ChIJK2Vj5inJAhURQhA9T1viuzA
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 054-912-2377
+website              : https://www.binnunwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.861033
+lng                  : 34.944065
+geometry             : SRID=4326;POINT(34.944065 31.861033)
+offers               : [NULL]
+
+ROW #31 (ID: 39)
+================================================================================
+id                   : 39
+name                 : יקב גיזו
+address              : גיזו, ישראל
+place_id             : ChIJ6fq_fhLGAhURAdjsSCWL16w
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 052-534-2228
+website              : https://www.instagram.com/gizovi?igsh=eHkzb29kdWhkdWxr
+opening_hours        : ["יום ראשון: 11:00–15:00","יום שני: סגור","יום שלישי: 11:00–15:00","יום רביעי: 11:00–15:00","יום חמי... [truncated]
+is_open              : [NULL]
+lat                  : 31.8048567
+lng                  : 34.939328
+geometry             : SRID=4326;POINT(34.939328 31.8048567)
+offers               : [NULL]
+
+ROW #32 (ID: 40)
+================================================================================
+id                   : 40
+name                 : יקב דרימיה
+address              : Industrial Area, susya
+place_id             : ChIJS3bwQY77AhURqgviGZv-Nks
+region               : נגב
+kosher               : true
+phone                : 055-882-4369
+website              : http://www.drimia-winery.com/
+opening_hours        : ["יום ראשון: 8:30–14:00","יום שני: 8:30–14:00","יום שלישי: 8:30–14:00","יום רביעי: 8:30–14:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.392933
+lng                  : 35.117559
+geometry             : SRID=4326;POINT(35.117559 31.392933)
+offers               : [NULL]
+
+ROW #33 (ID: 41)
+================================================================================
+id                   : 41
+name                 : יקב יערה
+address              : תאנה 45, כרמי יוסף, ישראל
+place_id             : ChIJ5V28vOvIAhURI-iOSFKBg4E
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : [NULL]
+website              : https://alhayain.com/?p=12485
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.8499649
+lng                  : 34.9246726
+geometry             : SRID=4326;POINT(34.9246726 31.8499649)
+offers               : [NULL]
+
+ROW #34 (ID: 42)
+================================================================================
+id                   : 42
+name                 : יקב יפו
+address              : נווה מיכאל, ישראל
+place_id             : ChIJxeZtI5RJHRUR_uXi-f-pj6g
+region               : הרי יהודה
+kosher               : true
+phone                : 054-452-3201
+website              : http://www.yaffowinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 11:00–17:00","יום... [truncated]
+is_open              : [NULL]
+lat                  : 31.675861
+lng                  : 35.001903
+geometry             : SRID=4326;POINT(35.001903 31.675861)
+offers               : [NULL]
+
+ROW #35 (ID: 43)
+================================================================================
+id                   : 43
+name                 : יקב כפיר
+address              : אלעזר 4, גן יבנה, 7080000, ישראל
+place_id             : ChIJAZBwNNS8AhURTCeos62qa7k
+region               : מרכז
+kosher               : [NULL]
+phone                : 08-857-0354
+website              : http://www.kfir-winery.yossef-family.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.782502
+lng                  : 34.690114
+geometry             : SRID=4326;POINT(34.690114 31.782502)
+offers               : [NULL]
+
+ROW #36 (ID: 45)
+================================================================================
+id                   : 45
+name                 : יקב כרם מוסקט
+address              : הדוכיפת 9-10, מישר, ישראל
+place_id             : ChIJUxiqtMO7AhUR2L6MTYeb57s
+region               : מרכז
+kosher               : [NULL]
+phone                : 054-422-8451
+website              : https://kerem-muscat.wine/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.8208728
+lng                  : 34.7592277
+geometry             : SRID=4326;POINT(34.7592277 31.8208728)
+offers               : [NULL]
+
+ROW #37 (ID: 46)
+================================================================================
+id                   : 46
+name                 : יקב כרמא
+address              : משק 23, תירוש, 9981500, ישראל
+place_id             : ChIJseRhLbbAAhURDilVLsVdd4Y
+region               : מרכז
+kosher               : [NULL]
+phone                : 054-216-7797
+website              : http://carmawinery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7550177
+lng                  : 34.8846269
+geometry             : SRID=4326;POINT(34.8846269 31.7550177)
+offers               : [NULL]
+
+ROW #38 (ID: 47)
+================================================================================
+id                   : 47
+name                 : יקב מוני
+address              : מנזר דיר רפאת דיר ראפאת, ישראל
+place_id             : ChIJ3_279V3EAhURjaB3heGWpEY
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-991-6629
+website              : https://mony-vineyard.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.77553399999999
+lng                  : 34.947566
+geometry             : SRID=4326;POINT(34.947566 31.77553399999999)
+offers               : [NULL]
+
+ROW #39 (ID: 48)
+================================================================================
+id                   : 48
+name                 : יקב מוניץ
+address              : שער הכפר 27, כפר ידידיה, 4294000, ישראל
+place_id             : ChIJZ85Bz4cVHRUR9MvrK8ndlYk
+region               : שרון
+kosher               : true
+phone                : 054-815-9930
+website              : http://www.munitz-winery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 32.3467638
+lng                  : 34.8988753
+geometry             : SRID=4326;POINT(34.8988753 32.3467638)
+offers               : [NULL]
+
+ROW #40 (ID: 49)
+================================================================================
+id                   : 49
+name                 : יקב מטלר
+address              : משק 18, עגור, ישראל
+place_id             : ChIJm7idpbbBAhURxLYFedOoIHk
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-630-6611
+website              : https://www.facebook.com/mettlerwinery/
+opening_hours        : ["יום ראשון: 9:00–14:00","יום שני: 9:00–14:00","יום שלישי: 9:00–14:00","יום רביעי: 9:00–14:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.69495079999999
+lng                  : 34.9125294
+geometry             : SRID=4326;POINT(34.9125294 31.69495079999999)
+offers               : [NULL]
+
+ROW #41 (ID: 50)
+================================================================================
+id                   : 50
+name                 : יקב נבו
+address              : משק 57, מטע, ישראל
+place_id             : ChIJ-7VE9WjbAhURLsF4xHx0mJ8
+region               : הרי יהודה
+kosher               : true
+phone                : 052-607-1780
+website              : http://www.nevowinery.co.il/
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.71457809999999
+lng                  : 35.0636373
+geometry             : SRID=4326;POINT(35.0636373 31.71457809999999)
+offers               : [NULL]
+
+ROW #42 (ID: 51)
+================================================================================
+id                   : 51
+name                 : יקב ספרה
+address              : גבעת ישעיהו, ישראל
+place_id             : ChIJVfh1avDBAhURw7-jiAPuRgU
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-993-8577
+website              : http://www.spherawinery.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.6734049
+lng                  : 34.9412978
+geometry             : SRID=4326;POINT(34.9412978 31.6734049)
+offers               : [NULL]
+
+ROW #43 (ID: 52)
+================================================================================
+id                   : 52
+name                 : יקב פאר
+address              : משק עיני, נחל שורק 84, טל שחר, ישראל
+place_id             : ChIJryLNujvHAhUR-xqw6TH4Wko
+region               : הרי יהודה
+kosher               : true
+phone                : 08-375-0054
+website              : https://peerwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.8036988
+lng                  : 34.9071695
+geometry             : SRID=4326;POINT(34.9071695 31.8036988)
+offers               : [NULL]
+
+ROW #44 (ID: 53)
+================================================================================
+id                   : 53
+name                 : יקב פלם
+address              : יער הקדושים, יער, הקדושים, אשתאול, ישראל
+place_id             : ChIJacShsLfQAhURK4M0FbZe38I
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-992-9923
+website              : http://www.flamwinery.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.777321
+lng                  : 35.015273
+geometry             : SRID=4326;POINT(35.015273 31.777321)
+offers               : [NULL]
+
+ROW #45 (ID: 54)
+================================================================================
+id                   : 54
+name                 : יקב צובה
+address              : צובה, 9087000, ישראל
+place_id             : ChIJHzCTt7fQAhURRASLGhBSzqE
+region               : ירושלים
+kosher               : true
+phone                : 02-534-7000
+website              : http://tzubawinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 10:00–16:00","יום חמישי: 10:00–16:0... [truncated]
+is_open              : [NULL]
+lat                  : 31.7852517
+lng                  : 35.1156821
+geometry             : SRID=4326;POINT(35.1156821 31.7852517)
+offers               : {"name":"מבצע מיוחד!","description":"מזמינים אתכם להיות חברים שלנו! הצטרפו למועדון הלקוחותוקבלו 10% ... [truncated]
+
+ROW #46 (ID: 55)
+================================================================================
+id                   : 55
+name                 : יקב קסטל
+address              : יד השמונה, שביל ישראל, 9089500, ישראל
+place_id             : ChIJv5bDC_vQAhURL2PAUrT70CI
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-535-8555
+website              : http://www.castel.co.il/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.807807
+lng                  : 35.091355
+geometry             : SRID=4326;POINT(35.091355 31.807807)
+offers               : [NULL]
+
+ROW #47 (ID: 56)
+================================================================================
+id                   : 56
+name                 : יקב רביב
+address              : דרך הכרמים 613 נס הרים, נס הרים, 9988500, ישראל
+place_id             : ChIJS7g1JiDbAhUR0ueuVTLOz5k
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 054-676-3980
+website              : https://www.facebook.com/ravivwine?pnref=story
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7424193
+lng                  : 35.0607622
+geometry             : SRID=4326;POINT(35.0607622 31.7424193)
+offers               : [NULL]
+
+ROW #48 (ID: 58)
+================================================================================
+id                   : 58
+name                 : יקב נאות סמדר
+address              : Neot semadar, נאות סמדר, 8886000, ישראל
+place_id             : ChIJ_z_C_ZiyARURnIxx9b9mk8A
+region               : נגב
+kosher               : true
+phone                : 054-979-8962
+website              : http://neot-semadar.com/?page_id=3530
+opening_hours        : ["יום ראשון: 10:00–14:00","יום שני: 10:00–14:00","יום שלישי: 10:00–14:00","יום רביעי: 10:00–14:00","... [truncated]
+is_open              : [NULL]
+lat                  : 30.0484981
+lng                  : 35.0307424
+geometry             : SRID=4326;POINT(35.0307424 30.0484981)
+offers               : [NULL]
+
+ROW #49 (ID: 59)
+================================================================================
+id                   : 59
+name                 : יקב מואה
+address              : 51, צופר, ישראל
+place_id             : ChIJj_ehd5mBARURhWXbYtVs_TE
+region               : נגב
+kosher               : [NULL]
+phone                : 052-366-6095
+website              : http://moawine.co.il/
+opening_hours        : ["יום ראשון: 12:00–17:00","יום שני: 12:00–17:00","יום שלישי: 12:00–17:00","יום רביעי: 12:00–17:00","... [truncated]
+is_open              : [NULL]
+lat                  : 30.560644
+lng                  : 35.178994
+geometry             : SRID=4326;POINT(35.178994 30.560644)
+offers               : [NULL]
+
+ROW #50 (ID: 60)
+================================================================================
+id                   : 60
+name                 : יקב קיש דרך ארץ
+address              : ישוב, מצפה רמון, ישראל
+place_id             : ChIJAax7_0XyARURbtaIdcCy_lk
+region               : נגב
+kosher               : [NULL]
+phone                : 050-526-0768
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 30.6710185
+lng                  : 34.8087377
+geometry             : SRID=4326;POINT(34.8087377 30.6710185)
+offers               : [NULL]
+
+ROW #51 (ID: 61)
+================================================================================
+id                   : 61
+name                 : יקב הים האדום
+address              : דרך המטעים 6, אילת, ישראל
+place_id             : ChIJIS0HampuABURhw2EVatKn9Q
+region               : דרום
+kosher               : [NULL]
+phone                : 052-270-4704
+website              : http://www.redseawinery.com/
+opening_hours        : ["יום ראשון: 8:00–13:00","יום שני: 8:00–13:00","יום שלישי: 8:00–13:00","יום רביעי: 8:00–13:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 29.5814804
+lng                  : 34.9713405
+geometry             : SRID=4326;POINT(34.9713405 29.5814804)
+offers               : [NULL]
+
+ROW #52 (ID: 62)
+================================================================================
+id                   : 62
+name                 : יקב ציון
+address              : מעלה אדומים
+place_id             : ChIJoQS3AzEsAxURbmrW9jNrUhE
+region               : מרכז
+kosher               : true
+phone                : 02-535-2540
+website              : https://www.zion-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7888409
+lng                  : 35.3386003
+geometry             : SRID=4326;POINT(35.3386003 31.7888409)
+offers               : [NULL]
+
+ROW #53 (ID: 63)
+================================================================================
+id                   : 63
+name                 : יקב כרם שיזף
+address              : כביש 171, מצפה רמון, ישראל
+place_id             : ChIJ7zd4PpvxARURhsF7ig0dGSk
+region               : נגב
+kosher               : true
+phone                : 054-497-5548
+website              : http://shezaf.net/
+opening_hours        : ["יום ראשון: 12:00–16:00","יום שני: 12:00–16:00","יום שלישי: 12:00–16:00","יום רביעי: 12:00–16:00","... [truncated]
+is_open              : [NULL]
+lat                  : 30.6259177
+lng                  : 34.7617842
+geometry             : SRID=4326;POINT(34.7617842 30.6259177)
+offers               : [NULL]
+
+ROW #54 (ID: 65)
+================================================================================
+id                   : 65
+name                 : יקב כביר
+address              : דרך היין 1, אלון מורה
+place_id             : ChIJVSWE3OnnHBURE9Ow6dOWSwE
+region               : שומרון
+kosher               : [NULL]
+phone                : 052-796-6638
+website              : http://www.kabirwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","יום חמישי: 10:... [truncated]
+is_open              : [NULL]
+lat                  : 32.2344934
+lng                  : 35.3296803
+geometry             : SRID=4326;POINT(35.3296803 32.2344934)
+offers               : [NULL]
+
+ROW #55 (ID: 66)
+================================================================================
+id                   : 66
+name                 : יקב יהודה
+address              : בכניסה למושב יש לבצע פרסה בכיכר ולפנות ימינה לפני תחנת האוטובוס, שורש, ישראל
+place_id             : ChIJSWQfCmzQAhURFuyh_TTbUFk
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 054-463-8544
+website              : [NULL]
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.79661279999999
+lng                  : 35.0648531
+geometry             : SRID=4326;POINT(35.0648531 31.79661279999999)
+offers               : [NULL]
+
+ROW #56 (ID: 67)
+================================================================================
+id                   : 67
+name                 : יקב ננה
+address              : כביש 171 צומת הרוחות, מצפה רמון, 80600, ישראל
+place_id             : ChIJhcgt3D3zARURrkN73JdgKHc
+region               : נגב
+kosher               : [NULL]
+phone                : 077-938-6288
+website              : https://nanawine.com/
+opening_hours        : ["יום ראשון: 12:00–15:00","יום שני: 12:00–15:00","יום שלישי: 12:00–15:00","יום רביעי: 12:00–15:00","... [truncated]
+is_open              : [NULL]
+lat                  : 30.6148198
+lng                  : 34.7478676
+geometry             : SRID=4326;POINT(34.7478676 30.6148198)
+offers               : [NULL]
+
+ROW #57 (ID: 68)
+================================================================================
+id                   : 68
+name                 : יקב עמק האלה
+address              : נתיב הל"ה, ישראל
+place_id             : ChIJdbWN81LCAhUR8RSfjZlRf6k
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-999-4885
+website              : http://www.ellavalley.com/
+opening_hours        : ["יום ראשון: 9:00–19:00","יום שני: 9:00–19:00","יום שלישי: 9:00–19:00","יום רביעי: 9:00–19:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.687184
+lng                  : 34.982523
+geometry             : SRID=4326;POINT(34.982523 31.687184)
+offers               : [NULL]
+
+ROW #58 (ID: 69)
+================================================================================
+id                   : 69
+name                 : יקב פתורה
+address              : פתורה, שדה משה, ישראל
+place_id             : ChIJK6HUEp2TAhURdqfxuX4N1CA
+region               : דרום
+kosher               : true
+phone                : 054-985-2860
+website              : https://www.ptora.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.608656
+lng                  : 34.816875
+geometry             : SRID=4326;POINT(34.816875 31.608656)
+offers               : [NULL]
+
+ROW #59 (ID: 70)
+================================================================================
+id                   : 70
+name                 : יקב גלעד
+address              : סנה, גבע בנימין
+place_id             : ChIJdTLuIbktAxUReH9Xk6rmKJw
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-555-6833
+website              : http://giladwinery.com/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.845774
+lng                  : 35.3053272
+geometry             : SRID=4326;POINT(35.3053272 31.845774)
+offers               : [NULL]
+
+ROW #60 (ID: 72)
+================================================================================
+id                   : 72
+name                 : יקב חיטים
+address              : מורג 24, נווה מבטח, ישראל
+place_id             : ChIJCVItvza9AhURaEQUAVm1R3M
+region               : מרכז
+kosher               : [NULL]
+phone                : 054-445-4646
+website              : http://chitim-winery.co.il/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.802418
+lng                  : 34.746152
+geometry             : SRID=4326;POINT(34.746152 31.802418)
+offers               : [NULL]
+
+ROW #61 (ID: 73)
+================================================================================
+id                   : 73
+name                 : יקבי ירושלים
+address              : תוצרת 3, ירושלים, ישראל
+place_id             : ChIJtVZS08fXAhURVA25rE-ZGhQ
+region               : ירושלים
+kosher               : [NULL]
+phone                : 02-583-6875
+website              : http://jerusalemwineries.wobily.com/
+opening_hours        : ["יום ראשון: 8:30–17:30","יום שני: 8:30–17:30","יום שלישי: 8:30–17:30","יום רביעי: 8:30–17:30","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.768319
+lng                  : 35.21371
+geometry             : SRID=4326;POINT(35.21371 31.768319)
+offers               : [NULL]
+
+ROW #62 (ID: 74)
+================================================================================
+id                   : 74
+name                 : יקב סודות
+address              : תימורים, ישראל
+place_id             : ChIJ1UWnZxyWAhURRTjHd4vfqmU
+region               : מרכז
+kosher               : [NULL]
+phone                : [NULL]
+website              : http://www.sodotwine.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7143359
+lng                  : 34.7597464
+geometry             : SRID=4326;POINT(34.7597464 31.7143359)
+offers               : [NULL]
+
+ROW #63 (ID: 75)
+================================================================================
+id                   : 75
+name                 : יקב עמוס ||| Amos Wineries - יקבי עמוס
+address              : האישה החכמה
+place_id             : ChIJr9Zq7bIgAxURneja5RfkwsY
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : [NULL]
+website              : http://amoswineries.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.649393
+lng                  : 35.2274856
+geometry             : SRID=4326;POINT(35.2274856 31.649393)
+offers               : [NULL]
+
+ROW #64 (ID: 76)
+================================================================================
+id                   : 76
+name                 : יקב נטע
+address              : הגפן 25, קדרון, ישראל
+place_id             : ChIJjX5eR0m5AhURO4A-kjRC2gE
+region               : מרכז
+kosher               : [NULL]
+phone                : 054-304-0817
+website              : https://netawinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.8160645
+lng                  : 34.7894262
+geometry             : SRID=4326;POINT(34.7894262 31.8160645)
+offers               : [NULL]
+
+ROW #65 (ID: 77)
+================================================================================
+id                   : 77
+name                 : יקב דיאמנט
+address              : הפלמ"ח 40, קדימה צורן, ישראל
+place_id             : ChIJAyWHMlU_HRUR_xS_t96dnaQ
+region               : שרון
+kosher               : [NULL]
+phone                : 053-773-7251
+website              : http://diamant-winery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: 11:00–16:00","יום שלישי: סגור","יום רביעי: 11:00–16:00","יום חמישי: 11:... [truncated]
+is_open              : [NULL]
+lat                  : 32.2853558
+lng                  : 34.9120772
+geometry             : SRID=4326;POINT(34.9120772 32.2853558)
+offers               : [NULL]
+
+ROW #66 (ID: 78)
+================================================================================
+id                   : 78
+name                 : יקב קטירה
+address              : המייסדים 24, כפר אביב, 7924100, ישראל
+place_id             : ChIJCyajmyW7AhURz0goz9zEoOk
+region               : מרכז
+kosher               : [NULL]
+phone                : 050-670-0408
+website              : [NULL]
+opening_hours        : ["יום ראשון: 7:30–17:00","יום שני: 7:30–17:00","יום שלישי: 7:30–17:00","יום רביעי: 7:30–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.827747
+lng                  : 34.720584
+geometry             : SRID=4326;POINT(34.720584 31.827747)
+offers               : [NULL]
+
+ROW #67 (ID: 79)
+================================================================================
+id                   : 79
+name                 : יקב מצודה
+address              : ענבל 288, גבעת יערים, ישראל
+place_id             : ChIJLcCSDYjQAhURqiGqBwd5Vig
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 058-718-1836
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7852564
+lng                  : 35.0857844
+geometry             : SRID=4326;POINT(35.0857844 31.7852564)
+offers               : [NULL]
+
+ROW #68 (ID: 80)
+================================================================================
+id                   : 80
+name                 : יקב עגור
+address              : 17, עגור, 9984000, ישראל
+place_id             : ChIJc5ma2LPBAhURrgYCiX-sCkI
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-999-5423
+website              : http://www.agurwines.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.6946302
+lng                  : 34.9125702
+geometry             : SRID=4326;POINT(34.9125702 31.6946302)
+offers               : [NULL]
+
+ROW #69 (ID: 81)
+================================================================================
+id                   : 81
+name                 : יקב כהנוב
+address              : בלב הכרמים, גדרה, ישראל
+place_id             : ChIJP6GyZde7AhURM4yq-quKQJ8
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-252-3721
+website              : http://kahanov.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.825347
+lng                  : 34.77041
+geometry             : SRID=4326;POINT(34.77041 31.825347)
+offers               : [NULL]
+
+ROW #70 (ID: 83)
+================================================================================
+id                   : 83
+name                 : יקב פסגות
+address              : פסגות
+place_id             : ChIJfRRd-ykrAxURdA5P-5FypUI
+region               : הרי יהודה
+kosher               : true
+phone                : 02-997-9333
+website              : http://www.psagotwines.com/
+opening_hours        : ["יום ראשון: 8:00–17:00","יום שני: 8:00–17:00","יום שלישי: 8:00–17:00","יום רביעי: 8:00–17:00","יום ... [truncated]
+is_open              : [NULL]
+lat                  : 31.8750881
+lng                  : 35.2591573
+geometry             : SRID=4326;POINT(35.2591573 31.8750881)
+offers               : [NULL]
+
+ROW #71 (ID: 84)
+================================================================================
+id                   : 84
+name                 : יקב לכיש
+address              : לכיש, ישראל
+place_id             : ChIJK0qzL8OSAhUR76FMG-w9yKY
+region               : דרום
+kosher               : [NULL]
+phone                : 050-797-2222
+website              : http://kerembelachish.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : [NULL]
+lat                  : 31.5509814
+lng                  : 34.8795588
+geometry             : SRID=4326;POINT(34.8795588 31.5509814)
+offers               : [NULL]
+
+ROW #72 (ID: 85)
+================================================================================
+id                   : 85
+name                 : יקב מישר
+address              : הדוכיפת 41, מישר, 76850, ישראל
+place_id             : ChIJl2Mt1za7AhURmJIrSUV210E
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-489-1908
+website              : http://www.meishar.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : [NULL]
+lat                  : 31.8141473
+lng                  : 34.7512546
+geometry             : SRID=4326;POINT(34.7512546 31.8141473)
+offers               : [NULL]
+
+ROW #73 (ID: 87)
+================================================================================
+id                   : 87
+name                 : Galil Mountain Winery. יקב הרי גליל
+address              : ללא, יראון, 1385500, ישראל
+place_id             : ChIJ7TGUCGcnHBUROwGhsLGRkE0
+region               : גליל
+kosher               : true
+phone                : 04-686-8748
+website              : http://www.galilmountain.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.0782818
+lng                  : 35.4484867
+geometry             : SRID=4326;POINT(35.4484867 33.0782818)
+offers               : [NULL]
+
+ROW #74 (ID: 88)
+================================================================================
+id                   : 88
+name                 : יקב דלתון
+address              : פארק תעשיה, דלתון, ישראל
+place_id             : ChIJ__8PwtImHBURwITB-zjMV38
+region               : גליל
+kosher               : [NULL]
+phone                : 04-952-7107
+website              : http://www.dalton-winery.com/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.0294758
+lng                  : 35.4768886
+geometry             : SRID=4326;POINT(35.4768886 33.0294758)
+offers               : [NULL]
+
+ROW #75 (ID: 90)
+================================================================================
+id                   : 90
+name                 : יקב מילס
+address              : HaGefen Street 2, כרם בן זמרה, ישראל
+place_id             : ChIJ643UJygnHBURgKVQw0vJvSI
+region               : גליל
+kosher               : [NULL]
+phone                : 052-648-1807
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:30–16:00","יום שני: 10:30–16:00","יום שלישי: 10:30–16:00","יום רביעי: 10:30–16:00","... [truncated]
+is_open              : true
+lat                  : 33.0392067
+lng                  : 35.4714669
+geometry             : SRID=4326;POINT(35.4714669 33.0392067)
+offers               : [NULL]
+
+ROW #76 (ID: 92)
+================================================================================
+id                   : 92
+name                 : יקב שדות Sadot Winery
+address              : הקטיף, שדה יעקב, ישראל
+place_id             : ChIJI6oAqemtHRUR9aQf5K4a0r8
+region               : צפון
+kosher               : true
+phone                : 052-844-6228
+website              : http://www.sadot-winery.com/
+opening_hours        : ["יום ראשון: 10:00–15:00","יום שני: 10:00–15:00","יום שלישי: 10:00–15:00","יום רביעי: 10:00–15:00","... [truncated]
+is_open              : true
+lat                  : 32.6939419
+lng                  : 35.1410213
+geometry             : SRID=4326;POINT(35.1410213 32.6939419)
+offers               : [NULL]
+
+ROW #77 (ID: 93)
+================================================================================
+id                   : 93
+name                 : יקב בנימינה - אירועים וכנסים
+address              : היקב 2, בנימינה גבעת עדה, ישראל
+place_id             : ChIJaXUTVhkMHRURUCIdTca2OpM
+region               : שרון
+kosher               : true
+phone                : 04-610-7535
+website              : http://www.binyaminawines.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.5216701
+lng                  : 34.9457529
+geometry             : SRID=4326;POINT(34.9457529 32.5216701)
+offers               : [NULL]
+
+ROW #78 (ID: 94)
+================================================================================
+id                   : 94
+name                 : יקב אדיר ADIR WINERY
+address              : פארק תעשיות, 18, דלתון, ישראל
+place_id             : ChIJ8fGABs0mHBURknJ45eUKO9Q
+region               : גליל
+kosher               : true
+phone                : 04-699-1039
+website              : http://www.adir-winery.co.il/
+opening_hours        : ["יום ראשון: 9:00–14:00","יום שני: 9:00–14:00","יום שלישי: 9:00–14:00","יום רביעי: 9:00–14:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.0279415
+lng                  : 35.4759346
+geometry             : SRID=4326;POINT(35.4759346 33.0279415)
+offers               : [NULL]
+
+ROW #79 (ID: 95)
+================================================================================
+id                   : 95
+name                 : יקב קטרון
+address              : הושעיה, 1791500, ישראל
+place_id             : ChIJV5_2KuJLHBURBQ8YGYANtmw
+region               : גליל
+kosher               : true
+phone                : 04-888-7577
+website              : https://kitronwinery.com/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.755248
+lng                  : 35.300009
+geometry             : SRID=4326;POINT(35.300009 32.755248)
+offers               : [NULL]
+
+ROW #80 (ID: 96)
+================================================================================
+id                   : 96
+name                 : יקב רמת הגולן
+address              : דרך היין 4, קצרין
+place_id             : ChIJGSGML24dHBURU4UeazTqHFo
+region               : רמת הגולן
+kosher               : true
+phone                : 04-696-8435
+website              : http://www.golanwines.co.il/
+opening_hours        : ["יום ראשון: 8:30–17:30","יום שני: 8:30–17:30","יום שלישי: 8:30–17:30","יום רביעי: 8:30–17:30","יום ... [truncated]
+is_open              : true
+lat                  : 32.9885449
+lng                  : 35.7085946
+geometry             : SRID=4326;POINT(35.7085946 32.9885449)
+offers               : [NULL]
+
+ROW #81 (ID: 97)
+================================================================================
+id                   : 97
+name                 : יקבי תשבי
+address              : 652, בנימינה גבעת עדה, ישראל
+place_id             : ChIJ4di7alwJHRURgpS83shZhDQ
+region               : שרון
+kosher               : [NULL]
+phone                : 04-638-0434
+website              : http://www.tishbi.com/
+opening_hours        : ["יום ראשון: 8:00–16:00","יום שני: 8:00–16:00","יום שלישי: 8:00–16:00","יום רביעי: 8:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.5488428
+lng                  : 34.957428
+geometry             : SRID=4326;POINT(34.957428 32.5488428)
+offers               : [NULL]
+
+ROW #82 (ID: 100)
+================================================================================
+id                   : 100
+name                 : יקב צרעה
+address              : יקב, צרעה, ישראל
+place_id             : ChIJ34k3MzjEAhURdWimhYgdGm8
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-990-8261
+website              : http://www.tzoravineyards.com/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.7616359
+lng                  : 34.9696025
+geometry             : SRID=4326;POINT(34.9696025 31.7616359)
+offers               : [NULL]
+
+ROW #83 (ID: 105)
+================================================================================
+id                   : 105
+name                 : יקב טרה נובה | TERRANOVA WINERY
+address              : כנף
+place_id             : ChIJuYhUkPUaHBUR07y4WGUqC90
+region               : רמת הגולן
+kosher               : [NULL]
+phone                : 054-399-3514
+website              : http://terranova-winery.co.il/
+opening_hours        : ["יום ראשון: 11:00–17:00","יום שני: 11:00–17:00","יום שלישי: 11:00–17:00","יום רביעי: 11:00–17:00","... [truncated]
+is_open              : true
+lat                  : 32.8687617
+lng                  : 35.703627
+geometry             : SRID=4326;POINT(35.703627 32.8687617)
+offers               : [NULL]
+
+ROW #84 (ID: 107)
+================================================================================
+id                   : 107
+name                 : Ya winery / יקב Ya
+address              : תירוש 52, כרם בן זמרה, 1381500, ישראל
+place_id             : ChIJYVOjo48nHBUR08m6wrQRlg4
+region               : גליל
+kosher               : [NULL]
+phone                : 050-564-1305
+website              : https://ya-winery.co.il/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.03804
+lng                  : 35.4676
+geometry             : SRID=4326;POINT(35.4676 33.03804)
+offers               : [NULL]
+
+ROW #85 (ID: 108)
+================================================================================
+id                   : 108
+name                 : יקב סקוריה - SCORIA WINERY
+address              : כנף, 1293000
+place_id             : ChIJZxha_NYbHBUR_9LLtvcbe-Y
+region               : רמת הגולן
+kosher               : [NULL]
+phone                : 050-426-5276
+website              : http://www.scoriawinery.com/
+opening_hours        : ["יום ראשון: 12:00–16:00","יום שני: 12:00–16:00","יום שלישי: 12:00–16:00","יום רביעי: 12:00–16:00","... [truncated]
+is_open              : true
+lat                  : 32.8690048
+lng                  : 35.701328
+geometry             : SRID=4326;POINT(35.701328 32.8690048)
+offers               : [NULL]
+
+ROW #86 (ID: 109)
+================================================================================
+id                   : 109
+name                 : שאטו גולן
+address              : אליעד
+place_id             : ChIJVVVlmFbKAhURFFRnnWYO79A
+region               : רמת הגולן
+kosher               : false
+phone                : 04-660-0026
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:30–15:30","יום שני: 10:30–15:30","יום שלישי: 10:30–15:30","יום רביעי: 10:30–15:30","... [truncated]
+is_open              : true
+lat                  : 32.8066061
+lng                  : 35.7412642
+geometry             : SRID=4326;POINT(35.7412642 32.8066061)
+offers               : [NULL]
+
+ROW #87 (ID: 110)
+================================================================================
+id                   : 110
+name                 : קדם כפר יין l יקב אסף
+address              : קדמת צבי, כביש 91, כקילומטר צפונה מצומת נשוט, רמת הגולן
+place_id             : ChIJZzdzTA2nHhURnpKtcnXDE-M
+region               : צפון
+kosher               : true
+phone                : 054-391-5552
+website              : http://assafwinery.com/
+opening_hours        : ["יום ראשון: 10:00–14:30","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 33.028382
+lng                  : 35.687005
+geometry             : SRID=4326;POINT(35.687005 33.028382)
+offers               : [NULL]
+
+ROW #88 (ID: 111)
+================================================================================
+id                   : 111
+name                 : יקב ג'וליה
+address              : מעיליא, ישראל
+place_id             : ChIJf0Mn9T4tHBURuAR7lw1DRrI
+region               : צפון
+kosher               : false
+phone                : 050-301-2955
+website              : https://juliawinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: 11:00–18:00","יום שלישי: 11:00–18:00","יום רביעי: 11:00–18:00","יום חמי... [truncated]
+is_open              : true
+lat                  : 33.0275119
+lng                  : 35.2564703
+geometry             : SRID=4326;POINT(35.2564703 33.0275119)
+offers               : [NULL]
+
+ROW #89 (ID: 112)
+================================================================================
+id                   : 112
+name                 : יקב לוריא - Lueria Winery - Vineyards of Yosef Sayada
+address              : גן תעשייה, דלתון, ישראל
+place_id             : ChIJO1B-74QmHBUR7oyQcbkU9ns
+region               : גליל
+kosher               : true
+phone                : 04-698-0105
+website              : http://www.lueriawinery.com/
+opening_hours        : ["יום ראשון: 9:00–15:30","יום שני: 9:00–15:30","יום שלישי: 9:00–15:30","יום רביעי: 9:00–15:30","יום ... [truncated]
+is_open              : true
+lat                  : 33.0228807
+lng                  : 35.4771014
+geometry             : SRID=4326;POINT(35.4771014 33.0228807)
+offers               : [NULL]
+
+ROW #90 (ID: 113)
+================================================================================
+id                   : 113
+name                 : יקב מיקה | Mika Winery
+address              : בני יהודה 21, בני יהודה, 1294400
+place_id             : ChIJZ53vskwFHBURkM6jP0AquSc
+region               : רמת הגולן
+kosher               : [NULL]
+phone                : 052-276-1026
+website              : https://mikawinery.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 32.8032269
+lng                  : 35.7145535
+geometry             : SRID=4326;POINT(35.7145535 32.8032269)
+offers               : [NULL]
+
+ROW #91 (ID: 114)
+================================================================================
+id                   : 114
+name                 : Amiad Winery-יקב עמיעד
+address              : עמיעד, ישראל
+place_id             : ChIJJ26nR-0iHBUR-c0C3A4ot4I
+region               : גליל
+kosher               : true
+phone                : 04-690-9333
+website              : https://liqueur-amiad.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 32.9259954
+lng                  : 35.5433105
+geometry             : SRID=4326;POINT(35.5433105 32.9259954)
+offers               : [NULL]
+
+ROW #92 (ID: 115)
+================================================================================
+id                   : 115
+name                 : יקב קדמא
+address              : יקב קדמא (וויז, כפר אוריה, ישראל
+place_id             : ChIJq-pRr3bGAhURAej_MphEz9Q
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-992-7894
+website              : https://kadma-wine.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 31.7947803
+lng                  : 34.9457755
+geometry             : SRID=4326;POINT(34.9457755 31.7947803)
+offers               : [NULL]
+
+ROW #93 (ID: 116)
+================================================================================
+id                   : 116
+name                 : יקבי גוש עציון
+address              : צומת
+place_id             : ChIJAQAAbOnbAhURdIgrm0wyGJA
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-930-9220
+website              : http://www.gushetzion-winery.co.il/
+opening_hours        : ["יום ראשון: 9:00–22:00","יום שני: 9:00–22:00","יום שלישי: 9:00–22:00","יום רביעי: 9:00–22:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.648386
+lng                  : 35.129825
+geometry             : SRID=4326;POINT(35.129825 31.648386)
+offers               : [NULL]
+
+ROW #94 (ID: 118)
+================================================================================
+id                   : 118
+name                 : Carmel Winery
+address              : דרך היקב 2, זכרון יעקב, ישראל
+place_id             : ChIJSxm0wGYJHRURWBtpl290j4Y
+region               : שרון
+kosher               : true
+phone                : [NULL]
+website              : https://www.carmelwines.co.il/visitors-center/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.5733905
+lng                  : 34.9583878
+geometry             : SRID=4326;POINT(34.9583878 32.5733905)
+offers               : [NULL]
+
+ROW #95 (ID: 120)
+================================================================================
+id                   : 120
+name                 : יקב שאטו רמו chateau-remo winery
+address              : משק 37, חוסן, ישראל
+place_id             : ChIJZVzyKJAtHBURRW1-1O8SKL0
+region               : גליל
+kosher               : true
+phone                : 050-405-8002
+website              : https://www.chateau-remo.co.il/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.9963521
+lng                  : 35.302674
+geometry             : SRID=4326;POINT(35.302674 32.9963521)
+offers               : [NULL]
+
+ROW #96 (ID: 121)
+================================================================================
+id                   : 121
+name                 : Dadah Winery
+address              : חוות מקורה, כרם מהר"ל, ישראל
+place_id             : ChIJLbLDZ02mHRURaCv-pOFruWk
+region               : צפון
+kosher               : [NULL]
+phone                : 04-626-2112
+website              : http://www.dadah.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.6358189
+lng                  : 35.0038956
+geometry             : SRID=4326;POINT(35.0038956 32.6358189)
+offers               : [NULL]
+
+ROW #97 (ID: 122)
+================================================================================
+id                   : 122
+name                 : יקב אלכסנדר יקב בוטיק במרכז
+address              : דרך חפר 15, בית יצחק שער חפר, 4292000, ישראל
+place_id             : ChIJpW4UCg8VHRURh0LmP40xW0k
+region               : שרון
+kosher               : [NULL]
+phone                : 073-778-7712
+website              : http://www.alexander-winery.com/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: סגור","יום רביעי: 10:00–17:00","יום חמי... [truncated]
+is_open              : true
+lat                  : 32.3431655
+lng                  : 34.8903493
+geometry             : SRID=4326;POINT(34.8903493 32.3431655)
+offers               : [NULL]
+
+ROW #98 (ID: 123)
+================================================================================
+id                   : 123
+name                 : יקב כמיסה KAMISA WINERY
+address              : איזור תעשיה דלתון פארק תעשיות, דלתון, 1381100, ישראל
+place_id             : ChIJlS4oQa8hHBURMbRnshlyNxw
+region               : גליל
+kosher               : true
+phone                : 04-600-2655
+website              : https://kamisawinery.com/
+opening_hours        : ["יום ראשון: 9:00–16:30","יום שני: 9:00–16:30","יום שלישי: 9:00–16:30","יום רביעי: 9:00–16:30","יום ... [truncated]
+is_open              : true
+lat                  : 33.0292512
+lng                  : 35.4776477
+geometry             : SRID=4326;POINT(35.4776477 33.0292512)
+offers               : [NULL]
+
+ROW #99 (ID: 124)
+================================================================================
+id                   : 124
+name                 : יקב שורר - Shorer winery
+address              : החקלאים 80, תלמי יחיאל, 7981000, ישראל
+place_id             : ChIJ89QSUyy9AhURfgAvjY3juJo
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-217-7687
+website              : https://www.shorerwinery.com/
+opening_hours        : ["יום ראשון: 11:00–16:00","יום שני: 11:00–16:00","יום שלישי: 11:00–16:00","יום רביעי: 11:00–16:00","... [truncated]
+is_open              : true
+lat                  : 31.7554928
+lng                  : 34.7554511
+geometry             : SRID=4326;POINT(34.7554511 31.7554928)
+offers               : [NULL]
+
+ROW #100 (ID: 129)
+================================================================================
+id                   : 129
+name                 : יקב בזלת הגולן
+address              : קדמת צבי רמת הגולן, 1242100
+place_id             : ChIJiSh0TaenHhURDIlOyhbsgUE
+region               : צפון
+kosher               : true
+phone                : 04-696-5010
+website              : https://www.bazelet-hagolan.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 33.0263352
+lng                  : 35.6984502
+geometry             : SRID=4326;POINT(35.6984502 33.0263352)
+offers               : [NULL]
+
+ROW #101 (ID: 131)
+================================================================================
+id                   : 131
+name                 : Tom Winery
+address              : Pnini Farm, Itamar
+place_id             : ChIJJQPwz2ndHBURNJ_Fy3xMC-E
+region               : שומרון
+kosher               : true
+phone                : 052-739-0764
+website              : http://www.tomwinery.com/
+opening_hours        : ["יום ראשון: 9:00–20:00","יום שני: 9:00–20:00","יום שלישי: 9:00–20:00","יום רביעי: 9:00–20:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.151174
+lng                  : 35.367837
+geometry             : SRID=4326;POINT(35.367837 32.151174)
+offers               : [NULL]
+
+ROW #102 (ID: 132)
+================================================================================
+id                   : 132
+name                 : יקב פלטר
+address              : עין זיוון
+place_id             : ChIJ88ZuD1uuHhURbjzgaQ1Qifs
+region               : צפון
+kosher               : true
+phone                : 077-910-0355
+website              : http://pelter.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 33.0970342
+lng                  : 35.799596
+geometry             : SRID=4326;POINT(35.799596 33.0970342)
+offers               : [NULL]
+
+ROW #103 (ID: 133)
+================================================================================
+id                   : 133
+name                 : יקב היוגב 8
+address              : החורש 46 ב, היוגב, 1923200, ישראל
+place_id             : ChIJTS4HahCrHRURnpDbkw29Wbw
+region               : צפון
+kosher               : [NULL]
+phone                : 054-586-8556
+website              : http://www.hayogev8.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 10:00–15:00, 19:00–0:00","יום חמישי... [truncated]
+is_open              : true
+lat                  : 32.608386
+lng                  : 35.196914
+geometry             : SRID=4326;POINT(35.196914 32.608386)
+offers               : [NULL]
+
+ROW #104 (ID: 134)
+================================================================================
+id                   : 134
+name                 : יקב גלילאו
+address              : דן, ישראל
+place_id             : ChIJl42B9Pa7HhUROGxU0mHcN0I
+region               : צפון
+kosher               : [NULL]
+phone                : 050-644-4260
+website              : https://galileo-winery.co.il/
+opening_hours        : ["יום ראשון: 12:00–16:00","יום שני: 12:00–16:00","יום שלישי: 12:00–16:00","יום רביעי: 12:00–16:00","... [truncated]
+is_open              : true
+lat                  : 33.2402488
+lng                  : 35.657028
+geometry             : SRID=4326;POINT(35.657028 33.2402488)
+offers               : [NULL]
+
+ROW #105 (ID: 135)
+================================================================================
+id                   : 135
+name                 : יקב שטרן
+address              : תובל, ישראל
+place_id             : ChIJ5cs_UG4zHBUR-kvVJm2cTOs
+region               : צפון
+kosher               : false
+phone                : 054-303-4361
+website              : https://stern-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.9295846
+lng                  : 35.2471288
+geometry             : SRID=4326;POINT(35.2471288 32.9295846)
+offers               : [NULL]
+
+ROW #106 (ID: 136)
+================================================================================
+id                   : 136
+name                 : יקב ויתקין
+address              : דרך גשר הצבים, כפר ויתקין, 4020000, ישראל
+place_id             : ChIJVVVVVZAUHRURAD2YPm_DWZ8
+region               : שרון
+kosher               : [NULL]
+phone                : 09-866-3505
+website              : http://www.vitkin-winery.co.il/
+opening_hours        : ["יום ראשון: 10:30–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 32.3842856
+lng                  : 34.8918734
+geometry             : SRID=4326;POINT(34.8918734 32.3842856)
+offers               : [NULL]
+
+ROW #107 (ID: 137)
+================================================================================
+id                   : 137
+name                 : יקב וילה וילהלמה
+address              : וילה וילהלמה, דרך הראשונים 47, בני עטרות, 6099100, ישראל
+place_id             : ChIJq6qaOPg0HRUR-IZZvbvfyBI
+region               : מרכז
+kosher               : false
+phone                : 050-971-2193
+website              : https://www.villawilhelma.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.0258928
+lng                  : 34.9148998
+geometry             : SRID=4326;POINT(34.9148998 32.0258928)
+offers               : [NULL]
+
+ROW #108 (ID: 138)
+================================================================================
+id                   : 138
+name                 : יקב שריגים
+address              : גפנים 36, שריגים-לי און, 9983500, ישראל
+place_id             : ChIJw1tDp-7BAhURT9VDK27GXAc
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-623-4110
+website              : http://www.srigimwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.6796904
+lng                  : 34.9321833
+geometry             : SRID=4326;POINT(34.9321833 31.6796904)
+offers               : [NULL]
+
+ROW #109 (ID: 139)
+================================================================================
+id                   : 139
+name                 : יקב לה פורה בלאנש - La Forêt Blanche Winery
+address              : דרך בית יתיר, מצדות יהודה
+place_id             : ChIJuy-yuRnjAhUR9oqO_Labam0
+region               : נגב
+kosher               : [NULL]
+phone                : 077-996-9898
+website              : http://lfbwinery.com/
+opening_hours        : ["יום ראשון: 9:00–16:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.3612667
+lng                  : 35.1112431
+geometry             : SRID=4326;POINT(35.1112431 31.3612667)
+offers               : [NULL]
+
+ROW #110 (ID: 141)
+================================================================================
+id                   : 141
+name                 : יקב בוטיק ויצמן
+address              : בן גוריון 27, בית שאן, 10900, ישראל
+place_id             : ChIJAVR4PexeHBUR2bJH0UIY-8o
+region               : מרכז
+kosher               : [NULL]
+phone                : 04-658-1123
+website              : http://www.weitzmanwinery.com/
+opening_hours        : ["יום ראשון: 10:00–23:00","יום שני: 10:00–23:00","יום שלישי: 10:00–23:00","יום רביעי: 10:00–23:00","... [truncated]
+is_open              : true
+lat                  : 32.4913254
+lng                  : 35.507144
+geometry             : SRID=4326;POINT(35.507144 32.4913254)
+offers               : [NULL]
+
+ROW #111 (ID: 142)
+================================================================================
+id                   : 142
+name                 : יקב אשקר
+address              : כפר יאסיף, ישראל
+place_id             : ChIJxbcTmerNHRUR8ynQCPNMR8Y
+region               : צפון
+kosher               : [NULL]
+phone                : 054-548-4015
+website              : http://www.ashkarwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 9:00–17:00","יום חמישי: 9:00–17:00"... [truncated]
+is_open              : true
+lat                  : 32.9520318
+lng                  : 35.1599957
+geometry             : SRID=4326;POINT(35.1599957 32.9520318)
+offers               : [NULL]
+
+ROW #112 (ID: 143)
+================================================================================
+id                   : 143
+name                 : יקב לוינסון
+address              : בזל 16, פתח תקווה, 4951008, ישראל
+place_id             : ChIJMy226_03HRURkF3207kUn_w
+region               : מרכז
+kosher               : [NULL]
+phone                : 03-973-6701
+website              : https://lewinsohnwinery.com/
+opening_hours        : ["יום ראשון: 11:00–16:00","יום שני: 11:00–23:30","יום שלישי: 11:00–23:30","יום רביעי: 11:00–23:30","... [truncated]
+is_open              : true
+lat                  : 32.096867
+lng                  : 34.8676712
+geometry             : SRID=4326;POINT(34.8676712 32.096867)
+offers               : [NULL]
+
+ROW #113 (ID: 146)
+================================================================================
+id                   : 146
+name                 : יקב אכזיב
+address              : סדנאות אמנים קיבוץ גשר הזיו, נהריה, 2281500, ישראל
+place_id             : ChIJhU_sv-HRHRURmaRezOrDdPQ
+region               : צפון
+kosher               : [NULL]
+phone                : 050-771-3687
+website              : https://www.achzivwinery.com/
+opening_hours        : ["יום ראשון: 10:30–15:00","יום שני: 10:30–15:00","יום שלישי: 10:30–15:00","יום רביעי: 10:30–15:00","... [truncated]
+is_open              : true
+lat                  : 33.041953
+lng                  : 35.1147258
+geometry             : SRID=4326;POINT(35.1147258 33.041953)
+offers               : [NULL]
+
+ROW #114 (ID: 147)
+================================================================================
+id                   : 147
+name                 : יקב כישור
+address              : כישור, 2012300, ישראל
+place_id             : ChIJbyxYpvozHBUR0O3Q4k57obA
+region               : צפון
+kosher               : [NULL]
+phone                : 04-908-5198
+website              : https://kishor-winery.co.il/
+opening_hours        : ["יום ראשון: 10:00–15:00","יום שני: 10:00–15:00","יום שלישי: 10:00–15:00","יום רביעי: 10:00–15:00","... [truncated]
+is_open              : true
+lat                  : 32.9442105
+lng                  : 35.2511348
+geometry             : SRID=4326;POINT(35.2511348 32.9442105)
+offers               : [NULL]
+
+ROW #115 (ID: 148)
+================================================================================
+id                   : 148
+name                 : יקב בן-חיים
+address              : ההדר, נווה ימין, ישראל
+place_id             : ChIJXzsIEWdKHRURThvJiMk4i8M
+region               : מרכז
+kosher               : true
+phone                : 03-534-6748
+website              : http://www.benhaim.co.il/
+opening_hours        : ["יום ראשון: 10:00–18:00","יום שני: 10:00–18:00","יום שלישי: 10:00–18:00","יום רביעי: 10:00–18:00","... [truncated]
+is_open              : true
+lat                  : 32.1648678
+lng                  : 34.9355896
+geometry             : SRID=4326;POINT(34.9355896 32.1648678)
+offers               : [NULL]
+
+ROW #116 (ID: 149)
+================================================================================
+id                   : 149
+name                 : Morad Winery
+address              : הקידמה, יוקנעם עילית, ישראל
+place_id             : ChIJn6P9uuquHRURn_OmN_04ytM
+region               : צפון
+kosher               : true
+phone                : 04-959-7125
+website              : http://morad.co.il/
+opening_hours        : ["יום ראשון: 8:30–16:30","יום שני: 8:30–16:30","יום שלישי: 8:30–16:30","יום רביעי: 8:30–16:30","יום ... [truncated]
+is_open              : true
+lat                  : 32.6648599
+lng                  : 35.1057707
+geometry             : SRID=4326;POINT(35.1057707 32.6648599)
+offers               : [NULL]
+
+ROW #117 (ID: 150)
+================================================================================
+id                   : 150
+name                 : יקב סריג Sarig Winery
+address              : הגפן 33, מרחביה-מושב, 1910500, ישראל
+place_id             : ChIJGw7V2WhRHBURmJQEw1wJiZ0
+region               : גליל
+kosher               : [NULL]
+phone                : 050-541-5554
+website              : https://www.sarigwinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.600957
+lng                  : 35.316265
+geometry             : SRID=4326;POINT(35.316265 32.600957)
+offers               : [NULL]
+
+ROW #118 (ID: 152)
+================================================================================
+id                   : 152
+name                 : יקב צפרירים | Zafririm Winery
+address              : יקב, צפרירים, 99830, ישראל
+place_id             : ChIJhWoe9v3BAhURIeA2m2S9EOo
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 058-786-5759
+website              : http://www.zafririmwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.6613714
+lng                  : 34.9443904
+geometry             : SRID=4326;POINT(34.9443904 31.6613714)
+offers               : [NULL]
+
+ROW #119 (ID: 153)
+================================================================================
+id                   : 153
+name                 : יקב בן זמרה
+address              : עוללות 100, כרם בן זמרה, ישראל
+place_id             : ChIJA3UvfdcmHBURodpoioJ-d-Y
+region               : גליל
+kosher               : true
+phone                : 055-557-0829
+website              : http://www.benzimrawinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 11:00–16:00","יום... [truncated]
+is_open              : false
+lat                  : 33.036366
+lng                  : 35.463078
+geometry             : SRID=4326;POINT(35.463078 33.036366)
+offers               : [NULL]
+
+ROW #120 (ID: 154)
+================================================================================
+id                   : 154
+name                 : יקב אולו
+address              : משק 74, גבעת ישעיהו, 9982500, ישראל
+place_id             : ChIJjTYt8SfDAhURXT_mq8dsMRE
+region               : הרי יהודה
+kosher               : true
+phone                : 054-719-3773
+website              : https://www.uluwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: 11:00–16:00","יום שלישי: 11:00–16:00","יום רביעי: 11:00–16:00","יום חמי... [truncated]
+is_open              : true
+lat                  : 31.6704684
+lng                  : 34.9506443
+geometry             : SRID=4326;POINT(34.9506443 31.6704684)
+offers               : [NULL]
+
+ROW #121 (ID: 156)
+================================================================================
+id                   : 156
+name                 : יקב קטלב | Katlav Winery
+address              : ***הגעה בתיאום מראש בלבד***, לבנה 8, נס הרים, ישראל
+place_id             : ChIJCX1-_VhLHRURtR5PpqlOiME
+region               : הרי יהודה
+kosher               : true
+phone                : 02-570-3575
+website              : http://www.katlav.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: 13:00–17:00","יום שלישי: 13:00–17:00","יום רביעי: 13:00–17:00","יום חמי... [truncated]
+is_open              : false
+lat                  : 31.74659639999999
+lng                  : 35.0601954
+geometry             : SRID=4326;POINT(35.0601954 31.74659639999999)
+offers               : [NULL]
+
+ROW #122 (ID: 157)
+================================================================================
+id                   : 157
+name                 : יקב הדר
+address              : משק 13, עגור, ישראל
+place_id             : ChIJz2EFT7LBAhURbeGR8r2u7MM
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-232-5110
+website              : [NULL]
+opening_hours        : ["יום ראשון: 11:00–15:00","יום שני: 11:00–15:00","יום שלישי: 11:00–15:00","יום רביעי: 11:00–15:00","... [truncated]
+is_open              : true
+lat                  : 31.69937419999999
+lng                  : 34.9102073
+geometry             : SRID=4326;POINT(34.9102073 31.69937419999999)
+offers               : [NULL]
+
+ROW #123 (ID: 158)
+================================================================================
+id                   : 158
+name                 : יקב שורק - בית ספר לעשיית יין בע"מ
+address              : ד.נ שמשון, נחשון, 9976000, ישראל
+place_id             : ChIJ9T8R_0vPAhURLkvQUvMeAXI
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 08-945-0844
+website              : http://www.soreq.co.il/
+opening_hours        : ["יום ראשון: 8:00–17:00","יום שני: 8:00–17:00","יום שלישי: 8:00–17:00","יום רביעי: 8:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.832965
+lng                  : 34.9542587
+geometry             : SRID=4326;POINT(34.9542587 31.832965)
+offers               : [NULL]
+
+ROW #124 (ID: 159)
+================================================================================
+id                   : 159
+name                 : visitor center - יקבי ירושלים אגודה חקלאית
+address              : יעקב שטיינהרדט 1, ירושלים, ישראל
+place_id             : ChIJk8tnAIApAxUR4dMsWqrG_lk
+region               : ירושלים
+kosher               : true
+phone                : 079-695-0350
+website              : https://jerusalemwineries.co.il/visitors-center/
+opening_hours        : ["יום ראשון: 10:30–21:00","יום שני: 10:30–21:00","יום שלישי: 10:30–21:00","יום רביעי: 10:30–21:00","... [truncated]
+is_open              : true
+lat                  : 31.77150719999999
+lng                  : 35.2240896
+geometry             : SRID=4326;POINT(35.2240896 31.77150719999999)
+offers               : [NULL]
+
+ROW #125 (ID: 160)
+================================================================================
+id                   : 160
+name                 : יקב רמ"א
+address              : הזית 232, מטע, ישראל
+place_id             : ChIJwZd4aGrbAhURYJMnrowJ9Jc
+region               : הרי יהודה
+kosher               : true
+phone                : 050-506-5880
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 31.720627
+lng                  : 35.062072
+geometry             : SRID=4326;POINT(35.062072 31.720627)
+offers               : [NULL]
+
+ROW #126 (ID: 162)
+================================================================================
+id                   : 162
+name                 : יקב עדולם
+address              : גבעת ישעיהו, ישראל
+place_id             : ChIJHxMmdffBAhURzZ_rjuZaoFM
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 055-561-3233
+website              : [NULL]
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.671371
+lng                  : 34.949329
+geometry             : SRID=4326;POINT(34.949329 31.671371)
+offers               : [NULL]
+
+ROW #127 (ID: 163)
+================================================================================
+id                   : 163
+name                 : משק יין הנס שטרנבך
+address              : גבעת ישעיהו 83, ד.נ עמק האלה גבעת ישעיהו, ישראל
+place_id             : ChIJNwIUZx3CAhURmecr9VnzH3E
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-999-0162
+website              : http://www.hsw.co.il/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 31.6698724
+lng                  : 34.9510212
+geometry             : SRID=4326;POINT(34.9510212 31.6698724)
+offers               : [NULL]
+
+ROW #128 (ID: 165)
+================================================================================
+id                   : 165
+name                 : קלו דה גת
+address              : הראל מצפה הראל קיבוץ הראל, 9974000, ישראל
+place_id             : ChIJQzl0AUzPAhURnYJYetqPGf8
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 02-999-3505
+website              : http://www.closdegat.co.il/
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.8096315
+lng                  : 34.9582158
+geometry             : SRID=4326;POINT(34.9582158 31.8096315)
+offers               : [NULL]
+
+ROW #129 (ID: 166)
+================================================================================
+id                   : 166
+name                 : Anat's Winery היקב של ענת
+address              : Mevo HaKramim 21, הר אדר
+place_id             : ChIJBR-2DLLWAhUR34GR_O0KaRg
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 054-788-7038
+website              : https://www.facebook.com/Anat.Winery/
+opening_hours        : ["יום ראשון: 10:00–18:30","יום שני: 10:00–18:30","יום שלישי: 10:00–18:30","יום רביעי: 10:00–18:30","... [truncated]
+is_open              : true
+lat                  : 31.8313163
+lng                  : 35.13103
+geometry             : SRID=4326;POINT(35.13103 31.8313163)
+offers               : [NULL]
+
+ROW #130 (ID: 168)
+================================================================================
+id                   : 168
+name                 : Zion Winery - יקב ציון
+address              : חרובית 45, מעלה אדומים
+place_id             : ChIJfUHEA44tAxUREpGmTAm0YVc
+region               : מרכז
+kosher               : true
+phone                : 02-535-2540
+website              : https://www.zion-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7890424
+lng                  : 35.338148
+geometry             : SRID=4326;POINT(35.338148 31.7890424)
+offers               : [NULL]
+
+ROW #131 (ID: 170)
+================================================================================
+id                   : 170
+name                 : יקב בית אל Beit El winery
+address              : המסילה, בית אל
+place_id             : ChIJ2-KMbsjVHBURCrqBe3ujbkI
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 054-724-0935
+website              : http://www.beitelwinery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3... [truncated]
+opening_hours        : ["יום ראשון: 9:00–19:00","יום שני: 9:00–19:00","יום שלישי: 9:00–19:00","יום רביעי: 9:00–19:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.943202
+lng                  : 35.228013
+geometry             : SRID=4326;POINT(35.228013 31.943202)
+offers               : [NULL]
+
+ROW #132 (ID: 171)
+================================================================================
+id                   : 171
+name                 : Jerusalem Wineries Visitors Center & Tasting Room
+address              : ירושלים, ישראל
+place_id             : ChIJsXT3BI4pAxUReeV7SaZb4hM
+region               : ירושלים
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 31.7715377
+lng                  : 35.2242076
+geometry             : SRID=4326;POINT(35.2242076 31.7715377)
+offers               : [NULL]
+
+ROW #133 (ID: 172)
+================================================================================
+id                   : 172
+name                 : יקב רוגלית - Roglit winery
+address              : משק 46, נווה מיכאל, ישראל
+place_id             : ChIJ6743O-XCAhURBeMjwxqwI44
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 052-420-7088
+website              : http://roglit-winery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.6722471
+lng                  : 35.0028518
+geometry             : SRID=4326;POINT(35.0028518 31.6722471)
+offers               : [NULL]
+
+ROW #134 (ID: 174)
+================================================================================
+id                   : 174
+name                 : יקב ענתות ומרכז מבקרים נוטרה
+address              : דרך היקב 1, עלמון
+place_id             : ChIJUc1GHIorAxURHQiROAGbnWU
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-260-0324
+website              : https://www.anatotwinery.com/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 31.832068
+lng                  : 35.296764
+geometry             : SRID=4326;POINT(35.296764 31.832068)
+offers               : [NULL]
+
+ROW #135 (ID: 175)
+================================================================================
+id                   : 175
+name                 : יקב רד פואטרי
+address              : חוות טל, כרמי יוסף, ישראל
+place_id             : ChIJWRe4VFnIAhUR4lav1REVY0U
+region               : הרי יהודה
+kosher               : true
+phone                : 050-569-5177
+website              : https://redpoetrywinery.wixsite.com/israeliwine
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.8574968
+lng                  : 34.9015437
+geometry             : SRID=4326;POINT(34.9015437 31.8574968)
+offers               : [NULL]
+
+ROW #136 (ID: 176)
+================================================================================
+id                   : 176
+name                 : יקב זאב zeev winery
+address              : הזית 3, קרית יערים, ישראל
+place_id             : ChIJrazqfKvRAhUR4bz9xlX8Ef8
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 052-717-0042
+website              : https://yekev-zeev.com/
+opening_hours        : ["יום ראשון: 8:00–17:00","יום שני: 8:00–17:00","יום שלישי: 8:00–17:00","יום רביעי: 8:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.802119
+lng                  : 35.094482
+geometry             : SRID=4326;POINT(35.094482 31.802119)
+offers               : [NULL]
+
+ROW #137 (ID: 177)
+================================================================================
+id                   : 177
+name                 : יקב נגבה
+address              : אדוניהו הכהן 48, ירושלים, ישראל
+place_id             : ChIJ1U7bs0kpAxURO96AsMPTaMY
+region               : ירושלים
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : ["יום ראשון: 8:00–22:00","יום שני: 8:00–22:00","יום שלישי: 8:00–22:00","יום רביעי: 8:00–22:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.7937737
+lng                  : 35.2170099
+geometry             : SRID=4326;POINT(35.2170099 31.7937737)
+offers               : [NULL]
+
+ROW #138 (ID: 179)
+================================================================================
+id                   : 179
+name                 : יקב אליגוטה
+address              : שדרת האקליפטוס 58, גן יאשיה, ישראל
+place_id             : ChIJpzLeCigXHRUR1QCCkTJ2EY4
+region               : שרון
+kosher               : [NULL]
+phone                : 054-474-8892
+website              : https://www.facebook.com/aligote.w?mibextid=ZbWKwL
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: 11:00–15:00","יום רביעי: סגור","יום חמישי: 11:00–15:0... [truncated]
+is_open              : false
+lat                  : 32.352335
+lng                  : 34.995959
+geometry             : SRID=4326;POINT(34.995959 32.352335)
+offers               : [NULL]
+
+ROW #139 (ID: 180)
+================================================================================
+id                   : 180
+name                 : יקב מונד
+address              : דרך משמרת, משמרת, ישראל
+place_id             : ChIJjfEJDQM_HRURdhXaWKRaubA
+region               : שרון
+kosher               : true
+phone                : 050-633-1153
+website              : https://mondwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 20:00–23:00","יום... [truncated]
+is_open              : false
+lat                  : 32.2309489
+lng                  : 34.9168994
+geometry             : SRID=4326;POINT(34.9168994 32.2309489)
+offers               : [NULL]
+
+ROW #140 (ID: 181)
+================================================================================
+id                   : 181
+name                 : יקב נווה ירק
+address              : השקד, נווה ירק, 4994500, ישראל
+place_id             : ChIJbesXSWk3HRURPITvuxDb3WI
+region               : מרכז
+kosher               : true
+phone                : 03-938-4444
+website              : https://www.neveyarakwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 18:00–23:30","יום חמישי: 18:00–23:3... [truncated]
+is_open              : false
+lat                  : 32.1324681
+lng                  : 34.9226312
+geometry             : SRID=4326;POINT(34.9226312 32.1324681)
+offers               : [NULL]
+
+ROW #141 (ID: 183)
+================================================================================
+id                   : 183
+name                 : Tel-Afek Winery יקב תל אפק
+address              : הגעה בתיאום טלפוני בלבד, נחליאלי 12, ראש העין, 4855121, ישראל
+place_id             : ChIJAwk1TjkxHRURGzqh7l5_mzA
+region               : מרכז
+kosher               : [NULL]
+phone                : 053-431-6330
+website              : http://instagram.com/tel_afek_winery
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.1023394
+lng                  : 34.962246
+geometry             : SRID=4326;POINT(34.962246 32.1023394)
+offers               : [NULL]
+
+ROW #142 (ID: 184)
+================================================================================
+id                   : 184
+name                 : יקב הסמטה
+address              : התומר 12, רמת השרון, ישראל
+place_id             : ChIJi0lptyxJHRURdZ-809JqcpA
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-341-3109
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.1342685
+lng                  : 34.84664160000001
+geometry             : SRID=4326;POINT(34.84664160000001 32.1342685)
+offers               : [NULL]
+
+ROW #143 (ID: 186)
+================================================================================
+id                   : 186
+name                 : משק אופיר
+address              : אין שם רחוב אלון הגליל, 1792000, ישראל
+place_id             : ChIJVVsb4q1MHBURSYSMw-82_h4
+region               : גליל
+kosher               : [NULL]
+phone                : 04-986-1466
+website              : http://www.meshekofir.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.7632979
+lng                  : 35.2224827
+geometry             : SRID=4326;POINT(35.2224827 32.7632979)
+offers               : {"name":"מבצע מיוחד!","description":"הצטרף עכשיו למועדון החברים של משק אופיר\nקבל 10% הנחה בקניה הרא... [truncated]
+
+ROW #144 (ID: 187)
+================================================================================
+id                   : 187
+name                 : יקב אלונה | Alona winery
+address              : דוכיפת 20, גבעת ניל"י, 3782500, ישראל
+place_id             : ChIJ6enxwHkHHRURzDoyRXX6BT4
+region               : צפון
+kosher               : [NULL]
+phone                : [NULL]
+website              : https://ontopo.com/he/il/page/alonawinery?source=instagram&utm_source=share_button_venue_page
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.5484767
+lng                  : 35.0427969
+geometry             : SRID=4326;POINT(35.0427969 32.5484767)
+offers               : [NULL]
+
+ROW #145 (ID: 190)
+================================================================================
+id                   : 190
+name                 : יקב סלומון
+address              : צבעוני 53, עמיקם, ישראל
+place_id             : ChIJJ8_r5GgIHRURcRjP4JFfKQg
+region               : צפון
+kosher               : [NULL]
+phone                : 050-432-6665
+website              : http://www.salomon-winery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.56024
+lng                  : 35.01939
+geometry             : SRID=4326;POINT(35.01939 32.56024)
+offers               : [NULL]
+
+ROW #146 (ID: 191)
+================================================================================
+id                   : 191
+name                 : יקב ארגוב
+address              : אביאל, ישראל
+place_id             : ChIJZ3-abnMJHRURj9iIO3WiEAo
+region               : שרון
+kosher               : [NULL]
+phone                : 054-668-9905
+website              : http://argovwinery.wixsite.com/argovwinery
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.534516
+lng                  : 34.9934855
+geometry             : SRID=4326;POINT(34.9934855 32.534516)
+offers               : [NULL]
+
+ROW #147 (ID: 192)
+================================================================================
+id                   : 192
+name                 : יקב רשי
+address              : HXVM+33, זכרון יעקב, ישראל
+place_id             : ChIJO3vQgTUJHRUR17Ii2CCWN5g
+region               : שרון
+kosher               : true
+phone                : 058-699-5924
+website              : https://www.rashiwine26.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 32.5926875
+lng                  : 34.9826875
+geometry             : SRID=4326;POINT(34.9826875 32.5926875)
+offers               : [NULL]
+
+ROW #148 (ID: 193)
+================================================================================
+id                   : 193
+name                 : כרם יונה - Jonah Vineyard
+address              : משק 54, ציפורי, ישראל
+place_id             : ChIJrQCHX19LHBURWys0ylULPG0
+region               : גליל
+kosher               : [NULL]
+phone                : 050-667-9711
+website              : http://www.jonahvineyard.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 11:00–15:00","יום חמישי: 11:00–15:0... [truncated]
+is_open              : true
+lat                  : 32.7499993
+lng                  : 35.272751
+geometry             : SRID=4326;POINT(35.272751 32.7499993)
+offers               : [NULL]
+
+ROW #149 (ID: 195)
+================================================================================
+id                   : 195
+name                 : יקבי כרמל
+address              : ישראל
+place_id             : ChIJh7kNkiRQHBUR83EJy5PhoWc
+region               : גליל
+kosher               : [NULL]
+phone                : 1-800-270-700
+website              : http://carmelwines.co.il/
+opening_hours        : ["יום ראשון: 8:00–16:00","יום שני: 8:00–16:00","יום שלישי: 8:00–16:00","יום רביעי: 8:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.6331587
+lng                  : 35.3619834
+geometry             : SRID=4326;POINT(35.3619834 32.6331587)
+offers               : [NULL]
+
+ROW #150 (ID: 196)
+================================================================================
+id                   : 196
+name                 : יקב אייל
+address              : דוכיפת 21, גבעת ניל"י, ישראל
+place_id             : ChIJu_t2GAYHHRURcvJHi7Axu-A
+region               : צפון
+kosher               : [NULL]
+phone                : 053-774-4135
+website              : [NULL]
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.5490882
+lng                  : 35.0427711
+geometry             : SRID=4326;POINT(35.0427711 32.5490882)
+offers               : [NULL]
+
+ROW #151 (ID: 197)
+================================================================================
+id                   : 197
+name                 : יקב חרשים
+address              : מצפה, חרשים, 2495400, ישראל
+place_id             : ChIJL1gnEsMxHBURB_rDJxeLMyg
+region               : גליל
+kosher               : [NULL]
+phone                : 052-688-9340
+website              : https://www.hwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.9547187
+lng                  : 35.3292687
+geometry             : SRID=4326;POINT(35.3292687 32.9547187)
+offers               : [NULL]
+
+ROW #152 (ID: 199)
+================================================================================
+id                   : 199
+name                 : יקב ראובן
+address              : בנימינה גבעת עדה, ישראל
+place_id             : ChIJ11toNcMJHRURzXlr0Id25S0
+region               : צפון
+kosher               : [NULL]
+phone                : 052-284-0823
+website              : https://reuvenwinery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.5194017
+lng                  : 35.0044511
+geometry             : SRID=4326;POINT(35.0044511 32.5194017)
+offers               : [NULL]
+
+ROW #153 (ID: 200)
+================================================================================
+id                   : 200
+name                 : יקב נחמני - Nachmani Winery
+address              : דרך החרוב, מרחביה, 1910000, ישראל
+place_id             : ChIJc9WiiVdWHBURCyU9-ZPISb0
+region               : גליל
+kosher               : [NULL]
+phone                : 050-934-9111
+website              : https://ontopo.co.il/nachmaniwinery
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: 10:00–16:00","יום רביעי: סגור","יום חמישי: 10:00–16:0... [truncated]
+is_open              : false
+lat                  : 32.6062915
+lng                  : 35.3096898
+geometry             : SRID=4326;POINT(35.3096898 32.6062915)
+offers               : [NULL]
+
+ROW #154 (ID: 201)
+================================================================================
+id                   : 201
+name                 : יקב פלך (באמצע שבוע ביקור בתיאום מראש)
+address              : יקב, פלך, 2011900, ישראל
+place_id             : ChIJeVZhZ9czHBURNDFQgxRBTo4
+region               : צפון
+kosher               : [NULL]
+phone                : 054-363-3657
+website              : https://pelechwinery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 18:00–22:00","יום... [truncated]
+is_open              : false
+lat                  : 32.9331657
+lng                  : 35.229576
+geometry             : SRID=4326;POINT(35.229576 32.9331657)
+offers               : [NULL]
+
+ROW #155 (ID: 203)
+================================================================================
+id                   : 203
+name                 : פירואן יקב בוטיק
+address              : 63, מנות, 2523700, ישראל
+place_id             : ChIJcWQdBI_THRURfAZKoz8aszg
+region               : צפון
+kosher               : [NULL]
+phone                : 054-434-2175
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:00–18:00","יום שני: 10:00–18:00","יום שלישי: 10:00–18:00","יום רביעי: 10:00–18:00","... [truncated]
+is_open              : true
+lat                  : 33.039176
+lng                  : 35.19687
+geometry             : SRID=4326;POINT(35.19687 33.039176)
+offers               : [NULL]
+
+ROW #156 (ID: 204)
+================================================================================
+id                   : 204
+name                 : יקב עבייה
+address              : דולב 3, ישראל
+place_id             : ChIJjVVxl64yHBURiigJKVRD0Ik
+region               : צפון
+kosher               : [NULL]
+phone                : 052-728-2917
+website              : http://abayawinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.9728522
+lng                  : 35.2795559
+geometry             : SRID=4326;POINT(35.2795559 32.9728522)
+offers               : [NULL]
+
+ROW #157 (ID: 207)
+================================================================================
+id                   : 207
+name                 : יקב גלאי GALAI winery
+address              : ניר עקיבא, 8536500, ישראל
+place_id             : ChIJWWPUiP6GAhUReB_6wWQDwlU
+region               : נגב
+kosher               : [NULL]
+phone                : 054-216-6321
+website              : https://www.galai-winery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.4685421
+lng                  : 34.6493847
+geometry             : SRID=4326;POINT(34.6493847 31.4685421)
+offers               : [NULL]
+
+ROW #158 (ID: 208)
+================================================================================
+id                   : 208
+name                 : יקב מרשה
+address              : משק 36, זרחיה, 7952000, ישראל
+place_id             : ChIJ5zTzaoWXAhURXIgzwND_5oM
+region               : דרום
+kosher               : true
+phone                : 050-744-9869
+website              : https://www.maresha.co.il/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.682916
+lng                  : 34.7451042
+geometry             : SRID=4326;POINT(34.7451042 31.682916)
+offers               : [NULL]
+
+ROW #159 (ID: 209)
+================================================================================
+id                   : 209
+name                 : יקב שדה-בוקר
+address              : Winery Road 1, שדה בוקר, 8499300, ישראל
+place_id             : ChIJ4f76tZkZAhURI2RovRG4Ykw
+region               : נגב
+kosher               : [NULL]
+phone                : 050-757-9212
+website              : [NULL]
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–16:00","יום שלישי: 9:00–16:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 30.87396
+lng                  : 34.7889974
+geometry             : SRID=4326;POINT(34.7889974 30.87396)
+offers               : [NULL]
+
+ROW #160 (ID: 214)
+================================================================================
+id                   : 214
+name                 : יקב רמות נפתלי
+address              : רמות נפתלי, ישראל
+place_id             : ChIJJfn9GnCfHhURpI-N72yeFmQ
+region               : גליל
+kosher               : [NULL]
+phone                : 04-694-0371
+website              : http://www.ramotnaftaly.com/
+opening_hours        : ["יום ראשון: 9:00–15:30","יום שני: 9:00–15:30","יום שלישי: 9:00–15:30","יום רביעי: 9:00–15:30","יום ... [truncated]
+is_open              : true
+lat                  : 33.100529
+lng                  : 35.55401
+geometry             : SRID=4326;POINT(35.55401 33.100529)
+offers               : [NULL]
+
+ROW #161 (ID: 215)
+================================================================================
+id                   : 215
+name                 : יקב ליבנה - Livne winery
+address              : תירוש 37, שדה משה, 79355, ישראל
+place_id             : ChIJqVQJHweTAhURzWSSm3bRopQ
+region               : דרום
+kosher               : [NULL]
+phone                : 051-530-0517
+website              : https://ontopo.com/he/il/page/20334015?source=google
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: 9:00–14:00","יום חמישי: 9:00–14:00"... [truncated]
+is_open              : true
+lat                  : 31.61363529999999
+lng                  : 34.8020024
+geometry             : SRID=4326;POINT(34.8020024 31.61363529999999)
+offers               : [NULL]
+
+ROW #162 (ID: 216)
+================================================================================
+id                   : 216
+name                 : יקב נחל גרר, יקב בוטיק ליין טבעי | מרכז מבקרים החצר של ויטו | משתלות וייצמן
+address              : אוגדה 12, עין הבשור, 8540500, ישראל
+place_id             : ChIJ0WjPg5SJ_RQRYdqqZkjsDx8
+region               : נגב
+kosher               : [NULL]
+phone                : 054-942-4542
+website              : https://www.facebook.com/nahalgerarwinery/
+opening_hours        : ["יום ראשון: 9:00–17:00","יום שני: 9:00–17:00","יום שלישי: 9:00–17:00","יום רביעי: 9:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.284244
+lng                  : 34.438632
+geometry             : SRID=4326;POINT(34.438632 31.284244)
+offers               : [NULL]
+
+ROW #163 (ID: 217)
+================================================================================
+id                   : 217
+name                 : משק תושיה - יקב תושיה
+address              : נחלה 95, באר מילכה, 85517, ישראל
+place_id             : ChIJsZDgyRr9_RQRF43B3ZNqOcA
+region               : נגב
+kosher               : [NULL]
+phone                : 052-897-7520
+website              : https://tushia.co.il/
+opening_hours        : ["יום ראשון: 8:00–17:00","יום שני: 8:00–17:00","יום שלישי: 8:00–17:00","יום רביעי: 8:00–17:00","יום ... [truncated]
+is_open              : true
+lat                  : 30.9626107
+lng                  : 34.3888639
+geometry             : SRID=4326;POINT(34.3888639 30.9626107)
+offers               : [NULL]
+
+ROW #164 (ID: 218)
+================================================================================
+id                   : 218
+name                 : יקב רוזה
+address              : שדרת האמנים, כפר מנחם, ישראל
+place_id             : ChIJf8TZ1vu_AhURp4kGLu7LWvs
+region               : מרכז
+kosher               : [NULL]
+phone                : 052-396-9777
+website              : https://www.rosawinery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7342931
+lng                  : 34.8379587
+geometry             : SRID=4326;POINT(34.8379587 31.7342931)
+offers               : [NULL]
+
+ROW #165 (ID: 219)
+================================================================================
+id                   : 219
+name                 : יקב עין השלושה
+address              : עין השלושה, ישראל
+place_id             : ChIJIxm2RfSF_RQRrMtNMvTQSOk
+region               : נגב
+kosher               : [NULL]
+phone                : 052-376-4604
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.3500866
+lng                  : 34.4013826
+geometry             : SRID=4326;POINT(34.4013826 31.3500866)
+offers               : [NULL]
+
+ROW #166 (ID: 221)
+================================================================================
+id                   : 221
+name                 : יקב אילת 2012 בע"מ
+address              : משעול שקד 10, אילת, ישראל
+place_id             : ChIJp6N3bBhyABUR9A0-r8pJs7E
+region               : דרום
+kosher               : [NULL]
+phone                : 052-393-7771
+website              : https://www.dunsguide.co.il/Cd8e3e2fbe4b660e53cbf2cd69cb78b2c_%D7%97%D7%A0%D7%95%D7%99%D7%95%D7%AA_%... [truncated]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 29.5473799
+lng                  : 34.9412367
+geometry             : SRID=4326;POINT(34.9412367 29.5473799)
+offers               : [NULL]
+
+ROW #167 (ID: 222)
+================================================================================
+id                   : 222
+name                 : יקב צפת העתיקה ancient safed winery
+address              : בית יוסף 29, צפת, ישראל
+place_id             : ChIJ_frecJEjHBURzyfgAzbhwi4
+region               : גליל
+kosher               : [NULL]
+phone                : 054-347-8874
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:00–19:00","יום שני: 9:00–19:00","יום שלישי: 9:00–19:00","יום רביעי: 9:00–19:00","יום... [truncated]
+is_open              : true
+lat                  : 32.9677338
+lng                  : 35.4921044
+geometry             : SRID=4326;POINT(35.4921044 32.9677338)
+offers               : [NULL]
+
+ROW #168 (ID: 226)
+================================================================================
+id                   : 226
+name                 : יקב תל | Tel Winery
+address              : שעל
+place_id             : ChIJNRRf7omlHhURh9Rkk_7Pl74
+region               : צפון
+kosher               : [NULL]
+phone                : 054-217-7760
+website              : http://www.telwinery.com/
+opening_hours        : ["יום ראשון: 11:00–16:00","יום שני: 11:00–16:00","יום שלישי: 11:00–16:00","יום רביעי: סגור","יום חמי... [truncated]
+is_open              : false
+lat                  : 33.1150987
+lng                  : 35.7211447
+geometry             : SRID=4326;POINT(35.7211447 33.1150987)
+offers               : [NULL]
+
+ROW #169 (ID: 227)
+================================================================================
+id                   : 227
+name                 : יקב הר אודם
+address              : אודם, 1247300
+place_id             : ChIJbfnEO5uwHhURtCHNBI96eik
+region               : צפון
+kosher               : true
+phone                : 052-688-1110
+website              : http://www.harodem.co.il/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 33.1919714
+lng                  : 35.7517966
+geometry             : SRID=4326;POINT(35.7517966 33.1919714)
+offers               : [NULL]
+
+ROW #170 (ID: 228)
+================================================================================
+id                   : 228
+name                 : יקב בהט /Bahat Winery
+address              : עין זיוון, רמת הגולן, 1242600
+place_id             : ChIJAQDLC1uuHhURHwijJifs95c
+region               : צפון
+kosher               : true
+phone                : 050-877-1770
+website              : http://www.bahatwinery.co.il/
+opening_hours        : ["יום ראשון: 10:00–19:00","יום שני: 10:00–19:00","יום שלישי: 10:00–19:00","יום רביעי: 10:00–19:00","... [truncated]
+is_open              : true
+lat                  : 33.096706
+lng                  : 35.79873200000001
+geometry             : SRID=4326;POINT(35.79873200000001 33.096706)
+offers               : [NULL]
+
+ROW #171 (ID: 229)
+================================================================================
+id                   : 229
+name                 : היקב
+address              : גד מכנס 6, נתניה, ישראל
+place_id             : ChIJC2nDlKdqHRURPYcUo-8fUqs
+region               : שרון
+kosher               : true
+phone                : 09-862-2220
+website              : https://hayekev.co.il/
+opening_hours        : ["יום ראשון: 8:30–23:30","יום שני: 8:30–23:30","יום שלישי: 8:30–23:30","יום רביעי: 8:30–23:30","יום ... [truncated]
+is_open              : true
+lat                  : 32.3293342
+lng                  : 34.8495903
+geometry             : SRID=4326;POINT(34.8495903 32.3293342)
+offers               : [NULL]
+
+ROW #172 (ID: 230)
+================================================================================
+id                   : 230
+name                 : יקב בשרון | יקב גסקון | אירועי יין בשישי
+address              : מירון 10, פרדסיה, 4281500, ישראל
+place_id             : ChIJ4-T2Se0VHRURE_eR1hvQpzU
+region               : שרון
+kosher               : [NULL]
+phone                : 050-300-0300
+website              : [NULL]
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 32.3110066
+lng                  : 34.912912
+geometry             : SRID=4326;POINT(34.912912 32.3110066)
+offers               : [NULL]
+
+ROW #173 (ID: 231)
+================================================================================
+id                   : 231
+name                 : יקב מרקוס כפר מונש
+address              : דרך הטרקטור 74, כפר מונש, 0042875, ישראל
+place_id             : ChIJAXl4vwwVHRURWiZbgBSwVZQ
+region               : שרון
+kosher               : [NULL]
+phone                : 050-228-8577
+website              : http://www.marcus-winery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.3462246
+lng                  : 34.9159869
+geometry             : SRID=4326;POINT(34.9159869 32.3462246)
+offers               : [NULL]
+
+ROW #174 (ID: 232)
+================================================================================
+id                   : 232
+name                 : יקבי הרא"ה Haroe Winery
+address              : המייסדים, כפר הרא"ה, ישראל
+place_id             : ChIJdxzVxMgTHRURD1LktdnL2lE
+region               : שרון
+kosher               : [NULL]
+phone                : 054-574-4098
+website              : https://www.facebook.com/HaroeWinery/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 32.3930314
+lng                  : 34.9129857
+geometry             : SRID=4326;POINT(34.9129857 32.3930314)
+offers               : [NULL]
+
+ROW #175 (ID: 233)
+================================================================================
+id                   : 233
+name                 : יקב אופיר
+address              : עגור 25, אבן יהודה, 4052024, ישראל
+place_id             : ChIJXbml0iI_HRUR_H0vsApIgZE
+region               : שרון
+kosher               : [NULL]
+phone                : 052-423-5438
+website              : https://www.ofirwinery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.2661058
+lng                  : 34.889267
+geometry             : SRID=4326;POINT(34.889267 32.2661058)
+offers               : [NULL]
+
+ROW #176 (ID: 234)
+================================================================================
+id                   : 234
+name                 : יקב מכמורת
+address              : שלדג 10, מכמורת, ישראל
+place_id             : ChIJGbjQy1oTHRUR1uQRwyomfHI
+region               : שרון
+kosher               : [NULL]
+phone                : 054-652-7125
+website              : https://www.michmoret-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.4097645
+lng                  : 34.8752783
+geometry             : SRID=4326;POINT(34.8752783 32.4097645)
+offers               : {"name":"מבצע מיוחד!","description":"מלאו לעצמכם/ן כוס יין, הירשמו לניוזלטר שלנו, וקבלו 10% הנחה על ... [truncated]
+
+ROW #177 (ID: 237)
+================================================================================
+id                   : 237
+name                 : יקב אנדרדוג
+address              : גבעת ישעיהו, ישראל
+place_id             : ChIJA2MX-1TBAhUR11BJseIIAtA
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-202-5644
+website              : https://tabitisrael.co.il/%D7%94%D7%96%D7%9E%D7%A0%D7%AA-%D7%9E%D7%A7%D7%95%D7%9D/create-reservation... [truncated]
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 10:00–15:00, 19:0... [truncated]
+is_open              : false
+lat                  : 31.673077
+lng                  : 34.939189
+geometry             : SRID=4326;POINT(34.939189 31.673077)
+offers               : [NULL]
+
+ROW #178 (ID: 239)
+================================================================================
+id                   : 239
+name                 : Ruth Winery
+address              : ד.נ. מודיעין, כפר רות
+place_id             : ChIJw73ldXjNAhURReyTz2zx4qo
+region               : הרי יהודה
+kosher               : true
+phone                : 08-976-1800
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.913544
+lng                  : 35.0293434
+geometry             : SRID=4326;POINT(35.0293434 31.913544)
+offers               : [NULL]
+
+ROW #179 (ID: 240)
+================================================================================
+id                   : 240
+name                 : יקב גבעות - Gvaot winery
+address              : Givat Harel
+place_id             : ChIJwUDCbt_ZHBURlgaGb-A1V00
+region               : שומרון
+kosher               : [NULL]
+phone                : 052-775-7574
+website              : https://gvaot-winery.com/
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.05777380000001
+lng                  : 35.275327
+geometry             : SRID=4326;POINT(35.275327 32.05777380000001)
+offers               : [NULL]
+
+ROW #180 (ID: 242)
+================================================================================
+id                   : 242
+name                 : Shiloh Winery יקב שילה
+address              : אזור תעשייה שילה
+place_id             : ChIJe0Gv9jrZHBURyYVwKGprzxk
+region               : שומרון
+kosher               : true
+phone                : 050-355-4764
+website              : http://www.shilohwinery.com/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 32.054405
+lng                  : 35.29909
+geometry             : SRID=4326;POINT(35.29909 32.054405)
+offers               : [NULL]
+
+ROW #181 (ID: 243)
+================================================================================
+id                   : 243
+name                 : יקב תניא
+address              : התעשיה 1, עופרה
+place_id             : ChIJ2bdvowvVHBUR_bH7L3NxshY
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-997-4949
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.9593245
+lng                  : 35.262197
+geometry             : SRID=4326;POINT(35.262197 31.9593245)
+offers               : [NULL]
+
+ROW #182 (ID: 244)
+================================================================================
+id                   : 244
+name                 : יקב רם - Ram Winery
+address              : 46, קדמת צבי, 1242100
+place_id             : ChIJZdyQa1OnHhURRUeiEs5xOMQ
+region               : צפון
+kosher               : [NULL]
+phone                : 054-631-1998
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 33.0280593
+lng                  : 35.6989413
+geometry             : SRID=4326;POINT(35.6989413 33.0280593)
+offers               : [NULL]
+
+ROW #183 (ID: 246)
+================================================================================
+id                   : 246
+name                 : יקב עמרם Amram Winery
+address              : רמות נפתלי, ישראל
+place_id             : ChIJHV92_nCfHhUR-q9-vaThGnY
+region               : גליל
+kosher               : [NULL]
+phone                : 050-522-2901
+website              : http://www.amramwinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 33.098822
+lng                  : 35.552219
+geometry             : SRID=4326;POINT(35.552219 33.098822)
+offers               : [NULL]
+
+ROW #184 (ID: 247)
+================================================================================
+id                   : 247
+name                 : יקבי רמת הגולן והגליל מכירות והפצה בע"מ
+address              : טיילת נווה 28, קצרין
+place_id             : ChIJvZXI65wdHBURuGKgaosq8-E
+region               : רמת הגולן
+kosher               : [NULL]
+phone                : 04-696-8420
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.995059
+lng                  : 35.693173
+geometry             : SRID=4326;POINT(35.693173 32.995059)
+offers               : [NULL]
+
+ROW #185 (ID: 248)
+================================================================================
+id                   : 248
+name                 : יקב זוהר - Zohar Winery
+address              : 69, קדמת צבי
+place_id             : ChIJS9rwAgqnHhUReH1Ilm9V4IQ
+region               : צפון
+kosher               : [NULL]
+phone                : 052-396-0722
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 33.0295096
+lng                  : 35.696143
+geometry             : SRID=4326;POINT(35.696143 33.0295096)
+offers               : [NULL]
+
+ROW #186 (ID: 251)
+================================================================================
+id                   : 251
+name                 : יקב היוצר
+address              : רחוב הגבורה 7/31, הרצליה, ישראל
+place_id             : ChIJ3Q_yZlqcAhURL0093nZKG-I
+region               : מרכז
+kosher               : [NULL]
+phone                : 08-939-3091
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.1710876
+lng                  : 34.8072438
+geometry             : SRID=4326;POINT(34.8072438 32.1710876)
+offers               : [NULL]
+
+ROW #187 (ID: 253)
+================================================================================
+id                   : 253
+name                 : יקב גינתון
+address              : דרך הזית 19, גינתון, ישראל
+place_id             : ChIJx_PFDQPLAhURRvTZ8lARLew
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 052-258-4421
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.958892
+lng                  : 34.910403
+geometry             : SRID=4326;POINT(34.910403 31.958892)
+offers               : [NULL]
+
+ROW #188 (ID: 257)
+================================================================================
+id                   : 257
+name                 : סמדר מלון בוטיק ויקב - Smadar Hotel and Winery
+address              : המייסדים 31, זכרון יעקב, ישראל
+place_id             : ChIJfaBODn8JHRURkGJY57UWAZs
+region               : שרון
+kosher               : [NULL]
+phone                : 050-655-1155
+website              : http://www.smadar-inn.com/
+opening_hours        : ["יום ראשון: 8:00–20:00","יום שני: 8:00–20:00","יום שלישי: 8:00–20:00","יום רביעי: 8:00–20:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.571963
+lng                  : 34.9538544
+geometry             : SRID=4326;POINT(34.9538544 32.571963)
+offers               : [NULL]
+
+ROW #189 (ID: 261)
+================================================================================
+id                   : 261
+name                 : היקב
+address              : זכרון יעקב, ישראל
+place_id             : ChIJ23J1-IIJHRURzr57bUYzxAs
+region               : שרון
+kosher               : [NULL]
+phone                : 04-639-1788
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.574369
+lng                  : 34.9588075
+geometry             : SRID=4326;POINT(34.9588075 32.574369)
+offers               : [NULL]
+
+ROW #190 (ID: 262)
+================================================================================
+id                   : 262
+name                 : היקב
+address              : היקב, ראשון לציון, ישראל
+place_id             : ChIJ490cunS0AhURERJY2K0Xp9U
+region               : מרכז
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.9729621
+lng                  : 34.7786056
+geometry             : SRID=4326;POINT(34.7786056 31.9729621)
+offers               : [NULL]
+
+ROW #191 (ID: 274)
+================================================================================
+id                   : 274
+name                 : Tabernacle Winery
+address              : Outer road, צוריאל, ישראל
+place_id             : ChIJ5b5GWekvHBURx6P6ZAS0oJE
+region               : גליל
+kosher               : [NULL]
+phone                : [NULL]
+website              : https://www.tabernaclewinery.com/
+opening_hours        : ["יום ראשון: 8:00–16:00","יום שני: 8:00–16:00","יום שלישי: 8:00–16:00","יום רביעי: 8:00–16:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.00735240000001
+lng                  : 35.3081792
+geometry             : SRID=4326;POINT(35.3081792 33.00735240000001)
+offers               : [NULL]
+
+ROW #192 (ID: 279)
+================================================================================
+id                   : 279
+name                 : יקב הסלע HaSela Winery
+address              : איבי הנחל, מעלה עמוס
+place_id             : ChIJ3xySrbghAxUR4btwxtAyc0E
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 058-634-3550
+website              : https://hasela-winery.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.60247949999999
+lng                  : 35.2177135
+geometry             : SRID=4326;POINT(35.2177135 31.60247949999999)
+offers               : [NULL]
+
+ROW #193 (ID: 287)
+================================================================================
+id                   : 287
+name                 : יקב עליון - Elyon Winery
+address              : דודו דותן 10, נתניה, ישראל
+place_id             : ChIJT05tamQVHRURH7UdE6RGzVI
+region               : שרון
+kosher               : [NULL]
+phone                : 053-597-6779
+website              : [NULL]
+opening_hours        : ["יום ראשון: 9:00–21:00","יום שני: 9:00–21:00","יום שלישי: 9:00–21:00","יום רביעי: 9:00–21:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.2780789
+lng                  : 34.8421777
+geometry             : SRID=4326;POINT(34.8421777 32.2780789)
+offers               : [NULL]
+
+ROW #194 (ID: 288)
+================================================================================
+id                   : 288
+name                 : Cork & Cellar
+address              : הבנאי 5, בית שמש, ישראל
+place_id             : ChIJm1EDKEv1UW0RVIZqn-7nC3E
+region               : הרי יהודה
+kosher               : [NULL]
+phone                : 050-709-0068
+website              : https://www.corkandcellar.net/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.755613
+lng                  : 34.992778
+geometry             : SRID=4326;POINT(34.992778 31.755613)
+offers               : [NULL]
+
+ROW #195 (ID: 292)
+================================================================================
+id                   : 292
+name                 : Domaine Seror
+address              : מושב אבני אית"ן, 1292500
+place_id             : ChIJA2lP4mEFHBURxS6gUmiIQqQ
+region               : רמת הגולן
+kosher               : [NULL]
+phone                : 058-785-0912
+website              : http://www.domaineseror.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.8295315
+lng                  : 35.7666782
+geometry             : SRID=4326;POINT(35.7666782 32.8295315)
+offers               : [NULL]
+
+ROW #196 (ID: 293)
+================================================================================
+id                   : 293
+name                 : יקב פינטו
+address              : ירוחם, ישראל
+place_id             : ChIJvxYDYAA_AhURtIZBPtdHIQI
+region               : נגב
+kosher               : [NULL]
+phone                : 054-763-5451
+website              : http://pintowinery.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 30.9838182
+lng                  : 34.9472935
+geometry             : SRID=4326;POINT(34.9472935 30.9838182)
+offers               : [NULL]
+
+ROW #197 (ID: 294)
+================================================================================
+id                   : 294
+name                 : כרם ירוחם
+address              : A, ירוחם, 8050000, ישראל
+place_id             : ChIJT_TxWRQ_AhURiO9c2pvpqOQ
+region               : נגב
+kosher               : [NULL]
+phone                : 054-974-9192
+website              : https://kyerucham.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 30.9786675
+lng                  : 34.9079829
+geometry             : SRID=4326;POINT(34.9079829 30.9786675)
+offers               : [NULL]
+
+ROW #198 (ID: 295)
+================================================================================
+id                   : 295
+name                 : יקב אורן
+address              : נתיב העשרה, 7975500, ישראל
+place_id             : ChIJFynmQVeDAhURaRiWhR9UeDo
+region               : דרום
+kosher               : [NULL]
+phone                : 054-788-6832
+website              : https://www.facebook.com/share/1C2EeTPk47/?mibextid=wwXIfr
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 31.5786051
+lng                  : 34.5404998
+geometry             : SRID=4326;POINT(34.5404998 31.5786051)
+offers               : [NULL]
+
+ROW #199 (ID: 299)
+================================================================================
+id                   : 299
+name                 : Gems Winery
+address              : מרגנית 14, עומר, ישראל
+place_id             : ChIJITUlrQBnAhUR67MIkT0P8XM
+region               : נגב
+kosher               : [NULL]
+phone                : 050-846-3533
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.2727617
+lng                  : 34.8492155
+geometry             : SRID=4326;POINT(34.8492155 31.2727617)
+offers               : [NULL]
+
+ROW #200 (ID: 300)
+================================================================================
+id                   : 300
+name                 : Israel Wine Journeys
+address              : דיסקין, ירושלים, ישראל
+place_id             : ChIJR3mnudTXAhURWgR-R9ee6jI
+region               : ירושלים
+kosher               : true
+phone                : 054-313-6908
+website              : https://www.israelwinejourneys.net/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.7761167
+lng                  : 35.2105305
+geometry             : SRID=4326;POINT(35.2105305 31.7761167)
+offers               : [NULL]
+
+ROW #201 (ID: 303)
+================================================================================
+id                   : 303
+name                 : הזורעים יקב בוטיק - כשרות מהדרין
+address              : קיבוץ גלויות 82, הזורעים, 1520500, ישראל
+place_id             : ChIJpWt-hWVBHBURYPS9mUSGUxo
+region               : גליל
+kosher               : true
+phone                : 050-888-7483
+website              : [NULL]
+opening_hours        : ["יום ראשון: סגור","יום שני: 9:00–14:00, 19:00–23:00","יום שלישי: 9:00–14:00, 19:00–23:00","יום רביע... [truncated]
+is_open              : true
+lat                  : 32.7509232
+lng                  : 35.4984687
+geometry             : SRID=4326;POINT(35.4984687 32.7509232)
+offers               : [NULL]
+
+ROW #202 (ID: 304)
+================================================================================
+id                   : 304
+name                 : יקב(כרם) הר זמר
+address              : מושב דישון 28, ד.נ מרום גליל, 1382500, ישראל
+place_id             : ChIJs8hLhIifHhUR8Jq00RESW3c
+region               : גליל
+kosher               : [NULL]
+phone                : 052-694-7249
+website              : http://harzemer.com/
+opening_hours        : ["יום ראשון: 10:00–18:00","יום שני: 10:00–18:00","יום שלישי: 10:00–18:00","יום רביעי: 10:00–18:00","... [truncated]
+is_open              : true
+lat                  : 33.081908
+lng                  : 35.518848
+geometry             : SRID=4326;POINT(35.518848 33.081908)
+offers               : [NULL]
+
+ROW #203 (ID: 305)
+================================================================================
+id                   : 305
+name                 : יקב (תל) קאמון
+address              : דרך העמק 5, יוקנעם, 2060015, ישראל
+place_id             : ChIJJapIQQWvHRURHghfW81gwu4
+region               : צפון
+kosher               : [NULL]
+phone                : 052-921-7533
+website              : https://he.strieminetica.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.66748
+lng                  : 35.10914200000001
+geometry             : SRID=4326;POINT(35.10914200000001 32.66748)
+offers               : [NULL]
+
+ROW #204 (ID: 306)
+================================================================================
+id                   : 306
+name                 : יקב אור הגנוז
+address              : ישוב, אור הגנוז, 1390900, ישראל
+place_id             : ChIJZwsCpCgkHBURm2VQcx6vgWo
+region               : גליל
+kosher               : true
+phone                : 04-699-0836
+website              : http://www.orhaganuzwinery.com/
+opening_hours        : ["יום ראשון: 10:00–17:00","יום שני: 10:00–17:00","יום שלישי: 10:00–17:00","יום רביעי: 10:00–17:00","... [truncated]
+is_open              : true
+lat                  : 33.0046971
+lng                  : 35.4457811
+geometry             : SRID=4326;POINT(35.4457811 33.0046971)
+offers               : [NULL]
+
+ROW #205 (ID: 307)
+================================================================================
+id                   : 307
+name                 : Na'aman Winery יקב נעמן
+address              : משק 90, רמות נפתלי, 1383000, ישראל
+place_id             : ChIJ9zfMTGWfHhUR-V2r8k52768
+region               : גליל
+kosher               : [NULL]
+phone                : 050-794-4881
+website              : https://naamanwine.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 33.10043470000001
+lng                  : 35.5557533
+geometry             : SRID=4326;POINT(35.5557533 33.10043470000001)
+offers               : {"name":"מבצע מיוחד!","description":"Petit Verdot G.R. 2020100% פטי ורדו, יושן שנתיים בחביות אלון צר... [truncated]
+
+ROW #206 (ID: 308)
+================================================================================
+id                   : 308
+name                 : יקב אבן הראשה - Keystone Winery
+address              : שטורמן 1, בית שאן, ישראל
+place_id             : ChIJi9lv2qVfHBURpnUU_zRshQk
+region               : מרכז
+kosher               : [NULL]
+phone                : 04-981-0584
+website              : https://tabitisrael.co.il/site/%D7%99%D7%A7%D7%91-%D7%90%D7%91%D7%9F-%D7%94%D7%A8%D7%90%D7%A9%D7%94
+opening_hours        : ["יום ראשון: 18:00–23:00","יום שני: 18:00–23:00","יום שלישי: 18:00–23:00","יום רביעי: 18:00–23:00","... [truncated]
+is_open              : false
+lat                  : 32.4986781
+lng                  : 35.5036537
+geometry             : SRID=4326;POINT(35.5036537 32.4986781)
+offers               : [NULL]
+
+ROW #207 (ID: 309)
+================================================================================
+id                   : 309
+name                 : יקב רימון בע"מ
+address              : פארק תעשייה, דלתון, ישראל
+place_id             : ChIJH2IfzdcmHBURDbWUEc5t6FE
+region               : גליל
+kosher               : true
+phone                : 04-682-2325
+website              : http://rimonwinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 33.027168
+lng                  : 35.4760493
+geometry             : SRID=4326;POINT(35.4760493 33.027168)
+offers               : {"name":"מבצע מיוחד!","description":"מוסקט קאנלי ורימונים | PET NAT | קאנלי 80% ורימונים 20%"}
+
+ROW #208 (ID: 314)
+================================================================================
+id                   : 314
+name                 : יקב לואיז
+address              : 227, שדה יעקב, ישראל
+place_id             : ChIJ-ZHkzsWtHRURwUV3_0vOOSk
+region               : צפון
+kosher               : [NULL]
+phone                : 052-869-9877
+website              : http://louisewinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.70094170000001
+lng                  : 35.1446143
+geometry             : SRID=4326;POINT(35.1446143 32.70094170000001)
+offers               : [NULL]
+
+ROW #209 (ID: 317)
+================================================================================
+id                   : 317
+name                 : יקב ציפורי
+address              : אמת המים 74, ציפורי, 1791000, ישראל
+place_id             : ChIJ15fJJgpLHBURQCR1mfb1McU
+region               : גליל
+kosher               : [NULL]
+phone                : 055-971-3799
+website              : https://www.facebook.com/%D7%99%D7%A7%D7%91-%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99-zippori-winery-2322... [truncated]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.7492196
+lng                  : 35.2812299
+geometry             : SRID=4326;POINT(35.2812299 32.7492196)
+offers               : [NULL]
+
+ROW #210 (ID: 320)
+================================================================================
+id                   : 320
+name                 : יקב שדות ים
+address              : הענבים 1, שדות ים, 37804, ישראל
+place_id             : ChIJfRCxe7oNHRUR6CXbV8_sEFU
+region               : שרון
+kosher               : [NULL]
+phone                : 052-476-8681
+website              : http://www.sdotyamwinery.com/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.491125
+lng                  : 34.8899602
+geometry             : SRID=4326;POINT(34.8899602 32.491125)
+offers               : [NULL]
+
+ROW #211 (ID: 322)
+================================================================================
+id                   : 322
+name                 : יקב אבוהב
+address              : סמטת אבוהב 1, צפת, ישראל
+place_id             : ChIJhXEkXy8jHBURyj6tYMISaVg
+region               : גליל
+kosher               : true
+phone                : 052-704-1732
+website              : http://www.abouhav-winery.com/
+opening_hours        : ["יום ראשון: 11:00–17:00","יום שני: 11:00–17:00","יום שלישי: 11:00–17:00","יום רביעי: 11:00–17:00","... [truncated]
+is_open              : true
+lat                  : 32.969135
+lng                  : 35.4913303
+geometry             : SRID=4326;POINT(35.4913303 32.969135)
+offers               : [NULL]
+
+ROW #212 (ID: 327)
+================================================================================
+id                   : 327
+name                 : יקב שטיינמץ
+address              : עובדי אדמה, גן השומרון, 38825, ישראל
+place_id             : ChIJ_z6oHQYPHRURWHusLTOfmpg
+region               : שרון
+kosher               : [NULL]
+phone                : 054-441-1957
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.4595562
+lng                  : 34.9985068
+geometry             : SRID=4326;POINT(34.9985068 32.4595562)
+offers               : [NULL]
+
+ROW #213 (ID: 328)
+================================================================================
+id                   : 328
+name                 : Rekhovot Winery
+address              : רחובות, ישראל
+place_id             : ChIJrfsEff62AhUR6rTzr2fOYRc
+region               : מרכז
+kosher               : [NULL]
+phone                : [NULL]
+website              : [NULL]
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.9037349
+lng                  : 34.8133379
+geometry             : SRID=4326;POINT(34.8133379 31.9037349)
+offers               : [NULL]
+
+ROW #214 (ID: 330)
+================================================================================
+id                   : 330
+name                 : גן היקב
+address              : הנשיא הראשון, רחובות, ישראל
+place_id             : ChIJF8Cfef62AhURe4EyR4ZSbrs
+region               : מרכז
+kosher               : [NULL]
+phone                : 08-941-8073
+website              : [NULL]
+opening_hours        : ["יום ראשון: פתוח 24 שעות","יום שני: פתוח 24 שעות","יום שלישי: פתוח 24 שעות","יום רביעי: פתוח 24 שעו... [truncated]
+is_open              : true
+lat                  : 31.9035437
+lng                  : 34.8130025
+geometry             : SRID=4326;POINT(34.8130025 31.9035437)
+offers               : [NULL]
+
+ROW #215 (ID: 331)
+================================================================================
+id                   : 331
+name                 : יקב אגת
+address              : אליהו 44, באר יעקב, 7030000, ישראל
+place_id             : ChIJAxRw0UPrGWcRo1MaIfy74CA
+region               : מרכז
+kosher               : [NULL]
+phone                : 054-245-8315
+website              : https://agate-winery.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: 19:30–23:00","יום... [truncated]
+is_open              : false
+lat                  : 31.9442049
+lng                  : 34.8502497
+geometry             : SRID=4326;POINT(34.8502497 31.9442049)
+offers               : [NULL]
+
+ROW #216 (ID: 332)
+================================================================================
+id                   : 332
+name                 : אתר הפרדסנות ע"ש מינקוב רחובות
+address              : אבינועם נחמני, רחובות, ישראל
+place_id             : ChIJKRgFd_e2AhURBshNrEqyXws
+region               : מרכז
+kosher               : [NULL]
+phone                : 08-946-9197
+website              : https://shimur.org/sites/%D7%90%D7%AA%D7%A8-%D7%94%D7%A4%D7%A8%D7%93%D7%A1%D7%A0%D7%95%D7%AA-%D7%A2%... [truncated]
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.9114451
+lng                  : 34.814268
+geometry             : SRID=4326;POINT(34.814268 31.9114451)
+offers               : [NULL]
+
+ROW #217 (ID: 333)
+================================================================================
+id                   : 333
+name                 : חצר היין של יקב בן חיים
+address              : השיזף 4, רעננה, ישראל
+place_id             : ChIJCRw4AKQ5HRURIuPPLBJQXLc
+region               : מרכז
+kosher               : [NULL]
+phone                : 050-760-5023
+website              : [NULL]
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.1923928
+lng                  : 34.8848071
+geometry             : SRID=4326;POINT(34.8848071 32.1923928)
+offers               : [NULL]
+
+ROW #218 (ID: 334)
+================================================================================
+id                   : 334
+name                 : יקב הבוטיק שלי
+address              : אחוזה 198, רעננה, ישראל
+place_id             : ChIJx2yEm3I5HRUReI478uEur24
+region               : מרכז
+kosher               : true
+phone                : 077-344-1808
+website              : http://www.my-winery.co.il/
+opening_hours        : ["יום ראשון: 8:00–19:00","יום שני: 8:00–19:00","יום שלישי: 8:00–19:00","יום רביעי: 8:00–19:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.1828253
+lng                  : 34.8657402
+geometry             : SRID=4326;POINT(34.8657402 32.1828253)
+offers               : [NULL]
+
+ROW #219 (ID: 335)
+================================================================================
+id                   : 335
+name                 : JERUZ YARD בוטיק היין יקבי ירושלים בפתח תקווה
+address              : Geysot Hashiryon parking, חיים ארלוזורוב 30, פתח תקווה, 4940868, ישראל
+place_id             : ChIJkT4FpO83HRURUIoRV9VKmxg
+region               : מרכז
+kosher               : true
+phone                : 079-695-0350
+website              : https://jerusalemwineries.co.il/visitors-center-kiryat-museums/
+opening_hours        : ["יום ראשון: 9:00–21:00","יום שני: 9:00–21:00","יום שלישי: 9:00–21:00","יום רביעי: 9:00–21:00","יום ... [truncated]
+is_open              : true
+lat                  : 32.0858055
+lng                  : 34.8728901
+geometry             : SRID=4326;POINT(34.8728901 32.0858055)
+offers               : [NULL]
+
+ROW #220 (ID: 337)
+================================================================================
+id                   : 337
+name                 : יקב בן ארצי - Ben Artsy Winery
+address              : הסדנה 5, פתח תקווה, ישראל
+place_id             : ChIJvVuZmDFJHRURDsTFV9pJ1Kc
+region               : מרכז
+kosher               : [NULL]
+phone                : 077-490-5040
+website              : https://www.benartsywinery.com/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.09509
+lng                  : 34.85984699999999
+geometry             : SRID=4326;POINT(34.85984699999999 32.09509)
+offers               : [NULL]
+
+ROW #221 (ID: 338)
+================================================================================
+id                   : 338
+name                 : יקב 1848 משרדי שיווק ומכירות
+address              : היוצרים 3, לוד, 7129602, ישראל
+place_id             : ChIJGcF8xwvLAhURGvSnwmyxofs
+region               : מרכז
+kosher               : [NULL]
+phone                : 02-595-1848
+website              : http://www.1848.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 31.9685311
+lng                  : 34.8917109
+geometry             : SRID=4326;POINT(34.8917109 31.9685311)
+offers               : [NULL]
+
+ROW #222 (ID: 339)
+================================================================================
+id                   : 339
+name                 : שפרינגר יין ביתי
+address              : אדמו"ר הזקן 5, כפר חב"ד, 6084000, ישראל
+place_id             : ChIJH0PUX121AhURSTL1D55lfME
+region               : מרכז
+kosher               : true
+phone                : 054-496-5698
+website              : [NULL]
+opening_hours        : ["יום ראשון: 9:30–22:00","יום שני: 9:30–22:00","יום שלישי: 9:30–22:00","יום רביעי: 9:30–22:00","יום ... [truncated]
+is_open              : true
+lat                  : 31.9890872
+lng                  : 34.8526546
+geometry             : SRID=4326;POINT(34.8526546 31.9890872)
+offers               : [NULL]
+
+ROW #223 (ID: 346)
+================================================================================
+id                   : 346
+name                 : חוות רום | Rom Farm
+address              : כמון, ישראל
+place_id             : ChIJFYS4y_EwHBURuPx8jz2cvow
+region               : גליל
+kosher               : [NULL]
+phone                : 04-902-0550
+website              : https://havatrom.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.9188135
+lng                  : 35.35988030000001
+geometry             : SRID=4326;POINT(35.35988030000001 32.9188135)
+offers               : [NULL]
+
+ROW #224 (ID: 347)
+================================================================================
+id                   : 347
+name                 : יקב סירקין
+address              : צבעון, 1383600, ישראל
+place_id             : ChIJVwygO9AnHBURuCI-t3CExuo
+region               : גליל
+kosher               : [NULL]
+phone                : 054-777-1749
+website              : [NULL]
+opening_hours        : ["יום ראשון: 9:00–18:00","יום שני: 9:00–18:00","יום שלישי: 9:00–18:00","יום רביעי: 9:00–18:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.0249957
+lng                  : 35.4153283
+geometry             : SRID=4326;POINT(35.4153283 33.0249957)
+offers               : [NULL]
+
+ROW #225 (ID: 348)
+================================================================================
+id                   : 348
+name                 : משק לב אדם
+address              : המייסדים 1 ת.ד 156, בת שלמה, ישראל
+place_id             : ChIJO9fHAZYJHRURvxD-4K1htk4
+region               : צפון
+kosher               : [NULL]
+phone                : 058-773-3173
+website              : http://levadam.co.il/
+opening_hours        : [NULL]
+is_open              : [NULL]
+lat                  : 32.5926364
+lng                  : 35.0037968
+geometry             : SRID=4326;POINT(35.0037968 32.5926364)
+offers               : [NULL]
+
+ROW #226 (ID: 349)
+================================================================================
+id                   : 349
+name                 : יקב רקנאטי
+address              : ישראל
+place_id             : ChIJLwHJ1pohHBUR6Aime5eZdbE
+region               : גליל
+kosher               : [NULL]
+phone                : 04-622-2288
+website              : https://www.recanati-winery.com/
+opening_hours        : ["יום ראשון: 10:00–16:00","יום שני: 10:00–16:00","יום שלישי: 10:00–16:00","יום רביעי: 10:00–16:00","... [truncated]
+is_open              : true
+lat                  : 33.0293898
+lng                  : 35.4816026
+geometry             : SRID=4326;POINT(35.4816026 33.0293898)
+offers               : [NULL]
+
+ROW #227 (ID: 350)
+================================================================================
+id                   : 350
+name                 : משק מלמד - לול אורגני, חנות המשק
+address              : האלה 56, כפר הנגיד, ישראל
+place_id             : ChIJ0xysupewAhURYsyZZFxNxEw
+region               : מרכז
+kosher               : true
+phone                : 08-943-7249
+website              : https://www.lul-organi.co.il/
+opening_hours        : ["יום ראשון: 8:30–17:30","יום שני: 8:30–17:30","יום שלישי: 8:30–17:30","יום רביעי: 8:30–17:30","יום ... [truncated]
+is_open              : true
+lat                  : 31.8933429
+lng                  : 34.7500714
+geometry             : SRID=4326;POINT(34.7500714 31.8933429)
+offers               : [NULL]
+
+ROW #228 (ID: 351)
+================================================================================
+id                   : 351
+name                 : יקב בן דוד
+address              : שמיר, ישראל
+place_id             : ChIJ2z4_T6mkHhUR3CfSF1ThdaE
+region               : צפון
+kosher               : [NULL]
+phone                : 050-553-6897
+website              : https://www.facebook.com/Ben-David-Winery-%D7%99%D7%A7%D7%91-%D7%91%D7%9F-%D7%93%D7%95%D7%93-1796017... [truncated]
+opening_hours        : ["יום ראשון: 9:00–15:00","יום שני: 9:00–15:00","יום שלישי: 9:00–15:00","יום רביעי: 9:00–15:00","יום ... [truncated]
+is_open              : true
+lat                  : 33.169371
+lng                  : 35.6582952
+geometry             : SRID=4326;POINT(35.6582952 33.169371)
+offers               : [NULL]
+
+ROW #229 (ID: 392)
+================================================================================
+id                   : 392
+name                 : גוהר חצר יין GOHAR - יקב גוהר ראש פינה
+address              : פינת, דוד שו"ב 61, ראש פינה
+place_id             : ChIJldpsSO0jHBUR2uI8P43XOUM
+region               : גליל
+kosher               : true
+phone                : 054-287-4382
+website              : http://gohar.co.il/
+opening_hours        : ["יום ראשון: סגור","יום שני: סגור","יום שלישי: סגור","יום רביעי: סגור","יום חמישי: סגור","יום שישי: ... [truncated]
+is_open              : false
+lat                  : 32.96897879999999
+lng                  : 35.53670880000001
+geometry             : SRID=4326;POINT(35.53670880000001 32.96897879999999)
+offers               : [NULL]

@@ -1,0 +1,515 @@
+[
+  {
+    "id": 2079225438,
+    "type": "node",
+    "tags": {
+      "addr:housenumber": "91",
+      "addr:street": "החשמונאים",
+      "internet_access": "wlan",
+      "name": "דרך היין",
+      "name:en": "Derech HaYain",
+      "name:he": "דרך היין",
+      "opening_hours": "Mo-Su 07:00-21:00",
+      "shop": "wine",
+      "source": "Tel Aviv municipality"
+    },
+    "lat": 32.069696,
+    "lng": 34.783386
+  },
+  {
+    "id": 2193078556,
+    "type": "node",
+    "tags": {
+      "contact:phone": "+972548173529",
+      "fixme": "unsure about location",
+      "name": "יינות לטרון",
+      "name:en": "Latrun Wines",
+      "name:he": "יינות לטרון",
+      "name:ro": "Vinuri Latrun",
+      "opening_hours": "Mo-Su 09:00-19:00",
+      "shop": "wine"
+    },
+    "lat": 31.8373513,
+    "lng": 34.9769348
+  },
+  {
+    "id": 3088896820,
+    "type": "node",
+    "tags": {
+      "name": "חנות יקבי תשבי",
+      "name:en": "Tishby wine shop",
+      "name:he": "חנות יקבי תשבי",
+      "shop": "wine"
+    },
+    "lat": 32.5489329,
+    "lng": 34.9569758
+  },
+  {
+    "id": 4195846690,
+    "type": "node",
+    "tags": {
+      "name": "Cramisan Wine Shop",
+      "name:en": "Cramisan Wine Shop",
+      "shop": "wine"
+    },
+    "lat": 31.7265442,
+    "lng": 35.1727083
+  },
+  {
+    "id": 4490164389,
+    "type": "node",
+    "tags": {
+      "shop": "wine"
+    },
+    "lat": 32.0531694,
+    "lng": 34.7525099
+  },
+  {
+    "id": 4916390121,
+    "type": "node",
+    "tags": {
+      "name": "יעקב דלתון",
+      "name:en": "Dalton Winery",
+      "name:he": "יעקב דלתון",
+      "shop": "wine"
+    },
+    "lat": 33.029256,
+    "lng": 35.476516
+  },
+  {
+    "id": 4916390321,
+    "type": "node",
+    "tags": {
+      "name": "יעקב אדיר",
+      "name:en": "Adir Winery",
+      "name:he": "יעקב אדיר",
+      "shop": "wine"
+    },
+    "lat": 33.0280841,
+    "lng": 35.4755506
+  },
+  {
+    "id": 5139812034,
+    "type": "node",
+    "tags": {
+      "check_date": "2025-09-04",
+      "name": "Jacko Kaneti",
+      "name:en": "Jacko Kaneti",
+      "shop": "wine"
+    },
+    "lat": 31.7662234,
+    "lng": 35.2046836
+  },
+  {
+    "id": 5581369121,
+    "type": "node",
+    "tags": {
+      "name:en": "Julia winery",
+      "shop": "wine"
+    },
+    "lat": 33.02753,
+    "lng": 35.2566032
+  },
+  {
+    "id": 6014946920,
+    "type": "node",
+    "tags": {
+      "addr:city": "ראש פינה",
+      "addr:housenumber": "3",
+      "addr:street": "התפוח",
+      "alt_name:en": "Yain Bair;Wine Direct",
+      "contact:facebook": "https://www.facebook.com/wineroshpina/",
+      "name": "יין בעיר",
+      "name:en": "Yain BaIr",
+      "name:en1": "Wine in the City",
+      "name:he": "יין בעיר",
+      "opening_hours": "Su-Th 08:30-22:45; Fr 08:30-(Sunset-00:30); Sa (Sunset+00:30)-22:45",
+      "shop": "wine",
+      "website": "https://wine-direct.co.il/"
+    },
+    "lat": 32.9699109,
+    "lng": 35.5502927
+  },
+  {
+    "id": 7040010790,
+    "type": "node",
+    "tags": {
+      "name:en": "Geffen Courtyard",
+      "shop": "wine"
+    },
+    "lat": 32.9683402,
+    "lng": 35.4913232
+  },
+  {
+    "id": 7040010792,
+    "type": "node",
+    "tags": {
+      "name:ru": "Винодельня «Амфора»",
+      "shop": "wine"
+    },
+    "lat": 32.6392975,
+    "lng": 34.9940546
+  },
+  {
+    "id": 7595932885,
+    "type": "node",
+    "tags": {
+      "name:ru": "Винодельня Мони",
+      "shop": "wine"
+    },
+    "lat": 31.7758076,
+    "lng": 34.9471854
+  },
+  {
+    "id": 7948553324,
+    "type": "node",
+    "tags": {
+      "shop": "wine"
+    },
+    "lat": 32.1764023,
+    "lng": 34.932954
+  },
+  {
+    "id": 8321535295,
+    "type": "node",
+    "tags": {
+      "level": "1",
+      "name": "יין ועוד",
+      "name:he": "יין ועוד",
+      "shop": "wine"
+    },
+    "lat": 32.1147035,
+    "lng": 34.8260337
+  },
+  {
+    "id": 8334962717,
+    "type": "node",
+    "tags": {
+      "name": "יקב נבו",
+      "name:he": "יקב נבו",
+      "name:ru": "Винодельня «Нево»",
+      "shop": "wine"
+    },
+    "lat": 31.7144212,
+    "lng": 35.0636928
+  },
+  {
+    "id": 8450300866,
+    "type": "node",
+    "tags": {
+      "level": "0",
+      "name": "דרך היין",
+      "name:en": "Wine Route",
+      "name:he": "דרך היין",
+      "shop": "wine"
+    },
+    "lat": 32.1971216,
+    "lng": 34.8781863
+  },
+  {
+    "id": 8521572585,
+    "type": "node",
+    "tags": {
+      "addr:housenumber": "45",
+      "addr:street": "אוסישקין",
+      "contact:website": "https://itclub.co.il/",
+      "name": "בית הטבק והיין",
+      "name:he": "בית הטבק והיין",
+      "phone": "+972536111485",
+      "shop": "wine"
+    },
+    "lat": 32.1418484,
+    "lng": 34.842959
+  },
+  {
+    "id": 8818698017,
+    "type": "node",
+    "tags": {
+      "name": "פלטר",
+      "name:en": "Pelter",
+      "name:he": "פלטר",
+      "shop": "wine"
+    },
+    "lat": 33.0970609,
+    "lng": 35.7993333
+  },
+  {
+    "id": 9180426318,
+    "type": "node",
+    "tags": {
+      "shop": "wine"
+    },
+    "lat": 32.5185431,
+    "lng": 35.4288022
+  },
+  {
+    "id": 9180426517,
+    "type": "node",
+    "tags": {
+      "shop": "wine"
+    },
+    "lat": 32.5145857,
+    "lng": 35.4316715
+  },
+  {
+    "id": 9396409435,
+    "type": "node",
+    "tags": {
+      "craft": "winery",
+      "fixme": "check the position",
+      "name": "יקב שריגים",
+      "name:en": "Srigim Winery",
+      "name:he": "יקב שריגים",
+      "shop": "wine",
+      "website": "https://www.srigimwinery.co.il/"
+    },
+    "lat": 31.6796993,
+    "lng": 34.9323586
+  },
+  {
+    "id": 9514486217,
+    "type": "node",
+    "tags": {
+      "name:en": "Agur Winery",
+      "shop": "wine"
+    },
+    "lat": 31.6944624,
+    "lng": 34.9126307
+  },
+  {
+    "id": 9514486317,
+    "type": "node",
+    "tags": {
+      "name:en": "Mettler Winery",
+      "shop": "wine"
+    },
+    "lat": 31.6950096,
+    "lng": 34.9127004
+  },
+  {
+    "id": 9514486417,
+    "type": "node",
+    "tags": {
+      "name:en": "Hadar Winery",
+      "shop": "wine"
+    },
+    "lat": 31.6996267,
+    "lng": 34.9102561
+  },
+  {
+    "id": 9514486418,
+    "type": "node",
+    "tags": {
+      "name:en": "Sphera Winery",
+      "shop": "wine"
+    },
+    "lat": 31.6734759,
+    "lng": 34.9413026
+  },
+  {
+    "id": 9514486517,
+    "type": "node",
+    "tags": {
+      "name:en": "Roglit Winery",
+      "shop": "wine"
+    },
+    "lat": 31.6723451,
+    "lng": 35.0025426
+  },
+  {
+    "id": 9585027181,
+    "type": "node",
+    "tags": {
+      "name": "Wine by zer4u",
+      "shop": "wine"
+    },
+    "lat": 31.2592607,
+    "lng": 34.7966099
+  },
+  {
+    "id": 9689423553,
+    "type": "node",
+    "tags": {
+      "addr:city": "Tel Aviv, Yafo",
+      "addr:housenumber": "3",
+      "addr:street": "Rabi Ada",
+      "name": "Chocolate & Wine shop",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "shop": "wine"
+    },
+    "lat": 32.0523879,
+    "lng": 34.7559954
+  },
+  {
+    "id": 10115983217,
+    "type": "node",
+    "tags": {
+      "shop": "wine"
+    },
+    "lat": 33.2403749,
+    "lng": 35.6569286
+  },
+  {
+    "id": 10173071417,
+    "type": "node",
+    "tags": {
+      "name:en": "Yehuda Winery",
+      "shop": "wine"
+    },
+    "lat": 31.7966185,
+    "lng": 35.0649509
+  },
+  {
+    "id": 10259637109,
+    "type": "node",
+    "tags": {
+      "brand": "יין בעיר",
+      "name": "יין בעיר",
+      "name:en": "Yain BaIr",
+      "name:he": "יין בעיר",
+      "shop": "wine",
+      "survey:date": "2022-12-13"
+    },
+    "lat": 32.1624089,
+    "lng": 34.8096137
+  },
+  {
+    "id": 11163227762,
+    "type": "node",
+    "tags": {
+      "name": "Pecorino",
+      "shop": "wine"
+    },
+    "lat": 32.0825915,
+    "lng": 34.7915898
+  },
+  {
+    "id": 11391577413,
+    "type": "node",
+    "tags": {
+      "amenity": "bar",
+      "name": "יין בהר",
+      "phone": "+972506273639",
+      "shop": "wine",
+      "survey:date": "2023-12-03"
+    },
+    "lat": 33.008598,
+    "lng": 35.2261361
+  },
+  {
+    "id": 11685101469,
+    "type": "node",
+    "tags": {
+      "name:ru": "Винодельня",
+      "shop": "wine"
+    },
+    "lat": 30.9010734,
+    "lng": 34.392208
+  },
+  {
+    "id": 11918089369,
+    "type": "node",
+    "tags": {
+      "name:en": "Kadma Winery",
+      "shop": "wine"
+    },
+    "lat": 31.794741,
+    "lng": 34.9456668
+  },
+  {
+    "id": 12520101871,
+    "type": "node",
+    "tags": {
+      "level": "1",
+      "name": "הא ו-דא",
+      "name:en": "HAveDA",
+      "name:he": "הא ו-דא",
+      "outdoor_seating": "yes",
+      "shop": "wine",
+      "survey:date": "2025-01-21"
+    },
+    "lat": 32.1931748,
+    "lng": 34.8650169
+  },
+  {
+    "id": 12639636341,
+    "type": "node",
+    "tags": {
+      "addr:housenumber": "68",
+      "addr:street": "שמואל הנביא",
+      "check_date": "2025-03-06",
+      "diet:kosher": "yes",
+      "diet:kosher:certification": "Badatz Eida haChareidis",
+      "name:he": "בן יעקב",
+      "phone": "+972 25020909",
+      "shop": "wine"
+    },
+    "lat": 31.7928813,
+    "lng": 35.2230693
+  },
+  {
+    "id": 12825557274,
+    "type": "node",
+    "tags": {
+      "addr:city": "תל אביב-יפו",
+      "addr:housenumber": "32",
+      "addr:street": "אלנבי",
+      "contact:facebook": "eliasi.drinks",
+      "contact:instagram": "eliasi.drinks",
+      "contact:whatsapp": "+972 3 603 8592",
+      "delivery": "yes",
+      "name": "אליאסי משקאות",
+      "name:en": "Eliasi Drinks",
+      "name:he": "אליאסי משקאות",
+      "opening_hours": "Su-We 10:00-21:00; Th 10:00-22:00; Fr 10:00-17:00",
+      "phone": "+972 3 603 8592",
+      "shop": "wine",
+      "website": "https://www.eliasi.co.il"
+    },
+    "lat": 32.0726758,
+    "lng": 34.768237
+  },
+  {
+    "id": 12944788058,
+    "type": "node",
+    "tags": {
+      "name": "Deli Vino",
+      "name:en": "Deli Vino",
+      "name:he": "דלי וינו",
+      "shop": "wine"
+    },
+    "lat": 32.0702036,
+    "lng": 34.7862955
+  },
+  {
+    "id": 13374061104,
+    "type": "node",
+    "tags": {
+      "name": "מנו וינו",
+      "shop": "wine"
+    },
+    "lat": 32.0705245,
+    "lng": 34.8070156
+  },
+  {
+    "id": 426923137,
+    "type": "way",
+    "tags": {
+      "building": "commercial",
+      "craft": "winery",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/BarkanWinery.jpg",
+      "name": "מרכז מבקרים יקב ברקן",
+      "name:en": "Barkan Winery Visitors Centre",
+      "name:he": "מרכז מבקרים יקב ברקן",
+      "opening_hours": "09:00-17:00; Fr 09:00-13:00",
+      "phone": "+972 89447790",
+      "shop": "wine",
+      "tourism": "attraction",
+      "website": "https://www.barkan-winery.co.il/",
+      "wikidata": "Q2910566"
+    },
+    "lat": 31.8278108,
+    "lng": 34.8842728
+  }
+]
