@@ -378,13 +378,13 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
           <div
             className="wm-list-card__bottle"
             style={{
-              flex: isShop ? '0 0 34%' : '0 0 48%',
-              maxWidth: isShop ? 148 : 200,
-              minWidth: isShop ? 82 : 124,
+              flex: isShop ? '0 0 30%' : '0 0 42%',
+              maxWidth: isShop ? 132 : 176,
+              minWidth: isShop ? 76 : 108,
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'stretch',
-              justifyContent: isShop ? 'stretch' : 'flex-end',
+              justifyContent: 'stretch',
               flexShrink: 0,
               position: 'relative',
               overflow: 'visible',
@@ -392,7 +392,7 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
               alignSelf: 'stretch',
               backgroundColor: 'transparent',
               borderRadius: 0,
-              padding: isShop ? '4px 0' : '2px 0 0',
+              padding: '4px 0',
               boxSizing: 'border-box',
             }}
           >
@@ -400,10 +400,10 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
               className="wm-list-card__bottle-img-wrap"
               style={{
                 flex: 1,
-                minHeight: isShop ? 0 : 176,
+                minHeight: 0,
                 width: '100%',
                 display: 'flex',
-                alignItems: isShop ? 'stretch' : 'flex-end',
+                alignItems: 'stretch',
                 justifyContent: 'center',
               }}
             >
@@ -411,15 +411,16 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
                 src={listBottleSrc}
                 alt={isShop ? 'Wine shop bottle' : 'Winery bottle'}
                 style={{
-                  width: isShop ? 'auto' : '100%',
-                  maxWidth: isShop ? '72%' : '100%',
+                  width: 'auto',
+                  maxWidth: isShop ? '62%' : '68%',
                   height: '100%',
                   maxHeight: '100%',
                   objectFit: 'contain',
-                  objectPosition: isShop ? 'center center' : 'center bottom',
+                  objectPosition: 'center center',
                   display: 'block',
                   marginLeft: 'auto',
                   marginRight: 'auto',
+                  flexShrink: 0,
                 }}
               />
             </div>
