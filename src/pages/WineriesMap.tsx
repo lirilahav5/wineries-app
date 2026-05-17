@@ -34,12 +34,13 @@ const wineryIcon = L.icon({
   popupAnchor: [0, -28] // Point from which the popup should open relative to the iconAnchor
 });
 
-// Wine shops: black circular marker with shopping-cart icon (DivIcon — not PNG)
+// Wine shops: teardrop pin shape (matches winery marker silhouette), black + white cart
 const SHOP_MARKER_INNER_HTML =
-  '<div class="wm-map-marker-shop__pin" role="presentation">' +
-  '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#ffffff" stroke-width="2" width="14" height="14" aria-hidden="true">' +
-  '<path stroke-linecap="round" stroke-linejoin="round" d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z" />' +
-  '</svg></div>';
+  '<svg class="wm-map-marker-shop__svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 34" preserveAspectRatio="xMidYMax meet" role="img" aria-hidden="true">' +
+  '<path fill="#0a0a0a" d="M14 1.1C7.5 1.1 2.2 6.5 2.2 12.6c0 5.2 11.8 20.2 11.8 20.2s11.8-15 11.8-20.2C25.8 6.5 20.5 1.1 14 1.1z"/>' +
+  '<g fill="none" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" transform="translate(14 11) scale(0.46) translate(-12 -12)">' +
+  '<path d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3m3-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/>' +
+  '</g></svg>';
 
 const shopIcon = L.divIcon({
   className: 'wm-map-marker-shop',

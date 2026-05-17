@@ -669,7 +669,7 @@ body {
   height: 100%;
 }
 
-/* Map: wine shop markers — black disc + white cart (Leaflet DivIcon) */
+/* Map: wine shop markers — teardrop pin + cart (Leaflet DivIcon), same footprint as winery PNG */
 .leaflet-div-icon.wm-map-marker-shop {
   border: none !important;
   background: transparent !important;
@@ -677,21 +677,13 @@ body {
   margin-top: 0 !important;
 }
 
-.wm-map-marker-shop__pin {
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  background: #0a0a0a;
-  border: 2px solid #ffffff;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.38);
+.wm-map-marker-shop__svg {
+  display: block;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.35));
 }
 
-html.dark .wm-map-marker-shop__pin {
-  border-color: rgba(255, 255, 255, 0.9);
+html.dark .wm-map-marker-shop__svg {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.55));
 }
 
 /* Hide scrollbar */
