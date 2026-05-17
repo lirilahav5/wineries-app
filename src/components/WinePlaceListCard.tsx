@@ -378,13 +378,13 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
           <div
             className="wm-list-card__bottle"
             style={{
-              flex: '0 0 48%',
-              maxWidth: 200,
-              minWidth: 124,
+              flex: isShop ? '0 0 34%' : '0 0 48%',
+              maxWidth: isShop ? 148 : 200,
+              minWidth: isShop ? 82 : 124,
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'stretch',
-              justifyContent: 'flex-end',
+              justifyContent: isShop ? 'stretch' : 'flex-end',
               flexShrink: 0,
               position: 'relative',
               overflow: 'visible',
@@ -392,7 +392,7 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
               alignSelf: 'stretch',
               backgroundColor: 'transparent',
               borderRadius: 0,
-              padding: '2px 0 0',
+              padding: isShop ? '4px 0' : '2px 0 0',
               boxSizing: 'border-box',
             }}
           >
@@ -400,10 +400,10 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
               className="wm-list-card__bottle-img-wrap"
               style={{
                 flex: 1,
-                minHeight: 176,
+                minHeight: isShop ? 0 : 176,
                 width: '100%',
                 display: 'flex',
-                alignItems: 'flex-end',
+                alignItems: isShop ? 'stretch' : 'flex-end',
                 justifyContent: 'center',
               }}
             >
@@ -411,12 +411,15 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
                 src={listBottleSrc}
                 alt={isShop ? 'Wine shop bottle' : 'Winery bottle'}
                 style={{
-                  width: '100%',
+                  width: isShop ? 'auto' : '100%',
+                  maxWidth: isShop ? '72%' : '100%',
                   height: '100%',
                   maxHeight: '100%',
                   objectFit: 'contain',
-                  objectPosition: 'center bottom',
+                  objectPosition: isShop ? 'center center' : 'center bottom',
                   display: 'block',
+                  marginLeft: 'auto',
+                  marginRight: 'auto',
                 }}
               />
             </div>
@@ -429,8 +432,8 @@ export const WinePlaceListCard: React.FC<WinePlaceListCardProps> = ({
                   top: '50%',
                   left: '50%',
                   transform: 'translate(-50%, -50%)',
-                  maxWidth: '68px',
-                  maxHeight: '68px',
+                  maxWidth: isShop ? '54px' : '68px',
+                  maxHeight: isShop ? '54px' : '68px',
                   objectFit: 'contain',
                   backgroundColor: 'rgba(255, 255, 255, 0.9)',
                   padding: '4px',

@@ -678,8 +678,8 @@ body {
 }
 
 .wm-map-marker-shop__pin {
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background: #0a0a0a;
   border: 2px solid #ffffff;
