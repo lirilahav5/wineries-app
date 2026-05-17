@@ -3,6 +3,7 @@ import { supabase } from '../lib/supabase';
 import { useNavigate } from 'react-router-dom';
 import { useLanguage } from '../contexts/LanguageContext';
 import { useTheme } from '../contexts/ThemeContext';
+import NavSearch from './NavSearch';
 import '../App.css';
 
 function Navigation() {
@@ -78,6 +79,7 @@ function Navigation() {
             </Link>
           </li>
         </ul>
+        <NavSearch />
         <button className="logout-btn" onClick={handleLogout} style={{
           backgroundColor: isDark ? '#333' : 'rgba(255, 255, 255, 0.2)',
           color: 'white',

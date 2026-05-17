@@ -1,3 +1,35 @@
+/* Wider layout for management list + wide data tables (was capped at 1400px). */
+.management-container {
+  width: 90vw;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  box-sizing: border-box;
+  min-width: 0;
+}
+
+/* Horizontal scroll for many table columns; keeps sticky header inside scrollport on desktop. */
+.management-table-wrap {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: visible;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+
+.management-table-wrap table {
+  overflow: visible;
+}
+
+/* Wide form rows (premium controls, uploads) can extend past the card without clipping. */
+.management-container .card {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 .page-header {
   display: flex;
   justify-content: space-between;

@@ -72,6 +72,12 @@ const translations: Record<Language, Record<string, string>> = {
     'nav.wineShops': 'חנויות יין',
     'nav.settings': 'הגדרות',
     'nav.logout': 'התנתק',
+    'nav.searchPlaceholder': 'חיפוש יקב או חנות לפי שם או אזור…',
+    'nav.searchButton': 'חיפוש',
+    'nav.searchLoading': 'מחפש…',
+    'nav.searchNoResults': 'לא נמצאו תוצאות',
+    'nav.searchBadgeWinery': 'יקב',
+    'nav.searchBadgeShop': 'חנות יין',
     
     // Common
     'common.loading': 'טוען...',
@@ -83,6 +89,54 @@ const translations: Record<Language, Record<string, string>> = {
     'common.edit': 'ערוך',
     'common.add': 'הוסף',
     'common.back': 'חזור',
+
+    // Edit history (יקבים / חנויות)
+    'management.lastChangeLinePrefix': 'שינוי אחרון:',
+    'management.rowLastEditPrefix': 'עדכון אחרון לרשומה:',
+    'management.lastEditColumn': 'עדכון אחרון',
+    'management.editHistoryTitle': 'היסטוריית עריכות',
+    'management.editHistoryLead': 'כל השינויים לפי שדה ותאריך',
+    'management.editHistoryEmpty': 'אין עדיין היסטוריית שינויים לרשומה זו',
+    'management.historyClockAria': 'הצג את כל השינויים באיזה שדה ובאיזו שעה',
+    'management.closeModal': 'סגור',
+    'management.loadingHistory': 'טוען היסטוריה...',
+
+    // Premium membership
+    'management.premiumColumn': 'פרימיום',
+    'management.premiumLabel': 'חברות פרימיום',
+    'management.premiumYes': 'פרימיום',
+    'management.premiumNo': 'לא פרימיום',
+    'management.premiumNoExpiry': 'ללא תאריך סיום',
+    'management.premiumDaysRemain': 'נותרו {n} ימים',
+    'management.premiumExpiryHint': 'סיום',
+    'management.premiumExpiryModeAria': 'אופן קביעת תאריך סיום',
+    'management.premiumModeCalendar': 'תאריך סיום מלא יומן',
+    'management.premiumModeDuration': 'משך חברות מהיום',
+    'management.premiumCalendarLabel': 'תאריך אחרון לחברות',
+    'management.premiumDurationLabel': 'משך החברות (מהיום)',
+    'management.premiumUnitDays': 'ימים',
+    'management.premiumUnitMonths': 'חודשים',
+    'management.premiumUnitYears': 'שנים',
+    'management.premiumComputedExpiry': 'תאריך סיום מחושב',
+
+    // Logo image upload
+    'management.logoColumn': 'לוגו',
+    'management.logoImageLabel': 'תמונת לוגו מהמחשב',
+    'management.logoUploadHelp': "JPEG, PNG, WebP או GIF — עד 2MB",
+    'management.logoRemoveImage': 'הסר תמונה',
+    'management.logoUrlOptional': 'או קישור ישיר לתמונה (רשות)',
+
+    'management.brandedBottleColumn': 'בקבוק ממותג',
+    'management.brandedBottleImageLabel': 'תמונת בקבוק ממותג מהמחשב',
+    'management.brandedBottleUploadHelp': "JPEG, PNG, WebP או GIF — עד 2MB",
+    'management.brandedBottleRemoveImage': 'הסר תמונת בקבוק',
+    'management.brandedBottleUrlOptional': 'או קישור ישיר לתמונת בקבוק (רשות)',
+
+    // Promotion images (multiple, carousel in table)
+    'management.promotionImagesColumn': 'תמונות מבצע',
+    'management.promotionImagesLabel': 'תמונות מבצע מהמחשב (מספר קבצים)',
+    'management.promotionImagesHelp': 'ניתן לבחור מספר תמונות בבת אחת — JPEG, PNG, WebP או GIF, עד 2MB לכל קובץ',
+    'management.promotionRemoveOne': 'הסר',
   }
   // English translations removed - only Hebrew is supported
 };

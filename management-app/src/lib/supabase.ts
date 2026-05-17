@@ -37,8 +37,12 @@ export interface Winery {
   lng: number | null;
   geometry: string | null;
   offers: string | null;
+  promotion_image_urls: string[] | null;
   logo_url: string | null;
+  branded_bottle_img: string | null;
   logo_paid: boolean | null;
+  premium: boolean | null;
+  premium_expires_at: string | null;
 }
 
 export interface WineShop {
@@ -56,6 +60,10 @@ export interface WineShop {
   lng: number | null;
   geometry: string | null;
   offers: string | null;
+  promotion_image_urls: string[] | null;
   logo_url: string | null;
+  branded_bottle_img: string | null;
   logo_paid: boolean | null;
+  premium: boolean | null;
+  premium_expires_at: string | null;
 }

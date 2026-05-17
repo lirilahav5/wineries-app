@@ -1,21 +1,104 @@
 import { useEffect, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { supabase, Winery } from '../lib/supabase';
 import { useLanguage } from '../contexts/LanguageContext';
 import { useTheme } from '../contexts/ThemeContext';
 import Navigation from '../components/Navigation';
+import EditHistoryModal, {
+  HistoryClockButton,
+  LastEditedHint,
+} from '../components/EditHistoryModal';
+import {
+  deleteManagementEditHistoryForEntity,
+  fetchLatestEditByColumn,
+  formatEditDateTime,
+  getChangedColumnKeys,
+  getRowLastEditIso,
+  insertManagementEditHistory,
+  wineryTrackedKeys,
+} from '../utils/editHistory';
 import { isCurrentlyOpen } from '../utils/openingHours';
+import PremiumMembershipFormSection from '../components/PremiumMembershipFormSection';
+import PremiumMembershipTableCell from '../components/PremiumMembershipTableCell';
+import type { PremiumExpireMode } from '../components/PremiumMembershipFormSection';
+import type { PremiumDurationUnit } from '../utils/premiumMembership';
+import { addDurationFromToday } from '../utils/premiumMembership';
+import LogoUploadField from '../components/LogoUploadField';
+import PromotionImagesUploadField from '../components/PromotionImagesUploadField';
+import PromotionImageCarousel from '../components/PromotionImageCarousel';
+import {
+  uploadBrandedBottleImg,
+  uploadBusinessLogo,
+  validateLogoFile,
+} from '../utils/logoUpload';
+import {
+  normalizePromotionImageUrls,
+  uploadPromotionImages,
+} from '../utils/promotionImageUpload';
+import { getErrorMessage } from '../utils/errorMessage';
 import './Management.css';
 
 function WineriesManagement() {
   const { language, t } = useLanguage();
   const { isDark } = useTheme();
+  const [searchParams, setSearchParams] = useSearchParams();
   const [wineries, setWineries] = useState<Winery[]>([]);
   const [loading, setLoading] = useState(true);
   const [editingId, setEditingId] = useState<number | null>(null);
   const [formData, setFormData] = useState<Partial<Winery>>({});
   const [showAddForm, setShowAddForm] = useState(false);
   const [timeKey, setTimeKey] = useState(0); // Force re-render to update open/closed status
-  // updatingStatus removed - status updates automatically on mount
+  const [columnEditsByWineryId, setColumnEditsByWineryId] = useState<
+    Record<number, Record<string, string>>
+  >({});
+  const [historyModal, setHistoryModal] = useState<{
+    open: boolean;
+    id: number | null;
+    name: string;
+  }>({ open: false, id: null, name: '' });
+
+  const [premiumExpireMode, setPremiumExpireMode] = useState<PremiumExpireMode>('calendar');
+  const [premiumDurationAmount, setPremiumDurationAmount] = useState(1);
+  const [premiumDurationUnit, setPremiumDurationUnit] =
+    useState<PremiumDurationUnit>('months');
+
+  const [pendingLogoFile, setPendingLogoFile] = useState<File | null>(null);
+  const [logoBlobPreview, setLogoBlobPreview] = useState<string | null>(null);
+
+  const [pendingBrandedBottleFile, setPendingBrandedBottleFile] =
+    useState<File | null>(null);
+  const [brandedBottleBlobPreview, setBrandedBottleBlobPreview] =
+    useState<string | null>(null);
+
+  const [pendingPromotionFiles, setPendingPromotionFiles] = useState<File[]>([]);
+
+  const formEditHints = editingId ? columnEditsByWineryId[editingId] : undefined;
+
+  useEffect(() => {
+    if (!pendingLogoFile) {
+      setLogoBlobPreview(null);
+      return;
+    }
+    const u = URL.createObjectURL(pendingLogoFile);
+    setLogoBlobPreview(u);
+    return () => URL.revokeObjectURL(u);
+  }, [pendingLogoFile]);
+
+  useEffect(() => {
+    if (!pendingBrandedBottleFile) {
+      setBrandedBottleBlobPreview(null);
+      return;
+    }
+    const u = URL.createObjectURL(pendingBrandedBottleFile);
+    setBrandedBottleBlobPreview(u);
+    return () => URL.revokeObjectURL(u);
+  }, [pendingBrandedBottleFile]);
+
+  const resetPremiumUi = () => {
+    setPremiumExpireMode('calendar');
+    setPremiumDurationAmount(1);
+    setPremiumDurationUnit('months');
+  };
 
   // Helper function to format opening hours
   const formatOpeningHours = (hours: string | string[] | null): string => {
@@ -77,6 +160,64 @@ function WineriesManagement() {
     void timeKey; // Acknowledge the variable to avoid unused warning
   }, [timeKey]);
 
+  useEffect(() => {
+    if (wineries.length === 0) {
+      setColumnEditsByWineryId({});
+      return;
+    }
+    const ids = wineries.map((w) => w.id);
+    fetchLatestEditByColumn('winery', ids)
+      .then(setColumnEditsByWineryId)
+      .catch(() => setColumnEditsByWineryId({}));
+  }, [wineries]);
+
+  useEffect(() => {
+    if (wineries.length === 0) return;
+    const raw = searchParams.get('edit');
+    if (!raw) return;
+    const id = parseInt(raw, 10);
+    if (Number.isNaN(id)) {
+      setSearchParams(
+        (prev) => {
+          const n = new URLSearchParams(prev);
+          n.delete('edit');
+          return n;
+        },
+        { replace: true }
+      );
+      return;
+    }
+    const winery = wineries.find((w) => w.id === id);
+    if (!winery) {
+      setSearchParams(
+        (prev) => {
+          const n = new URLSearchParams(prev);
+          n.delete('edit');
+          return n;
+        },
+        { replace: true }
+      );
+      return;
+    }
+    setEditingId(winery.id);
+    setFormData(winery);
+    setShowAddForm(false);
+    setPremiumExpireMode('calendar');
+    setPremiumDurationAmount(1);
+    setPremiumDurationUnit('months');
+    setPendingLogoFile(null);
+    setPendingBrandedBottleFile(null);
+    setPendingPromotionFiles([]);
+    setSearchParams(
+      (prev) => {
+        const n = new URLSearchParams(prev);
+        n.delete('edit');
+        return n;
+      },
+      { replace: true }
+    );
+  }, [wineries, searchParams, setSearchParams]);
+
   const fetchWineries = async () => {
     try {
       const { data, error } = await supabase
@@ -97,50 +238,159 @@ function WineriesManagement() {
     setEditingId(winery.id);
     setFormData(winery);
     setShowAddForm(false);
+    resetPremiumUi();
+    setPendingLogoFile(null);
+    setPendingBrandedBottleFile(null);
+    setPendingPromotionFiles([]);
   };
 
   const handleAdd = () => {
     setEditingId(null);
     setFormData({});
     setShowAddForm(true);
+    resetPremiumUi();
+    setPendingLogoFile(null);
+    setPendingBrandedBottleFile(null);
+    setPendingPromotionFiles([]);
   };
 
   const handleCancel = () => {
     setEditingId(null);
     setFormData({});
     setShowAddForm(false);
+    resetPremiumUi();
+    setPendingLogoFile(null);
+    setPendingBrandedBottleFile(null);
+    setPendingPromotionFiles([]);
   };
 
   const handleSave = async () => {
     try {
-      // If opening hours are being updated, automatically calculate and update is_open
-      const dataToSave = { ...formData };
+      let dataToSave = { ...formData } as Partial<Winery>;
       if (dataToSave.opening_hours !== undefined) {
         dataToSave.is_open = isCurrentlyOpen(dataToSave.opening_hours);
       }
 
+      const isPremium = Boolean(dataToSave.premium);
+      dataToSave.premium = isPremium;
+      if (!isPremium) {
+        dataToSave.premium_expires_at = null;
+      } else if (premiumExpireMode === 'duration') {
+        dataToSave.premium_expires_at = addDurationFromToday(
+          premiumDurationAmount,
+          premiumDurationUnit
+        );
+      } else {
+        const pe = dataToSave.premium_expires_at;
+        dataToSave.premium_expires_at =
+          pe && String(pe).trim() !== '' ? String(pe).slice(0, 10) : null;
+      }
+
+      if (pendingLogoFile && editingId) {
+        const url = await uploadBusinessLogo(pendingLogoFile, 'winery', editingId);
+        dataToSave.logo_url = url;
+      }
+
+      if (pendingBrandedBottleFile && editingId) {
+        const url = await uploadBrandedBottleImg(
+          pendingBrandedBottleFile,
+          'winery',
+          editingId
+        );
+        dataToSave.branded_bottle_img = url;
+      }
+
+      let mergedPromotionUrls = normalizePromotionImageUrls(formData.promotion_image_urls);
+      if (editingId && pendingPromotionFiles.length > 0) {
+        const uploaded = await uploadPromotionImages(
+          pendingPromotionFiles,
+          'winery',
+          editingId
+        );
+        mergedPromotionUrls = [...mergedPromotionUrls, ...uploaded];
+      }
+      dataToSave.promotion_image_urls = mergedPromotionUrls;
+
+      const prevRow = editingId ? wineries.find((w) => w.id === editingId) ?? null : null;
+
       if (editingId) {
-        // Update existing
         const { error } = await supabase
           .from('wineries')
           .update(dataToSave)
           .eq('id', editingId);
 
         if (error) throw error;
+        const changed = getChangedColumnKeys(
+          prevRow,
+          dataToSave as Partial<Winery>,
+          wineryTrackedKeys
+        );
+        await insertManagementEditHistory('winery', editingId, changed);
       } else {
-        // Create new
-        const { error } = await supabase
+        const forInsert = { ...dataToSave } as Partial<Winery>;
+        if (pendingLogoFile) delete forInsert.logo_url;
+        if (pendingBrandedBottleFile) delete forInsert.branded_bottle_img;
+
+        const { data: inserted, error } = await supabase
           .from('wineries')
-          .insert([dataToSave]);
+          .insert([forInsert])
+          .select('id')
+          .single();
 
         if (error) throw error;
+        if (inserted?.id != null) {
+          if (pendingLogoFile) {
+            const url = await uploadBusinessLogo(pendingLogoFile, 'winery', inserted.id);
+            await supabase.from('wineries').update({ logo_url: url }).eq('id', inserted.id);
+            dataToSave.logo_url = url;
+          }
+          if (pendingBrandedBottleFile) {
+            const url = await uploadBrandedBottleImg(
+              pendingBrandedBottleFile,
+              'winery',
+              inserted.id
+            );
+            await supabase
+              .from('wineries')
+              .update({ branded_bottle_img: url })
+              .eq('id', inserted.id);
+            dataToSave.branded_bottle_img = url;
+          }
+          if (pendingPromotionFiles.length > 0) {
+            const uploaded = await uploadPromotionImages(
+              pendingPromotionFiles,
+              'winery',
+              inserted.id
+            );
+            mergedPromotionUrls = [...mergedPromotionUrls, ...uploaded];
+            await supabase
+              .from('wineries')
+              .update({ promotion_image_urls: mergedPromotionUrls })
+              .eq('id', inserted.id);
+            dataToSave.promotion_image_urls = mergedPromotionUrls;
+          }
+          const changed = getChangedColumnKeys(
+            null,
+            dataToSave as Partial<Winery>,
+            wineryTrackedKeys
+          );
+          await insertManagementEditHistory('winery', inserted.id, changed);
+        }
       }
 
+      setPendingLogoFile(null);
+      setPendingBrandedBottleFile(null);
+      setPendingPromotionFiles([]);
       await fetchWineries();
       handleCancel();
-    } catch (error) {
+    } catch (error: unknown) {
       console.error('Error saving winery:', error);
-      alert('Error saving winery. Please try again.');
+      const detail = getErrorMessage(error);
+      alert(
+        language === 'he'
+          ? `שגיאה בשמירת היקב${detail ? `: ${detail}` : '. נסה שוב.'}`
+          : `Error saving winery${detail ? `: ${detail}` : '. Please try again.'}`
+      );
     }
   };
 
@@ -187,6 +437,7 @@ function WineriesManagement() {
     if (!confirm(confirmMessage)) return;
 
     try {
+      await deleteManagementEditHistoryForEntity('winery', id);
       const { error } = await supabase
         .from('wineries')
         .delete()
@@ -204,7 +455,7 @@ function WineriesManagement() {
     return (
       <div style={{ backgroundColor: isDark ? '#1a1a1a' : '#f5f5f5', minHeight: '100dvh' }}>
         <Navigation />
-        <div className="container" style={{ 
+        <div className="management-container" style={{ 
           backgroundColor: isDark ? '#1a1a1a' : '#f5f5f5',
           color: isDark ? '#fff' : '#333'
         }}>
@@ -217,7 +468,7 @@ function WineriesManagement() {
   return (
     <div style={{ backgroundColor: isDark ? '#1a1a1a' : '#f5f5f5', minHeight: '100dvh' }}>
       <Navigation />
-      <div className="container" style={{ 
+      <div className="management-container" style={{ 
         backgroundColor: isDark ? '#1a1a1a' : '#f5f5f5',
         color: isDark ? '#fff' : '#333',
         direction: language === 'he' ? 'rtl' : 'ltr'
@@ -276,6 +527,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.name}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'כתובת' : 'Address'}</label>
@@ -289,6 +547,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.address}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'אזור' : 'Region'}</label>
@@ -302,6 +567,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.region}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'טלפון' : 'Phone'}</label>
@@ -315,6 +587,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.phone}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'אתר' : 'Website'}</label>
@@ -328,6 +607,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.website}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'קו רוחב' : 'Latitude'}</label>
@@ -342,6 +628,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.lat}
+                    isDark={isDark}
+                    prefix={`${t('management.lastChangeLinePrefix')} קו רוחב`}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'קו אורך' : 'Longitude'}</label>
@@ -356,6 +649,13 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.lng}
+                    isDark={isDark}
+                    prefix={`${t('management.lastChangeLinePrefix')} קו אורך`}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label>
@@ -367,6 +667,13 @@ function WineriesManagement() {
                   />
                   {language === 'he' ? 'כשר' : 'Kosher'}
                 </label>
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.kosher}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group">
                 <label>
@@ -378,6 +685,13 @@ function WineriesManagement() {
                   />
                   {language === 'he' ? 'פתוח כעת' : 'Open Now'}
                 </label>
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.is_open}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group full-width">
                 <label>{language === 'he' ? 'שעות פתיחה' : 'Opening Hours'}</label>
@@ -404,6 +718,13 @@ function WineriesManagement() {
                 <small style={{ color: isDark ? '#ccc' : '#666', fontSize: '0.85rem' }}>
                   {language === 'he' ? 'הזן כמערך JSON או כטקסט רגיל' : 'Enter as JSON array or plain text'}
                 </small>
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.opening_hours}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
               <div className="form-group full-width">
                 <label>{language === 'he' ? 'מבצעים' : 'Offers'}</label>
@@ -418,14 +739,116 @@ function WineriesManagement() {
                     border: '1px solid ' + (isDark ? '#444' : '#ddd')
                   }}
                 />
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.offers}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
+              <PromotionImagesUploadField
+                savedUrls={normalizePromotionImageUrls(formData.promotion_image_urls)}
+                pendingFiles={pendingPromotionFiles}
+                onAddFiles={(files) => setPendingPromotionFiles((prev) => [...prev, ...files])}
+                onRemoveSavedUrl={(url) =>
+                  setFormData((prev) => ({
+                    ...prev,
+                    promotion_image_urls: normalizePromotionImageUrls(
+                      prev.promotion_image_urls
+                    ).filter((u) => u !== url),
+                  }))
+                }
+                onRemovePendingAt={(idx) =>
+                  setPendingPromotionFiles((prev) => prev.filter((_, i) => i !== idx))
+                }
+                isDark={isDark}
+                showEditHint={Boolean(editingId)}
+                editHintIso={formEditHints?.promotion_image_urls}
+                hintPrefix={t('management.lastChangeLinePrefix')}
+                t={t}
+              />
+              <LogoUploadField
+                previewSrc={logoBlobPreview ?? formData.logo_url ?? null}
+                pendingFile={pendingLogoFile}
+                onPickFile={(file) => {
+                  if (!file) {
+                    setPendingLogoFile(null);
+                    return;
+                  }
+                  const v = validateLogoFile(file);
+                  if (!v.ok) {
+                    alert(v.message);
+                    return;
+                  }
+                  setPendingLogoFile(file);
+                }}
+                onClearLogo={() => setFormData((prev) => ({ ...prev, logo_url: null }))}
+                isDark={isDark}
+                showEditHint={Boolean(editingId)}
+                editHintIso={formEditHints?.logo_url}
+                hintPrefix={t('management.lastChangeLinePrefix')}
+                t={t}
+              />
               <div className="form-group">
-                <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>{language === 'he' ? 'כתובת לוגו (URL)' : 'Logo URL'}</label>
+                <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>
+                  {t('management.logoUrlOptional')}
+                </label>
                 <input
                   type="url"
                   value={formData.logo_url || ''}
-                  onChange={(e) => setFormData({ ...formData, logo_url: e.target.value })}
-                  placeholder={language === 'he' ? 'https://example.com/logo.png' : 'https://example.com/logo.png'}
+                  onChange={(e) => setFormData({ ...formData, logo_url: e.target.value || null })}
+                  placeholder="https://…"
+                  style={{
+                    backgroundColor: isDark ? '#333' : 'white',
+                    color: isDark ? '#fff' : '#333',
+                    border: '1px solid ' + (isDark ? '#444' : '#ddd')
+                  }}
+                />
+              </div>
+              <LogoUploadField
+                previewSrc={
+                  brandedBottleBlobPreview ?? formData.branded_bottle_img ?? null
+                }
+                pendingFile={pendingBrandedBottleFile}
+                onPickFile={(file) => {
+                  if (!file) {
+                    setPendingBrandedBottleFile(null);
+                    return;
+                  }
+                  const v = validateLogoFile(file);
+                  if (!v.ok) {
+                    alert(v.message);
+                    return;
+                  }
+                  setPendingBrandedBottleFile(file);
+                }}
+                onClearLogo={() =>
+                  setFormData((prev) => ({ ...prev, branded_bottle_img: null }))
+                }
+                isDark={isDark}
+                showEditHint={Boolean(editingId)}
+                editHintIso={formEditHints?.branded_bottle_img}
+                hintPrefix={t('management.lastChangeLinePrefix')}
+                t={t}
+                labelKey="management.brandedBottleImageLabel"
+                helpKey="management.brandedBottleUploadHelp"
+                removeKey="management.brandedBottleRemoveImage"
+              />
+              <div className="form-group">
+                <label style={{ textAlign: language === 'he' ? 'right' : 'left' }}>
+                  {t('management.brandedBottleUrlOptional')}
+                </label>
+                <input
+                  type="url"
+                  value={formData.branded_bottle_img || ''}
+                  onChange={(e) =>
+                    setFormData({
+                      ...formData,
+                      branded_bottle_img: e.target.value || null,
+                    })
+                  }
+                  placeholder="https://…"
                   style={{
                     backgroundColor: isDark ? '#333' : 'white',
                     color: isDark ? '#fff' : '#333',
@@ -443,7 +866,40 @@ function WineriesManagement() {
                   />
                   {language === 'he' ? 'לוגו שולם' : 'Logo Paid'}
                 </label>
+                {editingId ? (
+                  <LastEditedHint
+                    iso={formEditHints?.logo_paid}
+                    isDark={isDark}
+                    prefix={t('management.lastChangeLinePrefix')}
+                  />
+                ) : null}
               </div>
+              <PremiumMembershipFormSection
+                radioGroupName="premium-expire-winery"
+                premium={Boolean(formData.premium)}
+                premiumExpiresAt={formData.premium_expires_at || ''}
+                onPremiumToggle={(v) =>
+                  setFormData({
+                    ...formData,
+                    premium: v,
+                    ...(v ? {} : { premium_expires_at: null }),
+                  })
+                }
+                onExpiresAtChange={(ymd) =>
+                  setFormData({ ...formData, premium_expires_at: ymd || null })
+                }
+                expireMode={premiumExpireMode}
+                onExpireModeChange={setPremiumExpireMode}
+                durationAmount={premiumDurationAmount}
+                onDurationAmountChange={setPremiumDurationAmount}
+                durationUnit={premiumDurationUnit}
+                onDurationUnitChange={setPremiumDurationUnit}
+                isDark={isDark}
+                showHints={Boolean(editingId)}
+                formEditHints={formEditHints}
+                hintPrefix={t('management.lastChangeLinePrefix')}
+                t={t}
+              />
             </div>
             <div className="form-actions" style={{
               display: 'flex',
@@ -486,17 +942,19 @@ function WineriesManagement() {
           </div>
         )}
 
-        <div className="table-container" style={{
-          overflowX: 'auto',
-          marginTop: '2rem',
-          borderRadius: '8px',
-          boxShadow: isDark ? '0 2px 8px rgba(0, 0, 0, 0.3)' : '0 2px 8px rgba(0, 0, 0, 0.1)'
-        }}>
+        <div
+          className="table-container management-table-wrap"
+          style={{
+            marginTop: '2rem',
+            borderRadius: '8px',
+            boxShadow: isDark ? '0 2px 8px rgba(0, 0, 0, 0.3)' : '0 2px 8px rgba(0, 0, 0, 0.1)',
+          }}
+        >
           <table style={{
             width: '100%',
             borderCollapse: 'collapse',
             backgroundColor: isDark ? '#2a2a2a' : 'white',
-            minWidth: '1200px'
+            minWidth: '2090px'
           }}>
             <thead style={{
               backgroundColor: '#8B1D24',
@@ -508,6 +966,10 @@ function WineriesManagement() {
               <tr>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>ID</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'שם' : 'Name'}</th>
+                <th style={{ padding: '1rem', textAlign: 'center', whiteSpace: 'nowrap' }}>{t('management.logoColumn')}</th>
+                <th style={{ padding: '1rem', textAlign: 'center', whiteSpace: 'nowrap' }}>
+                  {t('management.brandedBottleColumn')}
+                </th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'אזור' : 'Region'}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'כתובת' : 'Address'}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'טלפון' : 'Phone'}</th>
@@ -516,13 +978,21 @@ function WineriesManagement() {
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'פתוח כעת' : 'Open Now'}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'כשר' : 'Kosher'}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'מבצעים' : 'Offers'}</th>
+                <th style={{ padding: '1rem', textAlign: 'center', whiteSpace: 'nowrap' }}>
+                  {t('management.promotionImagesColumn')}
+                </th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'קואורדינטות' : 'Coordinates'}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'לוגו שולם' : 'Logo Paid'}</th>
+                <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{t('management.premiumColumn')}</th>
+                <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{t('management.lastEditColumn')}</th>
                 <th style={{ padding: '1rem', textAlign: 'left', whiteSpace: 'nowrap' }}>{language === 'he' ? 'פעולות' : 'Actions'}</th>
               </tr>
             </thead>
             <tbody>
-              {wineries.map((winery) => (
+              {wineries.map((winery) => {
+                const colEdits = columnEditsByWineryId[winery.id];
+                const rowIso = getRowLastEditIso(colEdits);
+                return (
                 <tr 
                   key={winery.id}
                   style={{
@@ -536,12 +1006,77 @@ function WineriesManagement() {
                     e.currentTarget.style.backgroundColor = 'transparent';
                   }}
                 >
-                  <td style={{ padding: '0.75rem', color: isDark ? '#ccc' : '#666' }}>{winery.id}</td>
-                  <td style={{ padding: '0.75rem', fontWeight: '500' }}>{winery.name || '-'}</td>
-                  <td style={{ padding: '0.75rem' }}>{winery.region || '-'}</td>
-                  <td style={{ padding: '0.75rem', maxWidth: '200px', wordBreak: 'break-word' }}>{winery.address || '-'}</td>
-                  <td style={{ padding: '0.75rem', whiteSpace: 'nowrap' }}>{winery.phone || '-'}</td>
-                  <td style={{ padding: '0.75rem' }}>
+                  <td style={{ padding: '0.75rem', color: isDark ? '#ccc' : '#666', verticalAlign: 'top' }}>{winery.id}</td>
+                  <td style={{ padding: '0.75rem', fontWeight: '500', verticalAlign: 'top' }}>
+                    <div>{winery.name || '-'}</div>
+                    <LastEditedHint iso={colEdits?.name} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
+                  </td>
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'middle' }}>
+                    {winery.logo_url ? (
+                      <img
+                        src={winery.logo_url}
+                        alt=""
+                        style={{
+                          display: 'block',
+                          margin: '0 auto',
+                          maxHeight: '56px',
+                          maxWidth: '100px',
+                          objectFit: 'contain',
+                          borderRadius: '6px',
+                          border: `1px solid ${isDark ? '#444' : '#ddd'}`,
+                          background: isDark ? '#1a1a1a' : '#f9f9f9',
+                        }}
+                        onError={(e) => {
+                          e.currentTarget.style.visibility = 'hidden';
+                        }}
+                      />
+                    ) : (
+                      <span style={{ opacity: 0.45 }}>—</span>
+                    )}
+                    <LastEditedHint iso={colEdits?.logo_url} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
+                  </td>
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'middle' }}>
+                    {winery.branded_bottle_img ? (
+                      <img
+                        src={winery.branded_bottle_img}
+                        alt=""
+                        style={{
+                          display: 'block',
+                          margin: '0 auto',
+                          maxHeight: '56px',
+                          maxWidth: '56px',
+                          objectFit: 'contain',
+                          borderRadius: '6px',
+                          border: `1px solid ${isDark ? '#444' : '#ddd'}`,
+                          background: isDark ? '#1a1a1a' : '#f9f9f9',
+                        }}
+                        onError={(e) => {
+                          e.currentTarget.style.visibility = 'hidden';
+                        }}
+                      />
+                    ) : (
+                      <span style={{ opacity: 0.45 }}>—</span>
+                    )}
+                    <LastEditedHint
+                      iso={colEdits?.branded_bottle_img}
+                      isDark={isDark}
+                      prefix={t('management.lastChangeLinePrefix')}
+                    />
+                  </td>
+                  <td style={{ padding: '0.75rem', verticalAlign: 'top' }}>
+                    <div>{winery.region || '-'}</div>
+                    <LastEditedHint iso={colEdits?.region} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
+                  </td>
+                  <td style={{ padding: '0.75rem', maxWidth: '200px', wordBreak: 'break-word', verticalAlign: 'top' }}>
+                    <div>{winery.address || '-'}</div>
+                    <LastEditedHint iso={colEdits?.address} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
+                  </td>
+                  <td style={{ padding: '0.75rem', whiteSpace: 'nowrap', verticalAlign: 'top' }}>
+                    <div>{winery.phone || '-'}</div>
+                    <LastEditedHint iso={colEdits?.phone} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
+                  </td>
+                  <td style={{ padding: '0.75rem', verticalAlign: 'top' }}>
+                    <div>
                     {winery.website ? (
                       <a 
                         href={winery.website} 
@@ -555,13 +1090,16 @@ function WineriesManagement() {
                         {winery.website.length > 30 ? winery.website.substring(0, 30) + '...' : winery.website}
                       </a>
                     ) : '-'}
+                    </div>
+                    <LastEditedHint iso={colEdits?.website} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem', maxWidth: '250px', fontSize: '0.9rem' }}>
-                    {formatOpeningHours(winery.opening_hours)}
+                  <td style={{ padding: '0.75rem', maxWidth: '250px', fontSize: '0.9rem', verticalAlign: 'top' }}>
+                    <div>{formatOpeningHours(winery.opening_hours)}</div>
+                    <LastEditedHint iso={colEdits?.opening_hours} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem', textAlign: 'center' }} key={`status-${winery.id}-${timeKey}`}>
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'top' }} key={`status-${winery.id}-${timeKey}`}>
+                    <div>
                     {winery.opening_hours ? (() => {
-                      // Use device's current time (phone's clock) to determine if open
                       const isOpen = isCurrentlyOpen(winery.opening_hours);
                       return (
                         <span style={{
@@ -573,30 +1111,93 @@ function WineriesManagement() {
                         </span>
                       );
                     })() : '-'}
+                    </div>
+                    <LastEditedHint iso={colEdits?.is_open} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem', textAlign: 'center' }}>
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'top' }}>
+                    <div>
                     {winery.kosher ? (
                       <span style={{ color: isDark ? '#4caf50' : '#28a745', fontWeight: 'bold' }}>✓</span>
                     ) : '-'}
+                    </div>
+                    <LastEditedHint iso={colEdits?.kosher} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem', maxWidth: '200px', fontSize: '0.85rem', wordBreak: 'break-word' }}>
+                  <td style={{ padding: '0.75rem', maxWidth: '200px', fontSize: '0.85rem', wordBreak: 'break-word', verticalAlign: 'top' }}>
+                    <div>
                     {winery.offers ? (
                       <span title={winery.offers}>
                         {winery.offers.length > 30 ? winery.offers.substring(0, 30) + '...' : winery.offers}
                       </span>
                     ) : '-'}
+                    </div>
+                    <LastEditedHint iso={colEdits?.offers} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem', fontSize: '0.85rem', fontFamily: 'monospace' }}>
-                    {winery.lat && winery.lng ? `${winery.lat.toFixed(4)}, ${winery.lng.toFixed(4)}` : '-'}
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'middle' }}>
+                    <PromotionImageCarousel
+                      urls={normalizePromotionImageUrls(winery.promotion_image_urls)}
+                      isDark={isDark}
+                    />
+                    <LastEditedHint
+                      iso={colEdits?.promotion_image_urls}
+                      isDark={isDark}
+                      prefix={t('management.lastChangeLinePrefix')}
+                    />
                   </td>
-                  <td style={{ padding: '0.75rem', textAlign: 'center' }}>
+                  <td style={{ padding: '0.75rem', fontSize: '0.85rem', fontFamily: 'monospace', verticalAlign: 'top' }}>
+                    <div>{winery.lat && winery.lng ? `${winery.lat.toFixed(4)}, ${winery.lng.toFixed(4)}` : '-'}</div>
+                    <LastEditedHint iso={colEdits?.lat} isDark={isDark} prefix={`${t('management.lastChangeLinePrefix')} קו רוחב`} />
+                    <LastEditedHint iso={colEdits?.lng} isDark={isDark} prefix={`${t('management.lastChangeLinePrefix')} קו אורך`} />
+                  </td>
+                  <td style={{ padding: '0.75rem', textAlign: 'center', verticalAlign: 'top' }}>
+                    <div>
                     {winery.logo_paid ? (
                       <span style={{ color: isDark ? '#4caf50' : '#28a745', fontWeight: 'bold' }}>✓ {language === 'he' ? 'שולם' : 'Paid'}</span>
                     ) : (
                       <span style={{ color: isDark ? '#f44336' : '#dc3545', fontWeight: 'bold' }}>✗ {language === 'he' ? 'לא שולם' : 'Not Paid'}</span>
                     )}
+                    </div>
+                    <LastEditedHint iso={colEdits?.logo_paid} isDark={isDark} prefix={t('management.lastChangeLinePrefix')} />
                   </td>
-                  <td style={{ padding: '0.75rem' }}>
+                  <PremiumMembershipTableCell
+                    premium={winery.premium}
+                    premiumExpiresAt={winery.premium_expires_at}
+                    isDark={isDark}
+                    colEdits={colEdits}
+                    hintPrefix={t('management.lastChangeLinePrefix')}
+                    t={t}
+                  />
+                  <td style={{ padding: '0.75rem', verticalAlign: 'top' }}>
+                    <div style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '0.35rem',
+                      flexDirection: language === 'he' ? 'row-reverse' : 'row',
+                      flexWrap: 'wrap',
+                      justifyContent: language === 'he' ? 'flex-end' : 'flex-start'
+                    }}>
+                      <span style={{ fontSize: '0.85rem' }}>
+                        {rowIso ? (
+                          <>
+                            {t('management.rowLastEditPrefix')} {formatEditDateTime(rowIso)}
+                          </>
+                        ) : (
+                          <span style={{ opacity: 0.7 }}>—</span>
+                        )}
+                      </span>
+                      <HistoryClockButton
+                        isDark={isDark}
+                        label={t('management.historyClockAria')}
+                        onClick={() =>
+                          setHistoryModal({
+                            open: true,
+                            id: winery.id,
+                            name: winery.name || `יקב #${winery.id}`,
+                          })
+                        }
+                      />
+                    </div>
+                  </td>
+                  <td style={{ padding: '0.75rem', verticalAlign: 'top' }}>
                     <div style={{ display: 'flex', gap: '0.5rem', flexDirection: language === 'he' ? 'row-reverse' : 'row' }}>
                       <button
                         className="btn btn-secondary"
@@ -631,10 +1232,25 @@ function WineriesManagement() {
                     </div>
                   </td>
                 </tr>
-              ))}
+                );
+              })}
             </tbody>
           </table>
         </div>
+
+        <EditHistoryModal
+          open={historyModal.open}
+          onClose={() => setHistoryModal({ open: false, id: null, name: '' })}
+          entityType="winery"
+          entityId={historyModal.id}
+          titleName={historyModal.name}
+          isDark={isDark}
+          emptyLabel={t('management.editHistoryEmpty')}
+          closeLabel={t('management.closeModal')}
+          historyHeading={t('management.editHistoryTitle')}
+          historySubtitle={t('management.editHistoryLead')}
+          loadingLabel={t('management.loadingHistory')}
+        />
       </div>
     </div>
   );

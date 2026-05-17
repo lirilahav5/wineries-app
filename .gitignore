@@ -9,3 +9,8 @@ node_modules
 .env.*
 .env.local
 .env.*.local
+.vercel
+
+# Build output
+dist/
+.DS_Store
